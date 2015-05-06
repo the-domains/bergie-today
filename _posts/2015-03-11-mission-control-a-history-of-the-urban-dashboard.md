@@ -26,7 +26,7 @@ datePublished: "2015-03-11T00:00:00.000Z"
 app_links: []
 isBasedOnUrl: "https://placesjournal.org/article/mission-control-a-history-of-the-urban-dashboard/"
 title: "Mission Control: A History of the Urban Dashboard"
-dateModified: "2015-05-06T14:28:42.745Z"
+dateModified: "2015-05-06T14:29:42.644Z"
 sourcePath: _posts/2015-03-11-mission-control-a-history-of-the-urban-dashboard.md
 published: true
 _context: "http://schema.org"
