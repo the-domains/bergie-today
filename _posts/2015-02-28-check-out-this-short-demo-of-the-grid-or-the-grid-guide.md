@@ -1,4 +1,18 @@
 ---
+isBasedOnUrl: "http://www.thegridguide.net/check-out-this-short-demo-of-the-grid/"
+inLanguage: English
+starred: false
+keywords:
+  - grid
+  - website
+  - content
+  - posting
+  - designer
+  - plugin
+  - colors
+  - main
+  - blogging
+  - present
 author:
   - name: Axel Persoon
     url: "http://www.thegridguide.net/author/axelpersoonhotmail-com/"
@@ -25,33 +39,21 @@ related:
     thumbnail_height: 229
     thumbnail_url: "http://searchenginewatch.com/IMG/963/309963/no-time-for-content-370x229.png?fbrefresh=1"
     thumbnail_width: 370
-publisher:
-  url: "http://www.thegridguide.net"
-  name: The Grid Guide
-  favicon: "http://www.thegridguide.net/wp-content/uploads/2015/02/favicon.png"
-  domain: www.thegridguide.net
-keywords:
-  - grid
-  - website
-  - content
-  - posting
-  - designer
-  - plugin
-  - colors
-  - main
-  - blogging
-  - present
 description: It seems like the Grid is finally starting to get out there and show us more details. Call me excited. Yesterday Dan Tocchini took the stage among 9 other start-ups in the Social Media Week NYC (SMWNYC). He gave a short presentation introducing the Grid and showed us how to add content to your Grid ...
-inLanguage: English
 datePublished: "2015-02-28T18:56:23.000Z"
 app_links: []
-isBasedOnUrl: "http://www.thegridguide.net/check-out-this-short-demo-of-the-grid/"
-title: "Check out this short demo of the Grid! | The Grid Guide"
-dateModified: "2015-05-06T14:29:43.235Z"
+title: "Check out this short demo of the Grid!"
+dateModified: "2015-05-06T14:36:31.379Z"
 sourcePath: _posts/2015-02-28-check-out-this-short-demo-of-the-grid-or-the-grid-guide.md
 published: true
+authors: []
+publisher:
+  name: The Grid Guide
+  domain: www.thegridguide.net
+  url: "http://www.thegridguide.net"
+  favicon: "http://www.thegridguide.net/wp-content/uploads/2015/02/favicon.png"
+_type: MediaObject
 _context: "http://schema.org"
-_type: Article
 
 ---
-<article style=""><h1>Check out this short demo of the Grid! | The Grid Guide</h1><p>It seems like the Grid is finally starting to get out there and show us more details. Call me excited. Yesterday Dan Tocchini took the stage among 9 other start-ups in the Social Media Week NYC (SMWNYC). He gave a short presentation introducing the Grid and showed us how to add content to your Grid ...</p><img src="http://www.thegridguide.net/wp-content/uploads/2015/02/gridplugin.png" /></article>
+<article style=""><h1>Check out this short demo of the Grid!</h1><p>It seems like the Grid is finally starting to get out there and show us more details. Call me excited. Yesterday Dan Tocchini took the stage among 9 other start-ups in the Social Media Week NYC (SMWNYC). He gave a short presentation introducing the Grid and showed us how to add content to your Grid ...</p><img src="http://www.thegridguide.net/wp-content/uploads/2015/02/gridplugin.png" /></article>
