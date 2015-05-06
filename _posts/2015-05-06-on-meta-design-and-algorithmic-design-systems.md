@@ -1,4 +1,18 @@
 ---
+isBasedOnUrl: "http://runemadsen.com/blog/on-meta-design-and-algorithmic-design-systems/"
+inLanguage: English
+starred: false
+keywords:
+  - design
+  - meta-design
+  - algorithmic
+  - systems
+  - dynamic
+  - tools
+  - products
+  - manual
+  - static
+  - computer
 author: []
 related:
   - score: 0.7347689270973206
@@ -15,33 +29,21 @@ related:
     thumbnail_height: 896
     thumbnail_url: "http://www.wired.com/wp-content/uploads/2015/01/airbnb.jpg"
     thumbnail_width: 1343
-publisher:
-  url: "http://runemadsen.com"
-  name: Runemadsen
-  favicon: null
-  domain: runemadsen.com
-keywords:
-  - design
-  - meta-design
-  - algorithmic
-  - systems
-  - dynamic
-  - tools
-  - products
-  - manual
-  - static
-  - computer
 description: "This post is about something I see as a continuing trend in the design world: the rise of the meta-designer and algorithmic design systems. \"Meta-design is much more difficult than design; it's easier to draw something than to explain how to draw it\" - Donald Knuth, The Metafont Book Until recently, the term Graphic Designer was used to describe artists firmly rooted in the fine arts."
-inLanguage: English
 app_links: []
-isBasedOnUrl: "http://runemadsen.com/blog/on-meta-design-and-algorithmic-design-systems/"
 title: On meta-design and algorithmic design systems
 datePublished: "2015-05-06T14:45:40.485Z"
-dateModified: "2015-05-06T14:45:40.485Z"
+dateModified: "2015-05-06T18:09:38.580Z"
 sourcePath: _posts/2015-05-06-on-meta-design-and-algorithmic-design-systems.md
 published: true
+authors: []
+publisher:
+  name: Runemadsen
+  domain: runemadsen.com
+  url: "http://runemadsen.com"
+  favicon: null
+_type: MediaObject
 _context: "http://schema.org"
-_type: Article
 
 ---
 <article style=""><h1>On meta-design and algorithmic design systems</h1><p>This post is about something I see as a continuing trend in the design world: the rise of the meta-designer and algorithmic design systems. "Meta-design is much more difficult than design; it's easier to draw something than to explain how to draw it" - Donald Knuth, The Metafont Book Until recently, the term Graphic Designer was used to describe artists firmly rooted in the fine arts.</p><img src="http://runemadsen.com/assets/blog/vw-df259367f8f88b993515a885c32c47a5.jpg" /></article>
