@@ -32,15 +32,18 @@ app_links:
   - url: "http://www.youtube.com/watch?v=pgP4v9b5DvE&feature=applinks"
     type: web
 title: "Wakanday: Henri Bergius - NoFlo, Managing Workflows with JavaScript"
+dateModified: "2015-05-06T18:48:23.984Z"
+sourcePath: _posts/2011-12-07-wakanday-henri-bergius-noflo-managing-workflows-with-jav.md
+published: true
+tags:
+  - talks
+  - video
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: "http://www.youtube.com/"
   favicon: "https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico"
-dateModified: "2015-05-06T16:55:04.818Z"
-sourcePath: _posts/2011-12-07-wakanday-henri-bergius-noflo-managing-workflows-with-jav.md
-published: true
 _type: MediaObject
 _context: "http://schema.org"
 
