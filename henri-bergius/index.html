@@ -2,30 +2,25 @@
 <html>
 
   <head>
+    <TITLE>Bergie</TITLE>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="the-grid-solution" content=" " />
-    <title>Bergie</title>
-    <link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/css/font/Icons/Icons.css" />
-    <link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/css/scale/mini.css" media="(max-width: 19.9375em)" />
-    <link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/css/scale/small.css" media="(min-width: 20em) and (max-width: 45.0624em) " />
-    <link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/css/scale/medium.css" media="(min-width: 45.0625em) and (max-width: 90.0624em)" />
-    <link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/css/scale/large.css" media="(min-width: 90.0625em)" />
-    <link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/css/asides/ctas/follow.css" /><style type="text/css">
-  .box-sizing {
-  -o-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-}
-html {
+    <link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/css/font/Icons/Icons.css" />
+    <link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/css/scale/mini.css" media="(max-width: 19.9375em)" />
+    <link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/css/scale/small.css" media="(min-width: 20em) and (max-width: 45.0624em) " />
+    <link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/css/scale/medium.css" media="(min-width: 45.0625em) and (max-width: 90.0624em)" />
+    <link rel="stylesheet" type="text/css" href="//cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/css/scale/large.css" media="(min-width: 90.0625em)" /><style type="text/css">
+  html {
   width: 100%;
 }
 body {
   width: 100%;
-  background: #926b4a;
+  background: #ffffff;
   color: #f6cc9e;
   overflow-x: hidden;
+  font-size: 16px;
+  line-height: 1.6;
 }
 body:after {
   content: "";
@@ -37,39 +32,18 @@ body:after {
   opacity: .2;
   z-index: -1;
 }
-@media screen and (max-width: 720px) {
-  body:after {
-    display: none;
-  }
-}
 body a,
 body .cta {
   color: #bf956d;
   text-decoration: none;
+}
+body .media > a {
   display: inline-block;
 }
-body a:hover *,
-body .cta:hover * {
-  -webkit-transition-duration: 0.2s;
-  -moz-transition-duration: 0.2s;
-  -o-transition-duration: 0.2s;
-  -ms-transition-duration: 0.2s;
-  transition-duration: 0.2s;
-  -webkit-transition-delay: 0s;
-  -moz-transition-delay: 0s;
-  -o-transition-delay: 0s;
-  -ms-transition-delay: 0s;
-  transition-delay: 0s;
-  -webkit-transition-timing-function: linear;
-  -moz-transition-timing-function: linear;
-  -o-transition-timing-function: linear;
-  -ms-transition-timing-function: linear;
-  transition-transition-timing-function: linear;
-  -webkit-transition-property: all;
-  -moz-transition-property: all;
-  -ms-transition-property: all;
-  transition-property: all;
-  opacity: .8;
+body h1 a,
+body h2 a,
+body h3 a {
+  color: inherit;
 }
 *,
 *:before,
@@ -87,27 +61,43 @@ body .cta:hover * {
   padding: 0;
   margin: 0;
 }
-article.post .title {
-  color: #080000;
+.decoration > svg {
+  display: block;
 }
-article.post .description {
+.group .title,
+.group a {
+  line-height: 1em;
+}
+.group .description {
   color: #f6cc9e;
 }
-article.post .overlay {
-  opacity: 0.06;
+.group .attribution {
+  white-space: nowrap;
 }
-article.post .attribution .source {
+.group .attribution .source {
+  display: inline-block;
   color: #411d0d;
 }
-article.post .attribution .name {
+.group .attribution .publisher {
+  display: inline-block;
+}
+.group .attribution .author {
+  display: inline-block;
+}
+.group .attribution .name {
   color: #f6cc9e;
 }
-article.post .attribution .avatar {
+.group .attribution .avatar {
   background-size: cover;
+  opacity: .6;
+  display: inline-block;
+  vertical-align: middle;
 }
-svg text,
-svg path {
-  fill: #080000;
+.group .attribution .avatar img,
+.group .attribution .avatar a {
+  width: 100%;
+  height: 100%;
+  border-radius: 30px;
 }
 
 </style><style type="text/css">
@@ -125,55 +115,73 @@ html:not(.gss-ready) {
 }
 </style><style id="gss-precomputed">
 @media (max-width: 720px) {
-#u26{font-size: 0.99rem;}
-#u26:before{content: "140,159,183,214"; display: none;}
-#u25{position:relative;font-size: 0.99rem;}
-#u24{font-size: 0.99rem;}
-#u2b68871f-7afb-46c3-a8cd-ac5e3d68e126{position: relative; height: 0rem; top: 0rem;;font-size: 0.99rem;}
-#u22{width: 14.4rem; height: 0rem; position: absolute; left: 0rem; top: 0rem;;font-size: 0.99rem;}
-#u22 .title { z-index: 2; }
+#u27{font-size: 0.16rem;}
+#u27:before{content: "225,272,283,295,302,326,337,351"; display: none;}
+#u26{position: relative; display: block; width: 7.2rem; margin-top: 1.44rem; margin-bottom: 1.44rem; top: 0rem; left: 0rem; height: 6.96rem;;font-size: 0.16rem;}
+#u26 .stack { display: inline-block; }
 
-#u17{overflow: hidden; width: 14.4rem; height: 0rem; position: absolute; left: 0rem; top: 0rem;;font-size: 0.99rem;}
-#u10{height: 9.61rem; width: 14.4rem; position: absolute; top: -5.11rem; left: 0rem;;font-size: 0.99rem;}
+#u25{height: 6.96rem; width: 2.88rem; position: absolute; top: 0rem; left: 0.36rem;;font-size: 0.16rem;}
+#u25 .group.mixed .title { z-index: 2; }
+#u25 .group.mixed { text-align: left; }
 
-#u19{font-size: 0.48rem; line-height: 0.56rem; font-weight: 800;;}
+#u24{height: 6.96rem; width: 2.88rem; position: absolute; top: 0rem; left: 0rem;;font-size: 0.16rem;}
+#u15{overflow: hidden; height: 3.6rem; width: 1.44rem; position: absolute; top: 0rem; left: 0.72rem;;font-size: 0.16rem;}
+#u7{font-size: 0.16rem;}
+#u6{height: 4.1rem; width: 6.15rem; position: absolute; top: -0.6rem; left: -2.56rem;;font-size: 0.16rem;}
 
-#u21{font-size: 0.99rem;}
+#u12{background: none repeat scroll 0% 0% orange; width: 0.72rem; height: 0.72rem; position: absolute; top: 1.44rem; left: 0.36rem;;font-size: 0.1388rem;}
 
-#u42{font-size: 0.99rem;}
+#u18{position: absolute; top: -0.42rem; left: 0rem;;font-size: 0.16rem;}
+#u17{z-index: 2; font-size: 0.12rem; line-height: 0.2rem;;}
+
+#u21{font-size: 0.48rem; line-height: 0.56rem; width: 1.44rem; position: absolute; top: 5.84rem; left: 0.72rem;;}
+#u20{font-size: 0.48rem;}
+
+#u23{font-size: 0.16rem; line-height: 0.24rem; width: 1.44rem; position: absolute; top: 3.76rem; left: 0.72rem;;}
+
+#u31{font-size: 0.16rem;}
 
 }
 @media (min-width: 721px) {
-#u26{font-size: 0.99rem;}
-#u26:before{content: "140,159,183,214"; display: none;}
-#u25{position:relative;font-size: 0.99rem;}
-#u24{font-size: 0.99rem;}
-#u2b68871f-7afb-46c3-a8cd-ac5e3d68e126{position: relative; height: 0rem; top: 0rem;;font-size: 0.99rem;}
-#u22{width: 14.4rem; height: 0rem; position: absolute; left: 0rem; top: 0rem;;font-size: 0.99rem;}
-#u22 .title { z-index: 2; }
+#u27{font-size: 0.16rem;}
+#u27:before{content: "302"; display: none;}
+#u26{position: relative; display: block; width: 14.4rem; margin-top: 1.44rem; margin-bottom: 1.44rem; top: 0rem; left: 0rem; height: 4.96rem;;font-size: 0.16rem;}
+#u26 .stack { display: inline-block; }
 
-#u17{overflow: hidden; width: 14.4rem; height: 0rem; position: absolute; left: 0rem; top: 0rem;;font-size: 0.99rem;}
-#u10{height: 9.61rem; width: 14.4rem; position: absolute; top: -5.11rem; left: 0rem;;font-size: 0.99rem;}
+#u25{height: 4.96rem; width: 6.48rem; position: absolute; top: 0rem; left: 0.36rem;;font-size: 0.16rem;}
+#u25 .group.mixed .title { z-index: 2; }
+#u25 .group.mixed { text-align: left; }
 
-#u19{font-size: 0.48rem; line-height: 0.56rem; font-weight: 800;;}
+#u24{height: 4.96rem; width: 6.48rem; position: absolute; top: 0rem; left: 0rem;;font-size: 0.16rem;}
+#u15{overflow: hidden; height: 3.6rem; width: 5.04rem; position: absolute; top: 0rem; left: 0.72rem;;font-size: 0.16rem;}
+#u7{font-size: 0.16rem;}
+#u6{height: 4.1rem; width: 6.15rem; position: absolute; top: -0.6rem; left: -0.76rem;;font-size: 0.16rem;}
 
-#u21{font-size: 0.99rem;}
+#u12{background: none repeat scroll 0% 0% orange; width: 0.72rem; height: 0.72rem; position: absolute; top: 1.44rem; left: 2.16rem;;font-size: 0.1388rem;}
 
-#u42{font-size: 0.99rem;}
+#u18{position: absolute; top: -0.42rem; left: 0rem;;font-size: 0.16rem;}
+#u17{z-index: 2; font-size: 0.12rem; line-height: 0.2rem;;}
 
-}</style><script src="//ajax.googleapis.com/ajax/libs/webfont/1.5.10/webfont.js"></script><script>WebFont.load({"google":{"families":["Roboto:300,400","Roboto:300,300italic,400,400italic"]}});</script><style type="text/css">html {font-family: 'Roboto';font-weight: 300;}
- .layout-system .hero {font-family: 'Roboto';font-weight: 400;}
- .layout-system .title {font-family: 'Roboto';}
- .layout-system .subtitle {font-family: 'Roboto';}
- .layout-system .description {font-family: 'Roboto';}
+#u21{font-size: 0.48rem; line-height: 0.56rem; width: 5.04rem; position: absolute; top: 4.4rem; left: 0.72rem;;}
+#u20{font-size: 0.48rem;}
+
+#u23{font-size: 0.16rem; line-height: 0.24rem; width: 5.04rem; position: absolute; top: 3.76rem; left: 0.72rem;;}
+
+#u31{font-size: 0.16rem;}
+
+}</style><script src="//ajax.googleapis.com/ajax/libs/webfont/1.5.10/webfont.js"></script><script>WebFont.load({"google":{"families":["Slabo 27px","Open Sans:400,400italic,800,800italic"]}});</script><style type="text/css">html {font-family: 'Open Sans';font-weight: 400;}
+ .layout-system .hero {font-family: 'Slabo 27px';font-weight: 400;}
+ .layout-system .title {font-family: 'Slabo 27px';}
+ .layout-system .subtitle {font-family: 'Slabo 27px';}
+ .layout-system .description {font-family: 'Open Sans';}
  .layout-system .title {font-weight: 400;}
- .layout-system .subtitle {font-weight: 300;}
- a {font-family: 'Roboto';font-weight: 300;}
- .attribution {font-family: 'Roboto';font-weight: 400;text-transform: uppercase;letter-spacing: .03em;}
- .layout-system .quote {font-family: 'Roboto';font-weight: 300;font-style: normal;}
- .layout-system .subtitle {text-transform: uppercase;letter-spacing: .07em;}</style></head>
+ .layout-system .subtitle {font-weight: 400;}
+ a {font-family: 'Open Sans';font-weight: 800;}
+ .attribution {font-family: 'Open Sans';font-weight: 800;text-transform: uppercase;letter-spacing: .03em;}
+ .layout-system .quote {font-family: 'Slabo 27px';font-weight: 400;font-style: italic;}
+ .layout-system .subtitle {text-transform: uppercase;letter-spacing: .03em;}</style></head>
 
-  <body id="u43"><script src="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/assets/gss-init.js" id="u0"></script>
+  <body id="u32"><script src="//cdn.thegrid.io/design-systems/taylor/0.0.64/src/assets/gss-init.js" id="u0"></script>
     <!-- <div id="grid">
   <div class="col1"></div>
   <div class="col2"></div>
@@ -224,41 +232,119 @@ html:not(.gss-ready) {
   <div class="row29"></div>
   <div class="row30"></div>
 </div> -->
-    <div class="layout-system user artistic-d4 w-assets sections" id="u26">
-      <div style="position:relative" id="u25">
-        <section class="fallback section" id="u24">
-          <article class="post" id="u2b68871f-7afb-46c3-a8cd-ac5e3d68e126" style="position:relative"><style type="text/gss" scoped="scoped" id="u4">@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/sections/stack-vertical.gss;
-@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/sections/align-justify-y.gss;
-@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/sections/align-center-x.gss;
-block-gap-horizontal = 0;
-block-gap-vertical = 0;
-block-gap-between = 0;
+    <div class="layout-system user artistic-d4 w-assets sections" id="u27">
+      <div index="bricks" kind="layout" style="position: relative" class="bricks layout" id="u26"><style type="text/gss" scoped="scoped" id="u3">margin-top:= 2md;
+margin-bottom:= 2md;
+@import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/layout/sizing/container.gss;
+@import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/layout/h-align/distribute.gss;
+@if ::window[width] < $taylorW / 2{
+  h-gutter:= 0md;
+  v-gutter-min:= .5md;
+  v-gutter-max:= .5md;
+  @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/layout/columns/one.gss;
+}
+@else{
+  h-gutter:= 1md;
+  v-gutter-min:= 3md;
+  v-gutter-max:= 6.5md;
+  @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/layout/columns/two.gss;
+  @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/layout/v-align/bricks.gss;
+}
 </style>
-            <div class="block wrapper" id="u22"><style type="text/gss" scoped="scoped" id="u7">@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/variations/cover.gss;
-@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/vfl/v-cover.gss;
-@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/vfl/h-bg_media.gss;
-@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/blocks/align-center-y.gss;
-@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/blocks/align-center-x.gss;
-@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/typography/small.gss;
-@import //cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/css/variations/source-name.css;
-inner-gap = 5g;
-inner-gap-vertical: = 0;
-inner-gap-horizontal: = 0;
-outer-gap-left >= 0 !require;
-outer-gap-top >= 0 !require;
-bg_media-opacity == .8;
+        <section dataId="item.block-2b68871f-7afb-46c3-a8cd-ac5e3d68e126" kind="stack" class="title-text-cover mixed w-title w-description w-text narrow left flow_vertical flow_reversed align-left not_decorated softcolor1 stack" id="u25"><style type="text/gss" scoped="scoped" id="u5">@import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/stack/h-align/stretch.gss;
+@import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/stack/v-align/stretch.gss;
+@import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/stack/h-distribute/center.gss;
+@import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/stack/v-distribute/center.gss;
+inner-gap-horizontal:= 0;
+inner-gap-vertical:= 0;
+inner-gap:= 0;
+@import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/stack/direction/vertical.gss;
+@import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/stack/h-emphasis/center.gss;
+@import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/stack/v-emphasis/center.gss;
+// name: title-text-cover;
+.group.mixed{
+  @v |-[inner-gap-top]-(.cover)-[inner-gap]-(.text)-[inner-gap]-(.title)-[inner-gap-bottom]-| !require;
+  @h |-[inner-gap-left]-(.title)-[inner-gap-right]-| !require;
+  @h |-[inner-gap-2-left]-(.text)-[inner-gap-2-right]-| !require;
+  @h |-[inner-gap-3-left]-(.cover)-[inner-gap-3-right]-| !require;
+  // direction: vertical;
+  inner-gap:= 2g;
+  @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/group/font-size/small.gss;
+  outer-gap-horizontal:= 0md;
+  outer-gap-vertical:= 0md;
+  @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/group/h-squeeze/center.gss;
+  @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/group/v-squeeze/center.gss;
+  @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/group/h-push/stretch.gss;
+  @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/group/v-push/stretch.gss;
+  inner-gap-horizontal:= 2md;
+  inner-gap-vertical:= 0md;
+  @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/group/h-distribute/center.gss;
+  @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/group/v-distribute/center.gss;
+  @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/group/h-align/stretch.gss;
+  @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/group/v-align/center.gss;
+  @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/group/h-emphasis/equal.gss;
+  .media.cover{
+    .aside.play{
+      ^{
+        @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/aside/h-align/center.gss;
+      }
+      ^{
+        @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/aside/v-align/center.gss;
+      }
+      h-offset:= 0;
+      width:= 1md;
+      height:= 1md;
+      @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/aside/variation/play-button.gss;
+    }
+    @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/media/v-focus/fit.gss;
+    @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/media/h-focus/fit.gss;
+    @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/media/v-align/center.gss;
+    @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/media/h-align/center.gss;
+    @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/media/sizing/image.gss;
+    desired-width:= 5md;
+    desired-height:= 5md;
+    @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/media/viewport/bound.gss;
+    // overflow: hidden;
+  }
+  .aside.attribution{
+    ^{
+      @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/aside/h-align/left.gss;
+    }
+    ^{
+      @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/aside/v-align/above.gss;
+    }
+    h-offset:= 0;
+    gap:= 2g;
+    @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/aside/h-sizing/intrinsic.gss;
+    @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/aside/v-sizing/intrinsic.gss;
+    .aside.publisher{
+      @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/aside/size/small.gss;
+    }
+  }
+  // $class: not_decorated;
+  // reversed: true;
+  text-align: left;
+  @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/group/h-align-2/stretch.gss;
+  @import //cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/group/h-align-3/stretch.gss;
+}
+// $class: left;
+// wrapper: bricks;
 </style>
-              <div class="cover image" id="u17"><style type="text/gss" scoped="scoped" id="u9">overflow: hidden;
-"viewport"[top] == &top px  !require;
-"viewport"[left] == &left  px !require;
-"viewport"[height] == &height px  !require;
-"viewport"[width] == &width  px !require;
+          <div dataId="item.block-2b68871f-7afb-46c3-a8cd-ac5e3d68e126" index="mixed" class="mixed group" kind="group" id="u24">
+            <div dataId="item.block-2b68871f-7afb-46c3-a8cd-ac5e3d68e126" index="cover" kind="media" class="vfld vfl-trailer cover media" id="u15">
+              <a href="http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg" id="u7">
+                <img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9fa44271714ce9bc8524a9d34c8d1963/gradientmap.jpg?stop1=0&stop2=1&color1=%23999&color2=%23eee&opacity=0.9&srgb=True&input=http%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F284f8b46-708f-46c6-a83c-2d85988b096c.jpg&width=2048&height=1366" srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d41aafbd6696f673a4ba1d0d2454f6ee/gradientmap.jpg?stop1=0&stop2=1&color1=%23999&color2=%23eee&opacity=0.9&srgb=True&input=http%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F284f8b46-708f-46c6-a83c-2d85988b096c.jpg&width=720&height=480.234375 720w, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b72d57bc809cc9144cbea796212c3bb6/gradientmap.jpg?stop1=0&stop2=1&color1=%23999&color2=%23eee&opacity=0.9&srgb=True&input=http%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F284f8b46-708f-46c6-a83c-2d85988b096c.jpg&width=1440&height=960.46875 1440w" sizes="(min-width: 1400px) 1400px, 100vw" id="u6" />
+              </a><style type="text/gss" scoped="scoped" id="u9">"scene"[x] == img[x] + 386 * image-scale !require;
+"scene"[y] == img[y] + 114 * image-scale !require;
+"scene"[width] ==  1416 * image-scale !require;
+"scene"[height] == 1250 * image-scale !require;</style><style type="text/gss" scoped="scoped" id="u11">"face"[x] == img[x] + 1268 * image-scale !require;
+"face"[y] == img[y] + 674 * image-scale !require;
+"face"[width] ==  54 * image-scale !require;
+"face"[height] == 54 * image-scale !require;</style>
+              <button dataId="item.block-2b68871f-7afb-46c3-a8cd-ac5e3d68e126" index="play" kind="aside" class="play aside" id="u12"></button><style type="text/gss" scoped="scoped" id="u14">overflow: hidden;
 
-@v |~[cover-v-gap]~("viewport")~[cover-v-gap]~| in(img) !strong900;
-@h |~[cover-h-gap]~("viewport")~[cover-h-gap]~| in(img) !strong900;
-
-cover-h-gap == 0 !strong;
-cover-v-gap == 0 !strong;
+@v |~("viewport")~| in(img) !strong900;
+@h |~("viewport")~| in(img) !strong900;
 
 image-min-scale = 0.3;
 image-max-scale = 1;
@@ -268,181 +354,21 @@ image-scale == img[width] / 2048 !require;
 img[height] == img[width] * (1366/2048) !require;
 
 /* enforce minimum scale*/
-img[height] >= 1366 * image-min-scale !require;
-img[height] <= 1366 * image-max-scale !require;</style>
-                <img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d34ffb60e130c410523abf5dd098873c/passthrough.jpg?input=http%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F284f8b46-708f-46c6-a83c-2d85988b096c.jpg&width=2048&height=1366" srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/68f9f00afc585517f7bd9c246ebd250f/passthrough.jpg?input=http%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F284f8b46-708f-46c6-a83c-2d85988b096c.jpg&width=720&height=480.234375 720w, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e5f25853f0e992bcc5720e669b7c097b/passthrough.jpg?input=http%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F284f8b46-708f-46c6-a83c-2d85988b096c.jpg&width=1440&height=960.46875 1440w" sizes="(min-width: 1440px) 1440px, 100vw" id="u10" /><style type="text/gss" scoped="scoped" id="u12">/* define  area of importance */
-"face"[x] == img[x] + 1268 * image-scale !require;
-"face"[y] == img[y] + 674 * image-scale !require;
-"face"[width] ==  54 * image-scale !require;
-"face"[height] == 54 * image-scale !require;
-
-/* Keep face towards original position */
-"face"[center-x] == "viewport"[center-x];
-"face"[center-y] == "viewport"[center-y];
-
-@v |~("face")~| in("viewport") !medium500;
-@h |~("face")~| in("viewport") !medium500;</style><style type="text/gss" scoped="scoped" id="u14">/* define  blank spot */
-"space"[x] == img[x] + 0 * image-scale !require;
-"space"[y] == img[y] + 0 * image-scale !require;
-"space"[width] ==  928 * image-scale !require;
-"space"[height] == 600 * image-scale !require;</style><style type="text/gss" scoped="scoped" id="u16">/* define  area of importance */
-"scene"[x] == img[x] + 386 * image-scale !require;
-"scene"[y] == img[y] + 114 * image-scale !require;
-"scene"[width] ==  1416 * image-scale !require;
-"scene"[height] == 1250 * image-scale !require;
-
-/* Keep saliency towards original position */
-"scene"[center-x] == "viewport"[center-x];
-"scene"[center-y] == "viewport"[center-y];
-
-@v |~("scene")~| in("viewport");
-@h |~("scene")~| in("viewport");</style></div>
-              <h1 class="title text" id="u19">Henri Bergius</h1>
-              <p class="description text" id="u21">Hacker and an occasional adventurer. Author of Create.js and NoFlo. Decoupling software, one piece at a time.</p>
+img[height] >= 1366 * image-min-scale !strong950;
+img[height] <= 1366 * image-max-scale !strong950;</style></div>
+            <div dataId="item.block-2b68871f-7afb-46c3-a8cd-ac5e3d68e126" index="attribution" kind="aside" class="attribution aside" id="u18">
+              <div index="publisher" dataId="item.block-2b68871f-7afb-46c3-a8cd-ac5e3d68e126" kind="aside" class="publisher aside" id="u17">the-grid-user-content.s3-us-west-2.amazonaws.com</div>
             </div>
-          </article>
+            <h1 dataId="item.block-2b68871f-7afb-46c3-a8cd-ac5e3d68e126" class="title vfld vfld-leader" index="title" id="u21">
+              <a href="http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg" id="u20">Henri Bergius</a>
+            </h1>
+            <p dataId="item.block-2b68871f-7afb-46c3-a8cd-ac5e3d68e126" kind="text" index="description" class="paragraph vfld description text" id="u23">Hacker and an occasional adventurer. Author of Create.js and NoFlo. Decoupling software, one piece at a time.</p>
+          </div>
         </section>
       </div>
     </div>
-    <div id="u42">
-      <link rel="stylesheet/gss" type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/layout.gss" />
-      <link rel="stylesheet/gss" type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/variables.gss" />
-      <link rel="stylesheet/gss" type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/debug.gss" />
-      <link rel="stylesheet/gss" type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/motion/animation.gss" /><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/variations/cover.gss">
-//implement cover opacity
-
-.cover {
-  left: >= ^left;
-  width: == ^width;
-  height: <= ^height !medium100;
-}
-
-.attribution {
-  width: == &intrinsic-width;
-  height: == &intrinsic-height;
-  top: == ^(.cover)[bottom] + 2g;
-  left: >= ^(.cover)[left]; 
-}
-</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/vfl/v-cover.gss">
-@v |(.cover)| !strong;
-
-</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/vfl/h-bg_media.gss">
-@h |(.cover)| !require;
-</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/blocks/align-center-y.gss">
-inner-gap-top >= inner-gap-vertical !require;
-inner-gap-bottom == inner-gap-top !require;
-
-</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/blocks/align-center-x.gss">
-inner-gap-right == inner-gap-left !require;
-outer-gap-right == outer-gap-left !require;
-inner-gap-left >= inner-gap-horizontal !require;
-
-
-</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/typography/small.gss">
-.title {
-  z-index: 2;
-  font-size: = 6g;
-  line-height: = &font-size + 1g;
-  height: == &intrinsic-height !require;
-  font-weight: == 800;
-}
-
-.attribution {
-  z-index: 2;
-  font-size: = 1.5g;
-  line-height: = &font-size + 1g;
-  letter-spacing: .05em;
-  width: == &intrinsic-width;
-  height: == &intrinsic-height !require;
-  a{
-    font-size: = 1.5g;
-    letter-spacing: .05em;
-  }
-  @if ::window[width] <= $taylorW/2 {
-    font-size: = 3g;
-    a{
-      font-size: = 3g;
-    }
-  }
-}
-
-.paragraph {
-  font-size: = 2g;
-  @if ::window[width] <= $taylorW/2 {
-    font-size: = 3g;
-  }
-  line-height: = &font-size + 1g;
-  height: == &intrinsic-height !require;
-}
-
-.quote{
-  font-size: = 4g;
-  line-height: = &font-size + 1g;
-  height: == &intrinsic-height !require;
-  font-weight: = 800;
-}
-
-.cta-text {
-  font-size: = 2g;
-  line-height: = &font-size;
-  @if ::window[width] <= $taylorW/2 {
-    font-size: = 3.5g;
-  }
-}
-
-.cta-deco {
-  font-size: = 18g;
-  line-height: = &font-size - 2g;
-}
-
-.play-button{
-  font-size: == 2g;
-  line-height: = &font-size + .5g;
-  center-y: == (^ .cover)[center-y];
-  center-x: == (^ .cover)[center-x];
-  width: == &intrinsic-width;
-  height: == &intrinsic-height;
-  white-space: nowrap;
-  @if ::window[width] <= $taylorW/2 {
-    font-size: == 3g;
-  }
-}
-
-
-</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/sections/stack-vertical.gss">
-width: == intrinsic-width !require;
-top: == 0 !require;
-
-.block {
-  :first[top]   ==           ^block-gap-top     !require;
-  :next[top]    == &bottom + ^block-gap         !require;
-  :last[bottom] == ^height - ^block-gap-bottom  !require;
-
-  &outer-gap-left == 0;
-  &outer-gap-right == 0;
-
-  left:  ==          ^block-gap-left  + &outer-gap-left  !strong100;
-  right: == ^width - ^block-gap-right - &outer-gap-right !strong100;
-
-  outer-gap-left >= 0 !require;
-  outer-gap-right >= 0 !require;
-}
-</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/sections/align-justify-y.gss">
-block-gap-top == block-gap-vertical;
-block-gap-top >= block-gap-vertical !require;
-block-gap-top == block-gap-bottom !require;
-
-
-block-gap     == block-gap-between;
-
-block-gap     == block-gap-top !require;
-
-</script><script type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.58/src/layouts/artistic/D4/assets/gss/sections/align-center-x.gss">
-block-gap-left == block-gap-right !require;
-block-gap-left >= block-gap-horizontal !require;
-block-gap-left == block-gap-horizontal !require;
-
-</script><script id="u41">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    <div id="u31">
+      <link rel="stylesheet/gss" type="text/gss" href="//cdn.thegrid.io/design-systems/taylor/0.0.64/src/layouts/shared/assets/gss/variables.gss" /><script id="u30">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
