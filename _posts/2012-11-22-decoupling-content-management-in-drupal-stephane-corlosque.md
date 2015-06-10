@@ -13,6 +13,7 @@ keywords:
   - henri
   - built-in
   - bergius
+description: "Decoupled content management is a new way to look at the process of editing and managing content on the Web. Traditional Content Management Systems tend to tie their users to a built-in content storage and editing interface. The concept of decoupled content management is about a clean separation of concerns between the content repository, the web framework, and the web editing tool."
 author: []
 related:
   - score: 0.5973029136657715
@@ -50,24 +51,23 @@ related:
     thumbnail_height: 599
     thumbnail_url: "http://www.jeffbullas.com/wp-content/uploads/2015/05/10-Content-Marketing-Mistakes-That-The-Amateurs-Make.jpg"
     thumbnail_width: 900
-description: "Decoupled content management is a new way to look at the process of editing and managing content on the Web. Traditional Content Management Systems tend to tie their users to a built-in content storage and editing interface. The concept of decoupled content management is about a clean separation of concerns between the content repository, the web framework, and the web editing tool."
 datePublished: "2012-11-22T20:12:11.000Z"
 app_links: []
-title: "Decoupling Content Management in Drupal : Stephane Corlosquet : Free Download & Streaming : Internet Archive"
+title: Decoupling Content Management in Drupal
 tags:
   - talks
   - video
+dateModified: "2015-06-10T06:19:11.300Z"
+sourcePath: _posts/2012-11-22-decoupling-content-management-in-drupal-stephane-corlosque.md
+published: true
 authors: []
 publisher:
   name: Internet Archive
   domain: archive.org
   url: "https://archive.org"
   favicon: "https://archive.org/images/glogo.jpg"
-dateModified: "2015-06-10T06:14:30.141Z"
-sourcePath: _posts/2012-11-22-decoupling-content-management-in-drupal-stephane-corlosque.md
-published: true
 _type: MediaObject
 _context: "http://schema.org"
 
 ---
-<article style=""><h1>Decoupling Content Management in Drupal &amp;colon; Stephane Corlosquet &amp;colon; Free Download &amp; Streaming &amp;colon; Internet Archive</h1><p>Decoupled content management is a new way to look at the process of editing and managing content on the Web&amp;period; Traditional Content Management Systems tend to tie their users to a built-in content storage and editing interface&amp;period; The concept of decoupled content management is about a clean separation of concerns between the content repository&amp;comma; the web framework&amp;comma; and the web editing tool&amp;period;</p><img src="https://archive.org/download/DecouplingContentManagementInDrupal/DecouplingContentManagementInDrupal.thumbs/Movie_000061.jpg" /></article>
+<article style=""><h1>Decoupling Content Management in Drupal</h1><p>Decoupled content management is a new way to look at the process of editing and managing content on the Web. Traditional Content Management Systems tend to tie their users to a built-in content storage and editing interface. The concept of decoupled content management is about a clean separation of concerns between the content repository, the web framework, and the web editing tool.</p><img src="https://archive.org/download/DecouplingContentManagementInDrupal/DecouplingContentManagementInDrupal.thumbs/Movie_000061.jpg" /></article>
