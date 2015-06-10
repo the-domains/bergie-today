@@ -33,7 +33,7 @@ description: "This post is about something I see as a continuing trend in the de
 app_links: []
 title: On meta-design and algorithmic design systems
 datePublished: "2015-05-06T14:45:40.485Z"
-dateModified: "2015-05-06T18:09:38.580Z"
+dateModified: "2015-06-10T06:44:08.950Z"
 sourcePath: _posts/2015-05-06-on-meta-design-and-algorithmic-design-systems.md
 published: true
 authors: []
