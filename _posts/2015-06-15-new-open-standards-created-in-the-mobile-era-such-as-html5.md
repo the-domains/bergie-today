@@ -11,12 +11,11 @@ publisher:
   domain: www.apple.com
   url: null
   favicon: null
-datePublished: '2015-06-15T01:06:09.124Z'
-dateModified: '2015-06-15T01:06:09.124Z'
+datePublished: '2015-06-15T01:07:10.338Z'
+dateModified: '2015-06-15T01:07:10.338Z'
 sourcePath: _posts/2015-06-15-new-open-standards-created-in-the-mobile-era-such-as-html5.md
 published: true
-url: new-open-standards-created-in-the-mobile-era-such-as-html5/index.html
-_type: Article
+_type: MediaObject
 _context: 'http://schema.org'
 
 ---
