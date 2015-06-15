@@ -35,15 +35,15 @@ title: SymfonyLive Paris 2012 - Decoupling Content Management with Create and PH
 tags:
   - talks
   - video
+dateModified: '2015-06-15T01:04:05.904Z'
+sourcePath: _posts/2012-10-11-symfonylive-paris-2012-decoupling-content-management-with.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'http://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-dateModified: '2015-06-15T00:59:46.923Z'
-sourcePath: _posts/2012-10-11-symfonylive-paris-2012-decoupling-content-management-with.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
