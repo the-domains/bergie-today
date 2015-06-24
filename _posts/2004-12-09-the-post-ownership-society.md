@@ -1,4 +1,19 @@
 ---
+isBasedOnUrl: 'http://www.washingtonmonthly.com/magazine/junejulyaugust_2015/features/the_postownership_society055896.php?page=all'
+inLanguage: en
+starred: false
+keywords:
+  - millennials
+  - etsy
+  - airbnb
+  - zipcar
+  - renting
+  - uber
+  - nathalie
+  - jobs
+  - generations
+  - money
+description: 'The Post-Ownership Society How the "sharing economy" allows Millennials to cope with downward mobility, and also makes them poorer. By Monica Potts Five and a half years ago, when I first moved to Washington, D.C., for a magazine job, I rented a basement apartment in a neighborhood called Bloomingdale.'
 author: []
 related:
   - score: 0.7919049859046936
@@ -22,33 +37,20 @@ related:
     thumbnail_height: 330
     thumbnail_url: 'https://i1.wp.com/timedotcom.files.wordpress.com/2015/06/200164090-001-copy.jpg?fit=440%2C330&quality=65&strip=color'
     thumbnail_width: 394
-publisher:
-  url: 'http://www.washingtonmonthly.com'
-  name: The Washington Monthly
-  favicon: 'http://www.washingtonmonthly.com/favicon.ico'
-  domain: www.washingtonmonthly.com
-keywords:
-  - millennials
-  - etsy
-  - airbnb
-  - zipcar
-  - renting
-  - uber
-  - nathalie
-  - jobs
-  - generations
-  - money
-description: 'The Post-Ownership Society How the "sharing economy" allows Millennials to cope with downward mobility, and also makes them poorer. By Monica Potts Five and a half years ago, when I first moved to Washington, D.C., for a magazine job, I rented a basement apartment in a neighborhood called Bloomingdale.'
-inLanguage: en
 datePublished: '2004-12-09T00:00:00.000Z'
 app_links: []
-isBasedOnUrl: 'http://www.washingtonmonthly.com/magazine/junejulyaugust_2015/features/the_postownership_society055896.php?page=all'
 title: The Post-Ownership Society
-dateModified: '2015-06-24T03:41:21.261Z'
+dateModified: '2015-06-24T03:45:53.451Z'
 sourcePath: _posts/2004-12-09-the-post-ownership-society.md
 published: true
-_context: 'http://schema.org'
+authors: []
+publisher:
+  name: The Washington Monthly
+  domain: www.washingtonmonthly.com
+  url: 'http://www.washingtonmonthly.com'
+  favicon: 'http://www.washingtonmonthly.com/favicon.ico'
 _type: MediaObject
+_context: 'http://schema.org'
 
 ---
-<article style=""><h1>The Post-Ownership Society</h1><p>The Post-Ownership Society How the "sharing economy" allows Millennials to cope with downward mobility&amp;comma; and also makes them poorer&amp;period; By Monica Potts Five and a half years ago&amp;comma; when I first moved to Washington&amp;comma; D&amp;period;C&amp;period;&amp;comma; for a magazine job&amp;comma; I rented a basement apartment in a neighborhood called Bloomingdale&amp;period;</p><img src="http://wamo.s3.amazonaws.com/mag/1507/1507-potts_article.jpg" /></article>
+<article style=""><h1>The Post-Ownership Society</h1><p>How the “sharing economy” allows Millennials to cope with downward mobility, and also makes them poorer.</p><img src="http://wamo.s3.amazonaws.com/mag/1507/1507-potts_article.jpg" /></article>
