@@ -1,4 +1,19 @@
 ---
+isBasedOnUrl: 'http://nautil.us/issue/25/water/the-beckoning-of-the-ice-worlds'
+inLanguage: en
+starred: false
+keywords:
+  - europa
+  - opag
+  - ice
+  - ocean
+  - icy
+  - surface
+  - crust
+  - nasa
+  - jupiter
+  - plumes
+description: 'I have seen the future of space exploration, and it looks like a cue ball covered with brown scribbles. I am talking about Europa, the 1,940-mile-wide, nearly white, and exceedingly smooth satellite of Jupiter. It is an enigmatic world that is, in many ways, almost a perfect inversion of Earth.'
 author: []
 related:
   - score: 0.6985957026
@@ -22,33 +37,20 @@ related:
     thumbnail_height: 305
     thumbnail_url: 'http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2015/06/ice_on_comet_67p_churyumov-gerasimenko/15473871-1-eng-GB/Ice_on_Comet_67P_Churyumov-Gerasimenko_medium_square.jpg'
     thumbnail_width: 305
-publisher:
-  url: 'http://nautil.us'
-  name: Nautilus
-  favicon: 'http://nautil.us/favicon.ico'
-  domain: nautil.us
-keywords:
-  - europa
-  - opag
-  - ice
-  - ocean
-  - icy
-  - surface
-  - crust
-  - nasa
-  - jupiter
-  - plumes
-description: 'I have seen the future of space exploration, and it looks like a cue ball covered with brown scribbles. I am talking about Europa, the 1,940-mile-wide, nearly white, and exceedingly smooth satellite of Jupiter. It is an enigmatic world that is, in many ways, almost a perfect inversion of Earth.'
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://nautil.us/issue/25/water/the-beckoning-of-the-ice-worlds'
-title: 'The Beckoning of the Ice Worlds - Issue 25: Water - Nautilus'
-datePublished: '2015-06-26T03:58:44.705Z'
-dateModified: '2015-06-26T03:58:44.705Z'
+title: The Beckoning of the Ice Worlds
+datePublished: '2015-06-26T04:00:04.174Z'
+dateModified: '2015-06-26T04:00:04.174Z'
 sourcePath: _posts/2015-06-26-the-beckoning-of-the-ice-worlds-issue-25-water-nautilus.md
 published: true
-_context: 'http://schema.org'
+authors: []
+publisher:
+  name: Nautilus
+  domain: nautil.us
+  url: 'http://nautil.us'
+  favicon: 'http://nautil.us/favicon.ico'
 _type: MediaObject
+_context: 'http://schema.org'
 
 ---
 <article style=""><h1>The Beckoning of the Ice Worlds - Issue 25&amp;colon; Water - Nautilus</h1><p>I have seen the future of space exploration&amp;comma; and it looks like a cue ball covered with brown scribbles&amp;period; I am talking about Europa&amp;comma; the 1&amp;comma;940-mile-wide&amp;comma; nearly white&amp;comma; and exceedingly smooth satellite of Jupiter&amp;period; It is an enigmatic world that is&amp;comma; in many ways&amp;comma; almost a perfect inversion of Earth&amp;period;</p><img src="http://static.nautil.us/6485_263fc48aae39f219b4c71d9d4bb4aed2.png" /></article>
