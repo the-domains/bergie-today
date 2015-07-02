@@ -32,7 +32,7 @@ publisher:
   domain: facebook.github.io
   url: 'https://facebook.github.io'
   favicon: 'https://facebook.github.io/react/favicon.ico'
-dateModified: '2015-07-02T12:30:56.974Z'
+dateModified: '2015-07-02T12:31:18.240Z'
 sourcePath: _posts/2015-07-02-graphql-introduction.md
 published: true
 _type: MediaObject
