@@ -19,15 +19,15 @@ related: []
 app_links: []
 title: Introducing Disque
 datePublished: '2015-07-02T14:44:17.350Z'
+dateModified: '2015-07-02T17:20:48.274Z'
+sourcePath: _posts/2015-07-02-introducing-disque.md
+published: true
 authors: []
 publisher:
   name: Thedotpost
   domain: www.thedotpost.com
   url: 'http://www.thedotpost.com'
   favicon: 'http://www.thedotpost.com/theme/images/favicon.png'
-dateModified: '2015-07-02T14:44:17.350Z'
-sourcePath: _posts/2015-07-02-introducing-disque.md
-published: true
 _type: MediaObject
 _context: 'http://schema.org'
 
