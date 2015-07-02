@@ -40,7 +40,7 @@ related:
 app_links: []
 title: The Beckoning of the Ice Worlds
 datePublished: '2015-06-26T04:00:04.174Z'
-dateModified: '2015-06-26T04:00:04.174Z'
+dateModified: '2015-07-02T11:05:31.718Z'
 sourcePath: _posts/2015-06-26-the-beckoning-of-the-ice-worlds-issue-25-water-nautilus.md
 published: true
 authors: []
@@ -53,4 +53,4 @@ _type: MediaObject
 _context: 'http://schema.org'
 
 ---
-<article style=""><h1>The Beckoning of the Ice Worlds - Issue 25&amp;colon; Water - Nautilus</h1><p>I have seen the future of space exploration&amp;comma; and it looks like a cue ball covered with brown scribbles&amp;period; I am talking about Europa&amp;comma; the 1&amp;comma;940-mile-wide&amp;comma; nearly white&amp;comma; and exceedingly smooth satellite of Jupiter&amp;period; It is an enigmatic world that is&amp;comma; in many ways&amp;comma; almost a perfect inversion of Earth&amp;period;</p><img src="http://static.nautil.us/6485_263fc48aae39f219b4c71d9d4bb4aed2.png" /></article>
+<article style=""><h1>The Beckoning of the Ice Worlds</h1><p>I have seen the future of space exploration, and it looks like a cue ball covered with brown scribbles. I am talking about Europa, the 1,940-mile-wide, nearly white, and exceedingly smooth satellite of Jupiter. It is an enigmatic world that is, in many ways, almost a perfect inversion of Earth.</p><img src="http://static.nautil.us/6485_263fc48aae39f219b4c71d9d4bb4aed2.png" /></article>
