@@ -23,7 +23,7 @@ app_links: []
 isBasedOnUrl: 'http://googleresearch.blogspot.fi/2015/07/deepdream-code-example-for-visualizing.html'
 title: DeepDream - a code example for visualizing Neural Networks
 datePublished: '2015-07-02T15:16:59.965Z'
-dateModified: '2015-07-02T15:16:59.965Z'
+dateModified: '2015-07-02T15:17:00.177Z'
 sourcePath: _posts/2015-07-02-deepdream-a-code-example-for-visualizing-neural-networks.md
 published: true
 _context: 'http://schema.org'
