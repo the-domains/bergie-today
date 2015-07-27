@@ -14,7 +14,7 @@ publisher:
   url: null
   favicon: null
 datePublished: '2015-07-27T15:58:02.274Z'
-dateModified: '2015-07-27T15:58:02.274Z'
+dateModified: '2015-07-27T16:10:25.355Z'
 sourcePath: _posts/2015-07-27-weekend-sailing-on-muggelsee.md
 published: true
 url: weekend-sailing-on-muggelsee/index.html
