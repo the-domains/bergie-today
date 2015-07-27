@@ -39,7 +39,7 @@ publisher:
   domain: www.bloomberg.com
   url: 'http://www.bloomberg.com'
   favicon: 'http://assets.bwbx.io/business/public/images/favicons/favicon-32x32.fa02118e.png'
-dateModified: '2015-07-23T14:57:54.903Z'
+dateModified: '2015-07-27T19:14:32.139Z'
 sourcePath: _posts/2015-07-23-how-berlins-futuristic-airport-became-a-dollar6-billion-embarras.md
 published: true
 _type: MediaObject
