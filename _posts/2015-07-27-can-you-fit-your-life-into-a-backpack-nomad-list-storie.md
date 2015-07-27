@@ -34,7 +34,7 @@ app_links:
 isBasedOnUrl: 'https://medium.com/digital-nomad-stories/can-you-fit-your-life-into-a-backpack-27e836c6728b'
 title: Can you fit your Life into a Backpack? - Nomad List - Stories
 datePublished: '2015-07-27T16:02:08.231Z'
-dateModified: '2015-07-27T16:02:08.231Z'
+dateModified: '2015-07-27T19:34:53.487Z'
 sourcePath: _posts/2015-07-27-can-you-fit-your-life-into-a-backpack-nomad-list-storie.md
 published: true
 _context: 'http://schema.org'
