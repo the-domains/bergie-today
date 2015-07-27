@@ -1,9 +1,8 @@
 ---
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: ''
+description: Weekend sailing on Müggelsee
 title: Weekend sailing on Müggelsee
 tags:
   - ''
@@ -13,16 +12,17 @@ publisher:
   domain: null
   url: null
   favicon: null
-datePublished: '2015-07-27T15:58:02.274Z'
-dateModified: '2015-07-27T16:10:25.355Z'
+datePublished: '2015-07-27T16:47:05.575Z'
+dateModified: '2015-07-27T16:47:05.575Z'
 sourcePath: _posts/2015-07-27-weekend-sailing-on-muggelsee.md
 published: true
 url: weekend-sailing-on-muggelsee/index.html
+author: []
 _type: Article
+_context: 'http://schema.org'
 
 ---
 # Weekend sailing on Müggelsee
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b65a732-93a3-42e6-a015-2d6a8da8c1e1.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9a917ae-779e-4219-bdf1-d1253e0641b2.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a30d4dad-3757-4a29-b833-835b0483bc6d.JPG)
