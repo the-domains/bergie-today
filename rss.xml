@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jul 2015 19:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2015 19:23:48 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AI on my wrist]]></title>
+            <description><![CDATA[<article><h1>AI on my wrist</h1><img src="https://farm1.staticflickr.com/482/19950387925_8211d068be_b.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/bergie/19950387925/</link>
+            <guid isPermaLink="false">e1f9c61d-b513-4901-9406-0a0d8d4989b5</guid>
+            <pubDate>Thu, 23 Jul 2015 20:09:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NASA's Kepler Mission Discovers Bigger, Older Cousin to Earth]]></title>
             <description><![CDATA[<article><h1>NASA's Kepler Mission Discovers Bigger, Older Cousin to Earth</h1><p>NASA's Kepler mission has confirmed the first near-Earth-size planet in the "habitable zone" around a sun-like star. This discovery and the introduction of 11 other new small habitable zone candidate planets mark another milestone in the journey to finding another "Earth."</p><img src="http://www.nasa.gov/sites/default/files/thumbnails/image/452b_artistconcept_beautyshot.jpg"></article>]]></description>
