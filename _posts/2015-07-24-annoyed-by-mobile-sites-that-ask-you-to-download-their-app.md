@@ -47,7 +47,7 @@ app_links: []
 isBasedOnUrl: 'http://techcrunch.com/2015/07/23/i-dont-want-your-app/'
 title: "Annoyed By Mobile Sites That \"Ask\" You To Download Their App? You're Not Alone"
 datePublished: '2015-07-24T11:07:30.675Z'
-dateModified: '2015-07-24T11:07:30.675Z'
+dateModified: '2015-07-27T19:28:05.598Z'
 sourcePath: _posts/2015-07-24-annoyed-by-mobile-sites-that-ask-you-to-download-their-app.md
 published: true
 _context: 'http://schema.org'
