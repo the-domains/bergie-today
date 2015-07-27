@@ -18,7 +18,7 @@ app_links:
 isBasedOnUrl: 'https://www.flickr.com/photos/bergie/19838875298/in/datetaken-public/'
 title: Japanese garden in Berlin
 datePublished: '2015-07-27T16:05:48.588Z'
-dateModified: '2015-07-27T16:05:48.588Z'
+dateModified: '2015-07-27T19:36:19.720Z'
 sourcePath: _posts/2015-07-27-japanese-garden-in-berlin.md
 published: true
 _type: Photograph
