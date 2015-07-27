@@ -15,7 +15,7 @@ publisher:
   domain: www.nasa.gov
   url: 'https://www.nasa.gov'
   favicon: 'https://www.nasa.gov/favicon.ico'
-dateModified: '2015-07-23T17:27:21.393Z'
+dateModified: '2015-07-27T19:18:52.588Z'
 sourcePath: _posts/2015-07-23-nasas-kepler-mission-discovers-bigger-older-cousin-to-eart.md
 published: true
 _type: MediaObject
