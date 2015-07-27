@@ -37,7 +37,7 @@ app_links: []
 isBasedOnUrl: 'http://ben-evans.com/benedictevans/2015/5/21/office-messaging-and-verbs'
 title: 'Office, messaging and verbs'
 datePublished: '2015-07-24T10:55:58.309Z'
-dateModified: '2015-07-24T10:55:58.309Z'
+dateModified: '2015-07-27T19:25:02.245Z'
 sourcePath: _posts/2015-07-24-office-messaging-and-verbs.md
 published: true
 _context: 'http://schema.org'
