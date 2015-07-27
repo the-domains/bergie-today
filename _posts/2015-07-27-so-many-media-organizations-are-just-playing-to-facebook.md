@@ -7,7 +7,7 @@ description: '“So many media organizations are just playing to Facebook,” De
 author: []
 datePublished: '2015-07-27T10:42:40.412Z'
 title: Gawker gives media world a model of crude courage
-dateModified: '2015-07-27T10:42:40.412Z'
+dateModified: '2015-07-27T15:47:03.329Z'
 sourcePath: _posts/2015-07-27-so-many-media-organizations-are-just-playing-to-facebook.md
 published: true
 tags:
