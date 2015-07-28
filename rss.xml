@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Untitled RSS Feed]]></title>
-        <description><![CDATA[Untitled RSS Feed]]></description>
+        <title><![CDATA[Henri Bergius]]></title>
+        <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jul 2015 14:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2015 14:46:02 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Flock 1e Deployment- July 13, 2015]]></title>
