@@ -43,7 +43,7 @@ app_links:
 isBasedOnUrl: 'https://vimeo.com/134652822'
 title: 'Flock 1e Deployment- July 13, 2015'
 datePublished: '2015-07-28T14:10:07.552Z'
-dateModified: '2015-07-28T14:10:07.552Z'
+dateModified: '2015-07-28T14:43:54.383Z'
 sourcePath: _posts/2015-07-28-flock-1e-deployment-july-13-2015.md
 published: true
 _type: VideoObject
