@@ -5,8 +5,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jul 2015 16:29:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2015 16:31:59 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Golden Record: Sounds of Earth by NASA]]></title>
+            <description><![CDATA[<article><h1>Golden Record: Sounds of Earth by NASA</h1><p>Here's a collection of NASA sounds from historic spaceflights and current missions. You can hear the roar of a space shuttle launch or Neil Armstrong's "One small step for (a) man, one giant leap for</p><img src="http://i1.sndcdn.com/artworks-000124535894-0mywo8-t500x500.jpg"></article>]]></description>
+            <link>https://soundcloud.com/nasa/sets/golden-record-sounds-of</link>
+            <guid isPermaLink="false">bb756751-7d39-4736-9161-5ed1f79a4e8b</guid>
+            <pubDate>Wed, 29 Jul 2015 16:31:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Flux Architecture Visual Cheatsheet]]></title>
             <description><![CDATA[<article><h1>Flux Architecture Visual Cheatsheet</h1><p>At hashtagify.me we recently started experimenting with the React library, and, right from the start, I really liked what I saw. After that, I also went to study the Flux architecture, and, honestly, I found the official overview and tutorials rather confusing.</p><img src="http://danmaz74.me/wp-content/uploads/2015/07/flux-architecture-cheatsheet-thumbnail.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://techcrunch.com/2015/07/23/i-dont-want-your-app/</link>
             <guid isPermaLink="false">2be8ed26-5f2c-4daa-9b54-9887a8cf44dd</guid>
             <pubDate>Fri, 24 Jul 2015 11:07:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Office, messaging and verbs]]></title>
-            <description><![CDATA[<article><h1>Office, messaging and verbs</h1><p>This is a still from the classic film 1960 'The Apartment'. Jack Lemmon plays CC Baxter, a clerk in a large insurance company in New York, and so here you see his office - drones laid out at desks almost as far at the eye can see.</p><img src="https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/555eb1b8e4b0577e788ea785/1432269242071/?format=1000w"></article>]]></description>
-            <link>http://ben-evans.com/benedictevans/2015/5/21/office-messaging-and-verbs</link>
-            <guid isPermaLink="false">784a77aa-9502-4c70-98b9-ce948c9d21ab</guid>
-            <pubDate>Fri, 24 Jul 2015 10:55:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
