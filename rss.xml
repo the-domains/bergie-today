@@ -5,8 +5,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 11:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2015 11:40:16 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Decoupling Content Management in Drupal]]></title>
+            <description><![CDATA[<article><h1>Decoupling Content Management in Drupal</h1><p>Decoupled content management is a new way to look at the process of editing and managing content on the Web. Traditional Content Management Systems tend to tie their users to a built-in content storage and editing interface. The concept of decoupled content management is about a clean separation of concerns between the content repository, the web framework, and the web editing tool.</p><img src="https://archive.org/download/DecouplingContentManagementInDrupal/DecouplingContentManagementInDrupal.thumbs/Movie_000061.jpg"></article>]]></description>
+            <link>https://archive.org/details/DecouplingContentManagementInDrupal</link>
+            <guid isPermaLink="false">e1504f9f-42b0-42b6-941e-4265ff5fc700</guid>
+            <pubDate>Thu, 22 Nov 2012 20:12:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[It's The Future]]></title>
             <description><![CDATA[<article><h1>It's The Future</h1><p>Editor Note: At the risk of spoiling the joke a bit, we want to make sure that everyone knows that the following is satire, and we're actually quite fond of the companies we mention. Docker, CoreOS, Google, Vagrant/Hashicorp, Heroku, Aphyr, Amazon, Mongo, Redis-we love you really and mean you no harm.</p><img src="http://blog.circleci.com/wp-content/uploads/2015/06/rabbit_hole.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://qz.com/466089/the-fastest-growing-mobile-phone-markets-barely-use-apps/</link>
             <guid isPermaLink="false">6e6cb330-325d-4029-8cdb-ac1f3fd01b6c</guid>
             <pubDate>Thu, 30 Jul 2015 10:10:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Old, Innovative Nokia Is Back]]></title>
-            <description><![CDATA[<article><h1>The Old, Innovative Nokia Is Back</h1><p>Soon after Microsoft wrote off the entire value of the handset business it had acquired from Nokia, the Finnish company is unexpectedly back with an innovative consumer product. Nokia Ozo, a sphere with camera lenses protruding from it, is refreshingly out of left field.</p><img src="http://assets.bwbx.io/images/iu_apxF.sRVQ/v1/840x473.jpg"></article>]]></description>
-            <link>http://www.bloombergview.com/articles/2015-07-29/nokia-s-virtual-reality-ambitions-could-restore-its-tech-luster</link>
-            <guid isPermaLink="false">d0443c12-bb92-4a26-93c9-453b3d0908f3</guid>
-            <pubDate>Wed, 29 Jul 2015 22:09:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
