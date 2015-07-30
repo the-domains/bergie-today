@@ -19,15 +19,17 @@ related: []
 datePublished: '2015-06-09T00:00:00.000Z'
 app_links: []
 title: 'Announcing MsgFlo, a distributed FBP runtime'
+dateModified: '2015-07-30T11:32:20.771Z'
+sourcePath: _posts/2015-06-09-announcing-msgflo-a-distributed-fbp-runtime.md
+published: true
+tags:
+  - flowhub
 authors: []
 publisher:
   name: Jonnor
   domain: www.jonnor.com
   url: 'http://www.jonnor.com'
   favicon: null
-dateModified: '2015-06-12T05:36:59.361Z'
-sourcePath: _posts/2015-06-09-announcing-msgflo-a-distributed-fbp-runtime.md
-published: true
 _type: MediaObject
 _context: 'http://schema.org'
 
