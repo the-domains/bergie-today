@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 12:03:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2015 12:08:01 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SymfonyLive Paris 2012 - Henri Bergius - Decoupling Content Management with Create and PHPCR]]></title>
+            <description><![CDATA[<article><h1>SymfonyLive Paris 2012 - Henri Bergius - Decoupling Content Management with Create and PHPCR</h1><p>SymfonyLive Paris 2012</p><img src="https://i.ytimg.com/vi/dVFKgWL_TD8/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=dVFKgWL_TD8</link>
+            <guid isPermaLink="false">31200572-cadc-4c26-96b9-aa3c2c57bee6</guid>
+            <pubDate>Thu, 11 Oct 2012 10:33:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Grid API Overview]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=VQdl7J_24PA</link>
             <guid isPermaLink="false">b70a8f97-8e9b-4701-9c8a-d7d2f2a2476e</guid>
             <pubDate>Tue, 16 Oct 2012 10:55:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The billionaire’s typewriter]]></title>
-            <description><![CDATA[<article><h1>The billionaire’s typewriter</h1><p>A friend pointed me to a story on Medium called "Death to Type­writ­ers," by Medium de­signer Marcin Wichary. The story is about the in­flu­ence of the type­writer on dig­i­tal type­set­ting. It ref­er­ences my "ex­cel­lent list" of type­writer habits. Thank you for the com­pli­ment, Mr. Wichary.</p><img src="http://practicaltypography.com/images/selectric-ball.jpeg"></article>]]></description>
-            <link>http://practicaltypography.com/billionaires-typewriter.html</link>
-            <guid isPermaLink="false">48e76a63-47a7-48bb-81ec-e33a9c0150ee</guid>
-            <pubDate>Wed, 06 May 2015 16:21:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
