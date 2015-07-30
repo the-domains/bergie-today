@@ -9,15 +9,15 @@ datePublished: '2015-07-30T10:33:02.602Z'
 title: ''
 tags:
   - ''
+dateModified: '2015-07-30T10:59:40.350Z'
+sourcePath: _posts/2015-07-30-squarespace-may-not-care-about-content-but-the-grid-does-a.md
+published: true
 authors: []
 publisher:
   name: louderthanten.com
   domain: louderthanten.com
   url: null
   favicon: null
-dateModified: '2015-07-30T10:33:02.602Z'
-sourcePath: _posts/2015-07-30-squarespace-may-not-care-about-content-but-the-grid-does-a.md
-published: true
 _type: MediaObject
 _context: 'http://schema.org'
 
