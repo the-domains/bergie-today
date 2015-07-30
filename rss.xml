@@ -5,8 +5,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 11:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2015 11:36:36 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introduction to Service Worker]]></title>
+            <description><![CDATA[<article><h1>Introduction to Service Worker</h1><p>Service Worker will revolutionize the way we build for the web. Learn about what it is, why it is important and how to use it.</p><img src="http://www.html5rocks.com/en/tutorials/service-worker/introduction/images/sw-responsive-img-example.png"></article>]]></description>
+            <link>http://www.html5rocks.com/en/tutorials/service-worker/introduction/</link>
+            <guid isPermaLink="false">1b364ed9-3a31-43b8-b635-2de15f19a602</guid>
+            <pubDate>Thu, 18 Jun 2015 02:44:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is Gravity Time’s Archer?]]></title>
             <description><![CDATA[<article><h1>Is Gravity Time’s Archer?</h1><p>A new model argues the forces between particles in the early universe loosed time’s arrow, creating temporal order from chaos.</p><img src="http://fqxi.org/data/article-images/html/koslowski_small.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.r2d3.us/visual-intro-to-machine-learning-part-1/</link>
             <guid isPermaLink="false">bde5d396-4481-40e2-ab81-8b259be45f4d</guid>
             <pubDate>Wed, 29 Jul 2015 16:39:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Golden Record: Sounds of Earth by NASA]]></title>
-            <description><![CDATA[<article><h1>Golden Record: Sounds of Earth by NASA</h1><p>Here's a collection of NASA sounds from historic spaceflights and current missions. You can hear the roar of a space shuttle launch or Neil Armstrong's "One small step for (a) man, one giant leap for</p><img src="http://i1.sndcdn.com/artworks-000124535894-0mywo8-t500x500.jpg"></article>]]></description>
-            <link>https://soundcloud.com/nasa/sets/golden-record-sounds-of</link>
-            <guid isPermaLink="false">bb756751-7d39-4736-9161-5ed1f79a4e8b</guid>
-            <pubDate>Wed, 29 Jul 2015 16:31:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
