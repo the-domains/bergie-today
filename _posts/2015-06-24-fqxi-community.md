@@ -13,21 +13,23 @@ keywords:
   - earth
   - temporal
   - gravitational
-description: 'FQXi catalyzes, supports, and disseminates research on questions at the foundations of physics and cosmology, particularly new frontiers and innovative ideas integral to a deep understanding of reality, but unlikely to be supported by conventional funding sources.'
+description: 'A new model argues the forces between particles in the early universe loosed time’s arrow, creating temporal order from chaos.'
 author: []
 related: []
 app_links: []
 title: Is Gravity Time’s Archer?
 datePublished: '2015-06-24T02:13:00.097Z'
+dateModified: '2015-07-30T11:33:44.601Z'
+sourcePath: _posts/2015-06-24-fqxi-community.md
+published: true
+tags:
+  - ''
 authors: []
 publisher:
   name: Fqxi
   domain: fqxi.org
   url: 'http://fqxi.org'
   favicon: 'http://fqxi.org/favicon.ico'
-dateModified: '2015-06-24T02:13:00.097Z'
-sourcePath: _posts/2015-06-24-fqxi-community.md
-published: true
 _type: MediaObject
 _context: 'http://schema.org'
 
