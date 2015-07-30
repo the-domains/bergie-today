@@ -40,9 +40,11 @@ related: []
 app_links: []
 title: This Tool is Going To Completely Change Web Design
 datePublished: '2015-06-23T06:29:15.321Z'
-dateModified: '2015-06-23T06:32:50.222Z'
+dateModified: '2015-07-30T12:13:34.118Z'
 sourcePath: _posts/2015-06-23-this-tool-is-going-to-completely-change-web-design-or-fstoppe.md
 published: true
+tags:
+  - ''
 authors: []
 publisher:
   name: Fstoppers
