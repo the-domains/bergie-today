@@ -13,7 +13,7 @@ keywords:
   - paris
   - cms
   - desymfony
-description: Uploaded by SensioLabs on 2012-10-11.
+description: SymfonyLive Paris 2012
 author:
   - name: SensioLabs
     url: 'http://www.youtube.com/user/SensioLabs'
@@ -31,11 +31,11 @@ app_links:
     package: com.google.android.youtube
   - url: 'http://www.youtube.com/watch?v=dVFKgWL_TD8&feature=applinks'
     type: web
-title: SymfonyLive Paris 2012 - Decoupling Content Management with Create and PHPCR
+title: Decoupling Content Management with Create and PHPCR
 tags:
   - talks
   - video
-dateModified: '2015-06-15T04:10:46.377Z'
+dateModified: '2015-07-30T12:07:59.281Z'
 sourcePath: _posts/2012-10-11-symfonylive-paris-2012-decoupling-content-management-with.md
 published: true
 authors: []
@@ -44,7 +44,7 @@ publisher:
   domain: www.youtube.com
   url: 'http://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-_type: VideoObject
+_type: MediaObject
 _context: 'http://schema.org'
 
 ---
