@@ -5,8 +5,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 11:31:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2015 11:32:22 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Announcing MsgFlo, a distributed FBP runtime]]></title>
+            <description><![CDATA[<article><h1>Announcing MsgFlo, a distributed FBP runtime</h1><p>At The Grid we do a lot of CPU intensive work on the backend as part of producing web pages. This includes content extraction, normalization, image analytics, webpage auto-layout using constraint solvers, webpage optimization ( GSS to CSS compilation) and image processing.</p><img src="http://www.jonnor.com/wp/files/noflo-ingresstable-1024x556.png"></article>]]></description>
+            <link>http://www.jonnor.com/2015/06/announcing-msgflo-a-distributed-fbp-runtime/</link>
+            <guid isPermaLink="false">e603bf46-ac00-4725-9805-b8d4f5f73763</guid>
+            <pubDate>Tue, 09 Jun 2015 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tardis!]]></title>
             <description><![CDATA[<article><h1>Tardis!</h1><p>At the Doctor Who 50th Anniversary</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26fbe495-6aa4-4fa1-8399-40365854c85f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://danmaz74.me/2015/07/27/flux-architecture-visual-cheatsheet/</link>
             <guid isPermaLink="false">d94a47a0-3a5c-49c7-9ad5-5b77693b1c17</guid>
             <pubDate>Wed, 29 Jul 2015 16:28:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Google Translate squeezes deep learning onto a phone]]></title>
-            <description><![CDATA[<article><h1>How Google Translate squeezes deep learning onto a phone</h1><p>Today we announced that the Google Translate app now does real-time visual translation of 20 more languages. So the next time you're in Prague and can't read a menu, we've got your back. But how are we able to recognize these new languages? In short: deep neural nets.</p><img src="http://4.bp.blogspot.com/-D7MiFwqGuNw/Vbf3lq9z8-I/AAAAAAAAApw/2Pd1hMCsnBg/s72-c/image00.png"></article>]]></description>
-            <link>http://googleresearch.blogspot.de/2015/07/how-google-translate-squeezes-deep.html</link>
-            <guid isPermaLink="false">8bbcb5a2-1774-42bc-bc6d-4c00d62ee0cd</guid>
-            <pubDate>Wed, 29 Jul 2015 16:26:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
