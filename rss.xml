@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 12:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2015 12:13:35 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This Tool is Going To Completely Change Web Design]]></title>
+            <description><![CDATA[<article><h1>This Tool is Going To Completely Change Web Design</h1><p>About every five years a company comes along and really shakes things up. Rather than try to make slight improvements over their competition they completely redesign the concept and reform the way we do things. Over the last decade many of us have experienced the painful, time-consuming task of making ourselves a website.</p><img src="https://d1w5usc88actyi.cloudfront.net/styles/full/s3/media/2014/12/screen_shot_2014-12-18_at_3.56.55_pm.png"></article>]]></description>
+            <link>https://fstoppers.com/originals/tool-going-completely-change-web-design-49406</link>
+            <guid isPermaLink="false">f538c1d3-66c0-48fa-8d63-1e2ac69aeb6b</guid>
+            <pubDate>Tue, 23 Jun 2015 06:29:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meet @henribergius VP of Engineering @thegridio Henri is an open source content management pioneer. He is the author of the Create.js web editing interface and the NoFlo flow-based programming environment that powers #TheGrid. He is the real deal and it's been my privileged to have gotten to know him over the last year. #TheGridFamily]]></title>
@@ -69,12 +76,6 @@
             <link>http://www.jonnor.com/2015/06/announcing-msgflo-a-distributed-fbp-runtime/</link>
             <guid isPermaLink="false">e603bf46-ac00-4725-9805-b8d4f5f73763</guid>
             <pubDate>Tue, 09 Jun 2015 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tardis!]]></title>
-            <description><![CDATA[<article><h1>Tardis!</h1><p>At the Doctor Who 50th Anniversary</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26fbe495-6aa4-4fa1-8399-40365854c85f.jpg"></article>]]></description>
-            <guid isPermaLink="false">2788715a-d8fa-4b4a-bae6-3ba8da601668</guid>
-            <pubDate>Tue, 02 Jun 2015 08:01:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
