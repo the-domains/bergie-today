@@ -5,8 +5,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 11:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2015 11:53:31 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Henri Bergius]]></title>
+            <description><![CDATA[<article><h1>Henri Bergius</h1><p>Hacker and an occasional adventurer. Author of Create.js and NoFlo. Decoupling software, one piece at a time.</p><img src="http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg"></article>]]></description>
+            <link>http://bergie.today/henri-bergius/index.html</link>
+            <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
+            <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid API Overview]]></title>
             <description><![CDATA[<article><h1>The Grid API Overview</h1><p>The Grid API will enable you to build applications on top of The Grid Platform - check out our API docs here: http://developer.thegrid.io There are no artificial limitations in The Grid API; all the capabilities that the official Grid apps use are available, and anyone with an active subscription to The Grid can access the API.</p><img src="https://i.ytimg.com/vi/6WC51nDYgCw/hqdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://practicaltypography.com/billionaires-typewriter.html</link>
             <guid isPermaLink="false">48e76a63-47a7-48bb-81ec-e33a9c0150ee</guid>
             <pubDate>Wed, 06 May 2015 16:21:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Squarespace may not care about content, but The Grid does. At least the technical characteristics of that content. It recognizes people and objects in your phot</p>]]></description>
-            <link>https://louderthanten.com/articles/story/design-machines</link>
-            <guid isPermaLink="false">0da041b1-7b74-4f8b-8f94-692bf9e2ffb9</guid>
-            <pubDate>Thu, 30 Jul 2015 10:33:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
