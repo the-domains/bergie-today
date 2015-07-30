@@ -5,8 +5,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 10:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2015 10:33:29 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Squarespace may not care about content, but The Grid does. At least the technical characteristics of that content. It recognizes people and objects in your phot</p>]]></description>
+            <link>https://louderthanten.com/articles/story/design-machines</link>
+            <guid isPermaLink="false">0da041b1-7b74-4f8b-8f94-692bf9e2ffb9</guid>
+            <pubDate>Thu, 30 Jul 2015 10:33:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The fastest-growing mobile phone markets barely use apps]]></title>
             <description><![CDATA[<article><h1>The fastest-growing mobile phone markets barely use apps</h1><p>Africa and Asia, the two fastest growing mobile markets, aren't very big on apps. The overwhelming majority of mobile internet activity in the regions is spent on web pages, according to a report released yesterday (July 28) by Opera Mediaworks. In Asia and Africa, websites made up 90% and 96% of mobile impressions, respectively, in the second quarter.</p><img src="https://i0.wp.com/qzprod.files.wordpress.com/2015/07/africa-asia-phones.jpg?fit=440%2C330"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.flickr.com/photos/bergie/19838875298/in/datetaken-public/</link>
             <guid isPermaLink="false">813311e3-01d2-48af-8a2b-992a131855f0</guid>
             <pubDate>Mon, 27 Jul 2015 16:05:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can you fit your Life into a Backpack? - Nomad List - Stories]]></title>
-            <description><![CDATA[<article><h1>Can you fit your Life into a Backpack? - Nomad List - Stories</h1><p>I've recently started to reduce my personal belongings to just a handful of things that fit into a backpack. I wanted to share the motivation behind it and the things I decided to keep. I'm not fully there yet but the journey is quite amazing so far.</p><img src="https://d262ilb51hltx0.cloudfront.net/max/800/1*L6EoXfm8hW5i4-X10_MDxg.jpeg"></article>]]></description>
-            <link>https://medium.com/digital-nomad-stories/can-you-fit-your-life-into-a-backpack-27e836c6728b</link>
-            <guid isPermaLink="false">99c3aad7-67b2-4fd2-95b0-c4b019cc9f65</guid>
-            <pubDate>Mon, 27 Jul 2015 16:02:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
