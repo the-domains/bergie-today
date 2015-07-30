@@ -31,17 +31,19 @@ app_links:
     package: com.google.android.youtube
   - url: 'http://www.youtube.com/watch?v=6WC51nDYgCw&feature=applinks'
     type: web
-title: The Grid API Overview
+title: The Grid API overview
+dateModified: '2015-07-30T11:41:57.088Z'
+sourcePath: _posts/2015-06-05-the-grid-api-overview.md
+published: true
+tags:
+  - ''
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'http://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-dateModified: '2015-06-15T04:08:16.380Z'
-sourcePath: _posts/2015-06-05-the-grid-api-overview.md
-published: true
-_type: VideoObject
+_type: MediaObject
 _context: 'http://schema.org'
 
 ---
