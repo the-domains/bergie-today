@@ -5,8 +5,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 11:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2015 11:30:26 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Internet is your Application Blueprint]]></title>
+            <description><![CDATA[<article><h1>The Internet is your Application Blueprint</h1><p>Exclusive from the International PHP Conference 2012 -- Lukas Smith and Henri Bergius with their Keynote "The Internet is your Appliclation Blueprint". The internet is based on loosely connected services and standards. Yet it seems most web developers choose to build applications that are essentially one gigantic blob using self invented ad hoc protocols and APIs.</p><img src="https://i.ytimg.com/vi/VQdl7J_24PA/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=VQdl7J_24PA</link>
+            <guid isPermaLink="false">b70a8f97-8e9b-4701-9c8a-d7d2f2a2476e</guid>
+            <pubDate>Tue, 16 Oct 2012 10:55:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The billionaire’s typewriter]]></title>
             <description><![CDATA[<article><h1>The billionaire’s typewriter</h1><p>A friend pointed me to a story on Medium called "Death to Type­writ­ers," by Medium de­signer Marcin Wichary. The story is about the in­flu­ence of the type­writer on dig­i­tal type­set­ting. It ref­er­ences my "ex­cel­lent list" of type­writer habits. Thank you for the com­pli­ment, Mr. Wichary.</p><img src="http://practicaltypography.com/images/selectric-ball.jpeg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.theverge.com/2015/7/28/9064499/nokia-vr-camera-ozo</link>
             <guid isPermaLink="false">03958b19-27f7-4cda-94dd-f4a64461a928</guid>
             <pubDate>Wed, 29 Jul 2015 12:10:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flock 1e Deployment- July 13, 2015]]></title>
-            <description><![CDATA[<article><h1>Flock 1e Deployment- July 13, 2015</h1><p>Flock 1e is deployed from a Nanroacks deployer on the Kibo Experimental Wing of the International Space Station. Video Courtesy of NASA. Read more about the deployments: https://www.planet.com/pulse/flock1e/</p><img src="http://i.vimeocdn.com/video/528237761_1280.jpg"></article>]]></description>
-            <link>https://vimeo.com/134652822</link>
-            <guid isPermaLink="false">7edeb4bd-7bd3-4fe8-99ce-985413477a91</guid>
-            <pubDate>Tue, 28 Jul 2015 14:10:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
