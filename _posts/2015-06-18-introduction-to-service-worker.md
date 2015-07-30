@@ -18,16 +18,18 @@ author: []
 related: []
 app_links: []
 title: Introduction to Service Worker
+datePublished: '2015-06-18T02:44:10.164Z'
+dateModified: '2015-07-30T11:36:33.424Z'
+sourcePath: _posts/2015-06-18-introduction-to-service-worker.md
+published: true
+tags:
+  - ''
 authors: []
 publisher:
   name: HTML5 Rocks - A resource for open web HTML5 developers
   domain: www.html5rocks.com
   url: 'http://www.html5rocks.com'
   favicon: 'http://www.html5rocks.com/favicon.ico'
-datePublished: '2015-06-18T02:44:10.164Z'
-dateModified: '2015-06-18T02:44:10.164Z'
-sourcePath: _posts/2015-06-18-introduction-to-service-worker.md
-published: true
 _type: MediaObject
 _context: 'http://schema.org'
 
