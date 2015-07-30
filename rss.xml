@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 12:08:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2015 12:11:12 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet @henribergius VP of Engineering @thegridio Henri is an open source content management pioneer. He is the author of the Create.js web editing interface and the NoFlo flow-based programming environment that powers #TheGrid. He is the real deal and it's been my privileged to have gotten to know him over the last year. #TheGridFamily]]></title>
+            <description><![CDATA[<article><h1>Meet @henribergius VP of Engineering @thegridio Henri is an open source content management pioneer. He is the author of the Create.js web editing interface and the NoFlo flow-based programming environment that powers #TheGrid. He is the real deal and it's been my privileged to have gotten to know him over the last year. #TheGridFamily</h1><img src="https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xpa1/t51.2885-15/10725086_660349637421918_862805774_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/zWd25EIZMW/</link>
+            <guid isPermaLink="false">06e4d3cf-4e1d-4da1-8144-67b0a9221ef1</guid>
+            <pubDate>Tue, 23 Jun 2015 06:33:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SymfonyLive Paris 2012 - Henri Bergius - Decoupling Content Management with Create and PHPCR]]></title>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Tardis!</h1><p>At the Doctor Who 50th Anniversary</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26fbe495-6aa4-4fa1-8399-40365854c85f.jpg"></article>]]></description>
             <guid isPermaLink="false">2788715a-d8fa-4b4a-bae6-3ba8da601668</guid>
             <pubDate>Tue, 02 Jun 2015 08:01:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Internet is your Application Blueprint]]></title>
-            <description><![CDATA[<article><h1>The Internet is your Application Blueprint</h1><p>Exclusive from the International PHP Conference 2012 -- Lukas Smith and Henri Bergius with their Keynote "The Internet is your Appliclation Blueprint". The internet is based on loosely connected services and standards. Yet it seems most web developers choose to build applications that are essentially one gigantic blob using self invented ad hoc protocols and APIs.</p><img src="https://i.ytimg.com/vi/VQdl7J_24PA/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=VQdl7J_24PA</link>
-            <guid isPermaLink="false">b70a8f97-8e9b-4701-9c8a-d7d2f2a2476e</guid>
-            <pubDate>Tue, 16 Oct 2012 10:55:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
