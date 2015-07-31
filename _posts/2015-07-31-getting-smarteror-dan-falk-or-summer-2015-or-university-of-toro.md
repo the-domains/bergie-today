@@ -50,15 +50,17 @@ related:
 app_links: []
 title: Getting Smarter
 datePublished: '2015-07-31T19:08:28.931Z'
+dateModified: '2015-07-31T20:39:45.174Z'
+sourcePath: _posts/2015-07-31-getting-smarteror-dan-falk-or-summer-2015-or-university-of-toro.md
+published: true
+tags:
+  - ''
 authors: []
 publisher:
   name: Utoronto
   domain: www.magazine.utoronto.ca
   url: 'http://www.magazine.utoronto.ca'
   favicon: 'http://www.magazine.utoronto.ca/new/wp-content/themes/2009/favicon.ico'
-dateModified: '2015-07-31T19:08:28.931Z'
-sourcePath: _posts/2015-07-31-getting-smarteror-dan-falk-or-summer-2015-or-university-of-toro.md
-published: true
 _type: MediaObject
 _context: 'http://schema.org'
 
