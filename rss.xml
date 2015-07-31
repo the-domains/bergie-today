@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 31 Jul 2015 09:57:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2015 09:58:51 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Humans Who Dream Of Companies That Won't Need Us]]></title>
+            <description><![CDATA[<article><h1>The Humans Who Dream Of Companies That Won't Need Us</h1><p>Like other serious crypto-anarchist visionaries, the 21-year-old Russian Canadian entrepreneur Vitalik Buterin sees the blockchain-the public ledger underlying bitcoin-as a way to liberate us all from inefficiency, cut out the middleman, and make big government and business bow at the free market's feet. What makes his vision different is its scope.</p><img src="http://e.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2015/06/3047462-poster-p-1-a-the-humans-who-dream-of-companies-that-wont-need-them.jpg"></article>]]></description>
+            <link>http://www.fastcompany.com/3047462/the-humans-who-dream-of-companies-that-wont-need-them</link>
+            <guid isPermaLink="false">5855f7a1-0903-410c-b3ed-f1cc929b8280</guid>
+            <pubDate>Fri, 31 Jul 2015 09:58:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ethereum: the World Computer]]></title>
@@ -69,13 +76,6 @@
             <link>https://archive.org/details/DecouplingContentManagementInDrupal</link>
             <guid isPermaLink="false">e1504f9f-42b0-42b6-941e-4265ff5fc700</guid>
             <pubDate>Thu, 22 Nov 2012 20:12:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It's The Future]]></title>
-            <description><![CDATA[<article><h1>It's The Future</h1><p>Editor Note: At the risk of spoiling the joke a bit, we want to make sure that everyone knows that the following is satire, and we're actually quite fond of the companies we mention. Docker, CoreOS, Google, Vagrant/Hashicorp, Heroku, Aphyr, Amazon, Mongo, Redis-we love you really and mean you no harm.</p><img src="http://blog.circleci.com/wp-content/uploads/2015/06/rabbit_hole.jpg"></article>]]></description>
-            <link>http://blog.circleci.com/its-the-future/</link>
-            <guid isPermaLink="false">368aab18-41c6-4ee6-b629-f7bdeb2bfd34</guid>
-            <pubDate>Tue, 09 Jun 2015 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
