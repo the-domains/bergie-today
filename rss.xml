@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 31 Jul 2015 10:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2015 15:24:45 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Science on the surface of a comet]]></title>
+            <description><![CDATA[<article><h1>Science on the surface of a comet</h1><p>Tweet Complex molecules that could be key building blocks of life, the daily rise and fall of temperature, and an assessment of the surface properties and internal structure of the comet are just some of the highlights of the first scientific analysis of the data returned by Rosetta's lander Philae last November.</p><img src="http://blogs.esa.int/rosetta/files/2015/07/ESA_Rosetta_Philae_CIVA_reflectance-1024x432.jpg"></article>]]></description>
+            <link>http://blogs.esa.int/rosetta/2015/07/30/science-on-the-surface-of-a-comet/</link>
+            <guid isPermaLink="false">6f473e32-2026-4ad0-a7ab-90ba16b77a82</guid>
+            <pubDate>Fri, 31 Jul 2015 15:23:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Renewables briefly covered 78 percent of German electricity]]></title>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/watch?v=dVFKgWL_TD8</link>
             <guid isPermaLink="false">31200572-cadc-4c26-96b9-aa3c2c57bee6</guid>
             <pubDate>Thu, 11 Oct 2012 10:33:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid API Overview]]></title>
-            <description><![CDATA[<article><h1>The Grid API Overview</h1><p>The Grid API will enable you to build applications on top of The Grid Platform - check out our API docs here: http://developer.thegrid.io There are no artificial limitations in The Grid API; all the capabilities that the official Grid apps use are available, and anyone with an active subscription to The Grid can access the API.</p><img src="https://i.ytimg.com/vi/6WC51nDYgCw/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=6WC51nDYgCw</link>
-            <guid isPermaLink="false">4c429bb3-3e1f-4b76-ad99-5507ab827e74</guid>
-            <pubDate>Fri, 05 Jun 2015 05:09:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
