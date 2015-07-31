@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 31 Jul 2015 18:39:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2015 19:01:13 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This is what the Grid’s ‘AI’ website builder looks like]]></title>
+            <description><![CDATA[<h1>This is what the Grid’s ‘AI’ website builder looks like</h1>]]></description>
+            <link>http://thenextweb.com/dd/2015/07/31/this-is-what-the-grids-ai-website-builder-looks-like/</link>
+            <guid isPermaLink="false">5e2b40cc-ff54-4e2b-b256-5505beae2264</guid>
+            <pubDate>Fri, 31 Jul 2015 19:00:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Japanese garden in Berlin]]></title>
@@ -69,13 +76,6 @@
             <link>http://www.zengestrom.com/blog/2005/04/why-some-social-network-services-work-and-others-dont-or-the-case-for-object-centered-sociality.html</link>
             <guid isPermaLink="false">1d0e58c2-9391-412f-b2ba-6f58c6883b6f</guid>
             <pubDate>Thu, 30 Jul 2015 14:06:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Tool is Going To Completely Change Web Design]]></title>
-            <description><![CDATA[<article><h1>This Tool is Going To Completely Change Web Design</h1><p>About every five years a company comes along and really shakes things up. Rather than try to make slight improvements over their competition they completely redesign the concept and reform the way we do things. Over the last decade many of us have experienced the painful, time-consuming task of making ourselves a website.</p><img src="https://d1w5usc88actyi.cloudfront.net/styles/full/s3/media/2014/12/screen_shot_2014-12-18_at_3.56.55_pm.png"></article>]]></description>
-            <link>https://fstoppers.com/originals/tool-going-completely-change-web-design-49406</link>
-            <guid isPermaLink="false">f538c1d3-66c0-48fa-8d63-1e2ac69aeb6b</guid>
-            <pubDate>Tue, 23 Jun 2015 06:29:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
