@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 31 Jul 2015 10:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2015 10:29:56 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Renewables briefly covered 78 percent of German electricity]]></title>
+            <description><![CDATA[<article><h1>Renewables briefly covered 78 percent of German electricity</h1><p>On July 25, Germany surpassed the old record of 74 percent renewable electricity. But perhaps the most interesting aspect is power trading between France and Germany on that day. Craig Morris explains. At the end of July, the storm Zeljko passed over northern Europe, causing considerable wind damage and flooding in some areas.</p><img src="http://energytransition.de/files/2015/07/renewable_powerproduction_week30_2015.png"></article>]]></description>
+            <link>http://energytransition.de/2015/07/renewables-covered-78percent-of-german-electricity/</link>
+            <guid isPermaLink="false">1433f212-455a-4a30-b7ec-6b194d3e918f</guid>
+            <pubDate>Fri, 31 Jul 2015 10:29:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Humans Who Dream Of Companies That Won't Need Us]]></title>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/watch?v=6WC51nDYgCw</link>
             <guid isPermaLink="false">4c429bb3-3e1f-4b76-ad99-5507ab827e74</guid>
             <pubDate>Fri, 05 Jun 2015 05:09:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Decoupling Content Management in Drupal]]></title>
-            <description><![CDATA[<article><h1>Decoupling Content Management in Drupal</h1><p>Decoupled content management is a new way to look at the process of editing and managing content on the Web. Traditional Content Management Systems tend to tie their users to a built-in content storage and editing interface. The concept of decoupled content management is about a clean separation of concerns between the content repository, the web framework, and the web editing tool.</p><img src="https://archive.org/download/DecouplingContentManagementInDrupal/DecouplingContentManagementInDrupal.thumbs/Movie_000061.jpg"></article>]]></description>
-            <link>https://archive.org/details/DecouplingContentManagementInDrupal</link>
-            <guid isPermaLink="false">e1504f9f-42b0-42b6-941e-4265ff5fc700</guid>
-            <pubDate>Thu, 22 Nov 2012 20:12:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
