@@ -23,7 +23,7 @@ app_links: []
 isBasedOnUrl: 'http://blogs.wsj.com/japanrealtime/2015/07/31/suntory-plans-space-aged-whisky/?mod=e2tw'
 title: Suntory Plans Space-Aged Whisky
 datePublished: '2015-07-31T18:12:46.714Z'
-dateModified: '2015-07-31T18:12:46.714Z'
+dateModified: '2015-07-31T18:13:50.730Z'
 sourcePath: _posts/2015-07-31-suntory-plans-space-aged-whisky.md
 published: true
 _context: 'http://schema.org'
