@@ -1,14 +1,7 @@
 ---
-author:
-  - name: Haedong Kumdo Helsinki
-    url: 'https://www.youtube.com/user/haedongkumdohelsinki'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+isBasedOnUrl: 'https://www.youtube.com/watch?v=OPS7_cDz7a8&index=15&list=LLnPE7t9tqwcsO0LLyw5zuPQ'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - gumdo
@@ -21,7 +14,11 @@ keywords:
   - slow
   - katana
 description: 'Super Slow Motion scenes shot with 1500 fps Phantom Miro LC320. Accompanied with a beautiful song by M83, to which EMI owns all copyrights to. Music: M83 - Intro feat.'
-inLanguage: en
+author:
+  - name: Haedong Kumdo Helsinki
+    url: 'https://www.youtube.com/user/haedongkumdohelsinki'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=OPS7_cDz7a8&list=LLnPE7t9tqwcsO0LLyw5zuPQ&index=15&feature=applinks'
     type: ios
@@ -33,12 +30,19 @@ app_links:
     package: com.google.android.youtube
   - url: 'http://www.youtube.com/watch?v=OPS7_cDz7a8&list=LLnPE7t9tqwcsO0LLyw5zuPQ&index=15&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=OPS7_cDz7a8&index=15&list=LLnPE7t9tqwcsO0LLyw5zuPQ'
-title: Slow Motion Sword Cutting with Music by M83 - Intro (ft. Zola Jesus)
+title: Slow Motion Sword Cutting
 datePublished: '2015-07-31T19:04:01.298Z'
-dateModified: '2015-07-31T19:04:01.298Z'
+dateModified: '2015-07-31T20:42:32.099Z'
 sourcePath: _posts/2015-07-31-slow-motion-sword-cutting-with-music-by-m83-intro-ft-zol.md
 published: true
+tags:
+  - ''
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
