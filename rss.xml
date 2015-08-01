@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 31 Jul 2015 20:43:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2015 14:43:28 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,12 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Demonstration for press freedom in Germany]]></title>
+            <description><![CDATA[<article><h1>Demonstration for press freedom in Germany</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a25c2de1-ecb3-4c91-ba57-b588df020303.jpg"></article>]]></description>
+            <guid isPermaLink="false">c41056f5-ce91-4389-a0da-6d5cc858109d</guid>
+            <pubDate>Sat, 01 Aug 2015 14:41:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -69,13 +75,6 @@
             <link>http://energytransition.de/2015/07/renewables-covered-78percent-of-german-electricity/</link>
             <guid isPermaLink="false">1433f212-455a-4a30-b7ec-6b194d3e918f</guid>
             <pubDate>Fri, 31 Jul 2015 10:29:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Humans Who Dream Of Companies That Won't Need Us]]></title>
-            <description><![CDATA[<article><h1>The Humans Who Dream Of Companies That Won't Need Us</h1><p>Like other serious crypto-anarchist visionaries, the 21-year-old Russian Canadian entrepreneur Vitalik Buterin sees the blockchain-the public ledger underlying bitcoin-as a way to liberate us all from inefficiency, cut out the middleman, and make big government and business bow at the free market's feet. What makes his vision different is its scope.</p><img src="http://e.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2015/06/3047462-poster-p-1-a-the-humans-who-dream-of-companies-that-wont-need-them.jpg"></article>]]></description>
-            <link>http://www.fastcompany.com/3047462/the-humans-who-dream-of-companies-that-wont-need-them</link>
-            <guid isPermaLink="false">5855f7a1-0903-410c-b3ed-f1cc929b8280</guid>
-            <pubDate>Fri, 31 Jul 2015 09:58:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
