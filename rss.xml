@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 01 Aug 2015 15:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2015 14:03:14 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: the 1997 Psion Series 5 personal digital assistant]]></title>
+            <description><![CDATA[<article><h1>Review: the 1997 Psion Series 5 personal digital assistant</h1><p>Written (sort of) on the 1997 Psion Series 5 personal digital assistant No matter how dry and symbolic text might be, the way you write it matters. I've spent a large part of my life messing around with different kinds of typewriters, paper, and (as an annoying ancient language-obsessed kid) clay tablets.</p><img src="https://cdn1.vox-cdn.com/thumbor/ejdiLfovHReuwo2kw54x45DTBbc=/0x53:1019x626/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/46873438/IMG_8944.0.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2015/8/2/9080499/psion-series-5-vintage-pda-review</link>
+            <guid isPermaLink="false">9bf481b1-6f7d-4fdc-87a0-aaa034d2af3f</guid>
+            <pubDate>Mon, 03 Aug 2015 14:00:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Demonstration for press freedom in Germany]]></title>
@@ -69,13 +76,6 @@
             <link>http://blogs.esa.int/rosetta/2015/07/30/science-on-the-surface-of-a-comet/</link>
             <guid isPermaLink="false">6f473e32-2026-4ad0-a7ab-90ba16b77a82</guid>
             <pubDate>Fri, 31 Jul 2015 15:23:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Renewables briefly covered 78 percent of German electricity]]></title>
-            <description><![CDATA[<article><h1>Renewables briefly covered 78 percent of German electricity</h1><p>On July 25, Germany surpassed the old record of 74 percent renewable electricity. But perhaps the most interesting aspect is power trading between France and Germany on that day. Craig Morris explains. At the end of July, the storm Zeljko passed over northern Europe, causing considerable wind damage and flooding in some areas.</p><img src="http://energytransition.de/files/2015/07/renewable_powerproduction_week30_2015.png"></article>]]></description>
-            <link>http://energytransition.de/2015/07/renewables-covered-78percent-of-german-electricity/</link>
-            <guid isPermaLink="false">1433f212-455a-4a30-b7ec-6b194d3e918f</guid>
-            <pubDate>Fri, 31 Jul 2015 10:29:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
