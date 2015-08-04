@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 04 Aug 2015 10:47:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2015 11:41:03 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dotfiles are your Digital Backpack]]></title>
+            <description><![CDATA[<article><h1>Dotfiles are your Digital Backpack</h1><p>In this article I want to share my experience of maintaining and improving my dotfiles over roughly a year. Everywhere I go, or new computer I set up, I can quickly clone the git repository and fire up my bootstrap script to wire all the symlinks, aliases and scripts to form the console environement in which tools are familiar and I am efficient in solving tasks.</p></article>]]></description>
+            <link>http://www.madewithtea.com/dotfiles-are-your-digital-backpack.html</link>
+            <guid isPermaLink="false">ef6099d8-c7fe-46b9-8c51-46eaf98cce0f</guid>
+            <pubDate>Tue, 04 Aug 2015 11:40:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[More Money For Better Open-Source Software]]></title>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/littlecalculist/status/627183736627425280</link>
             <guid isPermaLink="false">838d8c9c-eb54-4181-9c00-f56fc95cd996</guid>
             <pubDate>Fri, 31 Jul 2015 19:10:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Smarter]]></title>
-            <description><![CDATA[<article><h1>Getting Smarter</h1><p>Geoffrey Hinton has a news bulletin for you: You're not conscious. OK, you're conscious as opposed to being unconscious - such as when you fall asleep at night, or when you get knocked out during a boxing match or when a doctor administers a general anesthetic before surgery.</p><img src="http://www.magazine.utoronto.ca/new/wp-content/uploads/2015/06/Hinton_480-480x596.jpg"></article>]]></description>
-            <link>http://www.magazine.utoronto.ca/feature/getting-smarter-computer-science-professor-geoffrey-hinton-is-helping-to-build-a-new-generation-of-intelligent-machines/</link>
-            <guid isPermaLink="false">bb8c4c44-c279-4848-a4c0-ec690375cf93</guid>
-            <pubDate>Fri, 31 Jul 2015 19:08:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
