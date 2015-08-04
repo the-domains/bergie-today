@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 04 Aug 2015 11:41:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2015 13:25:58 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Post-Mac Interface]]></title>
+            <description><![CDATA[<article><h1>The Post-Mac Interface</h1><p>20 years later, has the Anti-Mac Interface unseated the original Macintosh design principles? "We reverse all of the core design principles behind the Macintosh human interface guidelines to arrive at the characteristics of the Internet desktop." - Don Gentner and Jakob Nielsen, The Anti-Mac Interface In 1996 Don Gentner and Jakob Nielsen published a thought experiment, The Anti-Mac Interface.</p><img src="https://cdn-images-2.medium.com/max/800/1*76PjjeHA21rVEhs3LlGn9w.jpeg"></article>]]></description>
+            <link>https://medium.com/@twomonthsoff/the-post-mac-interface-1031b94df77b</link>
+            <guid isPermaLink="false">3d884c5b-4b27-4e7a-83da-90eaba2ff920</guid>
+            <pubDate>Tue, 04 Aug 2015 13:25:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dotfiles are your Digital Backpack]]></title>
@@ -69,13 +76,6 @@
             <link>http://bergie.today/demonstration-for-press-freedom-in-germany/index.html</link>
             <guid isPermaLink="false">c41056f5-ce91-4389-a0da-6d5cc858109d</guid>
             <pubDate>Sat, 01 Aug 2015 14:41:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Transpilers & polyfills are the biggest boost to devs having a collective voice in the platform, and consequently to quality of standards.</p>]]></description>
-            <link>https://twitter.com/littlecalculist/status/627183736627425280</link>
-            <guid isPermaLink="false">838d8c9c-eb54-4181-9c00-f56fc95cd996</guid>
-            <pubDate>Fri, 31 Jul 2015 19:10:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
