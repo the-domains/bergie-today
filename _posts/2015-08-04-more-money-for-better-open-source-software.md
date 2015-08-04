@@ -30,7 +30,7 @@ app_links: []
 isBasedOnUrl: 'http://marijnhaverbeke.nl/blog/sustainable-maintenance.html'
 title: More Money For Better Open-Source Software
 datePublished: '2015-08-04T10:12:52.010Z'
-dateModified: '2015-08-04T10:12:52.010Z'
+dateModified: '2015-08-04T10:47:02.070Z'
 sourcePath: _posts/2015-08-04-more-money-for-better-open-source-software.md
 published: true
 _context: 'http://schema.org'
