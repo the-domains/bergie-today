@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 03 Aug 2015 17:07:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2015 10:47:34 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,20 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More Money For Better Open-Source Software]]></title>
+            <description><![CDATA[<article><h1>More Money For Better Open-Source Software</h1><p>As a programmer I create artifacts that, unlike classical commodities such as loaves of bread or toothbrushes, can be copied at zero cost. Fitting copyable things into the capitalist market economy is something of an unsolved problem. The standard model of commerce is to sell our products by the unit.</p></article>]]></description>
+            <link>http://marijnhaverbeke.nl/blog/sustainable-maintenance.html</link>
+            <guid isPermaLink="false">1f99de2c-d614-4964-bda3-89c17ddb2411</guid>
+            <pubDate>Tue, 04 Aug 2015 10:12:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How I Gave Up Alternating Current]]></title>
+            <description><![CDATA[<article><h1>How I Gave Up Alternating Current</h1><p>The walls are buzzing. I know this because I have a magnet implanted in my hand and whenever I reach near an outlet I can feel them. I can feel fortresses of industry miles away burning prehistoric hydrocarbons by the megaton.</p><img src="http://robrhinehart.com/wp-content/uploads/2015/08/How-I-Gave-Up-Alternating-Current-1.jpg"></article>]]></description>
+            <link>http://robrhinehart.com/?p=1331</link>
+            <guid isPermaLink="false">4eea33c3-e6cf-42bb-9b5c-3bc2e7b8b22d</guid>
+            <pubDate>Tue, 04 Aug 2015 09:22:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[If we stand still, we go backwards]]></title>
@@ -62,20 +76,6 @@
             <link>http://www.magazine.utoronto.ca/feature/getting-smarter-computer-science-professor-geoffrey-hinton-is-helping-to-build-a-new-generation-of-intelligent-machines/</link>
             <guid isPermaLink="false">bb8c4c44-c279-4848-a4c0-ec690375cf93</guid>
             <pubDate>Fri, 31 Jul 2015 19:08:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Slow Motion Sword Cutting with Music by M83 - Intro (ft. Zola Jesus)]]></title>
-            <description><![CDATA[<article><h1>Slow Motion Sword Cutting with Music by M83 - Intro (ft. Zola Jesus)</h1><p>Super Slow Motion scenes shot with 1500 fps Phantom Miro LC320. Accompanied with a beautiful song by M83, to which EMI owns all copyrights to. Music: M83 - Intro feat.</p><img src="https://i.ytimg.com/vi/OPS7_cDz7a8/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=OPS7_cDz7a8&amp;index=15&amp;list=LLnPE7t9tqwcsO0LLyw5zuPQ</link>
-            <guid isPermaLink="false">153b7aec-ec17-4c5b-8018-326fc12d03f4</guid>
-            <pubDate>Fri, 31 Jul 2015 19:04:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This is what the Grid’s ‘AI’ website builder looks like]]></title>
-            <description><![CDATA[<h1>This is what the Grid’s ‘AI’ website builder looks like</h1>]]></description>
-            <link>http://thenextweb.com/dd/2015/07/31/this-is-what-the-grids-ai-website-builder-looks-like/</link>
-            <guid isPermaLink="false">5e2b40cc-ff54-4e2b-b256-5505beae2264</guid>
-            <pubDate>Fri, 31 Jul 2015 19:00:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
