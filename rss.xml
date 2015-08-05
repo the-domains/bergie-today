@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 04 Aug 2015 13:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2015 08:35:26 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NASA | Happy Birthday, Curiosity!]]></title>
+            <description><![CDATA[<article><h1>NASA | Happy Birthday, Curiosity!</h1><p>NASA's Curiosity rover celebrates its Martian birthday on August 5 (PDT), the day that it landed on Mars. In honor of this special ocassion, engineers at Goddard Space Flight Center are using the Sample Analysis at Mars (SAM) instrument to "sing" Happy Birthday to Curiosity.</p><img src="https://i.ytimg.com/vi/uxVVgBAosqg/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=uxVVgBAosqg</link>
+            <guid isPermaLink="false">e1e9a4b9-33a7-4bde-b782-229044cb3631</guid>
+            <pubDate>Wed, 05 Aug 2015 08:34:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Post-Mac Interface]]></title>
@@ -69,13 +76,6 @@
             <link>http://www.theverge.com/2015/8/2/9080499/psion-series-5-vintage-pda-review</link>
             <guid isPermaLink="false">9bf481b1-6f7d-4fdc-87a0-aaa034d2af3f</guid>
             <pubDate>Mon, 03 Aug 2015 14:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Demonstration for press freedom in Germany]]></title>
-            <description><![CDATA[<article><h1>Demonstration for press freedom in Germany</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a25c2de1-ecb3-4c91-ba57-b588df020303.jpg"></article>]]></description>
-            <link>http://bergie.today/demonstration-for-press-freedom-in-germany/index.html</link>
-            <guid isPermaLink="false">c41056f5-ce91-4389-a0da-6d5cc858109d</guid>
-            <pubDate>Sat, 01 Aug 2015 14:41:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
