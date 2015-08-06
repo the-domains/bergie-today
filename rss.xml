@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 06 Aug 2015 15:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2015 15:31:44 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From a Million Miles: The Moon Crossing the Face of Earth]]></title>
+            <description><![CDATA[<article><h1>From a Million Miles: The Moon Crossing the Face of Earth</h1><p>A camera aboard the Deep Space Climate Observatory (DSCOVR) satellite captured a unique view of the moon passing in front of the Earth last month.</p><img src="http://www.nasa.gov/sites/default/files/thumbnails/image/dscovrepicmoontransitfull.gif"></article>]]></description>
+            <link>http://www.nasa.gov/feature/goddard/from-a-million-miles-away-nasa-camera-shows-moon-crossing-face-of-earth</link>
+            <guid isPermaLink="false">fd6f5198-c79c-4fd2-a7fe-daf10ffe7ce4</guid>
+            <pubDate>Thu, 06 Aug 2015 15:31:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://marijnhaverbeke.nl/blog/sustainable-maintenance.html</link>
             <guid isPermaLink="false">1f99de2c-d614-4964-bda3-89c17ddb2411</guid>
             <pubDate>Tue, 04 Aug 2015 10:12:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How I Gave Up Alternating Current]]></title>
-            <description><![CDATA[<article><h1>How I Gave Up Alternating Current</h1><p>The walls are buzzing. I know this because I have a magnet implanted in my hand and whenever I reach near an outlet I can feel them. I can feel fortresses of industry miles away burning prehistoric hydrocarbons by the megaton.</p><img src="http://robrhinehart.com/wp-content/uploads/2015/08/How-I-Gave-Up-Alternating-Current-1.jpg"></article>]]></description>
-            <link>http://robrhinehart.com/?p=1331</link>
-            <guid isPermaLink="false">4eea33c3-e6cf-42bb-9b5c-3bc2e7b8b22d</guid>
-            <pubDate>Tue, 04 Aug 2015 09:22:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
