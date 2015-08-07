@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 06 Aug 2015 15:31:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2015 09:14:34 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Artificial Intelligence Is Already Weirdly Inhuman - Issue 27: Dark Matter - Nautilus]]></title>
+            <description><![CDATA[<article><h1>Artificial Intelligence Is Already Weirdly Inhuman - Issue 27: Dark Matter - Nautilus</h1><p>Nineteen stories up in a Brooklyn office tower, the view from Manuela Veloso's office-azure skies, New York Harbor, the Statue of Liberty-is exhilarating. But right now we only have eyes for the nondescript windows below us in the tower across the street. In their panes, we can see chairs, desks, lamps, and papers.</p><img src="http://static.nautil.us/6858_c55430fdfdac11fc3771a9b94e2bb854.png"></article>]]></description>
+            <link>http://nautil.us/issue/27/dark-matter/artificial-intelligence-is-already-weirdly-inhuman</link>
+            <guid isPermaLink="false">e896aed5-4248-4ba1-afe2-308d1acdc981</guid>
+            <pubDate>Fri, 07 Aug 2015 09:14:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From a Million Miles: The Moon Crossing the Face of Earth]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.madewithtea.com/dotfiles-are-your-digital-backpack.html</link>
             <guid isPermaLink="false">ef6099d8-c7fe-46b9-8c51-46eaf98cce0f</guid>
             <pubDate>Tue, 04 Aug 2015 11:40:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More Money For Better Open-Source Software]]></title>
-            <description><![CDATA[<article><h1>More Money For Better Open-Source Software</h1><p>As a programmer I create artifacts that, unlike classical commodities such as loaves of bread or toothbrushes, can be copied at zero cost. Fitting copyable things into the capitalist market economy is something of an unsolved problem. The standard model of commerce is to sell our products by the unit.</p></article>]]></description>
-            <link>http://marijnhaverbeke.nl/blog/sustainable-maintenance.html</link>
-            <guid isPermaLink="false">1f99de2c-d614-4964-bda3-89c17ddb2411</guid>
-            <pubDate>Tue, 04 Aug 2015 10:12:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
