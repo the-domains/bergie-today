@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 07 Aug 2015 09:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2015 15:28:21 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crew Members Sample Leafy Greens Grown on Space Station]]></title>
+            <description><![CDATA[<article><h1>Crew Members Sample Leafy Greens Grown on Space Station</h1><p>Fresh food grown in the microgravity environment of space is officially on the menu for the first time for NASA astronauts on the International Space Station.</p><img src="http://www.nasa.gov/sites/default/files/thumbnails/image/mars_food_production.jpg_1.jpeg"></article>]]></description>
+            <link>http://www.nasa.gov/mission_pages/station/research/news/meals_ready_to_eat</link>
+            <guid isPermaLink="false">204ca8c3-039f-4dc0-9a71-d0018b84a3b3</guid>
+            <pubDate>Sun, 09 Aug 2015 14:49:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Artificial Intelligence Is Already Weirdly Inhuman - Issue 27: Dark Matter - Nautilus]]></title>
@@ -68,13 +75,6 @@
             <link>https://medium.com/@twomonthsoff/the-post-mac-interface-1031b94df77b</link>
             <guid isPermaLink="false">3d884c5b-4b27-4e7a-83da-90eaba2ff920</guid>
             <pubDate>Tue, 04 Aug 2015 13:25:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dotfiles are your Digital Backpack]]></title>
-            <description><![CDATA[<article><h1>Dotfiles are your Digital Backpack</h1><p>In this article I want to share my experience of maintaining and improving my dotfiles over roughly a year. Everywhere I go, or new computer I set up, I can quickly clone the git repository and fire up my bootstrap script to wire all the symlinks, aliases and scripts to form the console environement in which tools are familiar and I am efficient in solving tasks.</p></article>]]></description>
-            <link>http://www.madewithtea.com/dotfiles-are-your-digital-backpack.html</link>
-            <guid isPermaLink="false">ef6099d8-c7fe-46b9-8c51-46eaf98cce0f</guid>
-            <pubDate>Tue, 04 Aug 2015 11:40:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
