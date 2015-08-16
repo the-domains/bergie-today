@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 13 Aug 2015 16:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2015 21:01:29 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Discharge]]></title>
+            <description><![CDATA[<article><h1>Discharge</h1><img src="https://farm1.staticflickr.com/631/20447504269_3a18c8b633_b.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/schwarzbrot/20447504269/</link>
+            <guid isPermaLink="false">286de689-63cf-4b4c-b574-b51cf515dcfa</guid>
+            <pubDate>Sun, 16 Aug 2015 21:00:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.vox.com/2015/7/22/9013911/is-the-media-becoming-a-wire-service</link>
             <guid isPermaLink="false">ca3669f4-1b08-4a1c-9b45-8b7f578f4ae2</guid>
             <pubDate>Wed, 05 Aug 2015 09:47:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NASA | Happy Birthday, Curiosity!]]></title>
-            <description><![CDATA[<article><h1>NASA | Happy Birthday, Curiosity!</h1><p>NASA's Curiosity rover celebrates its Martian birthday on August 5 (PDT), the day that it landed on Mars. In honor of this special ocassion, engineers at Goddard Space Flight Center are using the Sample Analysis at Mars (SAM) instrument to "sing" Happy Birthday to Curiosity.</p><img src="https://i.ytimg.com/vi/uxVVgBAosqg/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=uxVVgBAosqg</link>
-            <guid isPermaLink="false">e1e9a4b9-33a7-4bde-b782-229044cb3631</guid>
-            <pubDate>Wed, 05 Aug 2015 08:34:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
