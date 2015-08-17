@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 16 Aug 2015 21:01:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2015 12:23:41 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 44th Move - Deep Blue, Kasparov and the Future of (Visual) Design]]></title>
+            <description><![CDATA[<article><h1>The 44th Move - Deep Blue, Kasparov and the Future of (Visual) Design</h1><p>In May 2015 I was invited to speak about chess and design at Digital Shoreditch in London. I had previously written a short blog post comparing chess computing with early examples of design automation back in 2014, but never published the post since the parallel between these two worlds felt far-fetched and overly simplified.</p><img src="https://d262ilb51hltx0.cloudfront.net/max/800/1*w1AnrcvzDWtwUOJJ94Wxow.jpeg"></article>]]></description>
+            <link>https://medium.com/@amarkdalen/the-44th-move-deep-blue-kasparov-and-the-future-of-visual-design-228f36e7682d</link>
+            <guid isPermaLink="false">0c32329a-7b06-47c0-b5ed-7efe63a325f5</guid>
+            <pubDate>Mon, 17 Aug 2015 12:22:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Discharge]]></title>
@@ -68,13 +75,6 @@
             <link>https://stormpath.com/blog/jwt-the-right-way/</link>
             <guid isPermaLink="false">9e8567d7-f0b2-42e9-9e3b-f517f2929711</guid>
             <pubDate>Wed, 05 Aug 2015 09:48:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the media becoming a wire service?]]></title>
-            <description><![CDATA[<article><h1>Is the media becoming a wire service?</h1><p>I'm going to make some predictions about the future of the media in this piece, and they come with the disclaimer that predictions always come with: They could be entirely wrong. The media is moving fast, and what looks like an unstoppable trend today might seem like a hilarious detour a year from now.</p><img src="https://cdn3.vox-cdn.com/thumbor/KJD7W62APoI6r0rzYBXtNJ8rSLc=/0x143:3000x1810/1080x600/cdn0.vox-cdn.com/uploads/chorus_image/image/46800666/GettyImages-3213099.0.jpg"></article>]]></description>
-            <link>http://www.vox.com/2015/7/22/9013911/is-the-media-becoming-a-wire-service</link>
-            <guid isPermaLink="false">ca3669f4-1b08-4a1c-9b45-8b7f578f4ae2</guid>
-            <pubDate>Wed, 05 Aug 2015 09:47:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
