@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 17 Aug 2015 12:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2015 12:23:50 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Locking the Web Open: A Call for a Distributed Web]]></title>
+            <description><![CDATA[<article><h1>Locking the Web Open: A Call for a Distributed Web</h1><p>(Short form article, Short lecture, Long lecture, demo of a fraction of the idea of a distributed website) Over the last 25 years, millions of people have poured creativity and knowledge into the World Wide Web. New features have been added and dramatic flaws have emerged based on the original simple design.</p><img src="http://brewster.kahle.org/files/2015/05/01-petabox-e1431549733650-300x183.png"></article>]]></description>
+            <link>http://brewster.kahle.org/2015/08/11/locking-the-web-open-a-call-for-a-distributed-web-2/</link>
+            <guid isPermaLink="false">e39bd04d-1ed2-4769-8a68-81e41978eab7</guid>
+            <pubDate>Mon, 17 Aug 2015 12:23:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The 44th Move - Deep Blue, Kasparov and the Future of (Visual) Design]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.gwern.net/AB%20testing#training-a-neural-net-to-generate-css</link>
             <guid isPermaLink="false">d630f2a3-97c3-4578-992a-e64033c8a0cd</guid>
             <pubDate>Thu, 06 Aug 2015 09:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Use JWT The Right Way! - Stormpath User Management API]]></title>
-            <description><![CDATA[<article><h1>Use JWT The Right Way! - Stormpath User Management API</h1><p>JSON Web Token (JWT) is a useful standard becoming more prevalent, because it sends information that can be verified and trusted with a digital signature. In their most basic form, JWTs allow you to sign information (referred to as claims) with a signature and can be verified at a later time with a secret signing key.</p><img src="https://stormpath.com/images/logos/og-stormpath-icon.jpg"></article>]]></description>
-            <link>https://stormpath.com/blog/jwt-the-right-way/</link>
-            <guid isPermaLink="false">9e8567d7-f0b2-42e9-9e3b-f517f2929711</guid>
-            <pubDate>Wed, 05 Aug 2015 09:48:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
