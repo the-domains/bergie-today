@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 17 Aug 2015 12:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2015 18:41:40 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,12 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Helsinki Night of the Arts]]></title>
+            <description><![CDATA[<article><h1>Helsinki Night of the Arts</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5f0a814-f315-4a1f-b2b8-a40379d6fb2c.jpg"></article>]]></description>
+            <guid isPermaLink="false">af44fb65-0534-4160-a544-ad3369d606f0</guid>
+            <pubDate>Thu, 20 Aug 2015 18:39:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Locking the Web Open: A Call for a Distributed Web]]></title>
@@ -68,13 +74,6 @@
             <link>http://www.pcmag.com/encyclopedia/term/37701/amara-s-law</link>
             <guid isPermaLink="false">3d063444-f855-4cac-9cfa-f6f9f4b74722</guid>
             <pubDate>Thu, 06 Aug 2015 15:28:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A/B testing long-form readability - Gwern.net]]></title>
-            <description><![CDATA[<article><h1>A/B testing long-form readability - Gwern.net</h1><p>a log of experiments done on the site design, intended to render pages more readable</p><img src="http://www.gwern.net/images/ab/2013-10-27-ulfontsize.png"></article>]]></description>
-            <link>http://www.gwern.net/AB%20testing#training-a-neural-net-to-generate-css</link>
-            <guid isPermaLink="false">d630f2a3-97c3-4578-992a-e64033c8a0cd</guid>
-            <pubDate>Thu, 06 Aug 2015 09:53:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
