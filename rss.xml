@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 22 Aug 2015 10:08:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2015 13:36:18 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eter9 social network learns your personality so it can post as you when you're dead]]></title>
+            <description><![CDATA[<article><h1>Eter9 social network learns your personality so it can post as you when you're dead</h1><p>It will then continue posting online for you after death. Yes, it's the creepiest thing we've learned today too. If your social activity consists of posts about Taylor Swift and complaints to train companies, it means you can post for eternity on these topics. You can also "smile" at things, similar to likes, forever.</p><img src="http://ichef.bbci.co.uk/news/976/cpsprodpb/151EF/production/_85111568_robot_getty.jpg"></article>]]></description>
+            <link>http://www.bbc.co.uk/newsbeat/article/34015307/eter9-social-network-learns-your-personality-so-it-can-post-as-you-when-youre-dead</link>
+            <guid isPermaLink="false">3c561b6a-59cc-462a-9be5-1f8438f624e1</guid>
+            <pubDate>Sat, 22 Aug 2015 13:33:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How (and Why) SpaceX Will Colonize Mars - Wait But Why]]></title>
@@ -68,13 +75,6 @@
             <link>http://nautil.us/issue/27/dark-matter/artificial-intelligence-is-already-weirdly-inhuman</link>
             <guid isPermaLink="false">e896aed5-4248-4ba1-afe2-308d1acdc981</guid>
             <pubDate>Fri, 07 Aug 2015 09:14:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From a Million Miles: The Moon Crossing the Face of Earth]]></title>
-            <description><![CDATA[<article><h1>From a Million Miles: The Moon Crossing the Face of Earth</h1><p>A camera aboard the Deep Space Climate Observatory (DSCOVR) satellite captured a unique view of the moon passing in front of the Earth last month.</p><img src="http://www.nasa.gov/sites/default/files/thumbnails/image/dscovrepicmoontransitfull.gif"></article>]]></description>
-            <link>http://www.nasa.gov/feature/goddard/from-a-million-miles-away-nasa-camera-shows-moon-crossing-face-of-earth</link>
-            <guid isPermaLink="false">fd6f5198-c79c-4fd2-a7fe-daf10ffe7ce4</guid>
-            <pubDate>Thu, 06 Aug 2015 15:31:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
