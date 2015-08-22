@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 20 Aug 2015 18:41:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2015 10:08:59 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How (and Why) SpaceX Will Colonize Mars - Wait But Why]]></title>
+            <description><![CDATA[<article><h1>How (and Why) SpaceX Will Colonize Mars - Wait But Why</h1><p>This is Part 3 of a four-part series on Elon Musk's companies. For an explanation of why this series is happening and how Musk is involved, start with Part 1. Pre-Post Note: I started working on this post ten weeks ago. When I started, I never intended for it to become such an ordeal.</p><img src="http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/08/Flammarion1.jpg"></article>]]></description>
+            <link>http://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html</link>
+            <guid isPermaLink="false">2cdfd6dd-d381-4ea2-9ecf-15fe8132fc00</guid>
+            <pubDate>Fri, 21 Aug 2015 06:06:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Helsinki Night of the Arts]]></title>
@@ -68,12 +75,6 @@
             <link>http://www.nasa.gov/feature/goddard/from-a-million-miles-away-nasa-camera-shows-moon-crossing-face-of-earth</link>
             <guid isPermaLink="false">fd6f5198-c79c-4fd2-a7fe-daf10ffe7ce4</guid>
             <pubDate>Thu, 06 Aug 2015 15:31:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>http://www.pcmag.com/encyclopedia/term/37701/amara-s-law</link>
-            <guid isPermaLink="false">3d063444-f855-4cac-9cfa-f6f9f4b74722</guid>
-            <pubDate>Thu, 06 Aug 2015 15:28:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
