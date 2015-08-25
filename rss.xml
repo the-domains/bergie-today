@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 25 Aug 2015 10:55:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2015 10:58:07 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[50 years ago today the word "hypertext" was introduced]]></title>
+            <description><![CDATA[<article><h1>50 years ago today the word "hypertext" was introduced</h1><p>On August 24, 1965 Ted Nelson used the word "hypertext" (which he coined) in a paper he presented at the Association for Computing Machinery. I was able to interview him earlier this month about the event and his early thoughts on the future of computing. It is hard to know where to start when writing...</p><img src="https://gigaom.com/wp-content/uploads/sites/1/2015/08/Hypertext1.jpg?quality=80&strip=all"></article>]]></description>
+            <link>https://gigaom.com/2015/08/24/hypertext-50/</link>
+            <guid isPermaLink="false">b7c10d16-db17-4085-b1cf-39933f815d2a</guid>
+            <pubDate>Tue, 25 Aug 2015 10:57:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hacker Tent City: a Photo Tour of Chaos Communication Camp 2015]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/c_v_e_n/status/631855188442238976</link>
             <guid isPermaLink="false">ca1dde27-37ec-485b-865b-7380dde2c80f</guid>
             <pubDate>Thu, 13 Aug 2015 16:19:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crew Members Sample Leafy Greens Grown on Space Station]]></title>
-            <description><![CDATA[<article><h1>Crew Members Sample Leafy Greens Grown on Space Station</h1><p>Fresh food grown in the microgravity environment of space is officially on the menu for the first time for NASA astronauts on the International Space Station.</p><img src="http://www.nasa.gov/sites/default/files/thumbnails/image/mars_food_production.jpg_1.jpeg"></article>]]></description>
-            <link>http://www.nasa.gov/mission_pages/station/research/news/meals_ready_to_eat</link>
-            <guid isPermaLink="false">204ca8c3-039f-4dc0-9a71-d0018b84a3b3</guid>
-            <pubDate>Sun, 09 Aug 2015 14:49:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
