@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 25 Aug 2015 14:01:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2015 14:29:39 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The AI Revolution: Road to Superintelligence - Wait But Why]]></title>
+            <description><![CDATA[<article><h1>The AI Revolution: Road to Superintelligence - Wait But Why</h1><p>Note: The reason this post took three weeks to finish is that as I dug into research on Artificial Intelligence, I could not believe what I was reading. It hit me pretty quickly that what's happening in the world of AI is not just an important topic, but by far THE most important topic for our future.</p><img src="http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge.jpg"></article>]]></description>
+            <link>http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html</link>
+            <guid isPermaLink="false">4547b249-c631-48f8-9a3f-7d85d3dee8cb</guid>
+            <pubDate>Wed, 26 Aug 2015 14:29:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Treasures Under Istanbul]]></title>
@@ -68,13 +75,6 @@
             <link>https://medium.com/@amarkdalen/the-44th-move-deep-blue-kasparov-and-the-future-of-visual-design-228f36e7682d</link>
             <guid isPermaLink="false">0c32329a-7b06-47c0-b5ed-7efe63a325f5</guid>
             <pubDate>Mon, 17 Aug 2015 12:22:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Discharge]]></title>
-            <description><![CDATA[<article><h1>Discharge</h1><img src="https://farm1.staticflickr.com/631/20447504269_3a18c8b633_b.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/schwarzbrot/20447504269/</link>
-            <guid isPermaLink="false">286de689-63cf-4b4c-b574-b51cf515dcfa</guid>
-            <pubDate>Sun, 16 Aug 2015 21:00:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
