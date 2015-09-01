@@ -34,9 +34,9 @@ description: 'The law of baggage: the well being of a traveler is inversely prop
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/aza/status/638638259216732160'
-datePublished: '2015-09-01T09:30:15.843Z'
+datePublished: '2015-09-01T17:26:17.989Z'
 title: ''
-dateModified: '2015-09-01T09:29:03.435Z'
+dateModified: '2015-09-01T17:19:28.979Z'
 sourcePath: _posts/2015-09-01-the-law-of-baggage-the-well-being-of-a-traveler-is-inversel.md
 published: true
 _type: Comment
