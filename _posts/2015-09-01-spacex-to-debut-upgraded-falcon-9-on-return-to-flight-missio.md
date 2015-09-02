@@ -21,8 +21,8 @@ author:
 related: []
 app_links: []
 title: SpaceX To Debut Upgraded Falcon 9 on Return to Flight Mission - SpaceNews.com
-datePublished: '2015-09-02T08:53:01.491Z'
-dateModified: '2015-09-02T08:52:31.154Z'
+datePublished: '2015-09-02T09:51:41.468Z'
+dateModified: '2015-09-02T08:53:01.491Z'
 sourcePath: _posts/2015-09-01-spacex-to-debut-upgraded-falcon-9-on-return-to-flight-missio.md
 published: true
 tags:
