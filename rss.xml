@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 12:31:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 12:40:29 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elon Musk says humanity is currently running 'the dumbest experiment in history']]></title>
+            <description><![CDATA[<article><h1>Elon Musk says humanity is currently running 'the dumbest experiment in history'</h1><p>At some point humans are going to run out of the fossil fuels that power their lives. There is no other end point to the current era - either because we've used them all up or because the Earth's climate cannot bear any further destruction.</p><img src="http://static4.techinsider.io/image/55e4bb4abd86ef0e008b7158-2705-2029/gettyimages-479902152.jpg"></article>]]></description>
+            <link>http://www.techinsider.io/elon-musk-talks-fossil-fuels-with-wait-but-why-2015-8</link>
+            <guid isPermaLink="false">d01acbf3-d1a1-4e40-b93e-7c6a78d623d7</guid>
+            <pubDate>Thu, 03 Sep 2015 12:40:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -69,13 +76,6 @@
             <link>http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html</link>
             <guid isPermaLink="false">4547b249-c631-48f8-9a3f-7d85d3dee8cb</guid>
             <pubDate>Wed, 26 Aug 2015 14:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Treasures Under Istanbul]]></title>
-            <description><![CDATA[<article><h1>The Treasures Under Istanbul</h1><p>When it came to choosing the exact location of the first tunnel spanning the Bosporus-the narrow strait that divides the European and Asian sides of Istanbul and links the Black Sea with the Sea of Marmara-one of the principal considerations was how to avoid encountering any archeological marvels.</p><img src="http://www.newyorker.com/wp-content/uploads/2015/08/150831_r26897-1200-630-19165642.jpg"></article>]]></description>
-            <link>http://www.newyorker.com/magazine/2015/08/31/the-big-dig</link>
-            <guid isPermaLink="false">52d552b7-3738-4de0-bde2-175142b271d6</guid>
-            <pubDate>Tue, 25 Aug 2015 13:59:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
