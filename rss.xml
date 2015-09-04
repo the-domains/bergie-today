@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Sep 2015 15:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2015 20:25:17 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Implementing a Neural Network from Scratch - An Introduction]]></title>
+            <description><![CDATA[<article><h1>Implementing a Neural Network from Scratch - An Introduction</h1><p>Get the code: To follow along, all the code is also available as an iPython notebook on Github. In this post we will implement a simple 3-layer neural network from scratch. We won't derive all the math that's required, but I will try to give an intuitive explanation of what we are doing.</p><img src="http://www.wildml.com/wp-content/uploads/2015/09/nn-from-scratch-dataset.png"></article>]]></description>
+            <link>http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/</link>
+            <guid isPermaLink="false">b3a55f10-1c6a-4203-ae51-03e7143c25e6</guid>
+            <pubDate>Fri, 04 Sep 2015 20:24:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Adventure Video Games Are Steadily Delivering Better Stories Than Movies]]></title>
@@ -69,13 +76,6 @@
             <link>http://spacenews.com/spacex-to-debut-upgraded-falcon-9-on-return-to-flight-mission/</link>
             <guid isPermaLink="false">08699786-1676-49c2-b9e5-9e5784cfc166</guid>
             <pubDate>Wed, 02 Sep 2015 10:19:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Virtual Reality of John Carmack]]></title>
-            <description><![CDATA[<article><h1>The Virtual Reality of John Carmack</h1><p>The Dallas video game genius behind "Doom" and "Quake" is back, this time in the nascent VR space. In this exclusive interview, he tells why. From the storyteller on a Greek stage to the latest in curved-screen tvs and IMAX theaters, the holy grail of entertainment has always been immersion: putting the audience "inside" the drama, transporting them to another time and place.</p><img src="http://assets.dmagazine.com/media/4/john_carmack_2.jpg"></article>]]></description>
-            <link>http://www.dmagazine.com/publications/d-ceo/2015/september/virtual-reality-of-john-carmack</link>
-            <guid isPermaLink="false">cc8d1b73-45bb-46de-98de-9e8166a5660a</guid>
-            <pubDate>Fri, 28 Aug 2015 19:00:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
