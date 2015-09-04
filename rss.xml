@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 12:40:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2015 14:37:06 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don't Worry, Smart Machines Will Take Us With Them]]></title>
+            <description><![CDATA[<article><h1>Don't Worry, Smart Machines Will Take Us With Them</h1><p>When it comes to artificial intelligence, we may all be suffering from the fallacy of availability: thinking that creating intelligence is much easier than it is, because we see examples all around us. In a recent poll, machine intelligence experts predicted that computers would gain human-level ability around the year 2050, and superhuman ability less than 30 years after.</p><img src="http://static.nautil.us/7061_6495cf7ca745a9443508b86951b8e33a.png"></article>]]></description>
+            <link>http://nautil.us/issue/28/2050/dont-worry-smart-machines-will-take-us-with-them</link>
+            <guid isPermaLink="false">5fb48b85-20b1-438b-bd78-0c59ce9d0a52</guid>
+            <pubDate>Fri, 04 Sep 2015 14:36:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Elon Musk says humanity is currently running 'the dumbest experiment in history']]></title>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/watch?v=7vDJZ-QufBQ</link>
             <guid isPermaLink="false">137c928d-135e-4f07-a02c-c1ce3a118ee6</guid>
             <pubDate>Fri, 28 Aug 2015 16:30:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The AI Revolution: Road to Superintelligence - Wait But Why]]></title>
-            <description><![CDATA[<article><h1>The AI Revolution: Road to Superintelligence - Wait But Why</h1><p>Note: The reason this post took three weeks to finish is that as I dug into research on Artificial Intelligence, I could not believe what I was reading. It hit me pretty quickly that what's happening in the world of AI is not just an important topic, but by far THE most important topic for our future.</p><img src="http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Edge.jpg"></article>]]></description>
-            <link>http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html</link>
-            <guid isPermaLink="false">4547b249-c631-48f8-9a3f-7d85d3dee8cb</guid>
-            <pubDate>Wed, 26 Aug 2015 14:29:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
