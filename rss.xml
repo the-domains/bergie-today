@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Sep 2015 20:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2015 20:36:10 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boeing: Starliner]]></title>
+            <description><![CDATA[<article><h1>Boeing: Starliner</h1><p>On Sept. 4, 2015, Boeing's Crew Space Transportation (CST)-100 spacecraft, developed as part of NASA's Commercial Crew Program, has officially been named Starliner. The Starliner is scheduled to take its first crewed spaceflight by the end of 2017, effectively resuming U.S.-based flights to space.</p><img src="https://i.ytimg.com/vi/Xj9aea5TKgI/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Xj9aea5TKgI&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">0f37878a-739a-42cc-8e64-6661be683458</guid>
+            <pubDate>Fri, 04 Sep 2015 20:35:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Implementing a Neural Network from Scratch - An Introduction]]></title>
@@ -69,13 +76,6 @@
             <link>https://medium.com/@kcimc/comparing-artificial-artists-7d889428fce4</link>
             <guid isPermaLink="false">1d2cf14a-20fa-4907-b185-433ae283d4ee</guid>
             <pubDate>Tue, 01 Sep 2015 17:18:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX To Debut Upgraded Falcon 9 on Return to Flight Mission]]></title>
-            <description><![CDATA[<article><h1>SpaceX To Debut Upgraded Falcon 9 on Return to Flight Mission</h1><p>The return to flight of SpaceX's Falcon 9 rocket, still a "couple of months" away, will also be the first launch of an upgraded version of the vehicle with increased performance, the company's president said Aug. 31.</p><img src="http://spacenews.com/wp-content/uploads/2015/02/Falcon-9-DSCOVR-Launch.jpeg"></article>]]></description>
-            <link>http://spacenews.com/spacex-to-debut-upgraded-falcon-9-on-return-to-flight-mission/</link>
-            <guid isPermaLink="false">08699786-1676-49c2-b9e5-9e5784cfc166</guid>
-            <pubDate>Wed, 02 Sep 2015 10:19:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
