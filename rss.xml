@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Sep 2015 20:36:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2015 16:27:48 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C-Base Station's Ingress Table]]></title>
+            <description><![CDATA[<article><h1>C-Base Station's Ingress Table</h1><p>In Berlin the c-base station is a favorite hangout for the strong Berlin Tech scene, this is where they often end up after a long session of playing Ingress about town. A while ago the coder Henri Bergius and his cohorts got together in a hackathon to build an Ingress table to hang out around after a session of play. It illustrates in real time the Ingress action in the neighborhood around c-base station, and acts as a station to recharge weary mobile phones.</p><img src="http://architectstables.com/wp-content/uploads/2014/07/ingress-table-test-small-450x337.jpg"></article>]]></description>
+            <link>http://architectstables.com/archives/4928</link>
+            <guid isPermaLink="false">961dff05-dcd8-4cef-8005-677c82a3210f</guid>
+            <pubDate>Tue, 08 Sep 2015 16:27:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boeing: Starliner]]></title>
@@ -69,13 +76,6 @@
             <link>http://arstechnica.com/science/2015/08/binary-stars-can-throw-planetary-orbits-into-chaos/</link>
             <guid isPermaLink="false">ab365c3c-dc0a-47d3-9dea-6ebc5b7109aa</guid>
             <pubDate>Wed, 02 Sep 2015 09:48:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comparing Artificial Artists]]></title>
-            <description><![CDATA[<article><h1>Comparing Artificial Artists</h1><p>The definition of the Gram matrix confused me at first, so I wrote it out as code.</p><img src="https://d262ilb51hltx0.cloudfront.net/max/800/1*vwigEJqcY1XAAq_1hA8brA.png"></article>]]></description>
-            <link>https://medium.com/@kcimc/comparing-artificial-artists-7d889428fce4</link>
-            <guid isPermaLink="false">1d2cf14a-20fa-4907-b185-433ae283d4ee</guid>
-            <pubDate>Tue, 01 Sep 2015 17:18:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
