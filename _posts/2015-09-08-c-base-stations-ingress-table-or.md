@@ -17,19 +17,19 @@ description: 'In Berlin the c-base station is a favorite hangout for the strong 
 author: []
 related: []
 app_links: []
-title: "C-Base Station's Ingress Table. |"
-datePublished: '2015-09-08T16:27:14.346Z'
-dateModified: '2015-09-08T16:26:48.572Z'
+title: "C-Base Station's Ingress Table"
+datePublished: '2015-09-08T16:31:27.109Z'
+dateModified: '2015-09-08T16:30:16.687Z'
 tags:
   - ''
+sourcePath: _posts/2015-09-08-c-base-stations-ingress-table-or.md
+published: true
 authors: []
 publisher:
   name: Architectstables
   domain: architectstables.com
   url: 'http://architectstables.com'
   favicon: null
-sourcePath: _posts/2015-09-08-c-base-stations-ingress-table-or.md
-published: true
 _type: MediaObject
 _context: 'http://schema.org'
 
