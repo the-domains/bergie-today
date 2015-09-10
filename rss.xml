@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Sep 2015 11:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2015 12:16:31 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ten technologies that are precursors to the AI era]]></title>
+            <description><![CDATA[<article><h1>Ten technologies that are precursors to the AI era</h1><p>After decades of research and development, artificial intelligence (AI) is finally becoming a part of daily life. While we may not be fully in the age of AI just yet, there's no denying that it's just around the corner.</p><img src="http://zdnet2.cbsistatic.com/hub/i/r/2015/09/01/f6b098b2-005b-4f5a-9360-8d8f851e9a1c/thumbnail/770x578/f3058b23194762345d56e82c0f503417/istock000064700101full.jpg"></article>]]></description>
+            <link>http://www.zdnet.com/article/ten-technologies-that-are-precursors-to-the-ai-era/</link>
+            <guid isPermaLink="false">48187c7b-63ec-45f3-b031-b218fd6dd326</guid>
+            <pubDate>Thu, 10 Sep 2015 12:16:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[It's time for the Permanent Web]]></title>
@@ -69,13 +76,6 @@
             <link>http://www.vice.com/en_uk/read/adventure-video-games-are-steadily-delivering-better-stories-than-movies-130</link>
             <guid isPermaLink="false">7271d3b5-8495-4db2-b9e4-0b445cc6a1fa</guid>
             <pubDate>Fri, 04 Sep 2015 15:45:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teaching tomorrow]]></title>
-            <description><![CDATA[<article><h1>Teaching tomorrow</h1><p>"Because of the increased efficiency of machines, it is getting harder and harder for a human to make a productive contribution to society," says Sebastian Thrun. This is what you might expect to hear from the man who suggested Google's controversial Street View project to photograph the world's roadsides, who developed the company's eerie self-driving cars and who founded the secretive Google "skunk-works" project responsible for Glass, a wearable computer that resembles spectacles.</p><img src="http://cdn.static-economist.com/sites/default/files/images/print-edition/20150905_TQD005_0.jpg"></article>]]></description>
-            <link>http://www.economist.com/news/technology-quarterly/21662654-sebastian-thrun-pioneer-googles-autonomous-cars-wants-teach-people-how</link>
-            <guid isPermaLink="false">ea50301b-e572-4e4f-b91a-336541341425</guid>
-            <pubDate>Fri, 04 Sep 2015 15:41:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
