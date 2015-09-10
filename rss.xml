@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Sep 2015 14:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2015 11:11:58 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It's time for the Permanent Web]]></title>
+            <description><![CDATA[<article><h1>It's time for the Permanent Web</h1><p>HTTP is broken. It's time for the distributed, permanent web.</p><img src="https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/neocitiesandipfs.jpg"></article>]]></description>
+            <link>https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html</link>
+            <guid isPermaLink="false">1a3e1b8c-c744-45d9-a65d-45a6b68c6001</guid>
+            <pubDate>Thu, 10 Sep 2015 11:11:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ardbeg's space whisky tastes "noticeably different" from Earth-matured whisky]]></title>
@@ -69,13 +76,6 @@
             <link>http://www.economist.com/news/technology-quarterly/21662654-sebastian-thrun-pioneer-googles-autonomous-cars-wants-teach-people-how</link>
             <guid isPermaLink="false">ea50301b-e572-4e4f-b91a-336541341425</guid>
             <pubDate>Fri, 04 Sep 2015 15:41:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don't Worry, Smart Machines Will Take Us With Them]]></title>
-            <description><![CDATA[<article><h1>Don't Worry, Smart Machines Will Take Us With Them</h1><p>When it comes to artificial intelligence, we may all be suffering from the fallacy of availability: thinking that creating intelligence is much easier than it is, because we see examples all around us. In a recent poll, machine intelligence experts predicted that computers would gain human-level ability around the year 2050, and superhuman ability less than 30 years after.</p><img src="http://static.nautil.us/7061_6495cf7ca745a9443508b86951b8e33a.png"></article>]]></description>
-            <link>http://nautil.us/issue/28/2050/dont-worry-smart-machines-will-take-us-with-them</link>
-            <guid isPermaLink="false">5fb48b85-20b1-438b-bd78-0c59ce9d0a52</guid>
-            <pubDate>Fri, 04 Sep 2015 14:36:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
