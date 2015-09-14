@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Sep 2015 10:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2015 11:03:40 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,12 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beekeeping training]]></title>
+            <description><![CDATA[<article><h1>Beekeeping training</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fac33b2-371d-42d2-b887-c7a9069b1234.jpg"></article>]]></description>
+            <guid isPermaLink="false">aa413ce9-4013-4c77-9dc5-415300b2bec2</guid>
+            <pubDate>Mon, 14 Sep 2015 11:03:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cult of the cosmic: how space travel became the unofficial religion of the USSR]]></title>
@@ -69,13 +75,6 @@
             <link>https://sourcecode.berlin/2014/11/13/at-home-in-silicon-allee-the-expat-experience/</link>
             <guid isPermaLink="false">dd6f5595-d56c-41c6-a561-72abdff01234</guid>
             <pubDate>Tue, 08 Sep 2015 17:04:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[C-Base Station's Ingress Table]]></title>
-            <description><![CDATA[<article><h1>C-Base Station's Ingress Table</h1><p>In Berlin the c-base station is a favorite hangout for the strong Berlin Tech scene, this is where they often end up after a long session of playing Ingress about town. A while ago the coder Henri Bergius and his cohorts got together in a hackathon to build an Ingress table to hang out around after a session of play. It illustrates in real time the Ingress action in the neighborhood around c-base station, and acts as a station to recharge weary mobile phones.</p><img src="http://architectstables.com/wp-content/uploads/2014/07/ingress-table-test-small-450x337.jpg"></article>]]></description>
-            <link>http://architectstables.com/archives/4928</link>
-            <guid isPermaLink="false">961dff05-dcd8-4cef-8005-677c82a3210f</guid>
-            <pubDate>Tue, 08 Sep 2015 16:31:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
