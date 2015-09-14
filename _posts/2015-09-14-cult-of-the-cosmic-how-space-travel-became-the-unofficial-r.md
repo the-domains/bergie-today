@@ -18,8 +18,8 @@ author: []
 related: []
 app_links: []
 title: 'Cult of the cosmic: how space travel became the unofficial religion of the USSR'
-datePublished: '2015-09-14T10:37:32.572Z'
-dateModified: '2015-09-14T10:37:15.460Z'
+datePublished: '2015-09-14T18:11:31.628Z'
+dateModified: '2015-09-14T10:37:32.572Z'
 authors: []
 publisher:
   name: Calvertjournal
