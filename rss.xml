@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Sep 2015 09:34:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2015 09:36:00 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -34,13 +34,6 @@
             <link>http://calvertjournal.com/features/show/4645</link>
             <guid isPermaLink="false">3dae43b5-20b1-4d91-bacb-eeb7a56f2872</guid>
             <pubDate>Mon, 14 Sep 2015 18:11:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Glass for Enjoying a Sip of Whisky While Floating in Space]]></title>
-            <description><![CDATA[<article><h1>A Glass for Enjoying a Sip of Whisky While Floating in Space</h1><p>A Glass for Enjoying a Sip of Whisky While Floating in Space - The New York Times</p><img src="http://static01.nyt.com/images/2015/09/04/health/04whisky2/04whisky2-facebookJumbo.jpg"></article>]]></description>
-            <link>urn:uuid:fdc3b176-f1cd-4f79-bb92-4fda7b4585e7</link>
-            <guid isPermaLink="false">9bd50848-3d6d-4e3a-8dfb-d13e78f054ac</guid>
-            <pubDate>Wed, 16 Sep 2015 09:33:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How we ended up with microservices.]]></title>
