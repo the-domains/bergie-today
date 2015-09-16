@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Sep 2015 09:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2015 09:34:38 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[React Native for Android: How we built the first cross-platform React Native app]]></title>
+            <description><![CDATA[<article><h1>React Native for Android: How we built the first cross-platform React Native app</h1><p>Earlier this year, we introduced React Native for iOS. React Native brings what developers are used to from React on the web - declarative self-contained UI components and fast development cycles - to the mobile platform, while retaining the speed, fidelity, and feel of native applications.</p><img src="https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xpt1/t39.2365-6/11891388_485324161641793_834839352_n.jpg"></article>]]></description>
+            <link>https://code.facebook.com/posts/1189117404435352/</link>
+            <guid isPermaLink="false">f6496f37-4b52-41e8-87ba-08b80bbd5c03</guid>
+            <pubDate>Wed, 16 Sep 2015 09:34:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beekeeping training]]></title>
@@ -69,13 +76,6 @@
             <link>http://www.wired.com/2015/09/my-life-as-a-robot-double-robotics-telecommuting-longread/</link>
             <guid isPermaLink="false">d6c66a98-63ae-4ef3-a0c3-315af74fa138</guid>
             <pubDate>Tue, 08 Sep 2015 19:40:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At Home in Silicon Allee: The Expat Experience]]></title>
-            <description><![CDATA[<article><h1>At Home in Silicon Allee: The Expat Experience</h1><p>The stories of expat coders who chose to make their lives in Berlin. With a booming tech industry that has captured the imagination of the entire continent, Berlin has not only attracted people from all over Germany, it has become a new home for thousands of expat coders, programmers, developers, and creative minds.</p><img src="https://sourcecode.berlin/wp-content/cache/podlove/4c/606ac2f1c70923657a48bedc0b4bca/source-code-berlin_original.png"></article>]]></description>
-            <link>https://sourcecode.berlin/2014/11/13/at-home-in-silicon-allee-the-expat-experience/</link>
-            <guid isPermaLink="false">dd6f5595-d56c-41c6-a561-72abdff01234</guid>
-            <pubDate>Tue, 08 Sep 2015 17:04:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
