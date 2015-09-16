@@ -5,9 +5,9 @@ starred: false
 keywords: []
 description: A Glass for Enjoying a Sip of Whisky While Floating in Space - The New York Times
 author: []
-datePublished: '2015-09-16T09:33:39.901Z'
+datePublished: '2015-09-16T09:35:59.694Z'
 title: ''
-dateModified: '2015-09-16T09:33:12.095Z'
+dateModified: '2015-09-16T09:35:42.674Z'
 sourcePath: _posts/2015-09-13-a-glass-for-enjoying-a-sip-of-whisky-while-floating-in-space.md
 published: true
 tags:
