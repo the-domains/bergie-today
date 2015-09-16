@@ -1,18 +1,25 @@
 ---
-description: A Glass for Enjoying a Sip of Whisky While Floating in Space - The New York Times
 isBasedOnUrl: 'urn:uuid:fdc3b176-f1cd-4f79-bb92-4fda7b4585e7'
+inLanguage: null
+starred: false
+keywords: []
+description: A Glass for Enjoying a Sip of Whisky While Floating in Space - The New York Times
 author: []
-datePublished: '2015-09-13T13:13:24.924Z'
-publisher:
-  domain: ''
-  name: ''
+datePublished: '2015-09-16T09:33:39.901Z'
 title: ''
-dateModified: '2015-09-13T13:03:33.282Z'
+dateModified: '2015-09-16T09:33:12.095Z'
 sourcePath: _posts/2015-09-13-a-glass-for-enjoying-a-sip-of-whisky-while-floating-in-space.md
 published: true
-url: a-glass-for-enjoying-a-sip-of-whisky-while-floating-in-space/index.html
+tags:
+  - ''
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
+_type: MediaObject
 _context: 'http://schema.org'
-_type: Article
 
 ---
 A Glass for Enjoying a Sip of Whisky While Floating in Space - The New York Times
