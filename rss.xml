@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Sep 2015 09:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2015 11:04:22 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node.js 4.0.0 arrives with ECMAScript 6 backing]]></title>
+            <description><![CDATA[<article><h1>Node.js 4.0.0 arrives with ECMAScript 6 backing</h1><p>The latest upgrade of the server-side JavaScript technology combines the Node.js and io.js code bases</p><img src="http://images.techhive.com/images/idge/imported/imageapi/2014/03/nodejs-latte-100253600-primary.idge.jpg"></article>]]></description>
+            <link>http://www.infoworld.com/article/2981932/javascript/nodejs-4-0-0-arrives-with-ecmascript-6-backing.html</link>
+            <guid isPermaLink="false">d9fc449f-bcb0-40fd-a278-3ea965a72193</guid>
+            <pubDate>Thu, 17 Sep 2015 11:03:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google Is 2 Billion Lines of Code-And It's All in One Place]]></title>
@@ -69,13 +76,6 @@
             <link>http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html?</link>
             <guid isPermaLink="false">f8cf5e62-b7f6-4d72-9796-04f11aa6d375</guid>
             <pubDate>Thu, 10 Sep 2015 13:39:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ten technologies that are precursors to the AI era]]></title>
-            <description><![CDATA[<article><h1>Ten technologies that are precursors to the AI era</h1><p>After decades of research and development, artificial intelligence (AI) is finally becoming a part of daily life. While we may not be fully in the age of AI just yet, there's no denying that it's just around the corner.</p><img src="http://zdnet2.cbsistatic.com/hub/i/r/2015/09/01/f6b098b2-005b-4f5a-9360-8d8f851e9a1c/thumbnail/770x578/f3058b23194762345d56e82c0f503417/istock000064700101full.jpg"></article>]]></description>
-            <link>http://www.zdnet.com/article/ten-technologies-that-are-precursors-to-the-ai-era/</link>
-            <guid isPermaLink="false">48187c7b-63ec-45f3-b031-b218fd6dd326</guid>
-            <pubDate>Thu, 10 Sep 2015 12:16:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
