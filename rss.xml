@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Sep 2015 14:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2015 09:16:36 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hosting a Website on IPFS]]></title>
+            <description><![CDATA[<article><h1>Hosting a Website on IPFS</h1><p>This is a quick tutorial that will teach you how to host a simple static website on IPFS, and use IPNS to keep a single id when you change the sites content. All you need is a simple static html page, as long as ALL the links are relative.</p></article>]]></description>
+            <link>https://gateway.ipfs.io/ipns/QmWGb7PZmLb1TwsMkE1b8jVK4LGceMYMsWaSmviSucWPGG/2015/09/15/hosting-a-website-on-ipfs/</link>
+            <guid isPermaLink="false">3b7f83b6-5fcf-499f-9b3d-94b8df458caa</guid>
+            <pubDate>Thu, 17 Sep 2015 09:16:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -69,13 +76,6 @@
             <link>https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html</link>
             <guid isPermaLink="false">1a3e1b8c-c744-45d9-a65d-45a6b68c6001</guid>
             <pubDate>Thu, 10 Sep 2015 11:11:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ardbeg's space whisky tastes "noticeably different" from Earth-matured whisky]]></title>
-            <description><![CDATA[<article><h1>Ardbeg's space whisky tastes "noticeably different" from Earth-matured whisky</h1><p>The Scottish whisky that spent three years ageing aboard the International Space Station has finally been tasted. The result, according to the Ardbeg distillery and aerospace company NanoRacks, is a whisky with a "noticeably different" flavour profile to one matured on earth.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2015/09/ardbeg-microgravity-space-whisky-640x360.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2015/09/ardbegs-space-whisky-tastes-noticeably-different-from-earth-matured-whisky/</link>
-            <guid isPermaLink="false">cf54928b-f0b4-4294-9ea9-5217015a3d4e</guid>
-            <pubDate>Wed, 09 Sep 2015 14:12:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
