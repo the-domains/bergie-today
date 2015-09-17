@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Sep 2015 11:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2015 15:04:23 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Artificial Neural Networks for Beginners]]></title>
+            <description><![CDATA[<article><h1>Artificial Neural Networks for Beginners</h1><p>Deep Learning is a very hot topic these days especially in computer vision applications and you probably see it in the news and get curious. Now the question is, how do you get started with it? Today's guest blogger, Toshi Takeuchi, gives us a quick tutorial on artificial neural networks as a starting point for your study of deep learning.</p><img src="http://blogs.mathworks.com/images/loren/2015/neuralnetFinal_01.png"></article>]]></description>
+            <link>http://blogs.mathworks.com/loren/2015/08/04/artificial-neural-networks-for-beginners/</link>
+            <guid isPermaLink="false">0f0e4447-cc93-4a1c-a23f-94b46e7673de</guid>
+            <pubDate>Thu, 17 Sep 2015 15:03:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Node.js 4.0.0 arrives with ECMAScript 6 backing]]></title>
@@ -69,13 +76,6 @@
             <link>http://calvertjournal.com/features/show/4645</link>
             <guid isPermaLink="false">3dae43b5-20b1-4d91-bacb-eeb7a56f2872</guid>
             <pubDate>Mon, 14 Sep 2015 18:11:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How we ended up with microservices.]]></title>
-            <description><![CDATA[<article><h1>How we ended up with microservices.</h1><p>Microservices are a thing these days. When I was at SoundCloud, I was responsible for the migration from a monolithic Ruby on Rails application to a constellation of microservices. I've told the technical side of this story multiple times, both in presentations, and as a multi-part series for SoundCloud's engineering blog.</p><img src="http://philcalcado.com/img/2015-09-7-constraints/vm3.png"></article>]]></description>
-            <link>http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html?</link>
-            <guid isPermaLink="false">f8cf5e62-b7f6-4d72-9796-04f11aa6d375</guid>
-            <pubDate>Thu, 10 Sep 2015 13:39:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
