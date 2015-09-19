@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Sep 2015 15:04:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2015 17:57:47 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We're on the Brink of a Revolution in Crazy-Smart Digital Assistants]]></title>
+            <description><![CDATA[<article><h1>We're on the Brink of a Revolution in Crazy-Smart Digital Assistants</h1><p>Here's a quick story you've probably heard before, followed by one you probably haven't. In 1979 a young Steve Jobs paid a visit to Xerox PARC, the legendary R&D lab in Palo Alto, California, and witnessed a demonstration of something now called the graphical user interface.</p><img src="http://www.wired.com/wp-content/uploads/2015/09/BalloonWeb-01-FEATURE-ART-1200x630-e1442421587755.jpg"></article>]]></description>
+            <link>http://www.wired.com/2015/09/voice-interface-ios/</link>
+            <guid isPermaLink="false">8178ec97-02fc-48f6-aa74-0d7ebd1546e1</guid>
+            <pubDate>Sat, 19 Sep 2015 17:57:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Artificial Neural Networks for Beginners]]></title>
@@ -69,13 +76,6 @@
             <link>http://bergie.today/beekeeping-training/index.html</link>
             <guid isPermaLink="false">aa413ce9-4013-4c77-9dc5-415300b2bec2</guid>
             <pubDate>Mon, 14 Sep 2015 13:12:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cult of the cosmic: how space travel became the unofficial religion of the USSR]]></title>
-            <description><![CDATA[<article><h1>Cult of the cosmic: how space travel became the unofficial religion of the USSR</h1><p>The cult of science and space exploration in the Soviet Union was as close as to religion as you could get in an atheist state. Unfortunately it ended up being one of the few positive trends that disappeared with the collapse of communism.</p><img src="http://calvertjournal.com/images/uploads/thumbnails/2015_September/Space/Ivan_Mikhaylov_Playground_12_3.jpg"></article>]]></description>
-            <link>http://calvertjournal.com/features/show/4645</link>
-            <guid isPermaLink="false">3dae43b5-20b1-4d91-bacb-eeb7a56f2872</guid>
-            <pubDate>Mon, 14 Sep 2015 18:11:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
