@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Sep 2015 18:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2015 22:56:36 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Posters of the golden age of Soviet cosmonauts - BBC News]]></title>
+            <description><![CDATA[<article><h1>Posters of the golden age of Soviet cosmonauts - BBC News</h1><p>Five decades ago the Space Race was being vigorously fought between the Soviet Union and the US. For a time the USSR seemed to be winning and it tried to make the most of the propaganda potential. Taken from a new exhibition - Cosmonauts: Birth of the Space Age, at the Science Museum in London - takes a close-up look at seven posters.</p><img src="http://ichef.bbci.co.uk/news/1024/cpsprodpb/F942/production/_85601836_1024-poster-6-a.jpg"></article>]]></description>
+            <link>http://www.bbc.com/news/magazine-34281621</link>
+            <guid isPermaLink="false">289385d4-aa38-4648-aa59-4af0493053a2</guid>
+            <pubDate>Mon, 21 Sep 2015 22:56:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How NASA Is Solving the Space Food Problem]]></title>
@@ -69,13 +76,6 @@
             <link>urn:uuid:fdc3b176-f1cd-4f79-bb92-4fda7b4585e7</link>
             <guid isPermaLink="false">9bd50848-3d6d-4e3a-8dfb-d13e78f054ac</guid>
             <pubDate>Wed, 16 Sep 2015 09:35:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[React Native for Android: How we built the first cross-platform React Native app]]></title>
-            <description><![CDATA[<article><h1>React Native for Android: How we built the first cross-platform React Native app</h1><p>Earlier this year, we introduced React Native for iOS. React Native brings what developers are used to from React on the web - declarative self-contained UI components and fast development cycles - to the mobile platform, while retaining the speed, fidelity, and feel of native applications.</p><img src="https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xpt1/t39.2365-6/11891388_485324161641793_834839352_n.jpg"></article>]]></description>
-            <link>https://code.facebook.com/posts/1189117404435352/</link>
-            <guid isPermaLink="false">f6496f37-4b52-41e8-87ba-08b80bbd5c03</guid>
-            <pubDate>Wed, 16 Sep 2015 09:34:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
