@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Sep 2015 19:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2015 19:36:34 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who Killed Nokia? Nokia Did]]></title>
+            <description><![CDATA[<article><h1>Who Killed Nokia? Nokia Did</h1><p>Despite being an exemplar of strategic agility, the fearful emotional climate prevailing at Nokia during the rise of the iPhone froze coordination between top and middle managers terrified of losing status and resources from management. The company was wounded before the battle began.</p><img src="http://knowledge.insead.edu/sites/www.insead.edu/files/styles/w_650/public/styles/panoramic/public/images/2015/09/who_killed_nokia.jpg?itok=huIw9Nk_"></article>]]></description>
+            <link>http://knowledge.insead.edu/strategy/who-killed-nokia-nokia-did-4268</link>
+            <guid isPermaLink="false">7288094a-92f6-4fa9-b9cf-0bbf6a5c6a8e</guid>
+            <pubDate>Wed, 23 Sep 2015 19:36:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Robotic Garbage Collectors Could Help on Trash Day]]></title>
@@ -69,13 +76,6 @@
             <link>http://www.wired.com/2015/09/voice-interface-ios/</link>
             <guid isPermaLink="false">8178ec97-02fc-48f6-aa74-0d7ebd1546e1</guid>
             <pubDate>Sat, 19 Sep 2015 17:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Artificial Neural Networks for Beginners]]></title>
-            <description><![CDATA[<article><h1>Artificial Neural Networks for Beginners</h1><p>Deep Learning is a very hot topic these days especially in computer vision applications and you probably see it in the news and get curious. Now the question is, how do you get started with it? Today's guest blogger, Toshi Takeuchi, gives us a quick tutorial on artificial neural networks as a starting point for your study of deep learning.</p><img src="http://blogs.mathworks.com/images/loren/2015/neuralnetFinal_01.png"></article>]]></description>
-            <link>http://blogs.mathworks.com/loren/2015/08/04/artificial-neural-networks-for-beginners/</link>
-            <guid isPermaLink="false">0f0e4447-cc93-4a1c-a23f-94b46e7673de</guid>
-            <pubDate>Thu, 17 Sep 2015 15:03:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
