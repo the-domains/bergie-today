@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Sep 2015 11:59:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2015 23:02:02 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ancient Venture Capitalism and its Lessons for the Modern Economy]]></title>
+            <description><![CDATA[<article><h1>Ancient Venture Capitalism and its Lessons for the Modern Economy</h1><p>Our understanding of ancient civilizations can be spotty. Because not all cultural artifacts withstand the test of time, we have to piece together our portraits of these societies with partial clues, making inferences where needed to cover gaps in the archaeological record.</p><img src="http://d3ct8f39dj9jhs.cloudfront.net/wp-content/uploads/2015/09/30mag-30onmoney-t_CA1-master675.jpg"></article>]]></description>
+            <link>http://blog.longnow.org/02015/09/24/ancient-venture-capitalism-and-its-lessons-for-the-modern-economy/</link>
+            <guid isPermaLink="false">651c4ced-49b9-46d8-b472-7755551356f9</guid>
+            <pubDate>Thu, 24 Sep 2015 23:01:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Software Is Smart Enough for SAT, but Still Far From Intelligent]]></title>
@@ -69,13 +76,6 @@
             <link>https://vimeo.com/136223988</link>
             <guid isPermaLink="false">39c172cd-2eba-44f3-95af-9484d8e073aa</guid>
             <pubDate>Mon, 21 Sep 2015 22:56:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Posters of the golden age of Soviet cosmonauts]]></title>
-            <description><![CDATA[<article><h1>Posters of the golden age of Soviet cosmonauts</h1><p>Five decades ago the Space Race was being vigorously fought between the Soviet Union and the US. For a time the USSR seemed to be winning and it tried to make the most of the propaganda potential. Taken from a new exhibition - Cosmonauts: Birth of the Space Age, at the Science Museum in London - takes a close-up look at seven posters.</p><img src="http://ichef.bbci.co.uk/news/1024/cpsprodpb/F942/production/_85601836_1024-poster-6-a.jpg"></article>]]></description>
-            <link>http://www.bbc.com/news/magazine-34281621</link>
-            <guid isPermaLink="false">289385d4-aa38-4648-aa59-4af0493053a2</guid>
-            <pubDate>Mon, 21 Sep 2015 23:04:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
