@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Sep 2015 23:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2015 14:53:37 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[greenkeeper]]></title>
+            <description><![CDATA[<article><h1>greenkeeper</h1><p>Tired of keeping all your NPM dependencies up to date? Uncomfortable with just pinning them? Yup, so are we. So we made greenkeeper: it knows when your dependencies got updated and simply sends you a pull request with the new package.json.</p></article>]]></description>
+            <link>http://greenkeeper.io/</link>
+            <guid isPermaLink="false">f7fad5d3-fbe9-410d-930a-ac52e485dbc2</guid>
+            <pubDate>Fri, 25 Sep 2015 14:53:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ancient Venture Capitalism and its Lessons for the Modern Economy]]></title>
@@ -69,13 +76,6 @@
             <link>http://mjg59.dreamwidth.org/37522.html</link>
             <guid isPermaLink="false">70e27be4-2161-4fff-944c-8c739d8ff3dc</guid>
             <pubDate>Thu, 24 Sep 2015 11:58:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Horizons Pluto flyby]]></title>
-            <description><![CDATA[<article><h1>New Horizons Pluto flyby</h1><p>An animation showing the New Horizons Pluto flyby on July 14, 2015. The time covered is 09:35 to 13:35 (closest approach occurred near 11:50). Pluto's atmosphere is included and should be fairly realistic from about 10 seconds into the animation and to the end.</p><img src="http://i.vimeocdn.com/video/530644329_960.jpg"></article>]]></description>
-            <link>https://vimeo.com/136223988</link>
-            <guid isPermaLink="false">39c172cd-2eba-44f3-95af-9484d8e073aa</guid>
-            <pubDate>Mon, 21 Sep 2015 22:56:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
