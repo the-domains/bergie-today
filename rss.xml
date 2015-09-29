@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Sep 2015 09:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2015 10:09:20 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One Weird Trick to Write Better Code]]></title>
+            <description><![CDATA[<article><h1>One Weird Trick to Write Better Code</h1><p>In summary, design data structures to match your specific problem. Don't shoehorn a single concept into a bunch of separate, encapsulated objects.  Next, write functions that leave the smallest possible footprint on that data. If possible, write pure stateless functions.  That's the trick.</p><img src="http://etodd.io/assets/data-flow.png"></article>]]></description>
+            <link>http://etodd.io/2015/09/28/one-weird-trick-better-code/</link>
+            <guid isPermaLink="false">40b04a34-b0aa-4682-8775-0fa98ed224ef</guid>
+            <pubDate>Tue, 29 Sep 2015 10:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Futurist Vision of Retirement Planning]]></title>
@@ -69,13 +76,6 @@
             <link>http://www.historytoday.com/peter-frankopan/world-we-have-lost</link>
             <guid isPermaLink="false">44d8ad9f-4a5e-429a-a892-b99290cfe2c7</guid>
             <pubDate>Thu, 24 Sep 2015 11:19:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who Killed Nokia? Nokia Did]]></title>
-            <description><![CDATA[<article><h1>Who Killed Nokia? Nokia Did</h1><p>Despite being an exemplar of strategic agility, the fearful emotional climate prevailing at Nokia during the rise of the iPhone froze coordination between top and middle managers terrified of losing status and resources from management. The company was wounded before the battle began.</p><img src="http://knowledge.insead.edu/sites/www.insead.edu/files/styles/w_650/public/styles/panoramic/public/images/2015/09/who_killed_nokia.jpg?itok=huIw9Nk_"></article>]]></description>
-            <link>http://knowledge.insead.edu/strategy/who-killed-nokia-nokia-did-4268</link>
-            <guid isPermaLink="false">7288094a-92f6-4fa9-b9cf-0bbf6a5c6a8e</guid>
-            <pubDate>Wed, 23 Sep 2015 19:36:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
