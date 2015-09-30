@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Sep 2015 18:56:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2015 18:57:22 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Volkswagen and Cheating Software]]></title>
+            <description><![CDATA[<article><h1>Volkswagen and Cheating Software</h1><p>For the past six years, Volkswagen has been cheating on the emissions testing for its diesel cars. The cars' computers were able to detect when they were being tested, and temporarily alter how their engines worked so they looked much cleaner than they actually were.</p><img src="https://www.schneier.com/images/book-dg-175w.jpg"></article>]]></description>
+            <link>https://www.schneier.com/blog/archives/2015/09/volkswagen_and_.html</link>
+            <guid isPermaLink="false">ccfff299-2693-478b-855a-597460cf9023</guid>
+            <pubDate>Wed, 30 Sep 2015 18:56:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This New Campaign Wants To Help Surveillance Agents Quit NSA or GCHQ]]></title>
@@ -69,13 +76,6 @@
             <link>http://www.theguardian.com/science/2015/sep/28/nasa-scientists-find-evidence-flowing-water-mars</link>
             <guid isPermaLink="false">8d0513d9-fdcf-4faa-a04a-5c1487553e6b</guid>
             <pubDate>Mon, 28 Sep 2015 16:34:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wait, what? Mobile browser traffic is 2X bigger than app traffic, and growing faster]]></title>
-            <description><![CDATA[<article><h1>Wait, what? Mobile browser traffic is 2X bigger than app traffic, and growing faster</h1><p>Mobile browser traffic is actually twice that of mobile app traffic, according to a just-released Morgan Stanley report that rates Google's stock as a buy. This appears to fly in the face of recent, strong, and repeated evidence that the app is winning, capturing 80-90 percent of our time on mobile.</p><img src="http://i0.wp.com/venturebeat.com/wp-content/uploads/2015/02/Mobile-phone-apps.jpg?fit=780%2C9999"></article>]]></description>
-            <link>http://venturebeat.com/2015/09/25/wait-what-mobile-browser-traffic-is-2x-bigger-than-app-traffic-and-growing-faster/</link>
-            <guid isPermaLink="false">a6909bcd-d9b4-4cb6-8945-9f2b17c85da6</guid>
-            <pubDate>Sun, 27 Sep 2015 13:16:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
