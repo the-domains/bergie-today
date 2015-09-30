@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Sep 2015 18:56:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2015 18:56:37 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This New Campaign Wants To Help Surveillance Agents Quit NSA or GCHQ]]></title>
+            <description><![CDATA[<article><h1>This New Campaign Wants To Help Surveillance Agents Quit NSA or GCHQ</h1><p>Support groups help cult and gang members break free of their former lives. Alcoholics and Narcotics Anonymous help addicts overcome their dependencies. And now one group of privacy campaigners wants to offer its target audience an escape route for what it sees as a equally insidious trap: Their jobs working for intelligence agencies like the NSA.</p><img src="http://www.wired.com/wp-content/uploads/2015/09/nsmail-2.jpg"></article>]]></description>
+            <link>http://www.wired.com/2015/09/campaign-help-surveillance-agents-quit-nsa-gchq/</link>
+            <guid isPermaLink="false">c2cb8aee-a775-4412-aa3c-2cd30c8d8b25</guid>
+            <pubDate>Wed, 30 Sep 2015 18:56:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A cartoon Guide to Flux]]></title>
@@ -69,13 +76,6 @@
             <link>http://venturebeat.com/2015/09/25/wait-what-mobile-browser-traffic-is-2x-bigger-than-app-traffic-and-growing-faster/</link>
             <guid isPermaLink="false">a6909bcd-d9b4-4cb6-8945-9f2b17c85da6</guid>
             <pubDate>Sun, 27 Sep 2015 13:16:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[greenkeeper]]></title>
-            <description><![CDATA[<article><h1>greenkeeper</h1><p>Tired of keeping all your NPM dependencies up to date? Uncomfortable with just pinning them? Yup, so are we. So we made greenkeeper: it knows when your dependencies got updated and simply sends you a pull request with the new package.json.</p></article>]]></description>
-            <link>http://greenkeeper.io/</link>
-            <guid isPermaLink="false">f7fad5d3-fbe9-410d-930a-ac52e485dbc2</guid>
-            <pubDate>Fri, 25 Sep 2015 14:53:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
