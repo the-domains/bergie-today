@@ -13,7 +13,7 @@ keywords:
   - like
   - aren
   - things
-description: "Retirement planning in your 20s and 30s, when we're told to begin, is generally regarded as sober and responsible dues paying, the province of stoic bean counters. Not planning for retirement-not taking advantage of the magic of compound interest to bathe our last decades in a golden glow, perhaps in a dream house in Tuscany-is a sign of immaturity, and probably other distressing character traits like leaving your dishes in the sink overnight."
+description: 'The future is a place we’re going to live, if we make it that far, and for those of us who like to minimize our financial risks (or get maximum utility from our financial options, because we aren’t frightened people with storm bunkers, no—we are crusading adventurers, protagonists who protag), here are some of the things that those of us who try to predict the future think are most likely to impact your retirement.'
 author:
   - name: Romie Stott
     url: 'http://thebillfold.com/author/romie-stott/'
@@ -35,10 +35,12 @@ related:
     thumbnail_width: null
 app_links: []
 title: A Futurist Vision of Retirement Planning
-datePublished: '2015-09-29T10:19:28.643Z'
-dateModified: '2015-09-29T10:19:10.689Z'
+datePublished: '2015-09-30T23:37:21.619Z'
+dateModified: '2015-09-30T22:12:12.213Z'
 sourcePath: _posts/2015-09-29-a-futurist-vision-of-retirement-planning.md
 published: true
+tags:
+  - ''
 authors: []
 publisher:
   name: The Billfold
@@ -49,4 +51,4 @@ _type: MediaObject
 _context: 'http://schema.org'
 
 ---
-<article style=""><h1>A Futurist Vision of Retirement Planning</h1><p>But the future is a place we’re going to live, if we make it that far, and for those of us who like to minimize our financial risks (or get maximum utility from our financial options, because we aren’t frightened people with storm bunkers, no—we are crusading adventurers, protagonists who protag), here are some of the things that those of us who try to predict the future think are most likely to impact your retirement.</p><img src="http://thebillfold.com/wp-content/uploads/sites/4/2015/09/blade_runner2-noscale.jpg" /></article>
+<article style=""><h1>A Futurist Vision of Retirement Planning</h1><p>The future is a place we’re going to live, if we make it that far, and for those of us who like to minimize our financial risks (or get maximum utility from our financial options, because we aren’t frightened people with storm bunkers, no—we are crusading adventurers, protagonists who protag), here are some of the things that those of us who try to predict the future think are most likely to impact your retirement.</p><img src="http://thebillfold.com/wp-content/uploads/sites/4/2015/09/blade_runner2-noscale.jpg" /></article>
