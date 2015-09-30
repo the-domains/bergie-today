@@ -1,4 +1,19 @@
 ---
+isBasedOnUrl: 'http://grantland.com/hollywood-prospectus/we-are-living-in-a-robot-moment-rejoice-cower-and-copulate/'
+inLanguage: en
+starred: false
+keywords:
+  - robots
+  - aibo
+  - sex
+  - humans
+  - sexbot
+  - people
+  - objectified
+  - feelings
+  - holodeck
+  - objectification
+description: "Every story about robots is in some way a story about death. Sometimes it's the human race that gets it. Sometimes it's a tiny plastic dog. Last summer, Sony discontinued the last remaining traces of customer support for its AIBO series. Remember the AIBO?"
 author:
   - name: Steven Hyden
     url: 'http://grantland.com/contributors/steven-hyden/'
@@ -44,33 +59,22 @@ related:
     thumbnail_height: 350
     thumbnail_url: 'http://a.fastcompany.net/multisite_files/fastcompany/imagecache/620x350/poster/2015/07/3049079-poster-p-1-robots-might-take-your-job-but-heres-why-you-shouldnt-worry.jpg'
     thumbnail_width: 620
-publisher:
-  url: 'http://grantland.com'
-  name: Grantland
-  favicon: 'https://s0.wp.com/wp-content/themes/vip/espn-grantland/img/favicon.ico'
-  domain: grantland.com
-keywords:
-  - robots
-  - aibo
-  - sex
-  - humans
-  - sexbot
-  - people
-  - objectified
-  - feelings
-  - holodeck
-  - objectification
-description: "Mario Zucca Every story about robots is in some way a story about death. Sometimes it's the human race that gets it. Sometimes it's a tiny plastic dog. Last summer, Sony discontinued the last remaining traces of customer support for its AIBO series. Remember the AIBO?"
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://grantland.com/hollywood-prospectus/we-are-living-in-a-robot-moment-rejoice-cower-and-copulate/'
 title: 'We Are Living in a Robot Moment - Rejoice, Cower, and Copulate?'
-datePublished: '2015-09-30T18:55:15.985Z'
-dateModified: '2015-09-29T14:52:11.796Z'
+datePublished: '2015-09-30T18:58:55.427Z'
+dateModified: '2015-09-30T18:58:29.258Z'
 sourcePath: _posts/2015-09-30-we-are-living-in-a-robot-moment-rejoice-cower-and-copula.md
 published: true
-_context: 'http://schema.org'
+tags:
+  - ''
+authors: []
+publisher:
+  name: Grantland
+  domain: grantland.com
+  url: 'http://grantland.com'
+  favicon: 'https://s0.wp.com/wp-content/themes/vip/espn-grantland/img/favicon.ico'
 _type: MediaObject
+_context: 'http://schema.org'
 
 ---
-<article style=""><h1>We Are Living in a Robot Moment - Rejoice&amp;comma; Cower&amp;comma; and Copulate&amp;quest;</h1><p>Mario Zucca Every story about robots is in some way a story about death&amp;period; Sometimes it's the human race that gets it&amp;period; Sometimes it's a tiny plastic dog&amp;period; Last summer&amp;comma; Sony discontinued the last remaining traces of customer support for its AIBO series&amp;period; Remember the AIBO&amp;quest;</p><img src="https://espngrantland.files.wordpress.com/2015/09/robotsmariozucca.jpg?quality=100&amp;strip=all&amp;w=2048" /></article>
+<article style=""><h1>We Are Living in a Robot Moment - Rejoice, Cower, and Copulate?</h1><p>Every story about robots is in some way a story about death. Sometimes it's the human race that gets it. Sometimes it's a tiny plastic dog. Last summer, Sony discontinued the last remaining traces of customer support for its AIBO series. Remember the AIBO?</p><img src="https://espngrantland.files.wordpress.com/2015/09/robotsmariozucca.jpg?quality=100&amp;strip=all&amp;w=2048" /></article>
