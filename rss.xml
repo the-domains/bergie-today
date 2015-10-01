@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Oct 2015 11:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Oct 2015 11:24:09 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moonspike: the World's First Crowdfunded Moon Rocket]]></title>
+            <description><![CDATA[<article><h1>Moonspike: the World's First Crowdfunded Moon Rocket</h1><p>Moonspike Limited is raising funds for Moonspike: the World's First Crowdfunded Moon Rocket on Kickstarter! We're building a full scale space rocket to transport your photos, videos and data to the Moon.</p><img src="https://ksr-ugc.imgix.net/projects/1822405/photo-original.jpg?v=1443197253&w=1536&h=1152&fit=crop&auto=format&q=92&s=37d977c12762a31fdd44451c5176b43e"></article>]]></description>
+            <link>https://www.kickstarter.com/projects/moonspike/moonspike-the-worlds-first-crowdfunded-moon-rocket</link>
+            <guid isPermaLink="false">80b9a136-9539-4383-a966-1a2f974506f7</guid>
+            <pubDate>Thu, 01 Oct 2015 11:23:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The maturity of visual programming]]></title>
@@ -69,13 +76,6 @@
             <link>http://etodd.io/2015/09/28/one-weird-trick-better-code/</link>
             <guid isPermaLink="false">40b04a34-b0aa-4682-8775-0fa98ed224ef</guid>
             <pubDate>Tue, 29 Sep 2015 10:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Futurist Vision of Retirement Planning]]></title>
-            <description><![CDATA[<article><h1>A Futurist Vision of Retirement Planning</h1><p>The future is a place we’re going to live, if we make it that far, and for those of us who like to minimize our financial risks (or get maximum utility from our financial options, because we aren’t frightened people with storm bunkers, no—we are crusading adventurers, protagonists who protag), here are some of the things that those of us who try to predict the future think are most likely to impact your retirement.</p><img src="http://thebillfold.com/wp-content/uploads/sites/4/2015/09/blade_runner2-noscale.jpg"></article>]]></description>
-            <link>http://thebillfold.com/2015/09/a-futurist-vision-of-retirement-planning/</link>
-            <guid isPermaLink="false">569f60e8-084b-4129-829b-fe56fef403cd</guid>
-            <pubDate>Wed, 30 Sep 2015 23:37:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
