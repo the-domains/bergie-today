@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Sep 2015 23:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Oct 2015 11:11:04 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The maturity of visual programming]]></title>
+            <description><![CDATA[<article><h1>The maturity of visual programming</h1><p>Visual programming has come a long way since the first attempts in the 1970s, but it still has an aura of unfulfilled promises. In this article we will have a look at today's main types of visual programming languages, and where they can be useful and why.</p><img src="http://www.craft.ai/images/posts/maturity-of-visual-programming/vpl_collage.jpg"></article>]]></description>
+            <link>http://www.craft.ai/blog/the-maturity-of-visual-programming/</link>
+            <guid isPermaLink="false">4169c3ee-aac1-40a8-a319-7628f7df2eb8</guid>
+            <pubDate>Thu, 01 Oct 2015 11:10:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Planning the Software Industrial Revolution]]></title>
@@ -69,13 +76,6 @@
             <link>http://thebillfold.com/2015/09/a-futurist-vision-of-retirement-planning/</link>
             <guid isPermaLink="false">569f60e8-084b-4129-829b-fe56fef403cd</guid>
             <pubDate>Wed, 30 Sep 2015 23:37:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Always bet on text]]></title>
-            <description><![CDATA[<article><h1>Always bet on text</h1><p>I figured I should just post this somewhere so I can make future reference to how I feel about the matter, anytime someone asks me about such-and-such video, 3D, game or "dynamic" multimedia system. Don't get me wrong, I like me some illustrations, photos, movies and music.</p><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/The_oldest_writing_in_the_world_-_The_Sumerian_Stone_Tablet.jpg/220px-The_oldest_writing_in_the_world_-_The_Sumerian_Stone_Tablet.jpg"></article>]]></description>
-            <link>http://graydon2.dreamwidth.org/193447.html?HN2</link>
-            <guid isPermaLink="false">a11901a8-8b13-483f-b263-39ce13d955fd</guid>
-            <pubDate>Mon, 28 Sep 2015 16:39:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
