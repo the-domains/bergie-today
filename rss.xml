@@ -5,7 +5,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 03 Oct 2015 14:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2015 12:41:51 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -13,6 +13,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why The Internet Needs IPFS Before It's Too Late]]></title>
+            <description><![CDATA[<article><h1>Why The Internet Needs IPFS Before It's Too Late</h1><p>IPFS isn't exactly a well-known technology yet, even among many in the Valley, but it's quickly spreading by word of mouth among folks in the open-source community. Many are excited by its potential to greatly improve file transfer and streaming speeds across the Internet. From my personal perspective, however, it's actually much more important than that.</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/06/linksweb.jpg?w=738"></article>]]></description>
+            <link>urn:uuid:da23d9d2-5523-4ee6-96a9-4c1fdc4833fc</link>
+            <guid isPermaLink="false">c54c56bf-bacf-4556-9fb5-660d996ba71d</guid>
+            <pubDate>Mon, 05 Oct 2015 12:41:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Maker Faire Berlin]]></title>
@@ -69,13 +76,6 @@
             <link>http://www.wired.com/2015/09/campaign-help-surveillance-agents-quit-nsa-gchq/</link>
             <guid isPermaLink="false">c2cb8aee-a775-4412-aa3c-2cd30c8d8b25</guid>
             <pubDate>Wed, 30 Sep 2015 18:56:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A cartoon Guide to Flux]]></title>
-            <description><![CDATA[<article><h1>A cartoon Guide to Flux</h1><p>Flux is both one of the most popular and one of the least understood topics in current web development. This guide is an attempt to explain it in a way everyone can understand. First, I should explain the basic problem that Flux solves. Flux is a pattern for handling data in your application.</p><img src="https://cdn-images-1.medium.com/max/800/1*rNyINoYDbC53QNgHuTwriA.png"></article>]]></description>
-            <link>https://medium.com/@linclark/a-cartoon-guide-to-flux-6157355ab207</link>
-            <guid isPermaLink="false">e300bae0-8d45-4485-90bb-6bab78544fbc</guid>
-            <pubDate>Wed, 30 Sep 2015 18:55:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
