@@ -18,8 +18,8 @@ author: []
 related: []
 app_links: []
 title: 'Basics of Space Flight: Orbital Mechanics'
-datePublished: '2015-10-07T17:09:02.309Z'
-dateModified: '2015-10-07T17:08:44.741Z'
+datePublished: '2015-10-07T19:16:38.340Z'
+dateModified: '2015-10-07T17:09:02.309Z'
 authors: []
 publisher:
   name: Braeunig
