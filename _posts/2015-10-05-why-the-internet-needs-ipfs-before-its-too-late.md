@@ -5,19 +5,22 @@ starred: false
 keywords: []
 description: ''
 author: []
-datePublished: '2015-10-05T12:41:16.371Z'
+datePublished: '2015-10-08T17:40:38.733Z'
 title: "Why The Internet Needs IPFS Before It's Too Late"
-dateModified: '2015-10-05T10:45:46.392Z'
+dateModified: '2015-10-05T12:42:43.781Z'
 tags:
   - ''
+sourcePath: _posts/2015-10-05-why-the-internet-needs-ipfs-before-its-too-late.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2015-10-05-why-the-internet-needs-ipfs-before-its-too-late.md
-published: true
+inFeed: true
+hasPage: false
+inNav: false
 _type: MediaObject
 _context: 'http://schema.org'
 
