@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 15 Oct 2015 16:34:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2015 18:36:51 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,11 +14,18 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Improving YouTube video thumbnails with deep neural nets]]></title>
+            <description><![CDATA[<article><h1>Improving YouTube video thumbnails with deep neural nets</h1><p>Video thumbnails are often the first things viewers see when they look for something interesting to watch. A strong, vibrant, and relevant thumbnail draws attention, giving viewers a quick preview of the content of the video, and helps them to find content more easily. Better thumbnails lead to more clicks and views for video creators.</p><img src="http://4.bp.blogspot.com/-Q4ld3f5VShg/VhVGKDb3y9I/AAAAAAAAAvE/EwdS61_72c4/s640/image02.png"></article>]]></description>
+            <link>http://googleresearch.blogspot.com.br/2015/10/improving-youtube-video-thumbnails-with.html</link>
+            <guid isPermaLink="false">cf87a158-bf5a-49ea-b7a9-b8616b57c17a</guid>
+            <pubDate>Thu, 15 Oct 2015 18:36:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A Glass for Enjoying a Sip of Whisky While Floating in Space]]></title>
             <description><![CDATA[<article><h1>A Glass for Enjoying a Sip of Whisky While Floating in Space</h1><p>When space tourism finally takes off and the rich and famous head off for a holiday in orbit as easily as on the Riviera, they may want to sip something stronger than Tang as they gaze down at Earth. Something like whisky, perhaps.</p><img src="http://static01.nyt.com/images/2015/09/04/health/04whisky2/04whisky2-facebookJumbo.jpg"></article>]]></description>
             <link>http://www.nytimes.com/2015/09/04/science/space-whisky-glass.html?_r=0</link>
             <guid isPermaLink="false">9bd50848-3d6d-4e3a-8dfb-d13e78f054ac</guid>
-            <pubDate>Thu, 15 Oct 2015 16:34:26 GMT</pubDate>
+            <pubDate>Thu, 15 Oct 2015 16:39:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A conversation with Sussman on AI and asynchronous programming]]></title>
@@ -68,13 +75,6 @@
             <link>http://planete-mars.com/a-mars-colony-a-tentative-technical-analysis/</link>
             <guid isPermaLink="false">c3093e7e-a86e-4d94-8ad5-5c9149c3008f</guid>
             <pubDate>Thu, 08 Oct 2015 15:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Basics of Space Flight: Orbital Mechanics]]></title>
-            <description><![CDATA[<article><h1>Basics of Space Flight: Orbital Mechanics</h1><p>Orbital mechanics, also called flight mechanics, is the study of the motions of artificial satellites and space vehicles moving under the influence of forces such as gravity, atmospheric drag, thrust, etc. Orbital mechanics is a modern offshoot of celestial mechanics which is the study of the motions of natural celestial bodies such as the moon and planets.</p><img src="http://www.braeunig.us/space/pics/fig4-03.gif"></article>]]></description>
-            <link>http://www.braeunig.us/space/orbmech.htm</link>
-            <guid isPermaLink="false">9ffe40bc-342d-4736-908b-f2d526f818ea</guid>
-            <pubDate>Wed, 07 Oct 2015 19:16:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
