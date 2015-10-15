@@ -2,7 +2,7 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'urn:uuid:fdc3b176-f1cd-4f79-bb92-4fda7b4585e7'
+isBasedOnUrl: 'http://www.nytimes.com/2015/09/04/science/space-whisky-glass.html?_r=0'
 inLanguage: null
 starred: false
 keywords: []
@@ -25,6 +25,4 @@ _type: MediaObject
 _context: 'http://schema.org'
 
 ---
-# A Glass for Enjoying a Sip of Whisky While Floating in Space
-
 <article style=""><h1>A Glass for Enjoying a Sip of Whisky While Floating in Space</h1><p>When space tourism finally takes off and the rich and famous head off for a holiday in orbit as easily as on the Riviera, they may want to sip something stronger than Tang as they gaze down at Earth. Something like whisky, perhaps.</p><img src="http://static01.nyt.com/images/2015/09/04/health/04whisky2/04whisky2-facebookJumbo.jpg" /></article>
