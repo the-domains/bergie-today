@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'When space tourism finally takes off and the rich and famous head off for a holiday in orbit as easily as on the Riviera, they may want to sip something stronger than Tang as they gaze down at Earth. Something like whisky, perhaps.'
-datePublished: '2015-10-15T16:26:12.465Z'
-dateModified: '2015-10-15T16:26:05.933Z'
+datePublished: '2015-10-15T16:34:26.243Z'
+dateModified: '2015-10-15T16:32:18.089Z'
 author: []
 title: A Glass for Enjoying a Sip of Whisky While Floating in Space
 sourcePath: _posts/2015-09-13-a-glass-for-enjoying-a-sip-of-whisky-while-floating-in-space.md
@@ -17,8 +17,8 @@ tags:
   - ''
 authors: []
 publisher:
-  name: ''
-  domain: ''
+  name: nytimes.com
+  domain: www.nytimes.com
   url: null
   favicon: null
 _type: MediaObject
