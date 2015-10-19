@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Oct 2015 11:47:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2015 12:29:12 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nexus 6P Review: This Is The Android Device That You've Been Waiting For]]></title>
+            <description><![CDATA[<article><h1>Nexus 6P Review: This Is The Android Device That You've Been Waiting For</h1><p>Sundar Pichai made his first public presentation as Google's CEO last month and showed off a slew of new hardware devices. One of the two phones announced was the Nexus 6P by Huawei. For the flagship Nexus phones is bigger necessarily better? Let's find out. New phones are exciting.</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/10/6p-5.jpg?w=1024&h=576"></article>]]></description>
+            <link>http://techcrunch.com/2015/10/19/nexus-6p-review-this-is-the-android-device-that-youve-been-waiting-for/</link>
+            <guid isPermaLink="false">1da333fe-0e5c-4981-a3d0-b7453ccd9ed1</guid>
+            <pubDate>Mon, 19 Oct 2015 12:29:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[bttn]]></title>
@@ -68,13 +75,6 @@
             <link>http://dustycloud.org/blog/sussman-on-ai/</link>
             <guid isPermaLink="false">17ac4915-ee4e-4d9f-9a0c-b226c34cc588</guid>
             <pubDate>Thu, 15 Oct 2015 16:11:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Internet's Dark Ages]]></title>
-            <description><![CDATA[<article><h1>The Internet's Dark Ages</h1><p>If a Pulitzer-nominated 34-part series of investigative journalism can vanish from the web, anything can.</p><img src="http://cdn.theatlantic.com/assets/media/img/2015/10/13/LostInternet/1920.jpg?1444768409"></article>]]></description>
-            <link>http://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/?single_page=true</link>
-            <guid isPermaLink="false">43ed45a7-349e-4404-b3f0-d0e6480ed81b</guid>
-            <pubDate>Thu, 15 Oct 2015 10:44:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
