@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Oct 2015 12:29:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2015 16:44:39 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Safe Harbour and how to protect your business and customer data]]></title>
+            <description><![CDATA[<article><h1>Safe Harbour and how to protect your business and customer data</h1><p>A simple explanation of Safe Harbour, what it means to you or your business and what you could do to take that next step into protecting that data. Safe Harbour was a policy agreement between the United States Department of Commerce and the European Commission to regulate how US companies manage the personal data of European citizens.</p><img src="https://cdn-images-1.medium.com/max/800/1*6OSuY9v4tvrbdULTRktdqQ.png"></article>]]></description>
+            <link>https://medium.com/@ggreve/safe-harbour-and-how-to-protect-your-business-and-customer-data-c8ed257eb8df</link>
+            <guid isPermaLink="false">fa3c4301-c7e7-4870-a64f-f4014abf4cd2</guid>
+            <pubDate>Mon, 19 Oct 2015 16:43:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nexus 6P Review: This Is The Android Device That You've Been Waiting For]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.nytimes.com/2015/09/04/science/space-whisky-glass.html?_r=0</link>
             <guid isPermaLink="false">9bd50848-3d6d-4e3a-8dfb-d13e78f054ac</guid>
             <pubDate>Thu, 15 Oct 2015 16:39:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A conversation with Sussman on AI and asynchronous programming]]></title>
-            <description><![CDATA[<article><h1>A conversation with Sussman on AI and asynchronous programming</h1><p>A couple weeks ago I made it to the FSF's 30th anniversary party. It was a blast in many ways, and a good generator of many fond memories, but I won't go into depth of them here. One particularly exciting thing that happened for me though was I got to meet Gerald Sussman (of SICP!)</p><img src="http://dustycloud.org/etc/images/blog/Jerry_Sussman.jpg"></article>]]></description>
-            <link>http://dustycloud.org/blog/sussman-on-ai/</link>
-            <guid isPermaLink="false">17ac4915-ee4e-4d9f-9a0c-b226c34cc588</guid>
-            <pubDate>Thu, 15 Oct 2015 16:11:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
