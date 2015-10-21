@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Oct 2015 19:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2015 12:37:11 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Futures of text]]></title>
+            <description><![CDATA[<article><h1>Futures of text</h1><p>When the weather is bad I take a bus to work. I'm forever grateful to the person at the bus stop who informed me that you can text New York's MTA service to find out exactly where the bus is and when it's going to arrive.</p><img src="https://s3.amazonaws.com/whoops-images/images/futures-of-text/bus-time.gif"></article>]]></description>
+            <link>http://whoo.ps/2015/02/23/futures-of-text</link>
+            <guid isPermaLink="false">aca8808b-6c08-4409-9107-ee59270d3864</guid>
+            <pubDate>Wed, 21 Oct 2015 12:36:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How we got gripped by the hand-held device]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.bunniestudios.com/blog/?p=4297</link>
             <guid isPermaLink="false">2dea1989-602b-4e06-a5be-ff83b328a5a4</guid>
             <pubDate>Fri, 16 Oct 2015 11:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Solu To Launch A Brand New Personal Computer]]></title>
-            <description><![CDATA[<article><h1>Solu To Launch A Brand New Personal Computer</h1><p>We have been stuck with basically the same type of computing devices since the beginning of the internet/computing era. The computer mouse dates back to 1941, most operating systems have not changed drastically since 1980's. Solu is taking a stab at redefining all that with their launch on October 15th in San Francisco.</p><img src="http://arcticstartup.com/uploads/images/_imageLarge/SOLU-press-photo.jpg"></article>]]></description>
-            <link>http://arcticstartup.com/article/solu-to-launch-a-brand-new-personal-computer</link>
-            <guid isPermaLink="false">f1a3e005-c5ad-4ff9-8f39-436fcca62618</guid>
-            <pubDate>Thu, 15 Oct 2015 19:02:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
