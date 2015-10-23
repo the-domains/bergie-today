@@ -27,3 +27,6 @@ color:
   saturation: 0.375
   rhythmicContrast: 0.5
 purpose: []
+author:
+  name: Henri Bergius
+  email: "henri.bergius@iki.fi"
