@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 13:03:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 10:53:02 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NASA Spots the 'Great Pumpkin': Halloween Asteroid a Treat for Radar Astronomers]]></title>
+            <description><![CDATA[<article><h1>NASA Spots the 'Great Pumpkin': Halloween Asteroid a Treat for Radar Astronomers</h1><p>NASA scientists are tracking the upcoming Halloween flyby of asteroid 2015 TB145 with several optical observatories and the radar capabilities of the agency's Deep Space Network at Goldstone, California. The asteroid will fly past Earth at a safe distance slightly farther than the moon's orbit on Oct. 31 at 10:05 a.m.</p><img src="http://www.jpl.nasa.gov/images/asteroid/20151021/asteroid20151021-16.jpg"></article>]]></description>
+            <link>http://www.jpl.nasa.gov/news/news.php?feature=4745</link>
+            <guid isPermaLink="false">48023920-2e5b-43be-8891-1b9516778a72</guid>
+            <pubDate>Fri, 23 Oct 2015 10:52:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The coming era of unlimited - and free - clean energy]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/110527483</link>
             <guid isPermaLink="false">327bc318-d8fd-4ea4-84ea-2dc6eaa2db35</guid>
             <pubDate>Fri, 16 Oct 2015 16:41:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Most Mysterious Star in Our Galaxy]]></title>
-            <description><![CDATA[<article><h1>The Most Mysterious Star in Our Galaxy</h1><p>Astronomers have spotted a strange mess of objects whirling around a distant star. Scientists who search for extraterrestrial civilizations are scrambling to get a closer look.</p><img src="http://cdn.theatlantic.com/assets/media/img/mt/2015/10/Cygnus_v3_BandW/facebook.jpg?1444687096"></article>]]></description>
-            <link>http://www.theatlantic.com/science/archive/2015/10/the-most-interesting-star-in-our-galaxy/410023/</link>
-            <guid isPermaLink="false">48c7f85b-b696-4491-bf5a-410e582db177</guid>
-            <pubDate>Fri, 16 Oct 2015 12:42:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
