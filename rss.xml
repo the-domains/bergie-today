@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 17:08:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 17:12:33 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Some Finnish Engineers Would Like You To Put This Tiny Square Computer In Your Pocket]]></title>
+            <description><![CDATA[<article><h1>Some Finnish Engineers Would Like You To Put This Tiny Square Computer In Your Pocket</h1><p>Solu is a coaster-sized cloud-based portable computer that fits in your pocket. A team of Finnish engineers behind the device hope Solu will change the way we think of using our digital operating systems. Sure, we already have our portable computing devices such as iPads and smartphones, but Solu founder Kristoffer Lawson wants us to stop lugging all our heavy laptops and notebooks around and jump into the cloud-based era of "computer-as-a-service."</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/10/solu-social-e1445545933118.png?w=678&h=335"></article>]]></description>
+            <link>http://techcrunch.com/2015/10/22/some-finnish-engineers-would-like-you-to-put-this-tiny-square-computer-in-your-pocket/#.qbiqy7:Mgc3</link>
+            <guid isPermaLink="false">51e0575d-dfb1-4fb3-87ef-4dabd863480b</guid>
+            <pubDate>Fri, 23 Oct 2015 17:12:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IPFS: The Permanent Web, by Juan Benet]]></title>
@@ -68,13 +75,6 @@
             <link>http://techcrunch.com/2015/10/19/nexus-6p-review-this-is-the-android-device-that-youve-been-waiting-for/</link>
             <guid isPermaLink="false">1da333fe-0e5c-4981-a3d0-b7453ccd9ed1</guid>
             <pubDate>Mon, 19 Oct 2015 12:29:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bttn]]></title>
-            <description><![CDATA[<article><h1>bttn</h1><p>bttn is just what the name suggests: a connected push button that can trigger actions. Use it to send a message, control your smart appliances or turn music on/off. The bttn has built-in internet connectivity and needs no smartphones or apps to pair with.</p><img src="https://d2mxvsk7f406uh.cloudfront.net/wp-content/uploads/2015/06/web-optimized-15092.jpg"></article>]]></description>
-            <link>https://bt.tn/</link>
-            <guid isPermaLink="false">972e90c8-cfa9-4186-aa41-023eadf65cd6</guid>
-            <pubDate>Mon, 19 Oct 2015 11:46:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
