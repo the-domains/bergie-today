@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 17:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2015 13:05:34 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EU Rules Bitcoin Is a Currency, Not a Commodity-Virtually]]></title>
+            <description><![CDATA[<article><h1>EU Rules Bitcoin Is a Currency, Not a Commodity-Virtually</h1><p>Europeans: Go buy some bitcoins. They're tax free. Virtual currency bitcoin took another step toward legitimacy Thursday, when Europe's top court ruled that it must be treated like a currency-not a commodity-for tax purposes.</p><img src="http://si.wsj.net/public/resources/images/BN-KS265_bitcoi_P_20151012060448.jpg"></article>]]></description>
+            <link>http://blogs.wsj.com/digits/2015/10/22/eu-rules-bitcoin-is-a-currency-not-a-commodity-virtually/</link>
+            <guid isPermaLink="false">fea55aae-d02c-477a-83a1-d910816a7562</guid>
+            <pubDate>Mon, 26 Oct 2015 13:04:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Some Finnish Engineers Would Like You To Put This Tiny Square Computer In Your Pocket]]></title>
@@ -68,13 +75,6 @@
             <link>https://medium.com/@ggreve/safe-harbour-and-how-to-protect-your-business-and-customer-data-c8ed257eb8df</link>
             <guid isPermaLink="false">fa3c4301-c7e7-4870-a64f-f4014abf4cd2</guid>
             <pubDate>Mon, 19 Oct 2015 16:43:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nexus 6P Review: This Is The Android Device That You've Been Waiting For]]></title>
-            <description><![CDATA[<article><h1>Nexus 6P Review: This Is The Android Device That You've Been Waiting For</h1><p>Sundar Pichai made his first public presentation as Google's CEO last month and showed off a slew of new hardware devices. One of the two phones announced was the Nexus 6P by Huawei. For the flagship Nexus phones is bigger necessarily better? Let's find out. New phones are exciting.</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/10/6p-5.jpg?w=1024&h=576"></article>]]></description>
-            <link>http://techcrunch.com/2015/10/19/nexus-6p-review-this-is-the-android-device-that-youve-been-waiting-for/</link>
-            <guid isPermaLink="false">1da333fe-0e5c-4981-a3d0-b7453ccd9ed1</guid>
-            <pubDate>Mon, 19 Oct 2015 12:29:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
