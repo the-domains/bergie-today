@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 13:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2015 16:39:36 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google Turning Its Lucrative Web Search Over to AI Machines]]></title>
+            <description><![CDATA[<article><h1>Google Turning Its Lucrative Web Search Over to AI Machines</h1><p>When Google-parent Alphabet Inc. reported eye-popping earnings last week its executives couldn't stop talking up the company's investments in machine learning and artificial intelligence. For any other company that would be a wonky distraction from its core business. At Google, the two are intertwined.</p><img src="http://assets.bwbx.io/images/i.ilGX8_US7U/v1/-1x-1.jpg"></article>]]></description>
+            <link>http://www.bloomberg.com/news/articles/2015-10-26/google-turning-its-lucrative-web-search-over-to-ai-machines</link>
+            <guid isPermaLink="false">5fe470b7-af6e-4c92-92bf-8aa68f6c1f99</guid>
+            <pubDate>Mon, 26 Oct 2015 16:38:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[EU Rules Bitcoin Is a Currency, Not a Commodity-Virtually]]></title>
@@ -68,13 +75,6 @@
             <link>http://rinuboney.github.io/2015/10/18/theoretical-motivations-deep-learning.html</link>
             <guid isPermaLink="false">56d5b126-fe40-4b16-a5f5-be3e7d8961fe</guid>
             <pubDate>Mon, 19 Oct 2015 19:14:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Safe Harbour and how to protect your business and customer data]]></title>
-            <description><![CDATA[<article><h1>Safe Harbour and how to protect your business and customer data</h1><p>A simple explanation of Safe Harbour, what it means to you or your business and what you could do to take that next step into protecting that data. Safe Harbour was a policy agreement between the United States Department of Commerce and the European Commission to regulate how US companies manage the personal data of European citizens.</p><img src="https://cdn-images-1.medium.com/max/800/1*6OSuY9v4tvrbdULTRktdqQ.png"></article>]]></description>
-            <link>https://medium.com/@ggreve/safe-harbour-and-how-to-protect-your-business-and-customer-data-c8ed257eb8df</link>
-            <guid isPermaLink="false">fa3c4301-c7e7-4870-a64f-f4014abf4cd2</guid>
-            <pubDate>Mon, 19 Oct 2015 16:43:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
