@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 16:39:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2015 17:33:33 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Hardest Working Person At Silicon Valley's Most Important Startup Isn't a Person]]></title>
+            <description><![CDATA[<article><h1>The Hardest Working Person At Silicon Valley's Most Important Startup Isn't a Person</h1><p>When you walk into the San Francisco headquarters of GitHub- the startup that sits at the heart of the software universe-it looks as if you've walked into the White House. The lobby is a wonderfully amusing recreation of the Oval Office, right down to the striped wallpaper, the gold curtains, and the American flag in the corner.</p><img src="http://www.wired.com/wp-content/uploads/2015/10/hubot-featured-1200x630-e1445557835983.jpg"></article>]]></description>
+            <link>http://www.wired.com/2015/10/the-most-important-startups-hardest-worker-isnt-a-person/</link>
+            <guid isPermaLink="false">49ea4dcc-5c7e-44bf-9f12-dc3fd7186375</guid>
+            <pubDate>Mon, 26 Oct 2015 17:32:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google Turning Its Lucrative Web Search Over to AI Machines]]></title>
@@ -68,13 +75,6 @@
             <link>http://aeon.co/magazine/technology/how-we-got-gripped-by-the-hand-held-device/</link>
             <guid isPermaLink="false">2c3decf4-06ab-4490-b439-04d5ac62f082</guid>
             <pubDate>Mon, 19 Oct 2015 19:15:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Theoretical Motivations for Deep Learning]]></title>
-            <description><![CDATA[<article><h1>Theoretical Motivations for Deep Learning</h1><p>This post is based on the lecture "Deep Learning: Theoretical Motivations" given by Dr. Yoshua Bengio at Deep Learning Summer School, Montreal 2015. I highly recommend the lecture for a deeper understanding of the topic. Deep learning is a branch of machine learning algorithms based on learning multiple levels of representation.</p><img src="http://rinuboney.github.io/img/distributed_partition.png"></article>]]></description>
-            <link>http://rinuboney.github.io/2015/10/18/theoretical-motivations-deep-learning.html</link>
-            <guid isPermaLink="false">56d5b126-fe40-4b16-a5f5-be3e7d8961fe</guid>
-            <pubDate>Mon, 19 Oct 2015 19:14:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
