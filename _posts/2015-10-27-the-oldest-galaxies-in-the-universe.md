@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.theatlantic.com/science/archive/2015/10/the-oldest-galaxies-ever-glimpsed/412300/?single_page=true'
 title: The Oldest Galaxies in the Universe
-datePublished: '2015-10-27T12:06:47.160Z'
-dateModified: '2015-10-27T11:32:59.986Z'
+datePublished: '2015-10-27T13:00:47.334Z'
+dateModified: '2015-10-27T12:06:51.384Z'
 sourcePath: _posts/2015-10-27-the-oldest-galaxies-in-the-universe.md
 published: true
 inFeed: true
