@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://47ron.in/blog/2015/10/23/haproxy-in-the-era-of-microservices.html'
 title: HAproxy in the era of Microservices
-datePublished: '2015-10-27T11:40:43.282Z'
-dateModified: '2015-10-26T18:00:21.718Z'
+datePublished: '2015-10-27T12:12:50.176Z'
+dateModified: '2015-10-27T11:40:48.187Z'
 sourcePath: _posts/2015-10-27-haproxy-in-the-era-of-microservices.md
 published: true
 inFeed: true
