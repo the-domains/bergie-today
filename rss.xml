@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Oct 2015 13:01:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2015 13:01:17 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Life With My Robot Secretary]]></title>
+            <description><![CDATA[<article><h1>Life With My Robot Secretary</h1><p>I'm not important enough to have what the rich and powerful call "people." Most of us aren't. The average personal assistant is paid about $31,000 a year, while the average wage for the U.S. job market is roughly $5,000 less than that.</p><img src="http://f.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2015/10/3052646-poster-1280-robot-secretary.jpg"></article>]]></description>
+            <link>http://www.fastcodesign.com/3052646/innovation-by-design/life-with-my-robot-secretary</link>
+            <guid isPermaLink="false">e7c60cb5-7b38-4ace-8428-5aa536d2ac79</guid>
+            <pubDate>Tue, 27 Oct 2015 13:01:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HAproxy in the era of Microservices]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.jpl.nasa.gov/news/news.php?feature=4745</link>
             <guid isPermaLink="false">48023920-2e5b-43be-8891-1b9516778a72</guid>
             <pubDate>Fri, 23 Oct 2015 10:52:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The coming era of unlimited - and free - clean energy]]></title>
-            <description><![CDATA[<article><h1>The coming era of unlimited - and free - clean energy</h1><p>In the 1980s, leading consultants were skeptical about cellular phones. McKinsey & Company noted that the handsets were heavy, batteries didn't last long, coverage was patchy, and the cost per minute was exorbitant. It predicted that in 20 years the total market size would be about 900,000 units, and advised AT&T to pull out.</p><img src="http://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2014-09-11/Bloomberg/201690075.jpg"></article>]]></description>
-            <link>https://www.washingtonpost.com/news/innovations/wp/2014/09/19/the-coming-era-of-unlimited-and-free-clean-energy/?tid=trending_strip_4</link>
-            <guid isPermaLink="false">08d53b46-e9de-4376-8591-d60762719cf4</guid>
-            <pubDate>Thu, 22 Oct 2015 13:03:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
