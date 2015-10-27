@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Oct 2015 13:01:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2015 17:19:11 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Build a Low-tech Internet]]></title>
+            <description><![CDATA[<article><h1>How to Build a Low-tech Internet</h1><p>Wireless internet access is on the rise in both modern consumer societies and in the developing world. In rich countries, however, the focus is on always-on connectivity and ever higher access speeds. In poor countries, on the other hand, connectivity is achieved through much more low-tech, often asynchronous networks.</p><img src="http://krisdedecker.typepad.com/.a/6a00e0099229e8883301b7c7e2d9d7970b-800wi"></article>]]></description>
+            <link>http://www.lowtechmagazine.com/2015/10/how-to-build-a-low-tech-internet.html</link>
+            <guid isPermaLink="false">2f8568a4-ab75-48c5-a695-8aa92768e528</guid>
+            <pubDate>Tue, 27 Oct 2015 17:16:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Life With My Robot Secretary]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=Fa4pckodM9g</link>
             <guid isPermaLink="false">f89c5ffc-218a-4d6e-ad10-fb38642785fd</guid>
             <pubDate>Fri, 23 Oct 2015 17:08:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NASA Spots the 'Great Pumpkin': Halloween Asteroid a Treat for Radar Astronomers]]></title>
-            <description><![CDATA[<article><h1>NASA Spots the 'Great Pumpkin': Halloween Asteroid a Treat for Radar Astronomers</h1><p>NASA scientists are tracking the upcoming Halloween flyby of asteroid 2015 TB145 with several optical observatories and the radar capabilities of the agency's Deep Space Network at Goldstone, California. The asteroid will fly past Earth at a safe distance slightly farther than the moon's orbit on Oct. 31 at 10:05 a.m.</p><img src="http://www.jpl.nasa.gov/images/asteroid/20151021/asteroid20151021-16.jpg"></article>]]></description>
-            <link>http://www.jpl.nasa.gov/news/news.php?feature=4745</link>
-            <guid isPermaLink="false">48023920-2e5b-43be-8891-1b9516778a72</guid>
-            <pubDate>Fri, 23 Oct 2015 10:52:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
