@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 28 Oct 2015 10:35:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2015 14:54:18 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook's AI Can Caption Photos for the Blind on Its Own]]></title>
+            <description><![CDATA[<article><h1>Facebook's AI Can Caption Photos for the Blind on Its Own</h1><p>Matt King is blind, so he can't see the photo. And though it was posted to his Facebook feed with a rather lengthy caption, that's no help. Thanks to text-to-speech software, his laptop reads the caption aloud, but it's in German. And King doesn't understand German.</p><img src="http://www.wired.com/wp-content/uploads/2015/10/GettyImages-551958435-big-1200x630-e1445916830625.jpg"></article>]]></description>
+            <link>http://www.wired.com/2015/10/facebook-artificial-intelligence-describes-photo-captions-for-blind-people/</link>
+            <guid isPermaLink="false">4d844733-3d77-43f9-bc1b-83cfb502e080</guid>
+            <pubDate>Wed, 28 Oct 2015 14:53:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NASA spacecraft to dive into icy geyser on distant world]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.wired.com/2015/10/the-most-important-startups-hardest-worker-isnt-a-person/</link>
             <guid isPermaLink="false">49ea4dcc-5c7e-44bf-9f12-dc3fd7186375</guid>
             <pubDate>Mon, 26 Oct 2015 17:32:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Turning Its Lucrative Web Search Over to AI Machines]]></title>
-            <description><![CDATA[<article><h1>Google Turning Its Lucrative Web Search Over to AI Machines</h1><p>When Google-parent Alphabet Inc. reported eye-popping earnings last week its executives couldn't stop talking up the company's investments in machine learning and artificial intelligence. For any other company that would be a wonky distraction from its core business. At Google, the two are intertwined.</p><img src="http://assets.bwbx.io/images/i.ilGX8_US7U/v1/-1x-1.jpg"></article>]]></description>
-            <link>http://www.bloomberg.com/news/articles/2015-10-26/google-turning-its-lucrative-web-search-over-to-ai-machines</link>
-            <guid isPermaLink="false">5fe470b7-af6e-4c92-92bf-8aa68f6c1f99</guid>
-            <pubDate>Mon, 26 Oct 2015 16:38:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
