@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Oct 2015 17:30:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2015 10:18:24 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is solarpunk the new cyberpunk?]]></title>
+            <description><![CDATA[<article><h1>Is solarpunk the new cyberpunk?</h1><p>It’s a new rising speculative fiction genre and aesthetic, along the same lines of Steampunk, Cyberpunk, and others you might have heard of. It pretty much embodies the idea that while the future might be an overwhelming prospect, it doesn’t have to be frightening, and it doesn’t have to hurt.</p><img src="http://www.scifiideas.com/wp-content/uploads/2015/10/solarpunk.png"></article>]]></description>
+            <link>http://www.scifiideas.com/writing-2/solarpunk-we-are-golden-and-our-future-is-bright/</link>
+            <guid isPermaLink="false">a50bfaaf-d0e5-4b3e-a681-1805d60090c4</guid>
+            <pubDate>Wed, 28 Oct 2015 10:17:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Build a Low-tech Internet]]></title>
@@ -68,13 +75,6 @@
             <link>http://techcrunch.com/2015/10/22/some-finnish-engineers-would-like-you-to-put-this-tiny-square-computer-in-your-pocket/#.qbiqy7:Mgc3</link>
             <guid isPermaLink="false">51e0575d-dfb1-4fb3-87ef-4dabd863480b</guid>
             <pubDate>Fri, 23 Oct 2015 17:12:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IPFS: The Permanent Web, by Juan Benet]]></title>
-            <description><![CDATA[<article><h1>IPFS: The Permanent Web, by Juan Benet</h1><p>Juan Benet discusses his project, IPFS, which is a global, versioned, peer-to-peer file system that combines ideas from Git, BitTorrent, Kademlia, and SFS.</p><img src="https://i.ytimg.com/vi/Fa4pckodM9g/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=Fa4pckodM9g</link>
-            <guid isPermaLink="false">f89c5ffc-218a-4d6e-ad10-fb38642785fd</guid>
-            <pubDate>Fri, 23 Oct 2015 17:08:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
