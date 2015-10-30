@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 11:44:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2015 19:02:47 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NASA Adds to Evidence of Mysterious Ancient Earthworks]]></title>
+            <description><![CDATA[<article><h1>NASA Adds to Evidence of Mysterious Ancient Earthworks</h1><p>High in the skies over Kazakhstan, space-age technology has revealed an ancient mystery on the ground. Satellite pictures of a remote and treeless northern steppe reveal colossal earthworks - geometric figures of squares, crosses, lines and rings the size of several football fields, recognizable only from the air and the oldest estimated at 8,000 years old.</p><img src="http://static01.nyt.com/images/2015/10/30/science/30KAZAKHSTAN1/30KAZAKHSTAN1-facebookJumbo.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2015/11/03/science/nasa-adds-to-evidence-of-mysterious-ancient-earthworks.html?_r=0</link>
+            <guid isPermaLink="false">3b066c6b-7d1d-4a37-9755-0d2e8e8f548e</guid>
+            <pubDate>Fri, 30 Oct 2015 19:01:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Moon Parka: Outerwear Made From Synthetic Spider Silk]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.lowtechmagazine.com/2015/10/how-to-build-a-low-tech-internet.html</link>
             <guid isPermaLink="false">2f8568a4-ab75-48c5-a695-8aa92768e528</guid>
             <pubDate>Tue, 27 Oct 2015 17:16:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life With My Robot Secretary]]></title>
-            <description><![CDATA[<article><h1>Life With My Robot Secretary</h1><p>I'm not important enough to have what the rich and powerful call "people." Most of us aren't. The average personal assistant is paid about $31,000 a year, while the average wage for the U.S. job market is roughly $5,000 less than that.</p><img src="http://f.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2015/10/3052646-poster-1280-robot-secretary.jpg"></article>]]></description>
-            <link>http://www.fastcodesign.com/3052646/innovation-by-design/life-with-my-robot-secretary</link>
-            <guid isPermaLink="false">e7c60cb5-7b38-4ace-8428-5aa536d2ac79</guid>
-            <pubDate>Tue, 27 Oct 2015 13:01:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
