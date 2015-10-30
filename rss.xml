@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Oct 2015 11:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2015 11:44:29 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moon Parka: Outerwear Made From Synthetic Spider Silk]]></title>
+            <description><![CDATA[<article><h1>Moon Parka: Outerwear Made From Synthetic Spider Silk</h1><p>Stronger than steel and more flexible than nylon, spider silk is said to be the toughest material on earth. For the past 11 years a Japanese company has been attempting to harness that strength to create a new type of material with unprecedented versatility. They've now unveiled their worki</p><img src="http://www.spoon-tamago.com/wp-content/uploads/2015/10/Moon-parka-FB.jpg"></article>]]></description>
+            <link>http://www.spoon-tamago.com/2015/10/20/moon-parka-outerwear-made-from-synthetic-spider-silk/</link>
+            <guid isPermaLink="false">1dc3ac3f-5927-4510-91c2-9fa4182dc00f</guid>
+            <pubDate>Fri, 30 Oct 2015 11:43:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2kW Steam Engine and Alternator]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.fastcodesign.com/3052646/innovation-by-design/life-with-my-robot-secretary</link>
             <guid isPermaLink="false">e7c60cb5-7b38-4ace-8428-5aa536d2ac79</guid>
             <pubDate>Tue, 27 Oct 2015 13:01:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HAproxy in the era of Microservices]]></title>
-            <description><![CDATA[<article><h1>HAproxy in the era of Microservices</h1><p>"Microservices"&comma; the latest architecture buzzword being thrown around to describe perhaps one of the most interesting architecture styles of this decade&period; To use Martin Fowler's definition&colon; In short&comma; the microservice architectural style is an approach to developing a single application as a suite of small services&comma; each running in its own process and communicating with lightweight mechanisms&comma; often an HTTP resource API&period;</p><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Double_slip_at_Munich_central.jpg"></article>]]></description>
-            <link>http://47ron.in/blog/2015/10/23/haproxy-in-the-era-of-microservices.html</link>
-            <guid isPermaLink="false">72e959cf-6e5d-48c9-9115-3467886eb7cf</guid>
-            <pubDate>Tue, 27 Oct 2015 17:28:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
