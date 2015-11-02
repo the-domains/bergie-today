@@ -2,21 +2,22 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-02T15:38:42.397Z'
-dateModified: '2015-11-02T15:12:50.896Z'
+datePublished: '2015-11-02T17:22:16.382Z'
+dateModified: '2015-11-02T17:22:08.065Z'
 title: Nice autumn sailing
+sourcePath: _posts/2015-11-02-nice-autumn-sailing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-02-nice-autumn-sailing.md
-published: true
 _type: Blurb
 
 ---
