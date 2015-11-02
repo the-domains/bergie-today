@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Nov 2015 15:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2015 17:21:04 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Space station celebrates 15 years of life in space ]]></title>
+            <description><![CDATA[<article><h1>Space station celebrates 15 years of life in space </h1><p>On November 2, 2000, a Russian Soyuz rocket docked at the International Space Station carrying Expedition 1, made up of NASA astronaut William Shepherd and Roscosmos cosmonauts Yuri Gidzenko and Sergei Krikalev. For 136 days, 17 hours and 9 minutes, they lived in the narrow quarters of the station as it zipped silently around Earth at 5 miles per second, 250 miles above its surface.</p><img src="http://i2.cdn.turner.com/cnnnext/dam/assets/130219113441-space-station-horizontal-large-gallery.jpg"></article>]]></description>
+            <link>http://edition.cnn.com/2015/11/02/world/international-space-station-15-years-iss/index.html</link>
+            <guid isPermaLink="false">12abfca9-3ca8-44f5-8508-d2760ce5da8c</guid>
+            <pubDate>Mon, 02 Nov 2015 17:20:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Do one thing...]]></title>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/science/2015/10/nasa-spacecraft-to-dive-into-icy-geyser-on-distant-world/</link>
             <guid isPermaLink="false">fe58ce63-1d5d-443d-b2cd-b413dc36df82</guid>
             <pubDate>Wed, 28 Oct 2015 10:35:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Law of Demeter: Some archaeological notes]]></title>
-            <description><![CDATA[<article><h1>The Law of Demeter: Some archaeological notes</h1><p>A lot has been written and said about the Law of Demeter. I'd read and heard a lot about the law before I ever went back and looked at the seminal, original papers that described it. In spite of how much I thought I knew about the law, I found those original papers quite enlightening and absorbing.</p></article>]]></description>
-            <link>https://practicingruby.com/articles/demeter-archaeology</link>
-            <guid isPermaLink="false">d04bf3c7-8b2d-4785-8e4a-727cb4616c5e</guid>
-            <pubDate>Wed, 28 Oct 2015 10:34:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
