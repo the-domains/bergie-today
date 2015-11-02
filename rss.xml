@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 19:02:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2015 14:22:16 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Germany is about to start up a monster machine that could revolutionize the way we use energy - Business Insider]]></title>
+            <description><![CDATA[<article><h1>Germany is about to start up a monster machine that could revolutionize the way we use energy - Business Insider</h1><p>For more than 60 years, scientists have dreamed of a clean, inexhaustible energy source in the form of nuclear fusion. And they're still dreaming. But thanks to the efforts of the Max Planck Institute for Plasma Physics, experts hope that might soon change.</p><img src="https://static-ssl.businessinsider.com/image/56337ca99dd7cc19008c5f57-1920-1080/screen%20shot%202015-10-29%20at%203.48.38%20pm.png"></article>]]></description>
+            <link>http://www.businessinsider.my/germany-is-turning-on-its-monster-stellarator-2015-10/#DCkwZYEw7BARdYjo.97</link>
+            <guid isPermaLink="false">b0bb2525-ce73-4baf-824b-3a7214f0fa5d</guid>
+            <pubDate>Mon, 02 Nov 2015 14:21:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NASA Adds to Evidence of Mysterious Ancient Earthworks]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.scifiideas.com/writing-2/solarpunk-we-are-golden-and-our-future-is-bright/</link>
             <guid isPermaLink="false">a50bfaaf-d0e5-4b3e-a681-1805d60090c4</guid>
             <pubDate>Wed, 28 Oct 2015 10:17:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Build a Low-tech Internet]]></title>
-            <description><![CDATA[<article><h1>How to Build a Low-tech Internet</h1><p>Wireless internet access is on the rise in both modern consumer societies and in the developing world. In rich countries, however, the focus is on always-on connectivity and ever higher access speeds. In poor countries, on the other hand, connectivity is achieved through much more low-tech, often asynchronous networks.</p><img src="http://krisdedecker.typepad.com/.a/6a00e0099229e8883301b7c7e2d9d7970b-800wi"></article>]]></description>
-            <link>http://www.lowtechmagazine.com/2015/10/how-to-build-a-low-tech-internet.html</link>
-            <guid isPermaLink="false">2f8568a4-ab75-48c5-a695-8aa92768e528</guid>
-            <pubDate>Tue, 27 Oct 2015 17:16:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
