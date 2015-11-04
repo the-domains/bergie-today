@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Nov 2015 20:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2015 20:14:21 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Programmable blockchains in context: Ethereum's Future]]></title>
+            <description><![CDATA[<article><h1>Programmable blockchains in context: Ethereum's Future</h1><p>By the end of this article, you're going to understand blockchains in general (and Ethereum, a next-generation blockchain platform, in particular) well enough to decide what they mean to your life. Ethereum brings up strong emotions. Some have compared it to SkyNet, the distributed artificial intelligence of the Terminator movies.</p><img src="https://cdn-images-1.medium.com/max/1200/1*gJIoEfJ9vHsZRwFiqRMlvQ.png"></article>]]></description>
+            <link>https://medium.com/@ConsenSys/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e#.fdpg15q39</link>
+            <guid isPermaLink="false">9679149f-6d78-4e5d-881f-6194a6734566</guid>
+            <pubDate>Wed, 04 Nov 2015 20:14:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Declaration of the Independence of Cyberspace]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.nytimes.com/2015/11/03/science/nasa-adds-to-evidence-of-mysterious-ancient-earthworks.html?_r=0</link>
             <guid isPermaLink="false">3b066c6b-7d1d-4a37-9755-0d2e8e8f548e</guid>
             <pubDate>Fri, 30 Oct 2015 19:01:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moon Parka: Outerwear Made From Synthetic Spider Silk]]></title>
-            <description><![CDATA[<article><h1>Moon Parka: Outerwear Made From Synthetic Spider Silk</h1><p>Stronger than steel and more flexible than nylon, spider silk is said to be the toughest material on earth. For the past 11 years a Japanese company has been attempting to harness that strength to create a new type of material with unprecedented versatility. They've now unveiled their worki</p><img src="http://www.spoon-tamago.com/wp-content/uploads/2015/10/Moon-parka-FB.jpg"></article>]]></description>
-            <link>http://www.spoon-tamago.com/2015/10/20/moon-parka-outerwear-made-from-synthetic-spider-silk/</link>
-            <guid isPermaLink="false">1dc3ac3f-5927-4510-91c2-9fa4182dc00f</guid>
-            <pubDate>Fri, 30 Oct 2015 11:43:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
