@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 18:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2015 11:45:04 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Static Website Generators Are The Next Big Thing]]></title>
+            <description><![CDATA[<article><h1>Why Static Website Generators Are The Next Big Thing</h1><p>At StaticGen, our open-source directory of static website generators, we've kept track of more than a hundred generators for more than a year now, and we've seen both the volume and popularity of these projects take off incredibly on GitHub during that time, going from just 50 to more than 100 generators and a total of more than 100,000 stars for static website generator repositories.</p><img src="https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/10/02-smashing-dynamic-load-times-opt.png"></article>]]></description>
+            <link>http://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/</link>
+            <guid isPermaLink="false">f1819999-c7cd-4a16-97a3-098896bd091a</guid>
+            <pubDate>Wed, 04 Nov 2015 11:44:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How We Moved 34,000 WIRED Pages to One Site in 9 Hours]]></title>
@@ -68,13 +75,6 @@
             <link>http://nytlabs.com/blog/2015/10/20/particles/</link>
             <guid isPermaLink="false">a4ab5437-b22e-45d2-8494-30e3b0f8b72a</guid>
             <pubDate>Wed, 28 Oct 2015 15:30:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Facebook's AI Can Caption Photos for the Blind on Its Own]]></title>
-            <description><![CDATA[<article><h1>Facebook's AI Can Caption Photos for the Blind on Its Own</h1><p>Matt King is blind, so he can't see the photo. And though it was posted to his Facebook feed with a rather lengthy caption, that's no help. Thanks to text-to-speech software, his laptop reads the caption aloud, but it's in German. And King doesn't understand German.</p><img src="http://www.wired.com/wp-content/uploads/2015/10/GettyImages-551958435-big-1200x630-e1445916830625.jpg"></article>]]></description>
-            <link>http://www.wired.com/2015/10/facebook-artificial-intelligence-describes-photo-captions-for-blind-people/</link>
-            <guid isPermaLink="false">4d844733-3d77-43f9-bc1b-83cfb502e080</guid>
-            <pubDate>Wed, 28 Oct 2015 14:53:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
