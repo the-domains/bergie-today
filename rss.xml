@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Nov 2015 21:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2015 22:08:02 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A 101 Noob Intro to Programming Smart Contracts on Ethereum]]></title>
+            <description><![CDATA[<article><h1>A 101 Noob Intro to Programming Smart Contracts on Ethereum</h1><p>Some people say Ethereum is too logic-heavy and hard to use, but here’s a write-up to give you a feel for building smart contracts and applications with it. Tools, wallets, applications and the ecosystem are still in development and it’ll get easier!</p><img src="https://cdn-images-1.medium.com/max/800/1*ABBewYWJfdIFhgwBt8mfGQ.png"></article>]]></description>
+            <link>https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.n8jdln6wn</link>
+            <guid isPermaLink="false">c7e2ecf2-6df7-4b54-b982-16819bf767c5</guid>
+            <pubDate>Wed, 04 Nov 2015 22:07:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The first great works of digital literature are already being written]]></title>
@@ -68,13 +75,6 @@
             <link>http://radar.oreilly.com/2015/10/do-one-thing.html</link>
             <guid isPermaLink="false">a07a715b-fb77-48a6-bf80-0802abc20f1b</guid>
             <pubDate>Mon, 02 Nov 2015 15:12:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Germany is about to start up a monster machine that could revolutionize the way we use energy]]></title>
-            <description><![CDATA[<article><h1>Germany is about to start up a monster machine that could revolutionize the way we use energy</h1><p>For more than 60 years, scientists have dreamed of a clean, inexhaustible energy source in the form of nuclear fusion. And they're still dreaming. But thanks to the efforts of the Max Planck Institute for Plasma Physics, experts hope that might soon change.</p><img src="https://static-ssl.businessinsider.com/image/56337ca99dd7cc19008c5f57-1920-1080/screen%20shot%202015-10-29%20at%203.48.38%20pm.png"></article>]]></description>
-            <link>http://www.businessinsider.my/germany-is-turning-on-its-monster-stellarator-2015-10/#DCkwZYEw7BARdYjo.97</link>
-            <guid isPermaLink="false">b0bb2525-ce73-4baf-824b-3a7214f0fa5d</guid>
-            <pubDate>Mon, 02 Nov 2015 14:38:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
