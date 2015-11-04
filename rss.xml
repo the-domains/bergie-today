@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Nov 2015 20:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2015 21:10:36 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The first great works of digital literature are already being written]]></title>
+            <description><![CDATA[<article><h1>The first great works of digital literature are already being written</h1><p>It's an unfortunate feature of working as both a novelist and a games designer that I end up sitting through a lot of panels, round-tables, conferences, discussions and other exercises in head-nodding where digital people try to get to grips with storytelling, or where story people try to understand the digital world.</p><img src="https://i.guim.co.uk/img/media/6a3630dec095cebc18056cc5d0c87aec5ef49eb4/53_0_1800_1080/master/1800.jpg?w=1200&q=85&auto=format&sharp=10&s=35451dbe004af1a285fea87bee3fa99b"></article>]]></description>
+            <link>http://www.theguardian.com/technology/2015/oct/13/video-games-digital-storytelling-naomi-alderman</link>
+            <guid isPermaLink="false">deb16395-95c4-4074-9759-2dff2aebf0b9</guid>
+            <pubDate>Wed, 04 Nov 2015 21:09:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Programmable blockchains in context: Ethereum's Future]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.businessinsider.my/germany-is-turning-on-its-monster-stellarator-2015-10/#DCkwZYEw7BARdYjo.97</link>
             <guid isPermaLink="false">b0bb2525-ce73-4baf-824b-3a7214f0fa5d</guid>
             <pubDate>Mon, 02 Nov 2015 14:38:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NASA Adds to Evidence of Mysterious Ancient Earthworks]]></title>
-            <description><![CDATA[<article><h1>NASA Adds to Evidence of Mysterious Ancient Earthworks</h1><p>High in the skies over Kazakhstan, space-age technology has revealed an ancient mystery on the ground. Satellite pictures of a remote and treeless northern steppe reveal colossal earthworks - geometric figures of squares, crosses, lines and rings the size of several football fields, recognizable only from the air and the oldest estimated at 8,000 years old.</p><img src="http://static01.nyt.com/images/2015/10/30/science/30KAZAKHSTAN1/30KAZAKHSTAN1-facebookJumbo.jpg"></article>]]></description>
-            <link>http://www.nytimes.com/2015/11/03/science/nasa-adds-to-evidence-of-mysterious-ancient-earthworks.html?_r=0</link>
-            <guid isPermaLink="false">3b066c6b-7d1d-4a37-9755-0d2e8e8f548e</guid>
-            <pubDate>Fri, 30 Oct 2015 19:01:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
