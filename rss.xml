@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Nov 2015 12:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2015 20:10:32 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Declaration of the Independence of Cyberspace]]></title>
+            <description><![CDATA[<article><h1>A Declaration of the Independence of Cyberspace</h1><p>Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather.</p></article>]]></description>
+            <link>https://ipfs.io/ipfs/QmVDWmkM87NfR85WE1LvfwfJLRcMEtfNnCBiCJQRePP7Ly</link>
+            <guid isPermaLink="false">d48fcde1-7926-4442-a494-5603b718affa</guid>
+            <pubDate>Wed, 04 Nov 2015 20:09:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google's AMP-an Internet giant tackles the old myth of "the Web is too slow"]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.spoon-tamago.com/2015/10/20/moon-parka-outerwear-made-from-synthetic-spider-silk/</link>
             <guid isPermaLink="false">1dc3ac3f-5927-4510-91c2-9fa4182dc00f</guid>
             <pubDate>Fri, 30 Oct 2015 11:43:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2kW Steam Engine and Alternator]]></title>
-            <description><![CDATA[<article><h1>2kW Steam Engine and Alternator</h1><p>This page is a diary about our effort to build a steam powered 'backup generator' to charge our batteries. For the most part we have all the power we could ever need from our small 600 Watt solar array and our 20' diameter wind turbine, but on occasion I do need to run a generator and I always figured that a steam engine would be the most fun, plus...</p><img src="http://drupal.otherpower.com/images/sept2207/sp22%230022.jpg"></article>]]></description>
-            <link>http://www.otherpower.com/steamengine.html</link>
-            <guid isPermaLink="false">c432311f-bd41-4542-80bc-6da7b6199836</guid>
-            <pubDate>Thu, 29 Oct 2015 11:15:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
