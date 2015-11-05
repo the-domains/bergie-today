@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Nov 2015 22:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2015 12:49:38 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The /now page movement]]></title>
+            <description><![CDATA[<article><h1>The /now page movement</h1><p>People often ask me what I’m doing now.  Each time I would type out a reply, describing where I’m at, what I’m focused on, and what I’m not.  So earlier this year I added a /now page to my site: sivers.org/now</p><img src="https://sivers.org/images/dancing-guy.jpg"></article>]]></description>
+            <link>https://sivers.org/nowff</link>
+            <guid isPermaLink="false">2d14da48-585f-45f3-a982-4b2fdf2b9020</guid>
+            <pubDate>Thu, 05 Nov 2015 12:48:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A 101 Noob Intro to Programming Smart Contracts on Ethereum]]></title>
@@ -68,13 +75,6 @@
             <link>http://edition.cnn.com/2015/11/02/world/international-space-station-15-years-iss/index.html</link>
             <guid isPermaLink="false">12abfca9-3ca8-44f5-8508-d2760ce5da8c</guid>
             <pubDate>Mon, 02 Nov 2015 17:20:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do one thing...]]></title>
-            <description><![CDATA[<article><h1>Do one thing...</h1><p>I've been lamenting the demise of the Unix philosophy: tools should do one thing, and do it well. The ability to connect many small tools is better than having a single tool that does everything poorly. That philosophy was great, but hasn't survived into the Web age.</p><img src="http://s.radar.oreilly.com/wp-files/2/2015/10/350px-Pudu_jail_west_wall.jpg"></article>]]></description>
-            <link>http://radar.oreilly.com/2015/10/do-one-thing.html</link>
-            <guid isPermaLink="false">a07a715b-fb77-48a6-bf80-0802abc20f1b</guid>
-            <pubDate>Mon, 02 Nov 2015 15:12:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
