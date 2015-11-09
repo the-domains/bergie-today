@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 15:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2015 12:07:03 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Artificial intelligence: 'Homo sapiens will be split into a handful of gods and the rest of us']]></title>
+            <description><![CDATA[<article><h1>Artificial intelligence: 'Homo sapiens will be split into a handful of gods and the rest of us'</h1><p>If you wanted relief from stories about tyre factories and steel plants closing, you could try relaxing with a new 300-page report from Bank of America Merrill Lynch which looks at the likely effects of a robot revolution. But you might not end up reassured.</p><img src="https://i.guim.co.uk/img/media/29d9dadbc1dfdb541f0ace3639564e175d25abb9/0_382_5760_3457/master/5760.jpg?w=1200&q=85&auto=format&sharp=10&s=7c364e3a89a951caac0267bd3c822ad9"></article>]]></description>
+            <link>http://www.theguardian.com/business/2015/nov/07/artificial-intelligence-homo-sapiens-split-handful-gods</link>
+            <guid isPermaLink="false">5cb1a136-ab4b-451f-9eaf-d305966a8575</guid>
+            <pubDate>Mon, 09 Nov 2015 12:06:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finland's new national emoji include a heavy metal guy and a Nokia 3310]]></title>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/information-technology/2015/11/googles-amp-an-internet-giant-tackles-the-old-myth-of-the-web-is-too-slow/</link>
             <guid isPermaLink="false">d4f382cd-96c7-4dcf-b1ad-596ce1523c36</guid>
             <pubDate>Wed, 04 Nov 2015 12:09:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Static Website Generators Are The Next Big Thing]]></title>
-            <description><![CDATA[<article><h1>Why Static Website Generators Are The Next Big Thing</h1><p>At StaticGen, our open-source directory of static website generators, we've kept track of more than a hundred generators for more than a year now, and we've seen both the volume and popularity of these projects take off incredibly on GitHub during that time, going from just 50 to more than 100 generators and a total of more than 100,000 stars for static website generator repositories.</p><img src="https://media-mediatemple.netdna-ssl.com/wp-content/uploads/2015/10/02-smashing-dynamic-load-times-opt.png"></article>]]></description>
-            <link>http://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/</link>
-            <guid isPermaLink="false">f1819999-c7cd-4a16-97a3-098896bd091a</guid>
-            <pubDate>Wed, 04 Nov 2015 11:44:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
