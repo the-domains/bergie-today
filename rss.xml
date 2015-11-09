@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 12:07:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2015 14:39:55 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to pack a 7kg backpack with a laptop]]></title>
+            <description><![CDATA[<article><h1>How to pack a 7kg backpack with a laptop</h1><p>I previously did a video showing the contents of my backpack with which I travelled around carrying less than 6kg as a carry on backpack. This time I am going to show the contents of my current bag as a 7kg carry on backpack, this time includes a laptop and a few small changes from my previous video.</p><img src="http://packinglite.co/wp-content/uploads/2015/05/Traveling-Light-7kg-15.4lbs-Backpack-With-A-Laptop.jpg"></article>]]></description>
+            <link>http://packinglite.co/how-to-pack-a-7kg-backpack-with-a-laptop/</link>
+            <guid isPermaLink="false">84dee64d-34e6-408b-83c8-259ff33bdb2b</guid>
+            <pubDate>Mon, 09 Nov 2015 14:39:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Artificial intelligence: 'Homo sapiens will be split into a handful of gods and the rest of us']]></title>
@@ -68,13 +75,6 @@
             <link>https://ipfs.io/ipfs/QmVDWmkM87NfR85WE1LvfwfJLRcMEtfNnCBiCJQRePP7Ly</link>
             <guid isPermaLink="false">d48fcde1-7926-4442-a494-5603b718affa</guid>
             <pubDate>Wed, 04 Nov 2015 20:09:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google's AMP-an Internet giant tackles the old myth of "the Web is too slow"]]></title>
-            <description><![CDATA[<article><h1>Google's AMP-an Internet giant tackles the old myth of "the Web is too slow"</h1><p>There's a story going around today that the Web is too slow, especially over mobile networks. It's a pretty good story-and it's a perpetual story. The Web, while certainly improved from the days of 14.4k modems, has never been as fast as we want it to be, which is to say that the Web has never been instantaneous.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2015/11/Screen-Shot-2015-11-02-at-1.38.09-PM-640x475.png"></article>]]></description>
-            <link>http://arstechnica.com/information-technology/2015/11/googles-amp-an-internet-giant-tackles-the-old-myth-of-the-web-is-too-slow/</link>
-            <guid isPermaLink="false">d4f382cd-96c7-4dcf-b1ad-596ce1523c36</guid>
-            <pubDate>Wed, 04 Nov 2015 12:09:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
