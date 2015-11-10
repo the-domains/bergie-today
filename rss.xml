@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 18:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2015 13:46:30 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building an offline page for theguardian.com]]></title>
+            <description><![CDATA[<article><h1>Building an offline page for theguardian.com</h1><p>How we used service workers to build a custom offline page for theguardian.com.</p><img src="https://i.guim.co.uk/img/media/3644af9001e6cb1122514564ddcebaa01725c2c6/0_0_832_499/master/832.jpg?w=1200&q=85&auto=format&sharp=10&s=0edba0a70de79658f13cf476f550a590"></article>]]></description>
+            <link>https://www.theguardian.com/info/developer-blog/2015/nov/04/building-an-offline-page-for-theguardiancom</link>
+            <guid isPermaLink="false">9e5b3087-1213-4787-866e-c681654d3f85</guid>
+            <pubDate>Tue, 10 Nov 2015 13:46:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[It's not rocket science: we need a better way to get to space]]></title>
@@ -68,13 +75,6 @@
             <link>https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.n8jdln6wn</link>
             <guid isPermaLink="false">c7e2ecf2-6df7-4b54-b982-16819bf767c5</guid>
             <pubDate>Wed, 04 Nov 2015 22:07:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The first great works of digital literature are already being written]]></title>
-            <description><![CDATA[<article><h1>The first great works of digital literature are already being written</h1><p>It's an unfortunate feature of working as both a novelist and a games designer that I end up sitting through a lot of panels, round-tables, conferences, discussions and other exercises in head-nodding where digital people try to get to grips with storytelling, or where story people try to understand the digital world.</p><img src="https://i.guim.co.uk/img/media/6a3630dec095cebc18056cc5d0c87aec5ef49eb4/53_0_1800_1080/master/1800.jpg?w=1200&q=85&auto=format&sharp=10&s=35451dbe004af1a285fea87bee3fa99b"></article>]]></description>
-            <link>http://www.theguardian.com/technology/2015/oct/13/video-games-digital-storytelling-naomi-alderman</link>
-            <guid isPermaLink="false">deb16395-95c4-4074-9759-2dff2aebf0b9</guid>
-            <pubDate>Wed, 04 Nov 2015 21:09:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
