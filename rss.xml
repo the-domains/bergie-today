@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Nov 2015 13:46:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2015 10:34:33 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Hidden History of Medieval America]]></title>
+            <description><![CDATA[<article><h1>The Hidden History of Medieval America</h1><p>We had been driving through what felt like one continuous Miami strip mall for almost an hour. Our GPS promised that in a few short minutes we would reach the destination we had traveled some thousand miles to find: a Spanish monastery, from the 12th century, once inhabited by a bevy of monks, moved stone by stone across the ocean, now set in the middle of a swamp-jungle.</p><img src="http://assets.atlasobscura.com/article_images/20492/image.jpg"></article>]]></description>
+            <link>http://www.atlasobscura.com/articles/in-the-early-1900s-dozens-of-centuriesold-european-buildings-came-to-america-where-is-medieval-america-now</link>
+            <guid isPermaLink="false">7ca9abdc-0b88-4f7b-86b8-d38242707786</guid>
+            <pubDate>Wed, 11 Nov 2015 10:33:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Building an offline page for theguardian.com]]></title>
@@ -68,13 +75,6 @@
             <link>https://sivers.org/nowff</link>
             <guid isPermaLink="false">2d14da48-585f-45f3-a982-4b2fdf2b9020</guid>
             <pubDate>Thu, 05 Nov 2015 12:48:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A 101 Noob Intro to Programming Smart Contracts on Ethereum]]></title>
-            <description><![CDATA[<article><h1>A 101 Noob Intro to Programming Smart Contracts on Ethereum</h1><p>Some people say Ethereum is too logic-heavy and hard to use, but here’s a write-up to give you a feel for building smart contracts and applications with it. Tools, wallets, applications and the ecosystem are still in development and it’ll get easier!</p><img src="https://cdn-images-1.medium.com/max/800/1*ABBewYWJfdIFhgwBt8mfGQ.png"></article>]]></description>
-            <link>https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.n8jdln6wn</link>
-            <guid isPermaLink="false">c7e2ecf2-6df7-4b54-b982-16819bf767c5</guid>
-            <pubDate>Wed, 04 Nov 2015 22:07:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
