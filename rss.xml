@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Henri Bergius]]></title>
+        <description><![CDATA[Henri Bergius]]></description>
+        <link>http://bergie.today/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 Nov 2015 18:28:21 GMT</lastBuildDate>
+        <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Henri Bergius]]></title>
+            <description><![CDATA[<article><h1>Henri Bergius</h1><p>Hacker and an occasional adventurer. Author of Create.js and NoFlo. Decoupling software, one piece at a time.</p><img src="http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg"></article>]]></description>
+            <link>http://bergie.today/henri-bergius/index.html</link>
+            <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
+            <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Habits of a Happy Node Hacker]]></title>
+            <description><![CDATA[<article><h1>10 Habits of a Happy Node Hacker</h1><p>At the tail end of 2015, JavaScript developers have a glut of tools at our disposal. The last time we looked into this, the modern JS landscape was just emerging. Today, it's easy to get lost in our huge ecosystem, so successful teams follow guidelines to make the most of their time and keep their projects healthy.</p></article>]]></description>
+            <link>http://blog.heroku.com/archives/2015/11/10/node-habits-2016</link>
+            <guid isPermaLink="false">b788ac3d-d283-44df-907b-8c74b693e8ed</guid>
+            <pubDate>Wed, 11 Nov 2015 18:27:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the Web Won't Be Nirvana (1995)]]></title>
+            <description><![CDATA[<article><h1>Why the Web Won't Be Nirvana (1995)</h1><p>The truth in no online database will replace your daily newspaper, no CD-ROM can take the place of a competent teacher and no computer network will change the way government works.</p><img src="http://s.newsweek.com/sites/www.newsweek.com/files/2013/12/02/clifford-stoll_0.jpg"></article>]]></description>
+            <link>http://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306</link>
+            <guid isPermaLink="false">8691d582-1beb-43f7-89a7-2b492fe9c236</guid>
+            <pubDate>Wed, 11 Nov 2015 10:41:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Hidden History of Medieval America]]></title>
+            <description><![CDATA[<article><h1>The Hidden History of Medieval America</h1><p>We had been driving through what felt like one continuous Miami strip mall for almost an hour. Our GPS promised that in a few short minutes we would reach the destination we had traveled some thousand miles to find: a Spanish monastery, from the 12th century, once inhabited by a bevy of monks, moved stone by stone across the ocean, now set in the middle of a swamp-jungle.</p><img src="http://assets.atlasobscura.com/article_images/20492/image.jpg"></article>]]></description>
+            <link>http://www.atlasobscura.com/articles/in-the-early-1900s-dozens-of-centuriesold-european-buildings-came-to-america-where-is-medieval-america-now</link>
+            <guid isPermaLink="false">7ca9abdc-0b88-4f7b-86b8-d38242707786</guid>
+            <pubDate>Wed, 11 Nov 2015 10:33:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building an offline page for theguardian.com]]></title>
+            <description><![CDATA[<article><h1>Building an offline page for theguardian.com</h1><p>How we used service workers to build a custom offline page for theguardian.com.</p><img src="https://i.guim.co.uk/img/media/3644af9001e6cb1122514564ddcebaa01725c2c6/0_0_832_499/master/832.jpg?w=1200&q=85&auto=format&sharp=10&s=0edba0a70de79658f13cf476f550a590"></article>]]></description>
+            <link>https://www.theguardian.com/info/developer-blog/2015/nov/04/building-an-offline-page-for-theguardiancom</link>
+            <guid isPermaLink="false">9e5b3087-1213-4787-866e-c681654d3f85</guid>
+            <pubDate>Tue, 10 Nov 2015 13:46:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It's not rocket science: we need a better way to get to space]]></title>
+            <description><![CDATA[<article><h1>It's not rocket science: we need a better way to get to space</h1><p>Human beings will always be explorers. We've pretty well surveyed our planet, our tiny blue dot, for answers and only found more questions. Why are we here? How did we get here? What does it mean? We've already taken baby steps out into the solar system.</p><img src="http://cdn.theconversation.com/files/100810/width1356x668/image-20151104-29049-1w69psh.jpg"></article>]]></description>
+            <link>https://theconversation.com/its-not-rocket-science-we-need-a-better-way-to-get-to-space-45751</link>
+            <guid isPermaLink="false">2f2a3147-8f70-487c-b18c-698145025104</guid>
+            <pubDate>Mon, 09 Nov 2015 18:22:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TensorFlow]]></title>
+            <description><![CDATA[<article><h1>TensorFlow</h1><p>TensorFlow is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API. </p></article>]]></description>
+            <link>http://tensorflow.org/</link>
+            <guid isPermaLink="false">091cee23-b690-411c-8311-8497b456e2f3</guid>
+            <pubDate>Mon, 09 Nov 2015 17:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to pack a 7kg backpack with a laptop]]></title>
+            <description><![CDATA[<article><h1>How to pack a 7kg backpack with a laptop</h1><p>I previously did a video showing the contents of my backpack with which I travelled around carrying less than 6kg as a carry on backpack. This time I am going to show the contents of my current bag as a 7kg carry on backpack, this time includes a laptop and a few small changes from my previous video.</p><img src="http://packinglite.co/wp-content/uploads/2015/05/Traveling-Light-7kg-15.4lbs-Backpack-With-A-Laptop.jpg"></article>]]></description>
+            <link>http://packinglite.co/how-to-pack-a-7kg-backpack-with-a-laptop/</link>
+            <guid isPermaLink="false">84dee64d-34e6-408b-83c8-259ff33bdb2b</guid>
+            <pubDate>Mon, 09 Nov 2015 14:39:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Artificial intelligence: 'Homo sapiens will be split into a handful of gods and the rest of us']]></title>
+            <description><![CDATA[<article><h1>Artificial intelligence: 'Homo sapiens will be split into a handful of gods and the rest of us'</h1><p>If you wanted relief from stories about tyre factories and steel plants closing, you could try relaxing with a new 300-page report from Bank of America Merrill Lynch which looks at the likely effects of a robot revolution. But you might not end up reassured.</p><img src="https://i.guim.co.uk/img/media/29d9dadbc1dfdb541f0ace3639564e175d25abb9/0_382_5760_3457/master/5760.jpg?w=1200&q=85&auto=format&sharp=10&s=7c364e3a89a951caac0267bd3c822ad9"></article>]]></description>
+            <link>http://www.theguardian.com/business/2015/nov/07/artificial-intelligence-homo-sapiens-split-handful-gods</link>
+            <guid isPermaLink="false">5cb1a136-ab4b-451f-9eaf-d305966a8575</guid>
+            <pubDate>Mon, 09 Nov 2015 12:06:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finland's new national emoji include a heavy metal guy and a Nokia 3310]]></title>
+            <description><![CDATA[<article><h1>Finland's new national emoji include a heavy metal guy and a Nokia 3310</h1><p>Finland, that northern European haven of moose, death metal, and milk, has just become the first country to create a set of national emoji. More than 30 Finland-specific emoji will be available to download on the web worldwide on December 30th, The Guardian reports.</p><img src="https://cdn1.vox-cdn.com/thumbor/p-a_6cxqDb4ojVUHonWw05svm6o=/0x24:1225x713/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47589899/cd2b4a05-5f94-46a5-8ba7-d086f512aea4-1020x612.0.0.jpeg"></article>]]></description>
+            <link>http://www.theverge.com/2015/11/5/9674552/finland-national-emoji-headbanger-sauna-nokia</link>
+            <guid isPermaLink="false">caeddf63-e253-45b0-afae-21fef367ca5c</guid>
+            <pubDate>Thu, 05 Nov 2015 15:23:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
