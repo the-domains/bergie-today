@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 10:34:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2015 10:41:55 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the Web Won't Be Nirvana (1995)]]></title>
+            <description><![CDATA[<article><h1>Why the Web Won't Be Nirvana (1995)</h1><p>The truth in no online database will replace your daily newspaper, no CD-ROM can take the place of a competent teacher and no computer network will change the way government works.</p><img src="http://s.newsweek.com/sites/www.newsweek.com/files/2013/12/02/clifford-stoll_0.jpg"></article>]]></description>
+            <link>http://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306</link>
+            <guid isPermaLink="false">8691d582-1beb-43f7-89a7-2b492fe9c236</guid>
+            <pubDate>Wed, 11 Nov 2015 10:41:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Hidden History of Medieval America]]></title>
@@ -68,13 +75,6 @@
             <link>http://zenhabits.net/lightly/</link>
             <guid isPermaLink="false">1a119976-8323-4894-bd59-4d0290a2dade</guid>
             <pubDate>Thu, 05 Nov 2015 12:56:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The /now page movement]]></title>
-            <description><![CDATA[<article><h1>The /now page movement</h1><p>People often ask me what I’m doing now.  Each time I would type out a reply, describing where I’m at, what I’m focused on, and what I’m not.  So earlier this year I added a /now page to my site: sivers.org/now</p><img src="https://sivers.org/images/dancing-guy.jpg"></article>]]></description>
-            <link>https://sivers.org/nowff</link>
-            <guid isPermaLink="false">2d14da48-585f-45f3-a982-4b2fdf2b9020</guid>
-            <pubDate>Thu, 05 Nov 2015 12:48:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
