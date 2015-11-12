@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 12:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2015 12:32:45 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Resist and Thrive]]></title>
+            <description><![CDATA[<article><h1>Resist and Thrive</h1><p>Last week I gave this talk at Web Summit in Dublin. It's a first-draft of thoughts that I felt compelled to talk about in a roomful of entrepreneurs and VC's. I'd love to hear any and all thoughts on this topic.</p><img src="https://cdn-images-1.medium.com/max/1200/1*KL_gkjTYPmLwqduYG-uSkw.jpeg"></article>]]></description>
+            <link>https://medium.com/@ystrickler/resist-and-thrive-1d36819853ca</link>
+            <guid isPermaLink="false">3c5e32c7-04f0-4d28-9450-1daf624bc8ab</guid>
+            <pubDate>Thu, 12 Nov 2015 12:31:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[iPad Pro Review: A New Canvas]]></title>
@@ -68,13 +75,6 @@
             <link>http://packinglite.co/how-to-pack-a-7kg-backpack-with-a-laptop/</link>
             <guid isPermaLink="false">84dee64d-34e6-408b-83c8-259ff33bdb2b</guid>
             <pubDate>Mon, 09 Nov 2015 14:39:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Artificial intelligence: 'Homo sapiens will be split into a handful of gods and the rest of us']]></title>
-            <description><![CDATA[<article><h1>Artificial intelligence: 'Homo sapiens will be split into a handful of gods and the rest of us'</h1><p>If you wanted relief from stories about tyre factories and steel plants closing, you could try relaxing with a new 300-page report from Bank of America Merrill Lynch which looks at the likely effects of a robot revolution. But you might not end up reassured.</p><img src="https://i.guim.co.uk/img/media/29d9dadbc1dfdb541f0ace3639564e175d25abb9/0_382_5760_3457/master/5760.jpg?w=1200&q=85&auto=format&sharp=10&s=7c364e3a89a951caac0267bd3c822ad9"></article>]]></description>
-            <link>http://www.theguardian.com/business/2015/nov/07/artificial-intelligence-homo-sapiens-split-handful-gods</link>
-            <guid isPermaLink="false">5cb1a136-ab4b-451f-9eaf-d305966a8575</guid>
-            <pubDate>Mon, 09 Nov 2015 12:06:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
