@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 18:28:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2015 12:32:32 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[iPad Pro Review: A New Canvas]]></title>
+            <description><![CDATA[<article><h1>iPad Pro Review: A New Canvas</h1><p>For the past two years, I've been reconsidering my preconceptions on large screens. Back in 2013, I thought the iPad mini would always be the perfect iPad for me. After the technologically outdated debut of the first iPad mini, the second-generation model iterated on almost every aspect of the device, offering a masterful blend of [...]</p><img src="https://2672686a4cf38e8c2458-2712e00ea34e3076747650c92426bbb5.ssl.cf1.rackcdn.com/2015-11-07-234909.jpeg"></article>]]></description>
+            <link>https://www.macstories.net/stories/ipad-pro-review/</link>
+            <guid isPermaLink="false">3bb6b072-35e5-4c0c-83d1-0047a50bb729</guid>
+            <pubDate>Thu, 12 Nov 2015 12:31:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[10 Habits of a Happy Node Hacker]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theguardian.com/business/2015/nov/07/artificial-intelligence-homo-sapiens-split-handful-gods</link>
             <guid isPermaLink="false">5cb1a136-ab4b-451f-9eaf-d305966a8575</guid>
             <pubDate>Mon, 09 Nov 2015 12:06:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finland's new national emoji include a heavy metal guy and a Nokia 3310]]></title>
-            <description><![CDATA[<article><h1>Finland's new national emoji include a heavy metal guy and a Nokia 3310</h1><p>Finland, that northern European haven of moose, death metal, and milk, has just become the first country to create a set of national emoji. More than 30 Finland-specific emoji will be available to download on the web worldwide on December 30th, The Guardian reports.</p><img src="https://cdn1.vox-cdn.com/thumbor/p-a_6cxqDb4ojVUHonWw05svm6o=/0x24:1225x713/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47589899/cd2b4a05-5f94-46a5-8ba7-d086f512aea4-1020x612.0.0.jpeg"></article>]]></description>
-            <link>http://www.theverge.com/2015/11/5/9674552/finland-national-emoji-headbanger-sauna-nokia</link>
-            <guid isPermaLink="false">caeddf63-e253-45b0-afae-21fef367ca5c</guid>
-            <pubDate>Thu, 05 Nov 2015 15:23:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
