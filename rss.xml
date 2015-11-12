@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 15:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2015 17:49:08 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Death by a thousand likes: How Facebook and Twitter are killing the open web]]></title>
+            <description><![CDATA[<article><h1>Death by a thousand likes: How Facebook and Twitter are killing the open web</h1><p>Here's one way to understand the symbiotic relationship between publications and platforms in the digital age. Publications depend on advertising dollars to keep producing content, so they need to hold readers' attention. Big platforms like Facebook and Twitter already have plenty of attention, but they need vast quantities of content to fill up their newsfeeds.</p><img src="https://i2.wp.com/qzprod.files.wordpress.com/2015/11/facebook.jpg?fit=440%2C330&quality=80&strip=all"></article>]]></description>
+            <link>http://qz.com/545048/death-by-a-thousand-likes-how-facebook-and-twitter-are-killing-the-open-web/</link>
+            <guid isPermaLink="false">f2efb4a6-2e60-4719-8a4b-bae1526d9d98</guid>
+            <pubDate>Thu, 12 Nov 2015 17:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TensorFlow and Monetizing Intellectual Property]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.theguardian.com/info/developer-blog/2015/nov/04/building-an-offline-page-for-theguardiancom</link>
             <guid isPermaLink="false">9e5b3087-1213-4787-866e-c681654d3f85</guid>
             <pubDate>Tue, 10 Nov 2015 13:46:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It's not rocket science: we need a better way to get to space]]></title>
-            <description><![CDATA[<article><h1>It's not rocket science: we need a better way to get to space</h1><p>Human beings will always be explorers. We've pretty well surveyed our planet, our tiny blue dot, for answers and only found more questions. Why are we here? How did we get here? What does it mean? We've already taken baby steps out into the solar system.</p><img src="http://cdn.theconversation.com/files/100810/width1356x668/image-20151104-29049-1w69psh.jpg"></article>]]></description>
-            <link>https://theconversation.com/its-not-rocket-science-we-need-a-better-way-to-get-to-space-45751</link>
-            <guid isPermaLink="false">2f2a3147-8f70-487c-b18c-698145025104</guid>
-            <pubDate>Mon, 09 Nov 2015 18:22:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
