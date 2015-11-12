@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 12:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2015 15:14:03 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TensorFlow and Monetizing Intellectual Property]]></title>
+            <description><![CDATA[<article><h1>TensorFlow and Monetizing Intellectual Property</h1><p>Ten years ago Bill Gates suggested that open source software was the province of "modern-day sort of communists" whose views on intellectual property were hopelessly outdated: The idea that the United States has led in creating companies, creating jobs, because we've had the best intellectual property system - there's no doubt about that in my mind, and when people say they want to be the most competitive economy, they've got to have the incentive system.</p></article>]]></description>
+            <link>https://stratechery.com/2015/tensorflow-and-monetizing-intellectual-property/</link>
+            <guid isPermaLink="false">b13cd604-b3a2-4b6e-bb88-81e932dfd6d7</guid>
+            <pubDate>Thu, 12 Nov 2015 15:13:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nothing can compete with renewable energy, says top climate scientist]]></title>
@@ -68,13 +75,6 @@
             <link>https://theconversation.com/its-not-rocket-science-we-need-a-better-way-to-get-to-space-45751</link>
             <guid isPermaLink="false">2f2a3147-8f70-487c-b18c-698145025104</guid>
             <pubDate>Mon, 09 Nov 2015 18:22:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TensorFlow]]></title>
-            <description><![CDATA[<article><h1>TensorFlow</h1><p>TensorFlow is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API. </p></article>]]></description>
-            <link>http://tensorflow.org/</link>
-            <guid isPermaLink="false">091cee23-b690-411c-8311-8497b456e2f3</guid>
-            <pubDate>Mon, 09 Nov 2015 17:01:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
