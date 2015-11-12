@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 17:49:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2015 19:28:33 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft's new service can tell how happy or angry you are in photos]]></title>
+            <description><![CDATA[<article><h1>Microsoft's new service can tell how happy or angry you are in photos</h1><p>Microsoft just announced a bunch of updates to Project Oxford, a set of online services that help developers build more intelligent apps with complicated features like the ability to recognize faces. The promise of Project Oxford, which was announced last spring at Microsoft's Build event, is that Microsoft has done a ton research on machine learning that most companies couldn't do themselves.</p><img src="http://static6.uk.businessinsider.com/image/564387f4dd0895eb608b4598-1042-702/artboard%205.png"></article>]]></description>
+            <link>http://uk.businessinsider.com/microsoft-project-oxford-can-see-when-youre-happy-2015-11?r=US&amp;IR=T</link>
+            <guid isPermaLink="false">c5b13dd2-67a5-448c-aeb9-c065f69a15e8</guid>
+            <pubDate>Thu, 12 Nov 2015 19:28:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Death by a thousand likes: How Facebook and Twitter are killing the open web]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.atlasobscura.com/articles/in-the-early-1900s-dozens-of-centuriesold-european-buildings-came-to-america-where-is-medieval-america-now</link>
             <guid isPermaLink="false">7ca9abdc-0b88-4f7b-86b8-d38242707786</guid>
             <pubDate>Wed, 11 Nov 2015 10:33:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building an offline page for theguardian.com]]></title>
-            <description><![CDATA[<article><h1>Building an offline page for theguardian.com</h1><p>How we used service workers to build a custom offline page for theguardian.com.</p><img src="https://i.guim.co.uk/img/media/3644af9001e6cb1122514564ddcebaa01725c2c6/0_0_832_499/master/832.jpg?w=1200&q=85&auto=format&sharp=10&s=0edba0a70de79658f13cf476f550a590"></article>]]></description>
-            <link>https://www.theguardian.com/info/developer-blog/2015/nov/04/building-an-offline-page-for-theguardiancom</link>
-            <guid isPermaLink="false">9e5b3087-1213-4787-866e-c681654d3f85</guid>
-            <pubDate>Tue, 10 Nov 2015 13:46:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
