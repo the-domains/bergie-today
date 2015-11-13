@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 19:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2015 10:17:48 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Desktop Computer]]></title>
+            <description><![CDATA[<article><h1>The Desktop Computer</h1><p>Bad Pixel review of iPad Pro. Or is it iPad pro?</p><img src="https://i.ytimg.com/vi/Z_mys1Ip6dY/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Z_mys1Ip6dY</link>
+            <guid isPermaLink="false">ed8b7356-2c7b-49df-8ba6-341f0fbfbf89</guid>
+            <pubDate>Fri, 13 Nov 2015 10:12:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Microsoft's new service can tell how happy or angry you are in photos]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306</link>
             <guid isPermaLink="false">8691d582-1beb-43f7-89a7-2b492fe9c236</guid>
             <pubDate>Wed, 11 Nov 2015 10:41:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Hidden History of Medieval America]]></title>
-            <description><![CDATA[<article><h1>The Hidden History of Medieval America</h1><p>We had been driving through what felt like one continuous Miami strip mall for almost an hour. Our GPS promised that in a few short minutes we would reach the destination we had traveled some thousand miles to find: a Spanish monastery, from the 12th century, once inhabited by a bevy of monks, moved stone by stone across the ocean, now set in the middle of a swamp-jungle.</p><img src="http://assets.atlasobscura.com/article_images/20492/image.jpg"></article>]]></description>
-            <link>http://www.atlasobscura.com/articles/in-the-early-1900s-dozens-of-centuriesold-european-buildings-came-to-america-where-is-medieval-america-now</link>
-            <guid isPermaLink="false">7ca9abdc-0b88-4f7b-86b8-d38242707786</guid>
-            <pubDate>Wed, 11 Nov 2015 10:33:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
