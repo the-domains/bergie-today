@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 10:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2015 15:33:34 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flying the seaplane of the future, the Icon A5]]></title>
+            <description><![CDATA[<article><h1>Flying the seaplane of the future, the Icon A5</h1><p>The Icon A5 seaplane glides over the George Washington Bridge connecting New Jersey with Manhattan, high enough to keep drivers from getting nervous, but low enough that I can distinguish the colors of license plates. I've never seen the bridge from this angle.</p><img src="https://cdn1.vox-cdn.com/thumbor/h0B3Eaor6nnWbyC_5oypOydtBhg=/cdn0.vox-cdn.com/uploads/chorus_asset/file/4252297/icon-a5-004-2040.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2015/11/11/9706138/icon-a5-seaplane-aircraft-video</link>
+            <guid isPermaLink="false">2ea9cd3a-1226-49cb-8a86-f22ea53e3b5c</guid>
+            <pubDate>Fri, 13 Nov 2015 15:33:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Desktop Computer]]></title>
@@ -68,13 +75,6 @@
             <link>http://blog.heroku.com/archives/2015/11/10/node-habits-2016</link>
             <guid isPermaLink="false">b788ac3d-d283-44df-907b-8c74b693e8ed</guid>
             <pubDate>Wed, 11 Nov 2015 18:27:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the Web Won't Be Nirvana (1995)]]></title>
-            <description><![CDATA[<article><h1>Why the Web Won't Be Nirvana (1995)</h1><p>The truth in no online database will replace your daily newspaper, no CD-ROM can take the place of a competent teacher and no computer network will change the way government works.</p><img src="http://s.newsweek.com/sites/www.newsweek.com/files/2013/12/02/clifford-stoll_0.jpg"></article>]]></description>
-            <link>http://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306</link>
-            <guid isPermaLink="false">8691d582-1beb-43f7-89a7-2b492fe9c236</guid>
-            <pubDate>Wed, 11 Nov 2015 10:41:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
