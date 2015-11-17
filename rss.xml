@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 15:33:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2015 18:38:04 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,34 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bill Gates: 'We Need an Energy Miracle']]></title>
+            <description><![CDATA[<article><h1>Bill Gates: 'We Need an Energy Miracle'</h1><p>In his offices overlooking Lake Washington, just east of Seattle, Bill Gates grabbed a legal pad recently and began covering it in his left-handed scrawl. He scribbled arrows by each margin of the pad, both pointing inward.</p><img src="http://cdn.theatlantic.com/assets/media/img/2015/09/30/WEL_Bennet_Gates_Opener_HP/1920.jpg?1443644382"></article>]]></description>
+            <link>http://www.theatlantic.com/magazine/archive/2015/11/we-need-an-energy-miracle/407881/</link>
+            <guid isPermaLink="false">e8e04dee-1a8d-42f9-bbf8-92d390812cd2</guid>
+            <pubDate>Tue, 17 Nov 2015 18:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started with GNU Radio]]></title>
+            <description><![CDATA[<article><h1>Getting Started with GNU Radio</h1><p>Software Defined Radio (SDR)-the ability to process radio signals using software instead of electronics-is undeniably fascinating. However, there is a big gap from being able to use off-the-shelf SDR software and writing your own. After all, SDRs require lots of digital signal processing (DSP) at high speeds.</p><img src="https://hackadaycom.files.wordpress.com/2015/11/gnu-radio.jpg?w=800"></article>]]></description>
+            <link>http://hackaday.com/2015/11/11/getting-started-with-gnu-radio/</link>
+            <guid isPermaLink="false">5dd4b2a0-c211-4f59-b04c-588077fe69ee</guid>
+            <pubDate>Tue, 17 Nov 2015 08:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Cook and the Chef: Musk's Secret Sauce]]></title>
+            <description><![CDATA[<article><h1>The Cook and the Chef: Musk's Secret Sauce</h1><p>This is the last part of a four-part series on Elon Musk's companies. For an explanation of why this series is happening and how Musk is involved, start with Part 1.</p><img src="http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/11/Wants.jpg"></article>]]></description>
+            <link>http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html</link>
+            <guid isPermaLink="false">4cbf1217-c7b3-4a80-b6e9-926d4d5a6d37</guid>
+            <pubDate>Tue, 17 Nov 2015 08:36:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Tale of Two Northern European Cities: Meeting the Challenges of Sea Level Rise]]></title>
+            <description><![CDATA[<article><h1>A Tale of Two Northern European Cities: Meeting the Challenges of Sea Level Rise</h1><p>For centuries, Rotterdam and Hamburg have had to contend with the threat of storm surges and floods. Now, as sea levels rise, planners are looking at innovative ways to make these cities more resilient, with new approaches that could hold lessons for vulnerable urban areas around the world.</p><img src="http://e360.yale.edu/images/features/150720-0077-800.jpg"></article>]]></description>
+            <link>http://e360.yale.edu/feature/a_tale_of_two_northern_european_cities_meeting_the_challenges_of_sea_level_rise/2926/</link>
+            <guid isPermaLink="false">b2f79a26-9464-487d-80b6-3b553ef73c68</guid>
+            <pubDate>Tue, 17 Nov 2015 08:35:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flying the seaplane of the future, the Icon A5]]></title>
@@ -47,34 +75,6 @@
             <link>https://stratechery.com/2015/tensorflow-and-monetizing-intellectual-property/</link>
             <guid isPermaLink="false">b13cd604-b3a2-4b6e-bb88-81e932dfd6d7</guid>
             <pubDate>Thu, 12 Nov 2015 15:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nothing can compete with renewable energy, says top climate scientist]]></title>
-            <description><![CDATA[<article><h1>Nothing can compete with renewable energy, says top climate scientist</h1><p>Catastrophic global warming can be avoided with a deal at a crunch UN climate change summit in Paris this December because "ultimately nothing can compete with renewables", according to one of the world's most influential climate scientists.</p><img src="https://i.guim.co.uk/img/media/5dd3965f590f723b7306e732697dd5cc87df0f80/336_265_2243_1345/master/2243.jpg?w=1200&q=85&auto=format&sharp=10&s=150b4e43fc45f693d1ac0823432175b5"></article>]]></description>
-            <link>http://www.theguardian.com/environment/2015/nov/09/clean-energy-is-key-successful-climate-deal-in-paris-says-top-scientist</link>
-            <guid isPermaLink="false">e7fa55a0-2192-4004-8fb6-3a3314f2aa49</guid>
-            <pubDate>Thu, 12 Nov 2015 12:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Resist and Thrive]]></title>
-            <description><![CDATA[<article><h1>Resist and Thrive</h1><p>Last week I gave this talk at Web Summit in Dublin. It's a first-draft of thoughts that I felt compelled to talk about in a roomful of entrepreneurs and VC's. I'd love to hear any and all thoughts on this topic.</p><img src="https://cdn-images-1.medium.com/max/1200/1*KL_gkjTYPmLwqduYG-uSkw.jpeg"></article>]]></description>
-            <link>https://medium.com/@ystrickler/resist-and-thrive-1d36819853ca</link>
-            <guid isPermaLink="false">3c5e32c7-04f0-4d28-9450-1daf624bc8ab</guid>
-            <pubDate>Thu, 12 Nov 2015 12:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[iPad Pro Review: A New Canvas]]></title>
-            <description><![CDATA[<article><h1>iPad Pro Review: A New Canvas</h1><p>For the past two years, I've been reconsidering my preconceptions on large screens. Back in 2013, I thought the iPad mini would always be the perfect iPad for me. After the technologically outdated debut of the first iPad mini, the second-generation model iterated on almost every aspect of the device, offering a masterful blend of [...]</p><img src="https://2672686a4cf38e8c2458-2712e00ea34e3076747650c92426bbb5.ssl.cf1.rackcdn.com/2015-11-07-234909.jpeg"></article>]]></description>
-            <link>https://www.macstories.net/stories/ipad-pro-review/</link>
-            <guid isPermaLink="false">3bb6b072-35e5-4c0c-83d1-0047a50bb729</guid>
-            <pubDate>Thu, 12 Nov 2015 12:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 Habits of a Happy Node Hacker]]></title>
-            <description><![CDATA[<article><h1>10 Habits of a Happy Node Hacker</h1><p>At the tail end of 2015, JavaScript developers have a glut of tools at our disposal. The last time we looked into this, the modern JS landscape was just emerging. Today, it's easy to get lost in our huge ecosystem, so successful teams follow guidelines to make the most of their time and keep their projects healthy.</p></article>]]></description>
-            <link>http://blog.heroku.com/archives/2015/11/10/node-habits-2016</link>
-            <guid isPermaLink="false">b788ac3d-d283-44df-907b-8c74b693e8ed</guid>
-            <pubDate>Wed, 11 Nov 2015 18:27:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
