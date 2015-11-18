@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Nov 2015 18:38:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2015 22:12:44 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Earin wireless earbuds review]]></title>
+            <description><![CDATA[<article><h1>Earin wireless earbuds review</h1><p>The first truly wireless earbuds are finally here. Are they any good? After a year of crowdfunding campaigns and months of production delays, the first company promising truly wireless earbuds has finally shipped a product to its backers. Earin, a small startup from Sweden, was not one of the companies showing off wireless earbuds at CES at the beginning of this year.</p><img src="https://cdn0.vox-cdn.com/thumbor/pJPp3JLzVaTnHgKp9tVqj10XoFQ=/cdn0.vox-cdn.com/uploads/chorus_asset/file/4278889/earin-wireless-earbuds-4942.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2015/11/18/9755726/earin-wireless-earbuds-review</link>
+            <guid isPermaLink="false">54ee4d0c-51c3-413c-b9cc-a303d3c96467</guid>
+            <pubDate>Wed, 18 Nov 2015 22:12:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bill Gates: 'We Need an Energy Miracle']]></title>
@@ -68,13 +75,6 @@
             <link>http://qz.com/545048/death-by-a-thousand-likes-how-facebook-and-twitter-are-killing-the-open-web/</link>
             <guid isPermaLink="false">f2efb4a6-2e60-4719-8a4b-bae1526d9d98</guid>
             <pubDate>Thu, 12 Nov 2015 17:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TensorFlow and Monetizing Intellectual Property]]></title>
-            <description><![CDATA[<article><h1>TensorFlow and Monetizing Intellectual Property</h1><p>Ten years ago Bill Gates suggested that open source software was the province of "modern-day sort of communists" whose views on intellectual property were hopelessly outdated: The idea that the United States has led in creating companies, creating jobs, because we've had the best intellectual property system - there's no doubt about that in my mind, and when people say they want to be the most competitive economy, they've got to have the incentive system.</p></article>]]></description>
-            <link>https://stratechery.com/2015/tensorflow-and-monetizing-intellectual-property/</link>
-            <guid isPermaLink="false">b13cd604-b3a2-4b6e-bb88-81e932dfd6d7</guid>
-            <pubDate>Thu, 12 Nov 2015 15:13:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
