@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 22:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2015 23:22:45 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[guv: Automatic scaling of Heroku workers]]></title>
+            <description><![CDATA[<article><h1>guv: Automatic scaling of Heroku workers</h1><p>At The Grid we do a lot of computationally heavy work server-side, in order to produce websites from user-provided content. This includes image analytics (for understanding the content), constraint solving (for page layout) and image processing (optimization and filtering to achieve a particular look).</p></article>]]></description>
+            <link>http://www.jonnor.com/2015/11/guv-automatic-scaling/</link>
+            <guid isPermaLink="false">a1ef41ed-c012-47c0-baac-f135d97339d2</guid>
+            <pubDate>Wed, 18 Nov 2015 23:21:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Earin wireless earbuds review]]></title>
@@ -68,13 +75,6 @@
             <link>http://uk.businessinsider.com/microsoft-project-oxford-can-see-when-youre-happy-2015-11?r=US&amp;IR=T</link>
             <guid isPermaLink="false">c5b13dd2-67a5-448c-aeb9-c065f69a15e8</guid>
             <pubDate>Thu, 12 Nov 2015 19:28:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Death by a thousand likes: How Facebook and Twitter are killing the open web]]></title>
-            <description><![CDATA[<article><h1>Death by a thousand likes: How Facebook and Twitter are killing the open web</h1><p>Here's one way to understand the symbiotic relationship between publications and platforms in the digital age. Publications depend on advertising dollars to keep producing content, so they need to hold readers' attention. Big platforms like Facebook and Twitter already have plenty of attention, but they need vast quantities of content to fill up their newsfeeds.</p><img src="https://i2.wp.com/qzprod.files.wordpress.com/2015/11/facebook.jpg?fit=440%2C330&quality=80&strip=all"></article>]]></description>
-            <link>http://qz.com/545048/death-by-a-thousand-likes-how-facebook-and-twitter-are-killing-the-open-web/</link>
-            <guid isPermaLink="false">f2efb4a6-2e60-4719-8a4b-bae1526d9d98</guid>
-            <pubDate>Thu, 12 Nov 2015 17:48:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
