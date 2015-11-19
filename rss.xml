@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 13:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2015 14:22:18 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Using iOS As Your Primary OS, Masochism?]]></title>
+            <description><![CDATA[<article><h1>Is Using iOS As Your Primary OS, Masochism?</h1><p>Justin Williams, in The Chicken or the iPad Pro : The sad reality is there aren't enough Omnis in the ecosystem right now to make the iPad Pro a viable productivity platform for anyone but those executives, retired folks, and masochist bloggers who jump through more hoops than a circus elephant to use an iPad instead of a Mac.</p><img src="https://s0.wp.com/i/blank.jpg"></article>]]></description>
+            <link>https://brooksreview.net/2015/11/masochism/</link>
+            <guid isPermaLink="false">01f99f23-2280-4f9f-a016-5a5c82d621d5</guid>
+            <pubDate>Thu, 19 Nov 2015 14:21:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Grid in Leeds]]></title>
@@ -68,13 +75,6 @@
             <link>http://e360.yale.edu/feature/a_tale_of_two_northern_european_cities_meeting_the_challenges_of_sea_level_rise/2926/</link>
             <guid isPermaLink="false">b2f79a26-9464-487d-80b6-3b553ef73c68</guid>
             <pubDate>Tue, 17 Nov 2015 08:35:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flying the seaplane of the future, the Icon A5]]></title>
-            <description><![CDATA[<article><h1>Flying the seaplane of the future, the Icon A5</h1><p>The Icon A5 seaplane glides over the George Washington Bridge connecting New Jersey with Manhattan, high enough to keep drivers from getting nervous, but low enough that I can distinguish the colors of license plates. I've never seen the bridge from this angle.</p><img src="https://cdn1.vox-cdn.com/thumbor/h0B3Eaor6nnWbyC_5oypOydtBhg=/cdn0.vox-cdn.com/uploads/chorus_asset/file/4252297/icon-a5-004-2040.0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2015/11/11/9706138/icon-a5-seaplane-aircraft-video</link>
-            <guid isPermaLink="false">2ea9cd3a-1226-49cb-8a86-f22ea53e3b5c</guid>
-            <pubDate>Fri, 13 Nov 2015 15:33:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
