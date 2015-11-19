@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 14:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2015 16:56:46 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Antibiotic resistance: World on cusp of 'post-antibiotic era']]></title>
+            <description><![CDATA[<article><h1>Antibiotic resistance: World on cusp of 'post-antibiotic era'</h1><p>The world is on the cusp of a "post-antibiotic era", scientists have warned after finding bacteria resistant to drugs used when all other treatments have failed. Their report, in the Lancet, identifies bacteria able to shrug off colistin in patients and livestock in China.</p><img src="http://ichef.bbci.co.uk/news/1024/cpsprodpb/F753/production/_86751336_thinkstockphotos-493954253.jpg"></article>]]></description>
+            <link>http://www.bbc.co.uk/news/health-34857015</link>
+            <guid isPermaLink="false">3f31872d-2e65-4cc7-af87-27bc1274a88e</guid>
+            <pubDate>Thu, 19 Nov 2015 16:56:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is Using iOS As Your Primary OS, Masochism?]]></title>
@@ -68,13 +75,6 @@
             <link>http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html</link>
             <guid isPermaLink="false">4cbf1217-c7b3-4a80-b6e9-926d4d5a6d37</guid>
             <pubDate>Tue, 17 Nov 2015 08:36:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Tale of Two Northern European Cities: Meeting the Challenges of Sea Level Rise]]></title>
-            <description><![CDATA[<article><h1>A Tale of Two Northern European Cities: Meeting the Challenges of Sea Level Rise</h1><p>For centuries, Rotterdam and Hamburg have had to contend with the threat of storm surges and floods. Now, as sea levels rise, planners are looking at innovative ways to make these cities more resilient, with new approaches that could hold lessons for vulnerable urban areas around the world.</p><img src="http://e360.yale.edu/images/features/150720-0077-800.jpg"></article>]]></description>
-            <link>http://e360.yale.edu/feature/a_tale_of_two_northern_european_cities_meeting_the_challenges_of_sea_level_rise/2926/</link>
-            <guid isPermaLink="false">b2f79a26-9464-487d-80b6-3b553ef73c68</guid>
-            <pubDate>Tue, 17 Nov 2015 08:35:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
