@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 23:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2015 11:00:04 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lift Conference Speaker in the Spotlight: Henri Bergius]]></title>
+            <description><![CDATA[<article><h1>Lift Conference Speaker in the Spotlight: Henri Bergius</h1><p>All his previous work and research enabled people to design websites in a more logical and accessible way. Henri is now VP Engineering at The Grid, an epic new vision for the website. The Grid uses the power of artificial intelligence to design your website and shape it automatically according to the content you publish.</p><img src="http://liftconference.com/sites/default/files/henribergius.png"></article>]]></description>
+            <link>http://liftconference.com/news/2015/10/14/henri-bergius-speaker-spotlight</link>
+            <guid isPermaLink="false">de287235-8723-422d-a51a-ca6a7c72c1af</guid>
+            <pubDate>Thu, 19 Nov 2015 10:59:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[guv: Automatic scaling of Heroku workers]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=Z_mys1Ip6dY</link>
             <guid isPermaLink="false">ed8b7356-2c7b-49df-8ba6-341f0fbfbf89</guid>
             <pubDate>Fri, 13 Nov 2015 10:12:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft's new service can tell how happy or angry you are in photos]]></title>
-            <description><![CDATA[<article><h1>Microsoft's new service can tell how happy or angry you are in photos</h1><p>Microsoft just announced a bunch of updates to Project Oxford, a set of online services that help developers build more intelligent apps with complicated features like the ability to recognize faces. The promise of Project Oxford, which was announced last spring at Microsoft's Build event, is that Microsoft has done a ton research on machine learning that most companies couldn't do themselves.</p><img src="http://static6.uk.businessinsider.com/image/564387f4dd0895eb608b4598-1042-702/artboard%205.png"></article>]]></description>
-            <link>http://uk.businessinsider.com/microsoft-project-oxford-can-see-when-youre-happy-2015-11?r=US&amp;IR=T</link>
-            <guid isPermaLink="false">c5b13dd2-67a5-448c-aeb9-c065f69a15e8</guid>
-            <pubDate>Thu, 12 Nov 2015 19:28:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
