@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Nov 2015 17:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2015 20:34:57 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Space Doctor's Big Idea]]></title>
+            <description><![CDATA[<article><h1>The Space Doctor's Big Idea</h1><p>There once was a doctor with cool white hair. He was well known because he came up with some important ideas. He didn't grow the cool hair until after he was done figuring that stuff out, but by the time everyone realized how good his ideas were, he had grown the hair, so that's how everyone pictures him.</p><img src="http://www.newyorker.com/wp-content/uploads/2015/11/Munroe-space-doctor-1200x630-1447782889.jpg"></article>]]></description>
+            <link>http://www.newyorker.com/tech/elements/the-space-doctors-big-idea-einstein-general-relativity</link>
+            <guid isPermaLink="false">d068fd0a-f0ee-4a3a-9a2a-144c7277b657</guid>
+            <pubDate>Fri, 20 Nov 2015 20:34:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Should We Talk to AIs?]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.jonnor.com/2015/11/guv-automatic-scaling/</link>
             <guid isPermaLink="false">a1ef41ed-c012-47c0-baac-f135d97339d2</guid>
             <pubDate>Wed, 18 Nov 2015 23:21:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Earin wireless earbuds review]]></title>
-            <description><![CDATA[<article><h1>Earin wireless earbuds review</h1><p>The first truly wireless earbuds are finally here. Are they any good? After a year of crowdfunding campaigns and months of production delays, the first company promising truly wireless earbuds has finally shipped a product to its backers. Earin, a small startup from Sweden, was not one of the companies showing off wireless earbuds at CES at the beginning of this year.</p><img src="https://cdn0.vox-cdn.com/thumbor/pJPp3JLzVaTnHgKp9tVqj10XoFQ=/cdn0.vox-cdn.com/uploads/chorus_asset/file/4278889/earin-wireless-earbuds-4942.0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2015/11/18/9755726/earin-wireless-earbuds-review</link>
-            <guid isPermaLink="false">54ee4d0c-51c3-413c-b9cc-a303d3c96467</guid>
-            <pubDate>Wed, 18 Nov 2015 22:12:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
