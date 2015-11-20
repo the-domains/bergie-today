@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 16:56:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2015 12:15:57 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Muji, the Japanese emporium of minimalist housewares, now makes houses, too]]></title>
+            <description><![CDATA[<article><h1>Muji, the Japanese emporium of minimalist housewares, now makes houses, too</h1><p>If you shop at Muji, the Japanese emporium of minimalist, space-saving housewares, it's probably to pick up one of its excellent water-shedding umbrellas, or maybe a few of its adorably slender travel toothbrushes. Typically, you wouldn't buy anything that couldn't fit in your backpack.</p><img src="http://www.wired.com/wp-content/uploads/2015/11/hut_03-1200x630-e1447447726212.jpg"></article>]]></description>
+            <link>http://www.wired.com/2015/11/mujis-tiny-prefab-houses-take-minimalism-to-the-extreme/</link>
+            <guid isPermaLink="false">b5dbe6cc-4518-4834-a7eb-ab803a50eaef</guid>
+            <pubDate>Fri, 20 Nov 2015 12:14:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Antibiotic resistance: World on cusp of 'post-antibiotic era']]></title>
@@ -68,13 +75,6 @@
             <link>http://hackaday.com/2015/11/11/getting-started-with-gnu-radio/</link>
             <guid isPermaLink="false">5dd4b2a0-c211-4f59-b04c-588077fe69ee</guid>
             <pubDate>Tue, 17 Nov 2015 08:37:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Cook and the Chef: Musk's Secret Sauce]]></title>
-            <description><![CDATA[<article><h1>The Cook and the Chef: Musk's Secret Sauce</h1><p>This is the last part of a four-part series on Elon Musk's companies. For an explanation of why this series is happening and how Musk is involved, start with Part 1.</p><img src="http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/11/Wants.jpg"></article>]]></description>
-            <link>http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html</link>
-            <guid isPermaLink="false">4cbf1217-c7b3-4a80-b6e9-926d4d5a6d37</guid>
-            <pubDate>Tue, 17 Nov 2015 08:36:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
