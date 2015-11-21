@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Nov 2015 20:34:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2015 11:41:57 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Most Citizens of the Star Wars Galaxy are Probably Totally Illiterate]]></title>
+            <description><![CDATA[<article><h1>Most Citizens of the Star Wars Galaxy are Probably Totally Illiterate</h1><p>Not once in any movie does someone pick up a book or newspaper, magazine, literary journal, or chapbook handmade by an aspiring Jawa poet. If something is read by someone in , it's almost certainly off of a screen (and even then, maybe being translated by a droid), and it's definitely not for entertainment purposes.</p><img src="http://i1.wp.com/www.tor.com/wp-content/uploads/2015/01/watto1.jpg?fit=475%2C%209999&crop=0%2C0%2C100%2C220px"></article>]]></description>
+            <link>http://www.tor.com/2015/01/05/star-wars-illiteracy/</link>
+            <guid isPermaLink="false">c6a7c69c-21eb-40ea-bcb2-945a1ded4fc2</guid>
+            <pubDate>Sat, 21 Nov 2015 11:40:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Space Doctor's Big Idea]]></title>
@@ -68,13 +75,6 @@
             <link>http://liftconference.com/news/2015/10/14/henri-bergius-speaker-spotlight</link>
             <guid isPermaLink="false">de287235-8723-422d-a51a-ca6a7c72c1af</guid>
             <pubDate>Thu, 19 Nov 2015 10:59:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[guv: Automatic scaling of Heroku workers]]></title>
-            <description><![CDATA[<article><h1>guv: Automatic scaling of Heroku workers</h1><p>At The Grid we do a lot of computationally heavy work server-side, in order to produce websites from user-provided content. This includes image analytics (for understanding the content), constraint solving (for page layout) and image processing (optimization and filtering to achieve a particular look).</p></article>]]></description>
-            <link>http://www.jonnor.com/2015/11/guv-automatic-scaling/</link>
-            <guid isPermaLink="false">a1ef41ed-c012-47c0-baac-f135d97339d2</guid>
-            <pubDate>Wed, 18 Nov 2015 23:21:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
