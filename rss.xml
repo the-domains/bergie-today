@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 Nov 2015 15:29:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2015 10:37:24 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Future of the Web Is 100 Years Old]]></title>
+            <description><![CDATA[<article><h1>The Future of the Web Is 100 Years Old</h1><p>The Earth may not be flat, but the web certainly is. "There is no 'top' to the World-Wide Web," declared a 1992 foundational document from the World Wide Web Consortium-meaning that there is no central server or organizational authority to determine what does or does not get published.</p><img src="http://static.nautil.us/5322_a4a8a31750a23de2da88ef6a491dfd5c.png"></article>]]></description>
+            <link>http://nautil.us/issue/21/information/the-future-of-the-web-is-100-years-old</link>
+            <guid isPermaLink="false">c02f7287-ee5d-4543-90ab-6785241558ef</guid>
+            <pubDate>Mon, 23 Nov 2015 10:36:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sailing across the Atlantic]]></title>
@@ -68,13 +75,6 @@
             <link>https://brooksreview.net/2015/11/masochism/</link>
             <guid isPermaLink="false">01f99f23-2280-4f9f-a016-5a5c82d621d5</guid>
             <pubDate>Thu, 19 Nov 2015 14:21:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid in Leeds]]></title>
-            <description><![CDATA[<article><h1>The Grid in Leeds</h1><p>This month's The Grid meetup takes us to Leeds, northern England. Grey skies, great beer, and occasionally spotty WiFi.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddc77a60-03b9-4868-b8b7-0d459cd97bfa.jpg"></article>]]></description>
-            <link>http://bergie.today/the-grid-in-leeds/index.html</link>
-            <guid isPermaLink="false">878dc8a7-1448-423b-9c75-1b384ccc4171</guid>
-            <pubDate>Thu, 19 Nov 2015 13:27:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
