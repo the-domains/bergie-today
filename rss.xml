@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 10:37:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2015 12:56:16 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Minimalism]]></title>
+            <description><![CDATA[<article><h1>Minimalism</h1><p>This is everything I own: A MacBook Pro, an iPad, an unlocked iPhone, seven shirts, two pairs of jeans, two jackets, one coat, one sweater, two pairs of shoes, a suitcase, a backpack, some gym shorts, bathroom stuff, socks and underwear. That’s it. Everything I own can be easily packed into a small suitcase and moved within 30 minutes. There is nothing that I want that I don’t already own. And this is despite owning a six-figure internet business.</p><img src="http://markmanson.net/wp-content/uploads/2012/06/minimalism2.jpg"></article>]]></description>
+            <link>http://markmanson.net/minimalism</link>
+            <guid isPermaLink="false">23959aa8-580d-4a19-af33-a0050d773531</guid>
+            <pubDate>Tue, 24 Nov 2015 12:55:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Future of the Web Is 100 Years Old]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.bbc.co.uk/news/health-34857015</link>
             <guid isPermaLink="false">3f31872d-2e65-4cc7-af87-27bc1274a88e</guid>
             <pubDate>Thu, 19 Nov 2015 16:56:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Using iOS As Your Primary OS, Masochism?]]></title>
-            <description><![CDATA[<article><h1>Is Using iOS As Your Primary OS, Masochism?</h1><p>Justin Williams, in The Chicken or the iPad Pro : The sad reality is there aren't enough Omnis in the ecosystem right now to make the iPad Pro a viable productivity platform for anyone but those executives, retired folks, and masochist bloggers who jump through more hoops than a circus elephant to use an iPad instead of a Mac.</p><img src="https://s0.wp.com/i/blank.jpg"></article>]]></description>
-            <link>https://brooksreview.net/2015/11/masochism/</link>
-            <guid isPermaLink="false">01f99f23-2280-4f9f-a016-5a5c82d621d5</guid>
-            <pubDate>Thu, 19 Nov 2015 14:21:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
