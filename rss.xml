@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 22:45:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 21:24:44 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How evolution took us from Neolithic farmers to modern Europeans]]></title>
+            <description><![CDATA[<article><h1>How evolution took us from Neolithic farmers to modern Europeans</h1><p>The Neolithic Revolution involved the advent of agriculture, which finally allowed people to settle down in ever-larger groups and focus on things other than procuring calories-things like developing written language and forming social cliques. It was one of the most profound events in the collective history of humanity.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2015/11/neolithic-640x418.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2015/11/how-evolution-took-us-from-neolithic-farmers-to-modern-europeans/</link>
+            <guid isPermaLink="false">65faa373-c366-49f1-9a69-03a041b51a30</guid>
+            <pubDate>Wed, 25 Nov 2015 21:23:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Turning Glue Code into Graphs with CocoaFlow]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.tor.com/2015/01/05/star-wars-illiteracy/</link>
             <guid isPermaLink="false">c6a7c69c-21eb-40ea-bcb2-945a1ded4fc2</guid>
             <pubDate>Sat, 21 Nov 2015 11:40:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Space Doctor's Big Idea]]></title>
-            <description><![CDATA[<article><h1>The Space Doctor's Big Idea</h1><p>There once was a doctor with cool white hair. He was well known because he came up with some important ideas. He didn't grow the cool hair until after he was done figuring that stuff out, but by the time everyone realized how good his ideas were, he had grown the hair, so that's how everyone pictures him.</p><img src="http://www.newyorker.com/wp-content/uploads/2015/11/Munroe-space-doctor-1200x630-1447782889.jpg"></article>]]></description>
-            <link>http://www.newyorker.com/tech/elements/the-space-doctors-big-idea-einstein-general-relativity</link>
-            <guid isPermaLink="false">d068fd0a-f0ee-4a3a-9a2a-144c7277b657</guid>
-            <pubDate>Fri, 20 Nov 2015 20:34:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
