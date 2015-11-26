@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 Nov 2015 11:30:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2015 17:03:27 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WarGames for real: How one 1983 exercise nearly triggered WWIII]]></title>
+            <description><![CDATA[<article><h1>WarGames for real: How one 1983 exercise nearly triggered WWIII</h1><p>"Let's play Global Thermonuclear War." Thirty-two years ago, just months after the release of the movie WarGames, the world came the closest it ever has to nuclear Armageddon. In the movie version of a global near-death experience, a teenage hacker messing around with an artificial intelligence program that just happened to control the American nuclear missile force unleashes chaos.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2015/11/reaganwargames1.jpg"></article>]]></description>
+            <link>http://arstechnica.com/information-technology/2015/11/wargames-for-real-how-one-1983-exercise-nearly-triggered-wwiii/</link>
+            <guid isPermaLink="false">38e9b18c-b1e3-45e3-9633-cecdad22aeea</guid>
+            <pubDate>Thu, 26 Nov 2015 17:03:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Raspberry Pi Zero: the $5 computer]]></title>
@@ -68,13 +75,6 @@
             <link>http://nautil.us/issue/21/information/the-future-of-the-web-is-100-years-old</link>
             <guid isPermaLink="false">c02f7287-ee5d-4543-90ab-6785241558ef</guid>
             <pubDate>Mon, 23 Nov 2015 10:36:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sailing across the Atlantic]]></title>
-            <description><![CDATA[<article><h1>Sailing across the Atlantic</h1><p>I had sailed on Helena once before, on a weekend trip in the Turku archipelago. But crossing the Atlantic would be a more interesting adventure. For a month this two-masted tall ship would be our home on the ocean.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/128058d2-2942-47d7-b397-5093b7f220ea.png"></article>]]></description>
-            <link>http://bergie.today/sailing-across-the-atlantic/index.html</link>
-            <guid isPermaLink="false">212c37c5-3885-49c7-a4fb-96f987da53db</guid>
-            <pubDate>Sun, 22 Nov 2015 15:28:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
