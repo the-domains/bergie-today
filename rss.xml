@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 14:54:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Nov 2015 16:21:02 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The grim and gory reality of surgery in space]]></title>
+            <description><![CDATA[<article><h1>The grim and gory reality of surgery in space</h1><p>The International World Extreme Medicine Conference in London is not for the faint-hearted. As I sneak into the back of the main lecture hall, record-breaking polar explorer Sir Ranulph Fiennes is in full flow - vividly describing the state of his companion's frostbitten foot during an Arctic expedition.</p><img src="http://ichef.bbci.co.uk/wwfeatures/624_351/images/live/p0/39/bz/p039bzw7.jpg"></article>]]></description>
+            <link>http://www.bbc.com/future/story/20151125-the-challenges-of-carrying-out-surgery-in-space</link>
+            <guid isPermaLink="false">31fd7390-823a-4d64-83d0-42bce475bcd0</guid>
+            <pubDate>Mon, 30 Nov 2015 16:18:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dark Matter and the Dinosaurs]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.blueorigin.com/news/news/blue-origin-makes-historic-rocket-landing</link>
             <guid isPermaLink="false">914d3628-6570-4565-ba9f-0554a7ea1bd1</guid>
             <pubDate>Tue, 24 Nov 2015 14:46:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Taking My Business on the Camino]]></title>
-            <description><![CDATA[<article><h1>Taking My Business on the Camino</h1><p>In part one of this series I wrote about the impetus of this journey, the hardware I was going to use, and how I planned to accomplish keeping my freelance web development business up and running while walking everyday - you can read that here.</p><img src="http://i2.wp.com/thaddeushunt.com/wp-content/uploads/2015/11/part3FIcropped1.png?fit=1200%2C1200"></article>]]></description>
-            <link>http://thaddeushunt.com/taking-my-business-on-the-camino-part-3-how-it-all-turned-out/</link>
-            <guid isPermaLink="false">f8da636e-6b02-4b89-82ba-12c12eb1cbec</guid>
-            <pubDate>Tue, 24 Nov 2015 12:55:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
