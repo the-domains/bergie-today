@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 11:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Nov 2015 14:54:11 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dark Matter and the Dinosaurs]]></title>
+            <description><![CDATA[<article><h1>Dark Matter and the Dinosaurs</h1><p>A good theory is an act of the informed imagination - it reaches toward the unknown while grounded in the firmest foundations of the known. In "Dark Matter and the Dinosaurs," the Harvard cosmologist Lisa Randall proposes that a thin disk of dark matter in the plane of the Milky Way triggered a minor perturbation in deep space that caused the major earthly catastrophe that decimated the dinosaurs.</p><img src="http://static01.nyt.com/images/2015/11/29/books/review/29POPOVA/1129-BKS-Popova-articleLarge.jpg"></article>]]></description>
+            <link>http://mobile.nytimes.com/2015/11/29/books/review/dark-matter-and-the-dinosaurs-by-lisa-randall.html?_r=0&amp;referer=https://news.ycombinator.com/</link>
+            <guid isPermaLink="false">d21ef8c2-4c63-4d4d-8416-ef277b5ef8d3</guid>
+            <pubDate>Mon, 30 Nov 2015 14:54:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The 2016 Gear Post]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Taking My Business on the Camino</h1><p>In part one of this series I wrote about the impetus of this journey, the hardware I was going to use, and how I planned to accomplish keeping my freelance web development business up and running while walking everyday - you can read that here.</p><img src="http://i2.wp.com/thaddeushunt.com/wp-content/uploads/2015/11/part3FIcropped1.png?fit=1200%2C1200"></article>]]></description>
             <link>http://thaddeushunt.com/taking-my-business-on-the-camino-part-3-how-it-all-turned-out/</link>
             <guid isPermaLink="false">f8da636e-6b02-4b89-82ba-12c12eb1cbec</guid>
-            <pubDate>Tue, 24 Nov 2015 12:55:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Minimalism]]></title>
-            <description><![CDATA[<article><h1>Minimalism</h1><p>This is everything I own: A MacBook Pro, an iPad, an unlocked iPhone, seven shirts, two pairs of jeans, two jackets, one coat, one sweater, two pairs of shoes, a suitcase, a backpack, some gym shorts, bathroom stuff, socks and underwear. That’s it. Everything I own can be easily packed into a small suitcase and moved within 30 minutes. There is nothing that I want that I don’t already own. And this is despite owning a six-figure internet business.</p><img src="http://markmanson.net/wp-content/uploads/2012/06/minimalism2.jpg"></article>]]></description>
-            <link>http://markmanson.net/minimalism</link>
-            <guid isPermaLink="false">23959aa8-580d-4a19-af33-a0050d773531</guid>
             <pubDate>Tue, 24 Nov 2015 12:55:14 GMT</pubDate>
         </item>
     </channel>
