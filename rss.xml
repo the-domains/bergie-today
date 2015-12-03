@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Dec 2015 16:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Dec 2015 22:51:08 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A/B Testing, from scratch]]></title>
+            <description><![CDATA[<article><h1>A/B Testing, from scratch</h1><p>If you work in a diligent web development business you probably know what an A/B test is. However, its fascinating statistical theory is usually left behind. Understanding the basics can help you avoid common pitfalls, better design your experiments, and ultimately do a better job in improving the effectiveness of your website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c07a26dae2cfc03627b326fe7c28b195b411cd6c.png"></article>]]></description>
+            <link>http://www.alfredo.motta.name/ab-testing-from-scratch/</link>
+            <guid isPermaLink="false">168a2083-e588-4102-9152-e87779bf6827</guid>
+            <pubDate>Thu, 03 Dec 2015 22:51:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wikipedia Deploys AI to Expand Its Ranks of Human Editors]]></title>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/science/2015/11/how-evolution-took-us-from-neolithic-farmers-to-modern-europeans/</link>
             <guid isPermaLink="false">65faa373-c366-49f1-9a69-03a041b51a30</guid>
             <pubDate>Wed, 25 Nov 2015 21:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turning Glue Code into Graphs with CocoaFlow]]></title>
-            <description><![CDATA[<article><h1>Turning Glue Code into Graphs with CocoaFlow</h1><p>Application developers today have a tremendous amount of software at there disposal. Whether it's that great networking library, JSON parsing framework, or an in-house project, the ability to delegate so much logic to tried- and-tested solutions allows for an improved software development process and results in better apps.</p></article>]]></description>
-            <link>http://thegrid.ai/cocoaflow/turning-glue-code-into-graphs-with-cocoaflow/</link>
-            <guid isPermaLink="false">3a61eeb4-3e61-4cfc-a33a-c2746bbc1238</guid>
-            <pubDate>Tue, 24 Nov 2015 22:44:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
