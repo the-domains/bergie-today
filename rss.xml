@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 20:01:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Dec 2015 09:34:03 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Fall and Rise of SVG]]></title>
+            <description><![CDATA[<article><h1>The Fall and Rise of SVG</h1><p>Sometime in 1998, a former co-worker who had gone to work at Adobe came by my office at Bertlesmann to inform me of a brand new technology that she knew would excite me: PGML, or "Precision Graphics Markup Language." This was the Adobe flavor of XML for Vector Graphics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4470ffd7470869a6b0e393162f51eaac86f40847.png"></article>]]></description>
+            <link>http://blog.siliconpublishing.com/2015/12/the-fall-and-rise-of-svg/</link>
+            <guid isPermaLink="false">8196b0e7-9d3a-4b95-aab2-ffc4c30fe8f0</guid>
+            <pubDate>Sat, 05 Dec 2015 09:33:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Big Data's Mathematical Mysteries | Quanta Magazine]]></title>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/information-technology/2015/11/wargames-for-real-how-one-1983-exercise-nearly-triggered-wwiii/</link>
             <guid isPermaLink="false">38e9b18c-b1e3-45e3-9633-cecdad22aeea</guid>
             <pubDate>Thu, 26 Nov 2015 17:03:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raspberry Pi Zero: the $5 computer]]></title>
-            <description><![CDATA[<article><h1>Raspberry Pi Zero: the $5 computer</h1><p>Of all the things we do at Raspberry Pi, driving down the cost of computer hardware remains one of the most important. Even in the developed world, a programmable computer is a luxury item for a lot of people, and every extra dollar that we ask someone to spend decreases the chance that they'll choose ...</p><img src="https://www.raspberrypi.org/wp-content/uploads/2015/11/ninja2.jpg"></article>]]></description>
-            <link>https://www.raspberrypi.org/blog/raspberry-pi-zero/</link>
-            <guid isPermaLink="false">070f2611-737b-474d-926a-c0982576933c</guid>
-            <pubDate>Thu, 26 Nov 2015 11:30:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
