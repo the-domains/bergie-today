@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Dec 2015 09:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Dec 2015 20:42:01 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How the Space Age Imagined 2014: Asimov's Predictions, Revisited]]></title>
+            <description><![CDATA[<article><h1>How the Space Age Imagined 2014: Asimov's Predictions, Revisited</h1><p>Earlier this year, you may have come across a dispatch from the New York World's Fair that Isaac Asimov wrote in 1964 but which went viral fifty years later, appearing on NPR, Slate, and countless Facebook pages in the days following New Year's Eve.</p><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/489/large/new-york-worlds-fair-1964-2_GM_antarctica_.jpg"></article>]]></description>
+            <link>http://theappendix.net/posts/2014/7/isaac-asimovs-predictions-of-life-in-2014-revisited</link>
+            <guid isPermaLink="false">e67b86df-4f51-4652-be65-e0c98684b8fb</guid>
+            <pubDate>Sun, 06 Dec 2015 20:41:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Fall and Rise of SVG]]></title>
-            <description><![CDATA[<article><h1>The Fall and Rise of SVG</h1><p>Sometime in 1998, a former co-worker who had gone to work at Adobe came by my office at Bertlesmann to inform me of a brand new technology that she knew would excite me: PGML, or "Precision Graphics Markup Language." This was the Adobe flavor of XML for Vector Graphics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4470ffd7470869a6b0e393162f51eaac86f40847.png"></article>]]></description>
+            <description><![CDATA[<article><h1>The Fall and Rise of SVG</h1><p>Sometime in 1998, a former co-worker who had gone to work at Adobe came by my office at Bertlesmann to inform me of a brand new technology that she knew would excite me: PGML, or "Precision Graphics Markup Language." This was the Adobe flavor of XML for Vector Graphics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a4eeda7ca4f1717ade66b6e0ae98ba60b2f6544.png"></article>]]></description>
             <link>http://blog.siliconpublishing.com/2015/12/the-fall-and-rise-of-svg/</link>
             <guid isPermaLink="false">8196b0e7-9d3a-4b95-aab2-ffc4c30fe8f0</guid>
             <pubDate>Sat, 05 Dec 2015 09:33:01 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://tynan.com/gear2016</link>
             <guid isPermaLink="false">d9e40cea-4218-41f1-98cc-a826b5d01858</guid>
             <pubDate>Sat, 28 Nov 2015 11:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WarGames for real: How one 1983 exercise nearly triggered WWIII]]></title>
-            <description><![CDATA[<article><h1>WarGames for real: How one 1983 exercise nearly triggered WWIII</h1><p>"Let's play Global Thermonuclear War." Thirty-two years ago, just months after the release of the movie WarGames, the world came the closest it ever has to nuclear Armageddon. In the movie version of a global near-death experience, a teenage hacker messing around with an artificial intelligence program that just happened to control the American nuclear missile force unleashes chaos.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2015/11/reaganwargames1.jpg"></article>]]></description>
-            <link>http://arstechnica.com/information-technology/2015/11/wargames-for-real-how-one-1983-exercise-nearly-triggered-wwiii/</link>
-            <guid isPermaLink="false">38e9b18c-b1e3-45e3-9633-cecdad22aeea</guid>
-            <pubDate>Thu, 26 Nov 2015 17:03:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
