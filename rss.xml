@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Dec 2015 20:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Dec 2015 12:54:49 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Manager as Debugger]]></title>
+            <description><![CDATA[<article><h1>The Manager as Debugger</h1><p>I have observed that the best engineering managers I know are often also great debuggers. Why would this be? What is it about these two tasks that has such an overlapping skill set? A great debugger is relentless in their pursuit of the "why" for a bug.</p></article>]]></description>
+            <link>http://whilefalse.blogspot.co.uk/2015/11/the-manager-as-debugger.html?m=1</link>
+            <guid isPermaLink="false">71b089ce-131d-49ef-ae8b-ed10bc01285a</guid>
+            <pubDate>Tue, 08 Dec 2015 12:53:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Myth of pristine Amazon rainforest busted as old cities reappear]]></title>
-            <description><![CDATA[<article><h1>Myth of pristine Amazon rainforest busted as old cities reappear</h1><p>Dreamscape: the Amazon was once lined with fields and plazas. The first Europeans to penetrate the Amazon rainforests reported cities, roads and fertile fields along the banks of its major rivers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c14a6970e7ed3be7384803ec65cbbef65eb03cd.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Myth of pristine Amazon rainforest busted as old cities reappear</h1><p>Dreamscape: the Amazon was once lined with fields and plazas. The first Europeans to penetrate the Amazon rainforests reported cities, roads and fertile fields along the banks of its major rivers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fb6d1be42b4e906b522f01065bd3a55623b97d6.jpg"></article>]]></description>
             <link>https://www.newscientist.com/article/dn27945-myth-of-pristine-amazon-rainforest-busted-as-old-cities-reappear/</link>
             <guid isPermaLink="false">14487595-4608-4366-aeca-ad61370fbe07</guid>
             <pubDate>Mon, 07 Dec 2015 20:20:53 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.bbc.com/future/story/20151125-the-challenges-of-carrying-out-surgery-in-space</link>
             <guid isPermaLink="false">31fd7390-823a-4d64-83d0-42bce475bcd0</guid>
             <pubDate>Mon, 30 Nov 2015 16:18:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dark Matter and the Dinosaurs]]></title>
-            <description><![CDATA[<article><h1>Dark Matter and the Dinosaurs</h1><p>A good theory is an act of the informed imagination - it reaches toward the unknown while grounded in the firmest foundations of the known. In "Dark Matter and the Dinosaurs," the Harvard cosmologist Lisa Randall proposes that a thin disk of dark matter in the plane of the Milky Way triggered a minor perturbation in deep space that caused the major earthly catastrophe that decimated the dinosaurs.</p><img src="http://static01.nyt.com/images/2015/11/29/books/review/29POPOVA/1129-BKS-Popova-articleLarge.jpg"></article>]]></description>
-            <link>http://mobile.nytimes.com/2015/11/29/books/review/dark-matter-and-the-dinosaurs-by-lisa-randall.html?_r=0&amp;referer=https://news.ycombinator.com/</link>
-            <guid isPermaLink="false">d21ef8c2-4c63-4d4d-8416-ef277b5ef8d3</guid>
-            <pubDate>Mon, 30 Nov 2015 14:54:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
