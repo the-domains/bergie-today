@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 14:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Dec 2015 14:32:20 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[New US space mining law to spark interplanetary gold rush]]></title>
+            <description><![CDATA[<article><h1>New US space mining law to spark interplanetary gold rush</h1><p>Flashing some interplanetary gold bling and sipping "space water" might sound far-fetched, but both could soon be reality, thanks to a new US law that legalizes cosmic mining. In a first, President Barack Obama signed legislation at the end of November that allows commercial extraction of minerals and other materials, including water, from asteroids and the moon.</p><img src="http://cdn.phys.org/newman/gfx/news/2015/3-illustration.jpg"></article>]]></description>
+            <link>http://m.phys.org/news/2015-12-space-law-interplanetary-gold.html</link>
+            <guid isPermaLink="false">e3d5ce03-ae9b-4b8a-90d1-2c3e025f0431</guid>
+            <pubDate>Wed, 09 Dec 2015 14:31:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How Solar Power Could Slay the Fossil Fuel Empire by 2030]]></title>
-            <description><![CDATA[<article><h1>How Solar Power Could Slay the Fossil Fuel Empire by 2030</h1><p>​ In just 15 years, the world as we know it will have transformed forever. The ​age of oil, gas, coal and nuclear will be over. A new age of clean power and smarter cars will fundamentally, totally, and permanently disrupt the existing fossil fuel-dependent industrial infrastructure in a way that even the most starry-eyed proponents of 'green energy' could never have imagined.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8d23bb901b505ae04963e481cd3d558e7219d61.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>How Solar Power Could Slay the Fossil Fuel Empire by 2030</h1><p>​ In just 15 years, the world as we know it will have transformed forever. The ​age of oil, gas, coal and nuclear will be over. A new age of clean power and smarter cars will fundamentally, totally, and permanently disrupt the existing fossil fuel-dependent industrial infrastructure in a way that even the most starry-eyed proponents of 'green energy' could never have imagined.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58a8b11d5edf757543d4397a559da2f1e154712a.jpg"></article>]]></description>
             <link>http://motherboard.vice.com/read/how-solar-power-could-slay-the-fossil-fuel-empire-by-2030</link>
             <guid isPermaLink="false">a38c6729-8b0f-41c0-afb5-a9365863a9ec</guid>
             <pubDate>Tue, 08 Dec 2015 14:08:24 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.alfredo.motta.name/ab-testing-from-scratch/</link>
             <guid isPermaLink="false">168a2083-e588-4102-9152-e87779bf6827</guid>
             <pubDate>Thu, 03 Dec 2015 22:51:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wikipedia Deploys AI to Expand Its Ranks of Human Editors]]></title>
-            <description><![CDATA[<article><h1>Wikipedia Deploys AI to Expand Its Ranks of Human Editors</h1><p>Aaron Halfaker just built an artificial intelligence engine designed to automatically analyze changes to Wikipedia. Wikipedia is the online encyclopedia anyone can edit. In crowdsourcing the creation of an encyclopedia, the not-for-profit website forever changed the way we get information.</p><img src="http://www.wired.com/wp-content/uploads/2015/12/2000px-Wikipedia-logo-v2-en-F-1200x630.jpg"></article>]]></description>
-            <link>http://www.wired.com/2015/12/wikipedia-is-using-ai-to-expand-the-ranks-of-human-editors/</link>
-            <guid isPermaLink="false">755f04ab-3f0e-4d55-a2db-9e51dcbcbfbc</guid>
-            <pubDate>Thu, 03 Dec 2015 16:08:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
