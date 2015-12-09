@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 14:32:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Dec 2015 17:30:18 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google says its quantum computer is more than 100 million times faster than a regular computer chip]]></title>
+            <description><![CDATA[<article><h1>Google says its quantum computer is more than 100 million times faster than a regular computer chip</h1><p>Google appears to be more confident about the technical capabilities of its D-Wave 2X quantum computer, which it operates alongside NASA at the U.S. space agency's Ames Research Center in Mountain View, California.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/917fbb4b41936fd9d2b34fedb1c6de29ba3f9d50.jpg"></article>]]></description>
+            <link>http://venturebeat.com/2015/12/08/google-says-its-quantum-computer-is-more-than-100-million-times-faster-than-a-regular-computer-chip/</link>
+            <guid isPermaLink="false">2bf0c00b-c29f-4af6-b007-db80a65bda09</guid>
+            <pubDate>Wed, 09 Dec 2015 17:30:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google Pixel C review: Too clever by half]]></title>
@@ -68,13 +75,6 @@
             <link>http://blog.siliconpublishing.com/2015/12/the-fall-and-rise-of-svg/</link>
             <guid isPermaLink="false">8196b0e7-9d3a-4b95-aab2-ffc4c30fe8f0</guid>
             <pubDate>Sat, 05 Dec 2015 09:33:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Big Data's Mathematical Mysteries]]></title>
-            <description><![CDATA[<article><h1>Big Data's Mathematical Mysteries</h1><p>Quantized: Mathematics Machine learning works spectacularly well, but mathematicians aren't quite sure why. At a dinner I attended some years ago, the distinguished differential geometer Eugenio Calabi volunteered to me his tongue-in-cheek distinction between pure and applied mathematicians. A pure mathematician, when stuck on the problem under study, often decides to narrow the problem further and so avoid the obstruction.</p><img src="https://www.quantamagazine.org/wp-content/uploads/2015/12/DaubechiesBigData_OBrien_1200-615x344.jpg"></article>]]></description>
-            <link>https://www.quantamagazine.org/20151203-big-datas-mathematical-mysteries/</link>
-            <guid isPermaLink="false">698b4a00-0387-4d6f-864e-653c8afacb4b</guid>
-            <pubDate>Mon, 07 Dec 2015 13:38:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
