@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 19:32:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Dec 2015 09:40:29 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What It's Like to Try Magic Leap's Take on Virtual Reality]]></title>
+            <description><![CDATA[<article><h1>What It's Like to Try Magic Leap's Take on Virtual Reality</h1><p>Logically, I know there isn't a hulking four-armed, twisty-horned blue monster clomping in circles in front of me, but it sure as hell looks like it. I'm sitting behind a workbench in a white-walled room in Dania Beach, Florida, in the office of a secretive startup called Magic Leap.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d72e307ebd545b149369bf9b4181a9eb275739d3.jpg"></article>]]></description>
+            <link>http://www.technologyreview.com/featuredstory/534971/magic-leap/</link>
+            <guid isPermaLink="false">49d3e805-515f-4123-87cb-a7d5fd0ffcb3</guid>
+            <pubDate>Thu, 10 Dec 2015 09:39:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bitcoin's Creator Satoshi Nakamoto is Probably This Unknown Australian Genius]]></title>
-            <description><![CDATA[<article><h1>Bitcoin's Creator Satoshi Nakamoto is Probably This Unknown Australian Genius</h1><p>Even as his face towered 10 feet above the crowd at the Bitcoin Investor's Conference in Las Vegas, Craig Steven Wright was, to most of the audience of crypto and finance geeks, a nobody. The 44-year-old Australian, Skyping into the D Hotel ballroom's screen, wore the bitcoin enthusiast's equivalent of camouflage: a black blazer and a tieless, rumpled shirt, his brown hair neatly parted.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78a6e9022f87c095e50883de54d3d9eefb5f842b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Bitcoin's Creator Satoshi Nakamoto is Probably This Unknown Australian Genius</h1><p>Even as his face towered 10 feet above the crowd at the Bitcoin Investor's Conference in Las Vegas, Craig Steven Wright was, to most of the audience of crypto and finance geeks, a nobody. The 44-year-old Australian, Skyping into the D Hotel ballroom's screen, wore the bitcoin enthusiast's equivalent of camouflage: a black blazer and a tieless, rumpled shirt, his brown hair neatly parted.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42f8752bf0626a135e9b25066f9265e9c3993777.jpg"></article>]]></description>
             <link>http://www.wired.com/2015/12/bitcoins-creator-satoshi-nakamoto-is-probably-this-unknown-australian-genius/</link>
             <guid isPermaLink="false">78436768-f558-4375-b9b4-1e1f94bcc3b5</guid>
             <pubDate>Wed, 09 Dec 2015 19:32:00 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.newscientist.com/article/dn27945-myth-of-pristine-amazon-rainforest-busted-as-old-cities-reappear/</link>
             <guid isPermaLink="false">14487595-4608-4366-aeca-ad61370fbe07</guid>
             <pubDate>Mon, 07 Dec 2015 20:20:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the Space Age Imagined 2014: Asimov's Predictions, Revisited]]></title>
-            <description><![CDATA[<article><h1>How the Space Age Imagined 2014: Asimov's Predictions, Revisited</h1><p>Earlier this year, you may have come across a dispatch from the New York World's Fair that Isaac Asimov wrote in 1964 but which went viral fifty years later, appearing on NPR, Slate, and countless Facebook pages in the days following New Year's Eve.</p><img src="http://s3.amazonaws.com/appendixjournal-images/images/attachments/000/001/489/large/new-york-worlds-fair-1964-2_GM_antarctica_.jpg"></article>]]></description>
-            <link>http://theappendix.net/posts/2014/7/isaac-asimovs-predictions-of-life-in-2014-revisited</link>
-            <guid isPermaLink="false">e67b86df-4f51-4652-be65-e0c98684b8fb</guid>
-            <pubDate>Sun, 06 Dec 2015 20:41:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
