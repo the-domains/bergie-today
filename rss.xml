@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 09:40:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Dec 2015 11:42:13 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[All the roads that lead to Rome]]></title>
+            <description><![CDATA[<article><h1>All the roads that lead to Rome</h1><p>As the saying goes, "All roads lead to Rome." Folks at the moovel lab were curious about how true this statement is, so they tested it out. They laid a grid on top of Europe, and then algorithmically found a route from each cell in the grid to Rome, resulting in about half a million routes total.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d1bc084ba9d13cc7ae9d8c25b0a91c0a90b654a.jpg"></article>]]></description>
+            <link>http://flowingdata.com/2015/12/10/all-the-roads-that-lead-to-rome/</link>
+            <guid isPermaLink="false">a8112825-9ee0-49e2-82ce-a01246040ce9</guid>
+            <pubDate>Fri, 11 Dec 2015 11:41:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What It's Like to Try Magic Leap's Take on Virtual Reality]]></title>
-            <description><![CDATA[<article><h1>What It's Like to Try Magic Leap's Take on Virtual Reality</h1><p>Logically, I know there isn't a hulking four-armed, twisty-horned blue monster clomping in circles in front of me, but it sure as hell looks like it. I'm sitting behind a workbench in a white-walled room in Dania Beach, Florida, in the office of a secretive startup called Magic Leap.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d72e307ebd545b149369bf9b4181a9eb275739d3.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>What It's Like to Try Magic Leap's Take on Virtual Reality</h1><p>Logically, I know there isn't a hulking four-armed, twisty-horned blue monster clomping in circles in front of me, but it sure as hell looks like it. I'm sitting behind a workbench in a white-walled room in Dania Beach, Florida, in the office of a secretive startup called Magic Leap.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24444e21150e41cc6fba279d592275bb8716eb3d.jpg"></article>]]></description>
             <link>http://www.technologyreview.com/featuredstory/534971/magic-leap/</link>
             <guid isPermaLink="false">49d3e805-515f-4123-87cb-a7d5fd0ffcb3</guid>
             <pubDate>Thu, 10 Dec 2015 09:39:37 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://whilefalse.blogspot.co.uk/2015/11/the-manager-as-debugger.html?m=1</link>
             <guid isPermaLink="false">71b089ce-131d-49ef-ae8b-ed10bc01285a</guid>
             <pubDate>Tue, 08 Dec 2015 12:53:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Myth of pristine Amazon rainforest busted as old cities reappear]]></title>
-            <description><![CDATA[<article><h1>Myth of pristine Amazon rainforest busted as old cities reappear</h1><p>Dreamscape: the Amazon was once lined with fields and plazas. The first Europeans to penetrate the Amazon rainforests reported cities, roads and fertile fields along the banks of its major rivers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fb6d1be42b4e906b522f01065bd3a55623b97d6.jpg"></article>]]></description>
-            <link>https://www.newscientist.com/article/dn27945-myth-of-pristine-amazon-rainforest-busted-as-old-cities-reappear/</link>
-            <guid isPermaLink="false">14487595-4608-4366-aeca-ad61370fbe07</guid>
-            <pubDate>Mon, 07 Dec 2015 20:20:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
