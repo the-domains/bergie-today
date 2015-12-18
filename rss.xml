@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 07:50:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 11:12:09 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flying the Icon A5, an almost affordable personal plane]]></title>
+            <description><![CDATA[<article><h1>Flying the Icon A5, an almost affordable personal plane</h1><p>In a way, the Icon feels like the iPod of personal planes: It's small, stylish and surprisingly intuitive. The instrument cluster I mentioned before is comprised of eight easy-to-read dials (plus a digital attitude indicator), set in an aggressive-looking plastic chassis that just screams "sports car."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86ea04dac526f254598beeff876e76cc1b4018b0.jpg"></article>]]></description>
+            <link>http://www.engadget.com/2015/12/17/icon-a5/</link>
+            <guid isPermaLink="false">f0a405bc-201a-41b1-a536-7046de7bd4fa</guid>
+            <pubDate>Fri, 18 Dec 2015 11:11:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why we're going back to the Moon-with or without NASA]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.linkedin.com/pulse/big-idea-2016-year-ai-made-real-blake-irving</link>
             <guid isPermaLink="false">f4892172-dc5e-4f5e-98c6-b03c819cdf0d</guid>
             <pubDate>Tue, 15 Dec 2015 16:21:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spaceplanes vs reusable rockets - which will win?]]></title>
-            <description><![CDATA[<article><h1>Spaceplanes vs reusable rockets - which will win?</h1><p>Launching satellites, spacecraft and people into space is expensive because we only use our launch vehicles once. After delivering their payloads into orbit, our rockets either burn up in the atmosphere or crash into the ocean. Imagine how expensive a transatlantic flight would be if aircraft made only a single flight before being scrapped - this is the situation with the commercial space industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad133aad31479b074629e1898f1ce70aa1bbdb5d.jpg"></article>]]></description>
-            <link>http://m.phys.org/news/2015-12-spaceplanes-reusable-rockets.html</link>
-            <guid isPermaLink="false">3544cb8f-35a4-4672-964c-a461fcab1f13</guid>
-            <pubDate>Tue, 15 Dec 2015 14:49:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
