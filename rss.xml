@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 10:56:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 07:50:50 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why we're going back to the Moon-with or without NASA]]></title>
+            <description><![CDATA[<article><h1>Why we're going back to the Moon-with or without NASA</h1><p>It was time for the spent rocket to die. So the 2,000kg Centaur upper stage, about the size of a yellow school bus, detached from its spacecraft and began falling toward the Moon six years ago. Soon lunar gravity took hold, tugging the Centaur ever faster toward the Moon's inky black South Pole.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe5e468f43bdd42aed14e933dbf7e743f307f7de.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2015/12/why-were-going-back-to-the-moon-with-or-without-nasa/</link>
+            <guid isPermaLink="false">3f5091f3-ae3f-4a02-90d6-38bf6691648a</guid>
+            <pubDate>Fri, 18 Dec 2015 07:50:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Technology of the Year: USB-C]]></title>
@@ -68,13 +75,6 @@
             <link>http://m.phys.org/news/2015-12-spaceplanes-reusable-rockets.html</link>
             <guid isPermaLink="false">3544cb8f-35a4-4672-964c-a461fcab1f13</guid>
             <pubDate>Tue, 15 Dec 2015 14:49:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The High-Stakes Race to Rid the World of Human Drivers]]></title>
-            <description><![CDATA[<article><h1>The High-Stakes Race to Rid the World of Human Drivers</h1><p>The competition is fierce, the key players are billionaires, but the path-and even the destination-remains uncertain. The race to bring driverless cars to the masses is only just beginning, but already it is a fight for the ages.</p><img src="http://cdn.theatlantic.com/assets/media/img/mt/2015/11/Selfdrivingcars_revised-2/facebook.gif?1448908392"></article>]]></description>
-            <link>http://www.theatlantic.com/technology/archive/2015/12/driverless-cars-are-this-centurys-space-race/417672/?single_page=true</link>
-            <guid isPermaLink="false">47b92db2-61ba-4c02-ab5b-52b0688d8d4b</guid>
-            <pubDate>Tue, 15 Dec 2015 14:48:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
