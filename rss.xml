@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 11:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 17:49:34 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A Codebase is an Organism]]></title>
+            <description><![CDATA[<article><h1>A Codebase is an Organism</h1><p>Here's what no one tells you when you graduate with a degree in computer science and take up a job in software engineering: The computer is a machine, but a codebase is an organism. This will make sense to anyone who's worked on a large or even medium-sized software project - but it's often surprising to new grads.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad4721b1d4f4140ab32bbfbf967fd400b922a004.png"></article>]]></description>
+            <link>http://www.meltingasphalt.com/a-codebase-is-an-organism/</link>
+            <guid isPermaLink="false">ed546e50-f85c-4d97-961f-8027ca629710</guid>
+            <pubDate>Fri, 18 Dec 2015 17:49:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Flying the Icon A5, an almost affordable personal plane]]></title>
-            <description><![CDATA[<article><h1>Flying the Icon A5, an almost affordable personal plane</h1><p>In a way, the Icon feels like the iPod of personal planes: It's small, stylish and surprisingly intuitive. The instrument cluster I mentioned before is comprised of eight easy-to-read dials (plus a digital attitude indicator), set in an aggressive-looking plastic chassis that just screams "sports car."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86ea04dac526f254598beeff876e76cc1b4018b0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Flying the Icon A5, an almost affordable personal plane</h1><p>In a way, the Icon feels like the iPod of personal planes: It's small, stylish and surprisingly intuitive. The instrument cluster I mentioned before is comprised of eight easy-to-read dials (plus a digital attitude indicator), set in an aggressive-looking plastic chassis that just screams "sports car."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d879ecc003032a572435be5aef3370dbd22026b.jpg"></article>]]></description>
             <link>http://www.engadget.com/2015/12/17/icon-a5/</link>
             <guid isPermaLink="false">f0a405bc-201a-41b1-a536-7046de7bd4fa</guid>
             <pubDate>Fri, 18 Dec 2015 11:11:22 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://samnewman.io/patterns/architectural/bff/</link>
             <guid isPermaLink="false">c568d4fb-7837-4f0d-b224-fff4791f158f</guid>
             <pubDate>Wed, 16 Dec 2015 10:43:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Year of AI Made Real]]></title>
-            <description><![CDATA[<article><h1>The Year of AI Made Real</h1><p>Last month, I found myself in the same hotel bar as IBM Chief Scientist Grady Booch and our conversation eventually turned to a hot topic: the near future of AI.  We weren't talking strong AI like “open the pod bay doors Hal,” but the much more common (i.e. real) intelligence called “applied AI” that’s quietly sneaking into our homes and businesses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12fee2ece078c69323c8e00f7b7dcc769aa323e1.jpg"></article>]]></description>
-            <link>https://www.linkedin.com/pulse/big-idea-2016-year-ai-made-real-blake-irving</link>
-            <guid isPermaLink="false">f4892172-dc5e-4f5e-98c6-b03c819cdf0d</guid>
-            <pubDate>Tue, 15 Dec 2015 16:21:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
