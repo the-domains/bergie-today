@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 10:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 13:09:41 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finland]]></title>
+            <description><![CDATA[<article><h1>Finland</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c40167521945882310ce8b453c16558ea9b6573.png"></article>]]></description>
+            <link>http://bergie.today/finland/index.html</link>
+            <guid isPermaLink="false">ce7dbbf2-aa9e-4860-9b4f-c376a92c6540</guid>
+            <pubDate>Sat, 19 Dec 2015 13:09:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In search of the perfect notebook]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.thehikinglife.com/2015/12/going-lighter-the-big-three/</link>
             <guid isPermaLink="false">602f158c-3785-42bd-9f5d-c4b6881751a2</guid>
             <pubDate>Wed, 16 Dec 2015 10:47:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Robots Will Steal Our Jobs, But They'll Give Us New Ones]]></title>
-            <description><![CDATA[<article><h1>Robots Will Steal Our Jobs, But They'll Give Us New Ones</h1><p>At the Dusseldorf airport, robotic valet parking is now reality. You step out of your car. You press a button on a touch screen. And then a machine lifts your car off the ground, moving all three tons of it into a kind of aerial parking bay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4711a589b8fb05938c4bfd2937c42e4dc4dd609f.jpg"></article>]]></description>
-            <link>http://www.wired.com/2015/08/robots-will-steal-jobs-theyll-give-us-new-ones/</link>
-            <guid isPermaLink="false">52360630-b81e-4c7c-93c5-1b699de8cad4</guid>
-            <pubDate>Wed, 16 Dec 2015 10:43:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
