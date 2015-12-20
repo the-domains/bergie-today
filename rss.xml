@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 13:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 15:40:16 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,20 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside Google's Quantum Computing Lab, Questing for the Perfect Computer | MIT Technology Review]]></title>
+            <description><![CDATA[<article><h1>Inside Google's Quantum Computing Lab, Questing for the Perfect Computer | MIT Technology Review</h1><p>John Martinis used the arm of his reading glasses to indicate the spot where he intends to demonstrate an almost unimaginably powerful new form of computer in a few years. It is a cylindrical socket an inch and a half across, at the bottom of a torso-sized stack of plates, blocks, and wires of brass, copper, and gold.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b478f04fea72f2d77fdbbf1051ed024c16af3c4.jpg"></article>]]></description>
+            <link>http://www.technologyreview.com/news/544421/googles-quantum-dream-machine/</link>
+            <guid isPermaLink="false">da95ba42-3c28-4692-820e-a6b7fd7747c4</guid>
+            <pubDate>Sun, 20 Dec 2015 15:39:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Web Tools: A Web Inspector for iPad]]></title>
+            <description><![CDATA[<article><h1>Web Tools: A Web Inspector for iPad</h1><p>Web Tools is a new app from developer James Finley of Ergo which aims to create a Safari-style web inspector for iPad. I've tried other solutions for getting the source of web pages via iOS, but, at least on iPad, I haven't seen any come close to being as well designed and implemented for the [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b23fabe54db519c82af840fd9bb0a586d4e65ae.png"></article>]]></description>
+            <link>https://www.macstories.net/news/web-tools-a-web-inspector-for-ipad/</link>
+            <guid isPermaLink="false">f7e0132d-54ba-41ad-8ea6-81fbdfc8d772</guid>
+            <pubDate>Sun, 20 Dec 2015 15:39:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finland]]></title>
@@ -61,20 +75,6 @@
             <link>https://www.flickr.com/photos/bergie/23106267643/in/datetaken-public/</link>
             <guid isPermaLink="false">16d5fa0f-a78e-4400-93a2-946a023b0de4</guid>
             <pubDate>Thu, 17 Dec 2015 10:55:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[These photos are why I'm trapped in Tokyo forever now]]></title>
-            <description><![CDATA[<article><h1>These photos are why I'm trapped in Tokyo forever now</h1><p>Tokyo, holy excrements from small undefined creatures! We're there. First place we had on our list was Nakagin Tower. Spending two whole days there, we finally learned the dread and discomfort of living in a capsule hotel.</p><img src="https://cdn-images-1.medium.com/max/2000/0*BsdyLqGqswKnMwFS.gif"></article>]]></description>
-            <link>https://medium.com/@damjancvetkovdimitrov/these-photos-are-why-i-m-trapped-in-tokyo-forever-now-1a0ea980bcc5#.keixrrl9b</link>
-            <guid isPermaLink="false">29eafcbf-de3a-4226-8897-0da59b11e6f6</guid>
-            <pubDate>Wed, 16 Dec 2015 11:44:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>He who would travel happily, must travel light.</p>]]></description>
-            <link>http://www.thehikinglife.com/2015/12/going-lighter-the-big-three/</link>
-            <guid isPermaLink="false">602f158c-3785-42bd-9f5d-c4b6881751a2</guid>
-            <pubDate>Wed, 16 Dec 2015 10:47:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
