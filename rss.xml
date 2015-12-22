@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 10:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2015 08:09:35 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SpaceX successfully landed its Falcon 9 rocket after launching it to space]]></title>
+            <description><![CDATA[<article><h1>SpaceX successfully landed its Falcon 9 rocket after launching it to space</h1><p>SpaceX's Falcon 9 rocket successfully landed upright on solid ground at Cape Canaveral, Florida this evening, after traveling into space and back. It's the first time SpaceX has been able to gently touch down the Falcon 9 post-launch - something the company has been trying to do for the past year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80b059d2a5085ab1e68e35bdfbf607aa39712b26.png"></article>]]></description>
+            <link>http://www.theverge.com/2015/12/21/10640306/spacex-elon-musk-rocket-landing-success</link>
+            <guid isPermaLink="false">bc20b82c-8039-49e7-873f-78dfae303a6b</guid>
+            <pubDate>Tue, 22 Dec 2015 08:09:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Inside Google's Quantum Computing Lab, Questing for the Perfect Computer | MIT Technology Review]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Technology of the Year: USB-C</h1><p>There was plenty of technology unleashed upon the world this year. A ton of pay-with-your-phone systems. Quite a few virtual-reality products. Sense-and-avoid technology in drones. But one new technology will affect everybody on earth who uses a phone, tablet, laptop, or desktop. A technology that will save us time, money, and frustration.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6acf011181292f890d8e77829fde0de7e5d1baf.jpg"></article>]]></description>
             <link>https://www.yahoo.com/tech/technology-of-the-year-usb-1322314935631926.html</link>
             <guid isPermaLink="false">4ed890c0-23ff-4c3d-a91e-2d27c73ae80b</guid>
-            <pubDate>Thu, 17 Dec 2015 10:55:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ingress Abaddon afterparty]]></title>
-            <description><![CDATA[<article><h1>Ingress Abaddon afterparty</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc29f0b249e4b7c962c7bfc012ca2a8d287e63b7.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/bergie/23106267643/in/datetaken-public/</link>
-            <guid isPermaLink="false">16d5fa0f-a78e-4400-93a2-946a023b0de4</guid>
             <pubDate>Thu, 17 Dec 2015 10:55:50 GMT</pubDate>
         </item>
     </channel>
