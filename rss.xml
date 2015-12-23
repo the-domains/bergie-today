@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 10:36:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 13:01:40 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don't Believe the Hype: Winter Does Not Begin Tonight]]></title>
+            <description><![CDATA[<article><h1>Don't Believe the Hype: Winter Does Not Begin Tonight</h1><p>Tonight, at 11:48 PM Eastern Time, is the moment of the winter solstice, when the Northern Hemisphere is pointed as far away from the sun as it ever gets. It will be the longest night of the year, and tomorrow will be the day with the fewest hours of sunlight.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2cb003d65a14f53dcf86a76446e808f98d529593.jpg"></article>]]></description>
+            <link>http://nautil.us/blog/dont-believe-the-hype-winter-does-not-begin-tonight</link>
+            <guid isPermaLink="false">887512fa-29a8-469a-a6f2-a545589c92a3</guid>
+            <pubDate>Wed, 23 Dec 2015 13:01:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Immersed in Nostalgia: How Virtual Reality Can Revive the Point and Click Adventure Game]]></title>
@@ -68,13 +75,6 @@
             <link>http://johnguycollick.com/in-search-of-the-perfect-notebook/</link>
             <guid isPermaLink="false">f51742f5-e731-4a3c-a093-0b1f99a374e2</guid>
             <pubDate>Sat, 19 Dec 2015 10:18:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Codebase is an Organism]]></title>
-            <description><![CDATA[<article><h1>A Codebase is an Organism</h1><p>Here's what no one tells you when you graduate with a degree in computer science and take up a job in software engineering: The computer is a machine, but a codebase is an organism. This will make sense to anyone who's worked on a large or even medium-sized software project - but it's often surprising to new grads.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60f972aec23cba5b38b2a041dbd3dad4efb915cd.png"></article>]]></description>
-            <link>http://www.meltingasphalt.com/a-codebase-is-an-organism/</link>
-            <guid isPermaLink="false">ed546e50-f85c-4d97-961f-8027ca629710</guid>
-            <pubDate>Fri, 18 Dec 2015 17:49:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
