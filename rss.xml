@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 13:02:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2015 13:50:32 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The App-ocalypse: can Web standards make mobile apps obsolete?]]></title>
+            <description><![CDATA[<article><h1>The App-ocalypse: can Web standards make mobile apps obsolete?</h1><p>It's the apps. The iPhone and Android conquered the world because of the apps. More specifically, what keeps Android and iOS dominant is the utter lack of those apps on competing platforms. But today, the mobile landscape is significantly different than it was a year or two ago (let alone five).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20301087eaeaccaf6bbf01f0a6e67c62dbf6c399.png"></article>]]></description>
+            <link>http://arstechnica.com/information-technology/2015/12/the-app-ocalypse-can-web-standards-make-mobile-apps-obsolete/</link>
+            <guid isPermaLink="false">6abca1b7-ae95-4ad2-823c-4ecbd6725a43</guid>
+            <pubDate>Mon, 28 Dec 2015 13:50:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Report: artificial intelligence will cause "structural collapse" of law firms by 2030]]></title>
-            <description><![CDATA[<article><h1>Report: artificial intelligence will cause "structural collapse" of law firms by 2030</h1><p>Robots and artificial intelligence (AI) will dominate legal practice within 15 years, perhaps leading to the "structural collapse" of law firms, a report predicting the shape of the legal market has envisaged.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9df6f40e1121188527fae695a75e92b3b7b0c7ad.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Report: artificial intelligence will cause "structural collapse" of law firms by 2030</h1><p>Robots and artificial intelligence (AI) will dominate legal practice within 15 years, perhaps leading to the "structural collapse" of law firms, a report predicting the shape of the legal market has envisaged.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/887246d5549dfde645ed866b2541833830e3a005.jpg"></article>]]></description>
             <link>http://www.legalfutures.co.uk/latest-news/report-ai-will-transform-legal-world</link>
             <guid isPermaLink="false">1ab80095-79cd-45dc-9ae6-cb3b2c4b9e4d</guid>
             <pubDate>Wed, 23 Dec 2015 13:01:30 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.macstories.net/news/web-tools-a-web-inspector-for-ipad/</link>
             <guid isPermaLink="false">f7e0132d-54ba-41ad-8ea6-81fbdfc8d772</guid>
             <pubDate>Sun, 20 Dec 2015 15:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finland]]></title>
-            <description><![CDATA[<article><h1>Finland</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c40167521945882310ce8b453c16558ea9b6573.png"></article>]]></description>
-            <link>urn:uuid:0588e983-5b40-4205-85ad-67c95e7f95c1</link>
-            <guid isPermaLink="false">ce7dbbf2-aa9e-4860-9b4f-c376a92c6540</guid>
-            <pubDate>Mon, 21 Dec 2015 10:18:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
