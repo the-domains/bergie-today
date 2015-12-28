@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 13:50:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2015 13:50:46 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The fantasy of flight: Porco Rosso and Miyazaki's lifelong obsession]]></title>
+            <description><![CDATA[<article><h1>The fantasy of flight: Porco Rosso and Miyazaki's lifelong obsession</h1><p>Miyazaki’s obsession with flight is evident throughout his films. In fact, flying sequences feature in all but three of his 11 pictures (Ponyo, Princess Mononoke and The Castle of Cagliostro are the exceptions). Flight, in general, is often central to the plot, most notably in 2014’s The Wind Rises (about an aviation engineer) and 1992’s wonderful fantasy Porco Rosso, about a flying pig.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a558f31cbd89ab55b18a2c229fd856b088c9873.jpg"></article>]]></description>
+            <link>http://vodzilla.co/blog/features/the-magic-of-miyazaki/the-fantasy-of-flight-porco-rosso-and-miyazakis-obsession/</link>
+            <guid isPermaLink="false">b417e374-297d-4688-895a-fc77d5a69ed3</guid>
+            <pubDate>Mon, 28 Dec 2015 13:50:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The App-ocalypse: can Web standards make mobile apps obsolete?]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Inside Google's Quantum Computing Lab, Questing for the Perfect Computer | MIT Technology Review</h1><p>John Martinis used the arm of his reading glasses to indicate the spot where he intends to demonstrate an almost unimaginably powerful new form of computer in a few years. It is a cylindrical socket an inch and a half across, at the bottom of a torso-sized stack of plates, blocks, and wires of brass, copper, and gold.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aab5c8e7233a70cc91e240425cca7d1ab8aa504e.jpg"></article>]]></description>
             <link>http://www.technologyreview.com/news/544421/googles-quantum-dream-machine/</link>
             <guid isPermaLink="false">da95ba42-3c28-4692-820e-a6b7fd7747c4</guid>
-            <pubDate>Sun, 20 Dec 2015 15:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Web Tools: A Web Inspector for iPad]]></title>
-            <description><![CDATA[<article><h1>Web Tools: A Web Inspector for iPad</h1><p>Web Tools is a new app from developer James Finley of Ergo which aims to create a Safari-style web inspector for iPad. I've tried other solutions for getting the source of web pages via iOS, but, at least on iPad, I haven't seen any come close to being as well designed and implemented for the [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4953cac298ac210fa118b7bde04ecd09951f02a3.png"></article>]]></description>
-            <link>https://www.macstories.net/news/web-tools-a-web-inspector-for-ipad/</link>
-            <guid isPermaLink="false">f7e0132d-54ba-41ad-8ea6-81fbdfc8d772</guid>
             <pubDate>Sun, 20 Dec 2015 15:39:33 GMT</pubDate>
         </item>
     </channel>
