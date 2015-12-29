@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 15:44:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2015 15:44:41 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Project Tango: Google is building it, but will they come?]]></title>
+            <description><![CDATA[<article><h1>Project Tango: Google is building it, but will they come?</h1><p>In early 2014, Google made an interesting announcement. The company had a new product in the pipeline, one that could change the way we interact with computers. Google showed a prototype of the technology built into a Nexus phone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d42743c0d47a4d96ff079217bdebfb2b75eae7d.jpg"></article>]]></description>
+            <link>http://www.theguardian.com/technology/2015/dec/28/google-project-tango-nexus-mobile-space-awareness</link>
+            <guid isPermaLink="false">27ddc496-93c3-4fd0-a969-926cd59973ba</guid>
+            <pubDate>Tue, 29 Dec 2015 15:43:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[basic infrastructure patterns]]></title>
@@ -68,13 +75,6 @@
             <link>http://augmentl.io/immersed-in-nostalgia-how-virtual-reality-can-revive-the-po/</link>
             <guid isPermaLink="false">b05b8b81-3908-4555-be5e-b3a2d7451da4</guid>
             <pubDate>Wed, 23 Dec 2015 10:36:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Background on Tonight's Launch]]></title>
-            <description><![CDATA[<article><h1>Background on Tonight's Launch</h1><p>A lot about how things work in space is counter-intuitive, as all of our intuition is gained from daily experiences where the air is thick, gravity doesn't seem to change and movement is relatively slow.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7ec2e7a3f9f6a3fa41e45ebc58307fe21467138.jpg"></article>]]></description>
-            <link>http://www.spacex.com/news/2015/12/21/background-tonights-launch</link>
-            <guid isPermaLink="false">cf22d3de-12f5-4fb0-805b-de4807020e2d</guid>
-            <pubDate>Wed, 23 Dec 2015 09:05:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
