@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 11:56:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Dec 2015 11:56:26 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Freelancer Generation: Why Startups And Enterprises Need To Pay Attention]]></title>
+            <description><![CDATA[<article><h1>The Freelancer Generation: Why Startups And Enterprises Need To Pay Attention</h1><p>Gone are the days of the 40-hour work week that kept us at work eight hours a day (I find that most startup founders or business owners in Silicon Valley work 50-60 hours a week). Freelancing is becoming the accepted norm of the startup world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e31aa6d9dbb3cb22241598c64871f6cf38eca53.png"></article>]]></description>
+            <link>http://techcrunch.com/2015/12/27/the-freelancer-generation-why-startups-and-enterprises-need-to-pay-attention/?ncid=rss&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&amp;utm_content=FaceBook&amp;sr_share=facebook</link>
+            <guid isPermaLink="false">48ba0cda-3111-4c92-ba67-141b243a03d0</guid>
+            <pubDate>Wed, 30 Dec 2015 11:56:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google's Matias Duarte on the future of software design]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.legalfutures.co.uk/latest-news/report-ai-will-transform-legal-world</link>
             <guid isPermaLink="false">1ab80095-79cd-45dc-9ae6-cb3b2c4b9e4d</guid>
             <pubDate>Wed, 23 Dec 2015 13:01:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don't Believe the Hype: Winter Does Not Begin Tonight]]></title>
-            <description><![CDATA[<article><h1>Don't Believe the Hype: Winter Does Not Begin Tonight</h1><p>Tonight, at 11:48 PM Eastern Time, is the moment of the winter solstice, when the Northern Hemisphere is pointed as far away from the sun as it ever gets. It will be the longest night of the year, and tomorrow will be the day with the fewest hours of sunlight.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/713184f5838b8b29abd93f6314a5272369766113.jpg"></article>]]></description>
-            <link>http://nautil.us/blog/dont-believe-the-hype-winter-does-not-begin-tonight</link>
-            <guid isPermaLink="false">887512fa-29a8-469a-a6f2-a545589c92a3</guid>
-            <pubDate>Wed, 23 Dec 2015 13:01:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
