@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 13:30:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Dec 2015 13:37:53 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,22 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[2016 will be the year of concurrency on the web]]></title>
+            <description><![CDATA[<article><h1>2016 will be the year of concurrency on the web</h1><p>Since 2009 JavaScript programming on the web has a way to write concurrent programs using shared-nothing threads: Web Workers. But beyond some specialized use cases (e.g. Google Photos uses them for running some filters that need a lot of CPU) they haven't seen any mainstream adoption. This will change in 2016.</p><img src="https://cdn-images-1.medium.com/max/800/1*_YAmoYfl5QiSJU_wBhNUQA.jpeg"></article>]]></description>
+            <link>https://medium.com/@cramforce/2016-will-be-the-year-of-concurrency-on-the-web-c39b1e99b30f#.5r48e2ozw</link>
+            <guid isPermaLink="false">1a735df9-dd8a-46e5-92ec-aeb03d2a22c7</guid>
+            <pubDate>Wed, 30 Dec 2015 13:37:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An Empire of Stars - Britain in Space]]></title>
+            <description><![CDATA[<article><h1>An Empire of Stars - Britain in Space</h1><p>A cold autumn day was dawning as the German soldiers of the Altenwalde Versuchskommando prepared their V-2 rocket for launch. They'd done this a hundred times before, firing the rockets that had terrified Londoners as the Second World War dragged on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d51c398fff98dc14810dccfa13837925354c6927.jpg"></article>]]></description>
+            <link>http://lapsedhistorian.com/an-empire-of-stars/</link>
+            <guid isPermaLink="false">074aff8f-bdf4-4d01-a5b2-ef0fe837ff18</guid>
+            <pubDate>Wed, 30 Dec 2015 13:30:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What's next for Linux]]></title>
-            <description><![CDATA[<article><h1>What's next for Linux</h1><p>For those who discovered Linux in their 20s and still consider themselves young, the milestone is somewhat disconcerting: in 2016 the open-source operating system, which is maintained by a global community of programmers, will turn 25.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53cf73450b21cb6399dc6a37ca4f1c1f5eb72354.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>What's next for Linux</h1><p>For those who discovered Linux in their 20s and still consider themselves young, the milestone is somewhat disconcerting: in 2016 the open-source operating system, which is maintained by a global community of programmers, will turn 25.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3be9b524d731a8f49f765953dfb68e1772669013.jpg"></article>]]></description>
             <link>http://www.theworldin.com/article/12077/what-next-linux?fsrc=scn/tw/te/bl/ed/theworldin2016</link>
             <guid isPermaLink="false">b6b9f7d0-8ede-4cb8-8cb6-86c352957122</guid>
             <pubDate>Wed, 30 Dec 2015 13:30:10 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>http://9to5google.com/2015/12/28/this-is-google-glass-enterprise-edition-in-the-flesh-gallery/</link>
             <guid isPermaLink="false">5043351d-0ed3-4b9d-80e4-a03e8515aaa7</guid>
             <pubDate>Tue, 29 Dec 2015 10:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The fantasy of flight: Porco Rosso and Miyazaki's lifelong obsession]]></title>
-            <description><![CDATA[<article><h1>The fantasy of flight: Porco Rosso and Miyazaki's lifelong obsession</h1><p>Miyazaki’s obsession with flight is evident throughout his films. In fact, flying sequences feature in all but three of his 11 pictures (Ponyo, Princess Mononoke and The Castle of Cagliostro are the exceptions). Flight, in general, is often central to the plot, most notably in 2014’s The Wind Rises (about an aviation engineer) and 1992’s wonderful fantasy Porco Rosso, about a flying pig.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0969c9f51b1c25e6266a2970a48aab453d0458ec.jpg"></article>]]></description>
-            <link>http://vodzilla.co/blog/features/the-magic-of-miyazaki/the-fantasy-of-flight-porco-rosso-and-miyazakis-obsession/</link>
-            <guid isPermaLink="false">b417e374-297d-4688-895a-fc77d5a69ed3</guid>
-            <pubDate>Mon, 28 Dec 2015 13:50:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The App-ocalypse: can Web standards make mobile apps obsolete?]]></title>
-            <description><![CDATA[<article><h1>The App-ocalypse: can Web standards make mobile apps obsolete?</h1><p>It's the apps. The iPhone and Android conquered the world because of the apps. More specifically, what keeps Android and iOS dominant is the utter lack of those apps on competing platforms. But today, the mobile landscape is significantly different than it was a year or two ago (let alone five).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd2266844c1ad9dd7f9d814daa2b2f366aabee00.png"></article>]]></description>
-            <link>http://arstechnica.com/information-technology/2015/12/the-app-ocalypse-can-web-standards-make-mobile-apps-obsolete/</link>
-            <guid isPermaLink="false">6abca1b7-ae95-4ad2-823c-4ecbd6725a43</guid>
-            <pubDate>Mon, 28 Dec 2015 13:50:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
