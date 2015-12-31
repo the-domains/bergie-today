@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 14:44:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 15:33:59 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Space for Europe and for all humankind: A brief history of the ESA]]></title>
+            <description><![CDATA[<article><h1>Space for Europe and for all humankind: A brief history of the ESA</h1><p>In November 2014, a strange-looking little spider of a spacecraft caught the world's attention. It may have been one of the oddest-looking pioneers of all time, resembling a mini-refrigerator attached to an insect's legs. The spacecraft, christened Philae, electrified both die-hard space fans and casual observers despite its alien appearance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffbce0799d3f23ab0821b9e626c0d0443fa0c79a.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2015/12/space-for-europe-and-for-all-humankind-a-brief-history-of-the-esa/</link>
+            <guid isPermaLink="false">515e5a63-f12e-4fa7-97ee-8069e43d9dea</guid>
+            <pubDate>Thu, 31 Dec 2015 15:33:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[the Great Wave off Kanagawa circa 21st century]]></title>
-            <description><![CDATA[<article><h1>the Great Wave off Kanagawa circa 21st century</h1><p>Hokusai-inspired art</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d5440db93ce3bf735dd0ad6af6945ec16f9135d.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>the Great Wave off Kanagawa circa 21st century</h1><p>Hokusai-inspired art</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fde136629d3effc0adaa357fcc082c227089c6a.jpg"></article>]]></description>
             <link>http://imgur.com/Wg4agdA</link>
             <guid isPermaLink="false">a8c336ae-ba58-493e-a0b2-80c4ba85cb16</guid>
             <pubDate>Thu, 31 Dec 2015 14:44:55 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.wired.co.uk/news/archive/2015-12/29/google-matias-duarte-design-interview</link>
             <guid isPermaLink="false">10ea5ab0-72b3-48f0-8ba2-78c453f22d54</guid>
             <pubDate>Wed, 30 Dec 2015 11:56:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Project Tango: Google is building it, but will they come?]]></title>
-            <description><![CDATA[<article><h1>Project Tango: Google is building it, but will they come?</h1><p>In early 2014, Google made an interesting announcement. The company had a new product in the pipeline, one that could change the way we interact with computers. Google showed a prototype of the technology built into a Nexus phone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81c2c10fa903e6bca6577de6823c3e421f3fc14e.jpg"></article>]]></description>
-            <link>http://www.theguardian.com/technology/2015/dec/28/google-project-tango-nexus-mobile-space-awareness</link>
-            <guid isPermaLink="false">27ddc496-93c3-4fd0-a969-926cd59973ba</guid>
-            <pubDate>Tue, 29 Dec 2015 15:43:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
