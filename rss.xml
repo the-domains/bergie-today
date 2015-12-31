@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 14:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 14:44:59 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,15 +14,22 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[the Great Wave off Kanagawa circa 21st century]]></title>
+            <description><![CDATA[<article><h1>the Great Wave off Kanagawa circa 21st century</h1><p>Hokusai-inspired art</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d5440db93ce3bf735dd0ad6af6945ec16f9135d.jpg"></article>]]></description>
+            <link>http://imgur.com/Wg4agdA</link>
+            <guid isPermaLink="false">a8c336ae-ba58-493e-a0b2-80c4ba85cb16</guid>
+            <pubDate>Thu, 31 Dec 2015 14:44:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The End Of Apps As We Know Them]]></title>
-            <description><![CDATA[<article><h1>The End Of Apps As We Know Them</h1><p>The experience of our primary mobile screen being a bank of app icons that lead to independent destinations is dying. And that changes what we need to design and build. How we experience content via connected devices - laptops, phones, tablets, wearables - is undergoing a dramatic change.... Read more</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7880caacf0623abdc21728d851e049eb253d32c.png"></article>]]></description>
+            <description><![CDATA[<article><h1>The End Of Apps As We Know Them</h1><p>The experience of our primary mobile screen being a bank of app icons that lead to independent destinations is dying. And that changes what we need to design and build. How we experience content via connected devices - laptops, phones, tablets, wearables - is undergoing a dramatic change.... Read more</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e16d1b6db85e43ad34d7ff0c2599d33f0978375.png"></article>]]></description>
             <link>https://blog.intercom.io/the-end-of-apps-as-we-know-them/</link>
             <guid isPermaLink="false">419627d8-7a8e-46ba-9540-0a4e9a67c2c8</guid>
             <pubDate>Thu, 31 Dec 2015 14:31:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2015: The Year in Robotics and Artificial Intelligence]]></title>
-            <description><![CDATA[<article><h1>2015: The Year in Robotics and Artificial Intelligence</h1><p>The robots didn't really take over in 2015, but at times it felt as if that might be where we're headed. There were signs that machines will soon take over manual work that currently requires human skill. Early in the year details emerged of a contest organized by Amazon to help robots do more work inside its vast product fulfillment centers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61d3db59f5c6a7c9ff9f19b992cd14cc13b3f81e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>2015: The Year in Robotics and Artificial Intelligence</h1><p>The robots didn't really take over in 2015, but at times it felt as if that might be where we're headed. There were signs that machines will soon take over manual work that currently requires human skill. Early in the year details emerged of a contest organized by Amazon to help robots do more work inside its vast product fulfillment centers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39b339fee4bd39b557db5821cf4fd21ef75da341.jpg"></article>]]></description>
             <link>http://www.technologyreview.com/news/544901/what-robots-and-ai-learned-in-2015/</link>
             <guid isPermaLink="false">ed9ec05a-c9d6-426a-bea1-dd1e7ae4a4bd</guid>
             <pubDate>Thu, 31 Dec 2015 14:32:33 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Project Tango: Google is building it, but will they come?</h1><p>In early 2014, Google made an interesting announcement. The company had a new product in the pipeline, one that could change the way we interact with computers. Google showed a prototype of the technology built into a Nexus phone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81c2c10fa903e6bca6577de6823c3e421f3fc14e.jpg"></article>]]></description>
             <link>http://www.theguardian.com/technology/2015/dec/28/google-project-tango-nexus-mobile-space-awareness</link>
             <guid isPermaLink="false">27ddc496-93c3-4fd0-a969-926cd59973ba</guid>
-            <pubDate>Tue, 29 Dec 2015 15:43:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[basic infrastructure patterns]]></title>
-            <description><![CDATA[<article><h1>basic infrastructure patterns</h1><p>Some basic patterns I've noticed come up over and over again while working on build/CI/deployment related things. The pipeline is the bedrock on which pretty much everything else is built. A properly designed pipeline takes well-defined inputs and produces well-defined outputs or it halts somewhere and indicates exactly what failed.</p></article>]]></description>
-            <link>http://www.scriptcrafty.com/basic-infrastructure-patterns/</link>
-            <guid isPermaLink="false">e3eee265-1cfe-44c5-886b-0adc29ec8105</guid>
             <pubDate>Tue, 29 Dec 2015 15:43:55 GMT</pubDate>
         </item>
     </channel>
