@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 11:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 11:13:11 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The End Of Apps As We Know Them - Inside Intercom]]></title>
+            <description><![CDATA[<article><h1>The End Of Apps As We Know Them - Inside Intercom</h1><p>The experience of our primary mobile screen being a bank of app icons that lead to independent destinations is dying. And that changes what we need to design and build. How we experience content via connected devices - laptops, phones, tablets, wearables - is undergoing a dramatic change.... Read more</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5098d089fade30d9a2a1094ecb91e06c24e40590.png"></article>]]></description>
+            <link>https://blog.intercom.io/the-end-of-apps-as-we-know-them/</link>
+            <guid isPermaLink="false">419627d8-7a8e-46ba-9540-0a4e9a67c2c8</guid>
+            <pubDate>Thu, 31 Dec 2015 11:12:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2015: The Year in Robotics and Artificial Intelligence | MIT Technology Review]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.scriptcrafty.com/basic-infrastructure-patterns/</link>
             <guid isPermaLink="false">e3eee265-1cfe-44c5-886b-0adc29ec8105</guid>
             <pubDate>Tue, 29 Dec 2015 15:43:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Long Way Round: The Story of the California Clipper]]></title>
-            <description><![CDATA[<article><h1>The Long Way Round: The Story of the California Clipper</h1><p>The morning of 6th January 1942 was a going to be a cold one. Not that this was unusual for New York, mused the controller manning LaGuardia's airport's tower, but it meant he'd have to remember to wrap up extra warm when he headed home. He looked at his watch.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f593e0baf458a251a2c43c35549201b4c204cfe.jpg"></article>]]></description>
-            <link>http://lapsedhistorian.com/long-way-round-part-1/</link>
-            <guid isPermaLink="false">1fa7a18f-4c04-4553-a2f3-1bb99111fda5</guid>
-            <pubDate>Tue, 29 Dec 2015 13:37:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
