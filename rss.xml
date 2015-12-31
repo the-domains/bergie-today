@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 13:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 11:12:35 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2015: The Year in Robotics and Artificial Intelligence | MIT Technology Review]]></title>
+            <description><![CDATA[<article><h1>2015: The Year in Robotics and Artificial Intelligence | MIT Technology Review</h1><p>The robots didn't really take over in 2015, but at times it felt as if that might be where we're headed. There were signs that machines will soon take over manual work that currently requires human skill. Early in the year details emerged of a contest organized by Amazon to help robots do more work inside its vast product fulfillment centers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2c0e83cee9237ac69d73f153ff4111224ace0e5.jpg"></article>]]></description>
+            <link>http://www.technologyreview.com/news/544901/what-robots-and-ai-learned-in-2015/</link>
+            <guid isPermaLink="false">ed9ec05a-c9d6-426a-bea1-dd1e7ae4a4bd</guid>
+            <pubDate>Thu, 31 Dec 2015 11:11:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2016 will be the year of concurrency on the web]]></title>
@@ -68,13 +75,6 @@
             <link>http://lapsedhistorian.com/long-way-round-part-1/</link>
             <guid isPermaLink="false">1fa7a18f-4c04-4553-a2f3-1bb99111fda5</guid>
             <pubDate>Tue, 29 Dec 2015 13:37:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This is Google Glass: Enterprise Edition in the flesh]]></title>
-            <description><![CDATA[<article><h1>This is Google Glass: Enterprise Edition in the flesh</h1><p>Earlier this year, we told you across several exclusive reports that new Google Glass hardware was on the way, namely a device Google has been working on for more than a year aimed at the workplace. Now, several months later (and with many interesting reports about Google's mysterious Project Aura having surfaced since), we have our first look at the device in the flesh...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a699f3d96741676ae953c61d14d8447ccf9abc11.png"></article>]]></description>
-            <link>http://9to5google.com/2015/12/28/this-is-google-glass-enterprise-edition-in-the-flesh-gallery/</link>
-            <guid isPermaLink="false">5043351d-0ed3-4b9d-80e4-a03e8515aaa7</guid>
-            <pubDate>Tue, 29 Dec 2015 10:49:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
