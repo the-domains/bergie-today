@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 15:48:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 11:45:07 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Website Obesity Crisis]]></title>
+            <description><![CDATA[<article><h1>The Website Obesity Crisis</h1><p>Let me start by saying that beautiful websites come in all sizes and page weights. I love big websites packed with images. I love high-resolution video. I love sprawling Javascript experiments or well-designed web apps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19396e996b39957688c7c791f7f627393d7de355.png"></article>]]></description>
+            <link>http://idlewords.com/talks/website_obesity.htm</link>
+            <guid isPermaLink="false">498f1e9d-0b42-49b6-97e2-cd7924432ba6</guid>
+            <pubDate>Sun, 03 Jan 2016 11:44:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Space for Europe and for all humankind: A brief history of the ESA]]></title>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[the Great Wave off Kanagawa circa 21st century]]></title>
-            <description><![CDATA[<article><h1>the Great Wave off Kanagawa circa 21st century</h1><p>Hokusai-inspired art</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fde136629d3effc0adaa357fcc082c227089c6a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>the Great Wave off Kanagawa circa 21st century</h1><p>Hokusai-inspired art</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4386b2981757ebd16ba938471724175ec975f78.jpg"></article>]]></description>
             <link>http://imgur.com/Wg4agdA</link>
             <guid isPermaLink="false">a8c336ae-ba58-493e-a0b2-80c4ba85cb16</guid>
             <pubDate>Thu, 31 Dec 2015 15:47:29 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Freelancer Generation: Why Startups And Enterprises Need To Pay Attention</h1><p>Gone are the days of the 40-hour work week that kept us at work eight hours a day (I find that most startup founders or business owners in Silicon Valley work 50-60 hours a week). Freelancing is becoming the accepted norm of the startup world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25635848b63aa780c7317312d5031eddc8b99165.png"></article>]]></description>
             <link>http://techcrunch.com/2015/12/27/the-freelancer-generation-why-startups-and-enterprises-need-to-pay-attention/?ncid=rss&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&amp;utm_content=FaceBook&amp;sr_share=facebook</link>
             <guid isPermaLink="false">48ba0cda-3111-4c92-ba67-141b243a03d0</guid>
-            <pubDate>Wed, 30 Dec 2015 11:56:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google's Matias Duarte on the future of software design]]></title>
-            <description><![CDATA[<article><h1>Google's Matias Duarte on the future of software design</h1><p>Google's Matias Duarte has a problem. In the next ten years he wants to replace the computer on your desk and the phone in your pocket with a smart, continuous mesh of information. But to do that, he's got to fundamentally change how everyone interacts with technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/486cdd7c070543a2431149a1632d279a31bfac6c.jpg"></article>]]></description>
-            <link>http://www.wired.co.uk/news/archive/2015-12/29/google-matias-duarte-design-interview</link>
-            <guid isPermaLink="false">10ea5ab0-72b3-48f0-8ba2-78c453f22d54</guid>
             <pubDate>Wed, 30 Dec 2015 11:56:23 GMT</pubDate>
         </item>
     </channel>
