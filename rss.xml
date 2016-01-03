@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 17:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 17:49:56 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five key findings from 15 years of the International Space Station]]></title>
+            <description><![CDATA[<article><h1>Five key findings from 15 years of the International Space Station</h1><p>The International Space Station is the longest-running continuously inhabited human outpost in space - this year it celebrated its 15th anniversary. As the ISS orbits the Earth it is essentially in a state of free fall, counteracting the Earth's gravity and providing an ideal platform for science in space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5d6439dd3a2159bc8b3a54ceff00a9e59880ffc.jpg"></article>]]></description>
+            <link>https://theconversation.com/five-key-findings-from-15-years-of-the-international-space-station-51540</link>
+            <guid isPermaLink="false">bfcff3e9-9369-4c44-848e-95a9cee18266</guid>
+            <pubDate>Sun, 03 Jan 2016 17:49:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Machine learning for artists]]></title>
@@ -68,13 +75,6 @@
             <link>https://medium.com/@cramforce/2016-will-be-the-year-of-concurrency-on-the-web-c39b1e99b30f#.5r48e2ozw</link>
             <guid isPermaLink="false">1a735df9-dd8a-46e5-92ec-aeb03d2a22c7</guid>
             <pubDate>Wed, 30 Dec 2015 13:37:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Empire of Stars - Britain in Space]]></title>
-            <description><![CDATA[<article><h1>An Empire of Stars - Britain in Space</h1><p>A cold autumn day was dawning as the German soldiers of the Altenwalde Versuchskommando prepared their V-2 rocket for launch. They'd done this a hundred times before, firing the rockets that had terrified Londoners as the Second World War dragged on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d51c398fff98dc14810dccfa13837925354c6927.jpg"></article>]]></description>
-            <link>http://lapsedhistorian.com/an-empire-of-stars/</link>
-            <guid isPermaLink="false">074aff8f-bdf4-4d01-a5b2-ef0fe837ff18</guid>
-            <pubDate>Wed, 30 Dec 2015 13:30:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
