@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 11:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 13:19:27 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Web lifestyle (1997)]]></title>
+            <description><![CDATA[<article><h1>The Web lifestyle (1997)</h1><p>If you asked people today why they used the telephone to communicate with their friends or why they turned to the television for entertainment, they would look at you as if you were crazy. We don't think about a telephone or a television or a car as being oddities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10cff8b9973e94bff503497e021e2d6e25e3e0ab.jpg"></article>]]></description>
+            <link>http://www.theworldin.com/article/12056</link>
+            <guid isPermaLink="false">00d5961c-a483-46cc-9c0c-deb0c51d6115</guid>
+            <pubDate>Sun, 03 Jan 2016 13:18:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Website Obesity Crisis]]></title>
-            <description><![CDATA[<article><h1>The Website Obesity Crisis</h1><p>Let me start by saying that beautiful websites come in all sizes and page weights. I love big websites packed with images. I love high-resolution video. I love sprawling Javascript experiments or well-designed web apps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19396e996b39957688c7c791f7f627393d7de355.png"></article>]]></description>
+            <description><![CDATA[<article><h1>The Website Obesity Crisis</h1><p>Let me start by saying that beautiful websites come in all sizes and page weights. I love big websites packed with images. I love high-resolution video. I love sprawling Javascript experiments or well-designed web apps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/857bc716a74e34d4cc71afb9195d75f27d4932e5.png"></article>]]></description>
             <link>http://idlewords.com/talks/website_obesity.htm</link>
             <guid isPermaLink="false">498f1e9d-0b42-49b6-97e2-cd7924432ba6</guid>
             <pubDate>Sun, 03 Jan 2016 11:44:25 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.theworldin.com/article/12077/what-next-linux?fsrc=scn/tw/te/bl/ed/theworldin2016</link>
             <guid isPermaLink="false">b6b9f7d0-8ede-4cb8-8cb6-86c352957122</guid>
             <pubDate>Wed, 30 Dec 2015 13:30:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Freelancer Generation: Why Startups And Enterprises Need To Pay Attention]]></title>
-            <description><![CDATA[<article><h1>The Freelancer Generation: Why Startups And Enterprises Need To Pay Attention</h1><p>Gone are the days of the 40-hour work week that kept us at work eight hours a day (I find that most startup founders or business owners in Silicon Valley work 50-60 hours a week). Freelancing is becoming the accepted norm of the startup world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25635848b63aa780c7317312d5031eddc8b99165.png"></article>]]></description>
-            <link>http://techcrunch.com/2015/12/27/the-freelancer-generation-why-startups-and-enterprises-need-to-pay-attention/?ncid=rss&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&amp;utm_content=FaceBook&amp;sr_share=facebook</link>
-            <guid isPermaLink="false">48ba0cda-3111-4c92-ba67-141b243a03d0</guid>
-            <pubDate>Wed, 30 Dec 2015 11:56:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
