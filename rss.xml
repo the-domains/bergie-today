@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 13:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 17:20:26 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Machine learning for artists]]></title>
+            <description><![CDATA[<article><h1>Machine learning for artists</h1><p>Machines start to dream Like many, I've been excited by the rise of Deep Learning, a branch of ML which has recently achieved state-of-the-art results for a variety of standard tasks, and has shown a penchant for encoding representations of large, disorganized, unlabeled data like raw images, video, audio, and text.</p><img src="https://cdn-images-1.medium.com/max/800/1*MEX72qFsXQSpBTsj2jC_8w.jpeg"></article>]]></description>
+            <link>https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.b9dw5bmik</link>
+            <guid isPermaLink="false">f4fec503-db72-4747-9a64-fc8bc0977c53</guid>
+            <pubDate>Sun, 03 Jan 2016 17:19:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Web lifestyle (1997)]]></title>
-            <description><![CDATA[<article><h1>The Web lifestyle (1997)</h1><p>If you asked people today why they used the telephone to communicate with their friends or why they turned to the television for entertainment, they would look at you as if you were crazy. We don't think about a telephone or a television or a car as being oddities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10cff8b9973e94bff503497e021e2d6e25e3e0ab.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Web lifestyle (1997)</h1><p>If you asked people today why they used the telephone to communicate with their friends or why they turned to the television for entertainment, they would look at you as if you were crazy. We don't think about a telephone or a television or a car as being oddities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7cf48b54f59f31f2aa5a658ce3debb207a1f3b2c.jpg"></article>]]></description>
             <link>http://www.theworldin.com/article/12056</link>
             <guid isPermaLink="false">00d5961c-a483-46cc-9c0c-deb0c51d6115</guid>
             <pubDate>Sun, 03 Jan 2016 13:18:28 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>An Empire of Stars - Britain in Space</h1><p>A cold autumn day was dawning as the German soldiers of the Altenwalde Versuchskommando prepared their V-2 rocket for launch. They'd done this a hundred times before, firing the rockets that had terrified Londoners as the Second World War dragged on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d51c398fff98dc14810dccfa13837925354c6927.jpg"></article>]]></description>
             <link>http://lapsedhistorian.com/an-empire-of-stars/</link>
             <guid isPermaLink="false">074aff8f-bdf4-4d01-a5b2-ef0fe837ff18</guid>
-            <pubDate>Wed, 30 Dec 2015 13:30:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's next for Linux]]></title>
-            <description><![CDATA[<article><h1>What's next for Linux</h1><p>For those who discovered Linux in their 20s and still consider themselves young, the milestone is somewhat disconcerting: in 2016 the open-source operating system, which is maintained by a global community of programmers, will turn 25.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3be9b524d731a8f49f765953dfb68e1772669013.jpg"></article>]]></description>
-            <link>http://www.theworldin.com/article/12077/what-next-linux?fsrc=scn/tw/te/bl/ed/theworldin2016</link>
-            <guid isPermaLink="false">b6b9f7d0-8ede-4cb8-8cb6-86c352957122</guid>
             <pubDate>Wed, 30 Dec 2015 13:30:10 GMT</pubDate>
         </item>
     </channel>
