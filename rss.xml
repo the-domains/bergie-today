@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 11:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 14:23:10 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A Crowdfunding Campaign is a 24/7 Work]]></title>
+            <description><![CDATA[<article><h1>A Crowdfunding Campaign is a 24/7 Work</h1><p>As more and more crowdfunding campaigns try to conquer the hearts of backers, it's useful to know the tricks behind the game. Mike Bradshaw gave a great insight in the crowdfunding art at our meetup and shared the story of SOLU, the smallest ever general purpose computer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65b2cf271c03522ceb29d3d188b8bed8f6b5c4e9.jpg"></article>]]></description>
+            <link>https://blog.techhub.com/mike-bradshaw-a-crowdfunding-campaign-is-a-24-7-work/</link>
+            <guid isPermaLink="false">0343c384-59dd-4a62-adb6-dfd66f8883c0</guid>
+            <pubDate>Mon, 04 Jan 2016 14:22:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mark Zuckerberg to build AI to help at home and work]]></title>
-            <description><![CDATA[<article><h1>Mark Zuckerberg to build AI to help at home and work</h1><p>Facebook founder Mark Zuckerberg has said he plans to build artificial intelligence (AI) to help him around the house and with his work. In a Facebook post, he said his personal challenge this year would be to build a "simple AI" like Jarvis from Hollywood blockbuster film Iron Man, referring to the AI butler.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c800b0d688629ab56a146b249a1869555526ba34.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Mark Zuckerberg to build AI to help at home and work</h1><p>Facebook founder Mark Zuckerberg has said he plans to build artificial intelligence (AI) to help him around the house and with his work. In a Facebook post, he said his personal challenge this year would be to build a "simple AI" like Jarvis from Hollywood blockbuster film Iron Man, referring to the AI butler.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aec390ab71f8099479e8499717d4ba2d3da0e1dd.jpg"></article>]]></description>
             <link>http://www.bbc.com/news/technology-35219247</link>
             <guid isPermaLink="false">aa3a9303-08f7-44b1-805f-4ecf00ec7279</guid>
             <pubDate>Mon, 04 Jan 2016 11:45:56 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://imgur.com/Wg4agdA</link>
             <guid isPermaLink="false">a8c336ae-ba58-493e-a0b2-80c4ba85cb16</guid>
             <pubDate>Thu, 31 Dec 2015 15:47:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The End Of Apps As We Know Them]]></title>
-            <description><![CDATA[<article><h1>The End Of Apps As We Know Them</h1><p>The experience of our primary mobile screen being a bank of app icons that lead to independent destinations is dying. And that changes what we need to design and build. How we experience content via connected devices - laptops, phones, tablets, wearables - is undergoing a dramatic change.... Read more</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e16d1b6db85e43ad34d7ff0c2599d33f0978375.png"></article>]]></description>
-            <link>https://blog.intercom.io/the-end-of-apps-as-we-know-them/</link>
-            <guid isPermaLink="false">419627d8-7a8e-46ba-9540-0a4e9a67c2c8</guid>
-            <pubDate>Thu, 31 Dec 2015 14:31:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
