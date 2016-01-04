@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 19:58:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 09:46:13 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[All-in on iPad Pro]]></title>
+            <description><![CDATA[<article><h1>All-in on iPad Pro</h1><p>I've been wanting to do this for five years now and it's finally happened. I sold my MacBook Pro to go all-in on iPad as my main personal computer. Yesterday, I packed my 2015 13" Retina MacBook Pro back into its box and sent it off to a new owner.</p></article>]]></description>
+            <link>http://www.speirs.org/blog/2015/12/22/all-in-on-ipad-pro</link>
+            <guid isPermaLink="false">76416e94-ba27-4d73-9a98-9f8236e1c043</guid>
+            <pubDate>Mon, 04 Jan 2016 09:45:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Five key findings from 15 years of the International Space Station]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.technologyreview.com/news/544901/what-robots-and-ai-learned-in-2015/</link>
             <guid isPermaLink="false">ed9ec05a-c9d6-426a-bea1-dd1e7ae4a4bd</guid>
             <pubDate>Thu, 31 Dec 2015 14:32:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2016 will be the year of concurrency on the web]]></title>
-            <description><![CDATA[<article><h1>2016 will be the year of concurrency on the web</h1><p>Since 2009 JavaScript programming on the web has a way to write concurrent programs using shared-nothing threads: Web Workers. But beyond some specialized use cases (e.g. Google Photos uses them for running some filters that need a lot of CPU) they haven't seen any mainstream adoption. This will change in 2016.</p><img src="https://cdn-images-1.medium.com/max/800/1*_YAmoYfl5QiSJU_wBhNUQA.jpeg"></article>]]></description>
-            <link>https://medium.com/@cramforce/2016-will-be-the-year-of-concurrency-on-the-web-c39b1e99b30f#.5r48e2ozw</link>
-            <guid isPermaLink="false">1a735df9-dd8a-46e5-92ec-aeb03d2a22c7</guid>
-            <pubDate>Wed, 30 Dec 2015 13:37:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
