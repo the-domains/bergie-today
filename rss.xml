@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 14:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 10:59:49 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Abandoned Colony in Greenland: Archaeologists Find Clues to Viking Mystery]]></title>
+            <description><![CDATA[<article><h1>Abandoned Colony in Greenland: Archaeologists Find Clues to Viking Mystery</h1><p>On Sept. 14, 1408, Thorstein Olafsson and Sigrid Björnsdottir were married. The ceremony took place in a church on Hvalsey Fjord in Greenland that was only five meters (about 16 feet) tall. It must have been difficult for the bride and groom to recognize each other in the dim light of the church.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f87be2153e16ed0ac7873b6abc95ff80f0505675.jpg"></article>]]></description>
+            <link>http://www.spiegel.de/international/zeitgeist/archaeologists-uncover-clues-to-why-vikings-abandoned-greenland-a-876626.html</link>
+            <guid isPermaLink="false">77027c15-8e8a-44b1-a24b-c9bec0192f3c</guid>
+            <pubDate>Wed, 06 Jan 2016 10:59:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[It's 2016 already, how are websites still screwing up these user experiences?!]]></title>
-            <description><![CDATA[<article><h1>It's 2016 already, how are websites still screwing up these user experiences?!</h1><p>We're a few days into the new year and I'm sick of it already. This is fundamental web usability 101 stuff that plagues us all and makes our online life that much more painful than it needs to be.</p><img src="https://lh3.googleusercontent.com/-zY4wBjj1JvY/VooxYSxiWxI/AAAAAAAAIwA/yl37iDtFmO8/s72-c/image_thumb14.png?imgmax=800"></article>]]></description>
+            <description><![CDATA[<article><h1>It's 2016 already, how are websites still screwing up these user experiences?!</h1><p>We're a few days into the new year and I'm sick of it already. This is fundamental web usability 101 stuff that plagues us all and makes our online life that much more painful than it needs to be.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4f41ec607e2953f4a013d83500c8f29db4abbe7.png"></article>]]></description>
             <link>http://www.troyhunt.com/2016/01/its-2016-already-how-are-websites-still.html?m=1</link>
             <guid isPermaLink="false">3bc9ae82-556f-4286-99df-56464d6f1aa9</guid>
             <pubDate>Tue, 05 Jan 2016 14:20:57 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://idlewords.com/talks/website_obesity.htm</link>
             <guid isPermaLink="false">498f1e9d-0b42-49b6-97e2-cd7924432ba6</guid>
             <pubDate>Sun, 03 Jan 2016 11:44:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Space for Europe and for all humankind: A brief history of the ESA]]></title>
-            <description><![CDATA[<article><h1>Space for Europe and for all humankind: A brief history of the ESA</h1><p>In November 2014, a strange-looking little spider of a spacecraft caught the world's attention. It may have been one of the oddest-looking pioneers of all time, resembling a mini-refrigerator attached to an insect's legs. The spacecraft, christened Philae, electrified both die-hard space fans and casual observers despite its alien appearance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2ba804a4a3b8399bf167aa8630c22070b004f4c.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2015/12/space-for-europe-and-for-all-humankind-a-brief-history-of-the-esa/</link>
-            <guid isPermaLink="false">515e5a63-f12e-4fa7-97ee-8069e43d9dea</guid>
-            <pubDate>Thu, 31 Dec 2015 15:45:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
