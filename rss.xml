@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 10:59:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 14:14:17 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Phablet Era]]></title>
+            <description><![CDATA[<article><h1>The Phablet Era</h1><p>It's very much a normal distribution centered around the 5.5″-6″ mobile phone (phablet). There are still some people out there using smaller mobile phones and small tablets, but much of the world is converging around a single large phone. That makes sense.</p><img src="https://farm2.staticflickr.com/1480/24096699531_e0e925208b_n.jpg"></article>]]></description>
+            <link>http://avc.com/2016/01/the-phablet-era/</link>
+            <guid isPermaLink="false">33602262-f800-40c0-b34c-cc9d30d86087</guid>
+            <pubDate>Wed, 06 Jan 2016 14:13:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Abandoned Colony in Greenland: Archaeologists Find Clues to Viking Mystery]]></title>
-            <description><![CDATA[<article><h1>Abandoned Colony in Greenland: Archaeologists Find Clues to Viking Mystery</h1><p>On Sept. 14, 1408, Thorstein Olafsson and Sigrid Björnsdottir were married. The ceremony took place in a church on Hvalsey Fjord in Greenland that was only five meters (about 16 feet) tall. It must have been difficult for the bride and groom to recognize each other in the dim light of the church.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f87be2153e16ed0ac7873b6abc95ff80f0505675.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Abandoned Colony in Greenland: Archaeologists Find Clues to Viking Mystery</h1><p>On Sept. 14, 1408, Thorstein Olafsson and Sigrid Björnsdottir were married. The ceremony took place in a church on Hvalsey Fjord in Greenland that was only five meters (about 16 feet) tall. It must have been difficult for the bride and groom to recognize each other in the dim light of the church.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9be0b47421c2bcaf6e693ce38254d9777126f0a3.jpg"></article>]]></description>
             <link>http://www.spiegel.de/international/zeitgeist/archaeologists-uncover-clues-to-why-vikings-abandoned-greenland-a-876626.html</link>
             <guid isPermaLink="false">77027c15-8e8a-44b1-a24b-c9bec0192f3c</guid>
             <pubDate>Wed, 06 Jan 2016 10:59:02 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.theworldin.com/article/12056</link>
             <guid isPermaLink="false">00d5961c-a483-46cc-9c0c-deb0c51d6115</guid>
             <pubDate>Sun, 03 Jan 2016 13:18:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Website Obesity Crisis]]></title>
-            <description><![CDATA[<article><h1>The Website Obesity Crisis</h1><p>Let me start by saying that beautiful websites come in all sizes and page weights. I love big websites packed with images. I love high-resolution video. I love sprawling Javascript experiments or well-designed web apps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/857bc716a74e34d4cc71afb9195d75f27d4932e5.png"></article>]]></description>
-            <link>http://idlewords.com/talks/website_obesity.htm</link>
-            <guid isPermaLink="false">498f1e9d-0b42-49b6-97e2-cd7924432ba6</guid>
-            <pubDate>Sun, 03 Jan 2016 11:44:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
