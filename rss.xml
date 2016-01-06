@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 14:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 14:49:40 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Berlin in snow]]></title>
+            <description><![CDATA[<article><h1>Berlin in snow</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90918e0cb21b2294baec4036c99afe40d86ed9ca.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/bergie/23913551860/in/datetaken-public/</link>
+            <guid isPermaLink="false">cc37d5b8-a19f-438e-b4ad-ae869e874514</guid>
+            <pubDate>Wed, 06 Jan 2016 14:48:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Phablet Era]]></title>
-            <description><![CDATA[<article><h1>The Phablet Era</h1><p>It's very much a normal distribution centered around the 5.5″-6″ mobile phone (phablet). There are still some people out there using smaller mobile phones and small tablets, but much of the world is converging around a single large phone. That makes sense.</p><img src="https://farm2.staticflickr.com/1480/24096699531_e0e925208b_n.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Phablet Era</h1><p>It's very much a normal distribution centered around the 5.5″-6″ mobile phone (phablet). There are still some people out there using smaller mobile phones and small tablets, but much of the world is converging around a single large phone. That makes sense.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a6523a6ff61b78b82d43b12acd7d6ca596e60df.jpg"></article>]]></description>
             <link>http://avc.com/2016/01/the-phablet-era/</link>
             <guid isPermaLink="false">33602262-f800-40c0-b34c-cc9d30d86087</guid>
             <pubDate>Wed, 06 Jan 2016 14:13:25 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.b9dw5bmik</link>
             <guid isPermaLink="false">f4fec503-db72-4747-9a64-fc8bc0977c53</guid>
             <pubDate>Sun, 03 Jan 2016 19:57:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Web lifestyle (1997)]]></title>
-            <description><![CDATA[<article><h1>The Web lifestyle (1997)</h1><p>If you asked people today why they used the telephone to communicate with their friends or why they turned to the television for entertainment, they would look at you as if you were crazy. We don't think about a telephone or a television or a car as being oddities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7cf48b54f59f31f2aa5a658ce3debb207a1f3b2c.jpg"></article>]]></description>
-            <link>http://www.theworldin.com/article/12056</link>
-            <guid isPermaLink="false">00d5961c-a483-46cc-9c0c-deb0c51d6115</guid>
-            <pubDate>Sun, 03 Jan 2016 13:18:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
