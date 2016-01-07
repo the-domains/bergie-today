@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 16:34:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 16:35:52 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simple Guide to Finding a JavaScript Memory Leak in Node.js]]></title>
+            <description><![CDATA[<article><h1>Simple Guide to Finding a JavaScript Memory Leak in Node.js</h1><p>Few months ago, I had to debug a memory leak in Node.js. I found a good number of articles dedicated to the subject, but even after carefully reading some of them, I was still pretty confused on what exactly I should do to debug our problem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bba854f50f349af879182e915c1c2e5a093b7c4.png"></article>]]></description>
+            <link>http://www.alexkras.com/simple-guide-to-finding-a-javascript-memory-leak-in-node-js/</link>
+            <guid isPermaLink="false">99010557-26ab-4678-b4f7-db68f44300c7</guid>
+            <pubDate>Thu, 07 Jan 2016 16:35:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why I Am a Sociomediapath]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.bbc.com/news/technology-35219247</link>
             <guid isPermaLink="false">aa3a9303-08f7-44b1-805f-4ecf00ec7279</guid>
             <pubDate>Mon, 04 Jan 2016 11:45:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All-in on iPad Pro]]></title>
-            <description><![CDATA[<article><h1>All-in on iPad Pro</h1><p>I've been wanting to do this for five years now and it's finally happened. I sold my MacBook Pro to go all-in on iPad as my main personal computer. Yesterday, I packed my 2015 13" Retina MacBook Pro back into its box and sent it off to a new owner.</p></article>]]></description>
-            <link>http://www.speirs.org/blog/2015/12/22/all-in-on-ipad-pro</link>
-            <guid isPermaLink="false">76416e94-ba27-4d73-9a98-9f8236e1c043</guid>
-            <pubDate>Mon, 04 Jan 2016 09:45:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
