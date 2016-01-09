@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 17:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 22:40:16 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Decentralization as a Strategy]]></title>
+            <description><![CDATA[<article><h1>Decentralization as a Strategy</h1><p>Can Dapps actually be profitable? If your code is free, and your data is free, what left is there to sell? Vitalik Buterin thinks that there is no killer Dapp. Instead, he sees Dapps as having marginally better qualities among certain dimensions, like uptime and automation - and marginally worse qualities along other dimensions like privacy and speed.</p></article>]]></description>
+            <link>http://mattgoldenberg.net/2016/01/02/the-business-case-for-dapps-decentralization-as-a-strategy/</link>
+            <guid isPermaLink="false">eaa11141-2c1c-4e4f-925e-ae71826ddf33</guid>
+            <pubDate>Sat, 09 Jan 2016 22:40:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Automatic Colorization]]></title>
-            <description><![CDATA[<article><h1>Automatic Colorization</h1><p>Have you seen Reddit's /r/colorization sub? People use photoshop to add color to old black and white photos. This is a good problem to automate because perfect training data is easy to get: any color image can be desaturated and used as an example.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4eddd1f0d52d264c563ed29f16881e70c7a2fcd.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Automatic Colorization</h1><p>Have you seen Reddit's /r/colorization sub? People use photoshop to add color to old black and white photos. This is a good problem to automate because perfect training data is easy to get: any color image can be desaturated and used as an example.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28173081655a41895f7bf30c294b61b3264d5d70.jpg"></article>]]></description>
             <link>http://tinyclouds.org/colorize/</link>
             <guid isPermaLink="false">f89a49ea-ba15-4a70-8eb0-eff4a1973106</guid>
             <pubDate>Fri, 08 Jan 2016 17:36:10 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.troyhunt.com/2016/01/its-2016-already-how-are-websites-still.html?m=1</link>
             <guid isPermaLink="false">3bc9ae82-556f-4286-99df-56464d6f1aa9</guid>
             <pubDate>Tue, 05 Jan 2016 14:20:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Crowdfunding Campaign is a 24/7 Work]]></title>
-            <description><![CDATA[<article><h1>A Crowdfunding Campaign is a 24/7 Work</h1><p>As more and more crowdfunding campaigns try to conquer the hearts of backers, it's useful to know the tricks behind the game. Mike Bradshaw gave a great insight in the crowdfunding art at our meetup and shared the story of SOLU, the smallest ever general purpose computer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65b2cf271c03522ceb29d3d188b8bed8f6b5c4e9.jpg"></article>]]></description>
-            <link>https://blog.techhub.com/mike-bradshaw-a-crowdfunding-campaign-is-a-24-7-work/</link>
-            <guid isPermaLink="false">0343c384-59dd-4a62-adb6-dfd66f8883c0</guid>
-            <pubDate>Mon, 04 Jan 2016 14:22:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
