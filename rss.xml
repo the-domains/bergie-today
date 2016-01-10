@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 22:40:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2016 22:41:35 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Japan Keeps This Defunct Train Station Running for Just One Passenger]]></title>
+            <description><![CDATA[<article><h1>Japan Keeps This Defunct Train Station Running for Just One Passenger</h1><p>女子高生一人しか利用者がいない駅、✌( 'ω' )✌最高～ pic.twitter.com/NzYiDaUvCG - はたらくキツネ (@foxnumber6) December 31, 2015 For years, there's only been one passenger waiting at the Kami-Shirataki train station in the northernmost island of Hokkaido, Japan: A high-school girl, on her way to class.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/adb8bf3de6a07c35e08450ef89faac288e30806f.png"></article>]]></description>
+            <link>http://www.citylab.com/commute/2016/01/japan-keeps-this-defunct-train-station-running-for-just-one-passenger/423273/</link>
+            <guid isPermaLink="false">9a616c40-a6d3-465a-a3b0-03834da1330e</guid>
+            <pubDate>Sun, 10 Jan 2016 22:41:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Decentralization as a Strategy]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.spiegel.de/international/zeitgeist/archaeologists-uncover-clues-to-why-vikings-abandoned-greenland-a-876626.html</link>
             <guid isPermaLink="false">77027c15-8e8a-44b1-a24b-c9bec0192f3c</guid>
             <pubDate>Wed, 06 Jan 2016 10:59:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It's 2016 already, how are websites still screwing up these user experiences?!]]></title>
-            <description><![CDATA[<article><h1>It's 2016 already, how are websites still screwing up these user experiences?!</h1><p>We're a few days into the new year and I'm sick of it already. This is fundamental web usability 101 stuff that plagues us all and makes our online life that much more painful than it needs to be.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4f41ec607e2953f4a013d83500c8f29db4abbe7.png"></article>]]></description>
-            <link>http://www.troyhunt.com/2016/01/its-2016-already-how-are-websites-still.html?m=1</link>
-            <guid isPermaLink="false">3bc9ae82-556f-4286-99df-56464d6f1aa9</guid>
-            <pubDate>Tue, 05 Jan 2016 14:20:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
