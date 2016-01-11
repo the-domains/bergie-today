@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Linda Poon
-    url: 'http://www.citylab.com/authors/linda-poon/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.citylab.com'
-  name: CityLab
-  favicon: 'http://cdn.citylab.com/static/b/citylab/img/icons/favicon.ico'
-  domain: www.citylab.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.citylab.com/commute/2016/01/japan-keeps-this-defunct-train-station-running-for-just-one-passenger/423273/'
+inLanguage: en
+starred: false
 keywords:
   - japan
   - kami-shirataki
@@ -20,20 +16,26 @@ keywords:
   - rural
   - cctv
   - railroads
-description: "女子高生一人しか利用者がいない駅、✌( 'ω' )✌最高～ pic.twitter.com/NzYiDaUvCG - はたらくキツネ (@foxnumber6) December 31, 2015 For years, there's only been one passenger waiting at the Kami-Shirataki train station in the northernmost island of Hokkaido, Japan: A high-school girl, on her way to class."
-inLanguage: en
+description: 'For years, there’s only been one passenger waiting at the Kami-Shirataki train station in the northernmost island of Hokkaido, Japan: A high-school girl, on her way to class. The train stops there only twice a day—once to pick up the girl and again to drop her off after the school day is over.'
+datePublished: '2016-01-11T10:11:06.007Z'
+dateModified: '2016-01-11T10:08:40.519Z'
+author:
+  - name: Linda Poon
+    url: 'http://www.citylab.com/authors/linda-poon/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.citylab.com/commute/2016/01/japan-keeps-this-defunct-train-station-running-for-just-one-passenger/423273/'
 title: Japan Keeps This Defunct Train Station Running for Just One Passenger
-datePublished: '2016-01-10T22:41:33.446Z'
-dateModified: '2016-01-09T13:30:27.083Z'
 sourcePath: _posts/2016-01-10-japan-keeps-this-defunct-train-station-running-for-just-one.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: CityLab
+  domain: www.citylab.com
+  url: 'http://www.citylab.com'
+  favicon: 'http://cdn.citylab.com/static/b/citylab/img/icons/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Japan Keeps This Defunct Train Station Running for Just One Passenger</h1><p>女子高生一人しか利用者がいない駅、✌&amp;lpar; 'ω' &amp;rpar;✌最高～ pic&amp;period;twitter&amp;period;com&amp;sol;NzYiDaUvCG - はたらくキツネ &amp;lpar;&amp;commat;foxnumber6&amp;rpar; December 31&amp;comma; 2015 For years&amp;comma; there's only been one passenger waiting at the Kami-Shirataki train station in the northernmost island of Hokkaido&amp;comma; Japan&amp;colon; A high-school girl&amp;comma; on her way to class&amp;period;</p><img src="http://cdn.citylab.com/media/img/citylab/2016/01/japan_train_girl/facebook.png?1452287772" /></article>
+<article style=""><h1>Japan Keeps This Defunct Train Station Running for Just One Passenger</h1><p>For years, there’s only been one passenger waiting at the Kami-Shirataki train station in the northernmost island of Hokkaido, Japan: A high-school girl, on her way to class. The train stops there only twice a day—once to pick up the girl and again to drop her off after the school day is over.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5bacd90cd1c944b7763d594d4138a2fcaa5ba20.png" /></article>
