@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 10:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2016 10:12:25 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,11 +14,18 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How papermaking crossed the Alps]]></title>
+            <description><![CDATA[<article><h1>How papermaking crossed the Alps</h1><p>Writing has been an important medium for recording and transmitting scientific results throughout history. In order to write you need two basic things, something to write with and something to write on. Carving words or symbols into wood or stone is one possibility that is both hard work and time consuming but does have the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe8123840b48be3c8c833165886ba14fdbc3281c.jpg"></article>]]></description>
+            <link>https://thonyc.wordpress.com/2016/01/06/how-papermaking-crossed-the-alps/</link>
+            <guid isPermaLink="false">5154e463-90e9-4174-8bee-99e37541f79e</guid>
+            <pubDate>Mon, 11 Jan 2016 10:11:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Japan Keeps This Defunct Train Station Running for Just One Passenger]]></title>
-            <description><![CDATA[<article><h1>Japan Keeps This Defunct Train Station Running for Just One Passenger</h1><p>女子高生一人しか利用者がいない駅、✌( 'ω' )✌最高～ pic.twitter.com/NzYiDaUvCG - はたらくキツネ (@foxnumber6) December 31, 2015 For years, there's only been one passenger waiting at the Kami-Shirataki train station in the northernmost island of Hokkaido, Japan: A high-school girl, on her way to class.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5bacd90cd1c944b7763d594d4138a2fcaa5ba20.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Japan Keeps This Defunct Train Station Running for Just One Passenger</h1><p>For years, there’s only been one passenger waiting at the Kami-Shirataki train station in the northernmost island of Hokkaido, Japan: A high-school girl, on her way to class. The train stops there only twice a day—once to pick up the girl and again to drop her off after the school day is over.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e9d8fb1179656243f663cff11686f843ae3fbc9.png"></article>]]></description>
             <link>http://www.citylab.com/commute/2016/01/japan-keeps-this-defunct-train-station-running-for-just-one-passenger/423273/</link>
             <guid isPermaLink="false">9a616c40-a6d3-465a-a3b0-03834da1330e</guid>
-            <pubDate>Sun, 10 Jan 2016 22:41:33 GMT</pubDate>
+            <pubDate>Mon, 11 Jan 2016 10:11:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Decentralization as a Strategy]]></title>
@@ -29,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Automatic Colorization]]></title>
-            <description><![CDATA[<article><h1>Automatic Colorization</h1><p>Have you seen Reddit's /r/colorization sub? People use photoshop to add color to old black and white photos. This is a good problem to automate because perfect training data is easy to get: any color image can be desaturated and used as an example.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ecaab799a3cc7af052e6d2cb15ef131b20548c4.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Automatic Colorization</h1><p>Have you seen Reddit's /r/colorization sub? People use photoshop to add color to old black and white photos. This is a good problem to automate because perfect training data is easy to get: any color image can be desaturated and used as an example.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/610b68177eff68e34907e9dd97216257212b614f.jpg"></article>]]></description>
             <link>http://tinyclouds.org/colorize/</link>
             <guid isPermaLink="false">f89a49ea-ba15-4a70-8eb0-eff4a1973106</guid>
             <pubDate>Mon, 11 Jan 2016 10:10:55 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://avc.com/2016/01/the-phablet-era/</link>
             <guid isPermaLink="false">33602262-f800-40c0-b34c-cc9d30d86087</guid>
             <pubDate>Wed, 06 Jan 2016 14:13:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Abandoned Colony in Greenland: Archaeologists Find Clues to Viking Mystery]]></title>
-            <description><![CDATA[<article><h1>Abandoned Colony in Greenland: Archaeologists Find Clues to Viking Mystery</h1><p>On Sept. 14, 1408, Thorstein Olafsson and Sigrid Björnsdottir were married. The ceremony took place in a church on Hvalsey Fjord in Greenland that was only five meters (about 16 feet) tall. It must have been difficult for the bride and groom to recognize each other in the dim light of the church.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9be0b47421c2bcaf6e693ce38254d9777126f0a3.jpg"></article>]]></description>
-            <link>http://www.spiegel.de/international/zeitgeist/archaeologists-uncover-clues-to-why-vikings-abandoned-greenland-a-876626.html</link>
-            <guid isPermaLink="false">77027c15-8e8a-44b1-a24b-c9bec0192f3c</guid>
-            <pubDate>Wed, 06 Jan 2016 10:59:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
