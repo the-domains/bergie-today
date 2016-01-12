@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 07:50:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 07:50:58 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why I carry a Newton]]></title>
+            <description><![CDATA[<article><h1>Why I carry a Newton</h1><p>A Newton MessagePad, the grandfather of all PDAs, is a funny thing to carry around with you when most people are sliding super slim, constantly connected, application-rich smartphones into their pockets. Compared to the iPhone a Newton MessagePad looks like a green brick, and I have been accused more than once of stealing the rubberized signature pad from a UPS delivery man.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6557176f284e636be8659f4e4e9724edb742b14a.png"></article>]]></description>
+            <link>http://eggfreckles.net/notes/why-newton/</link>
+            <guid isPermaLink="false">a62cfade-f1b3-4e76-8873-d565982e28f1</guid>
+            <pubDate>Tue, 12 Jan 2016 07:49:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Apploitation in a city of instaserfs]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.alexkras.com/simple-guide-to-finding-a-javascript-memory-leak-in-node-js/</link>
             <guid isPermaLink="false">99010557-26ab-4678-b4f7-db68f44300c7</guid>
             <pubDate>Thu, 07 Jan 2016 16:35:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I Am a Sociomediapath]]></title>
-            <description><![CDATA[<article><h1>Why I Am a Sociomediapath</h1><p>During the 1990s I started to get worried about the effect that email might have on my ability to function as a novelist. I ended up writing a little essay entitled "Why I Am a Bad Correspondent" which has since been read by many people and reprinted in "Some Remarks." Its subject was plain old email. This was long before the ubiquitous mobile Internet came along to bring us worldwide, 24/7 social media platforms exquisitely tuned to make us want to check them every few minutes--and to intrude on our screens with notifications when we fail to do so.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b80df2404bd2ff46ddeedfa4a32c0ac6432cc4a.png"></article>]]></description>
-            <link>http://www.nealstephenson.com/social-media.html</link>
-            <guid isPermaLink="false">25407908-a982-4617-abae-b8a8feabb677</guid>
-            <pubDate>Thu, 07 Jan 2016 16:33:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
