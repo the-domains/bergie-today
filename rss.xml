@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 07:50:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 16:52:25 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A new robot life preserver joins rescue efforts for refugees in Europe]]></title>
+            <description><![CDATA[<article><h1>A new robot life preserver joins rescue efforts for refugees in Europe</h1><p>The European refugee crisis isn't so much a crisis as it is a catastrophe. Fleeing violence in Africa and the Middle East, particularly Syria, more than a million migrants crossed by sea into Europe in 2015. Almost 4,000 of them lost their lives in the journey.</p><img src="http://www.wired.com/wp-content/uploads/2016/01/Emily4-1200x630-e1452304089588.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/01/a-robot-life-preserver-goes-to-work-in-the-greek-refugee-crisis/?mbid=social_twitter</link>
+            <guid isPermaLink="false">c8ef1525-4f1b-4bd9-a8df-e16b34455f67</guid>
+            <pubDate>Tue, 12 Jan 2016 16:51:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why I carry a Newton]]></title>
-            <description><![CDATA[<article><h1>Why I carry a Newton</h1><p>A Newton MessagePad, the grandfather of all PDAs, is a funny thing to carry around with you when most people are sliding super slim, constantly connected, application-rich smartphones into their pockets. Compared to the iPhone a Newton MessagePad looks like a green brick, and I have been accused more than once of stealing the rubberized signature pad from a UPS delivery man.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6557176f284e636be8659f4e4e9724edb742b14a.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Why I carry a Newton</h1><p>A Newton MessagePad, the grandfather of all PDAs, is a funny thing to carry around with you when most people are sliding super slim, constantly connected, application-rich smartphones into their pockets. Compared to the iPhone a Newton MessagePad looks like a green brick, and I have been accused more than once of stealing the rubberized signature pad from a UPS delivery man.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba7b3f2ec166c22a72869eafc6129b638a4e851d.png"></article>]]></description>
             <link>http://eggfreckles.net/notes/why-newton/</link>
             <guid isPermaLink="false">a62cfade-f1b3-4e76-8873-d565982e28f1</guid>
             <pubDate>Tue, 12 Jan 2016 07:49:58 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://tinyclouds.org/colorize/</link>
             <guid isPermaLink="false">f89a49ea-ba15-4a70-8eb0-eff4a1973106</guid>
             <pubDate>Mon, 11 Jan 2016 10:10:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simple Guide to Finding a JavaScript Memory Leak in Node.js]]></title>
-            <description><![CDATA[<article><h1>Simple Guide to Finding a JavaScript Memory Leak in Node.js</h1><p>Few months ago, I had to debug a memory leak in Node.js. I found a good number of articles dedicated to the subject, but even after carefully reading some of them, I was still pretty confused on what exactly I should do to debug our problem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffec596a5b0fd3d85da2269eb19a9de8391234ae.png"></article>]]></description>
-            <link>http://www.alexkras.com/simple-guide-to-finding-a-javascript-memory-leak-in-node-js/</link>
-            <guid isPermaLink="false">99010557-26ab-4678-b4f7-db68f44300c7</guid>
-            <pubDate>Thu, 07 Jan 2016 16:35:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
