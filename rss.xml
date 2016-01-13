@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 12:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 15:15:53 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Deep Space of Digital Reading]]></title>
+            <description><![CDATA[<article><h1>The Deep Space of Digital Reading</h1><p>In A History of Reading, the Canadian novelist and essayist Alberto Manguel describes a remarkable transformation of human consciousness, which took place around the 10th century A.D.: the advent of silent reading. Human beings have been reading for thousands of years, but in antiquity, the normal thing was to read aloud.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/94af22c34718c8453a8d743906afef12d9f38e07.jpg"></article>]]></description>
+            <link>http://nautil.us/issue/32/space/the-deep-space-of-digital-reading</link>
+            <guid isPermaLink="false">3ef9cdec-35b2-4594-8584-342939c8c5b2</guid>
+            <pubDate>Wed, 13 Jan 2016 15:15:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NASA's New Office Is Our Defense Against Death From the Skies]]></title>
-            <description><![CDATA[<article><h1>NASA's New Office Is Our Defense Against Death From the Skies</h1><p>It'd be such a shame to lose this fragile, watery planet to an asteroid strike. NASA's newly-formalized Planetary Defense Coordination Office will do its best to save us - money and physics permitting.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73fc2816f39d5fc66051c48302fa3d0b109e7d15.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>NASA's New Office Is Our Defense Against Death From the Skies</h1><p>It'd be such a shame to lose this fragile, watery planet to an asteroid strike. NASA's newly-formalized Planetary Defense Coordination Office will do its best to save us - money and physics permitting.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/389becd150649d3bda577404f57198dd333cf308.jpg"></article>]]></description>
             <link>http://gizmodo.com/nasas-new-office-is-our-defense-against-death-from-the-1752280136</link>
             <guid isPermaLink="false">0715d1f7-ec5a-4191-8fb7-e9e03410b4e6</guid>
             <pubDate>Wed, 13 Jan 2016 12:36:47 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.kurzweilai.net/the-top-ai-breakthroughs-of-2015</link>
             <guid isPermaLink="false">75b105be-6223-40aa-aa19-a4007881183b</guid>
             <pubDate>Mon, 11 Jan 2016 11:21:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How papermaking crossed the Alps]]></title>
-            <description><![CDATA[<article><h1>How papermaking crossed the Alps</h1><p>Writing has been an important medium for recording and transmitting scientific results throughout history. In order to write you need two basic things, something to write with and something to write on. Carving words or symbols into wood or stone is one possibility that is both hard work and time consuming but does have the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7cec5081ba882a292f4159683a499c042d05891.jpg"></article>]]></description>
-            <link>https://thonyc.wordpress.com/2016/01/06/how-papermaking-crossed-the-alps/</link>
-            <guid isPermaLink="false">5154e463-90e9-4174-8bee-99e37541f79e</guid>
-            <pubDate>Mon, 11 Jan 2016 10:11:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
