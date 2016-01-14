@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 15:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 17:10:24 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[You Can't Destroy the Village to Save It: W3C vs DRM, Round Two]]></title>
+            <description><![CDATA[<article><h1>You Can't Destroy the Village to Save It: W3C vs DRM, Round Two</h1><p>The World Wide Web Consortium (W3C), the nonprofit body that maintains the Web's core standards, made a terrible mistake in 2013: they decided to add DRM-the digital locks that train your computer to say "I can't let you do that, Dave"; rather than "Yes, boss"-to the Web's standards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/595af12b22a553fae9ce85353c556e4a06893d44.png"></article>]]></description>
+            <link>https://www.eff.org/deeplinks/2016/01/you-cant-destroy-village-save-it-w3c-vs-drm-round-two</link>
+            <guid isPermaLink="false">11649298-1bc0-4777-b83c-30148fd1cbb5</guid>
+            <pubDate>Thu, 14 Jan 2016 17:09:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The first working Hyperloop could arrive by the end of 2016]]></title>
-            <description><![CDATA[<article><h1>The first working Hyperloop could arrive by the end of 2016</h1><p>Rob Lloyd, the recently-minted CEO of Hyperloop Technologies, believes that his firm will have a fully-working test loop ready for the end of the year. The executive is here at CES to oversee the breaking ground on the facility which is being constructed on the outskirts of Las Vegas.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fbef102cc6d209c096c0956bb902c5738b5e874.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The first working Hyperloop could arrive by the end of 2016</h1><p>Rob Lloyd, the recently-minted CEO of Hyperloop Technologies, believes that his firm will have a fully-working test loop ready for the end of the year. The executive is here at CES to oversee the breaking ground on the facility which is being constructed on the outskirts of Las Vegas.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c608a22196138c440233e40d1dc30b3f961e1a57.jpg"></article>]]></description>
             <link>http://www.engadget.com/2016/01/13/hyperloop-rob-lloyd-interview/</link>
             <guid isPermaLink="false">3c3f81e5-8628-42a4-b04e-bc1e4e79debb</guid>
             <pubDate>Thu, 14 Jan 2016 15:05:24 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://news.nationalgeographic.com/2015/10/20151015-paleo-sleep-time-hadza-san-tsimane-science/</link>
             <guid isPermaLink="false">93fe69a6-decc-4842-a93c-deca2edcafe3</guid>
             <pubDate>Wed, 13 Jan 2016 08:43:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[For the second time, we are witnessing a new geological epoch]]></title>
-            <description><![CDATA[<article><h1>For the second time, we are witnessing a new geological epoch</h1><p>11,700 years ago, the Earth suffered a catastrophic climate change. As the ice age ended, sea levels rose by 120 meters, the days grew warmer, and many kinds of plant and animal life died out. But one animal began to thrive more than ever before.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e42bff28186220bead75e59d39a3706147e7268.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/01/for-the-second-time-we-are-witnessing-a-new-geological-epoch/</link>
-            <guid isPermaLink="false">11006ddb-4cd1-4fa5-b1e9-ed7144b8bcd9</guid>
-            <pubDate>Tue, 12 Jan 2016 16:57:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
