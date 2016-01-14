@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 17:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 13:50:09 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hackers and Heroes: Rise of the CCC and Hackerspaces]]></title>
+            <description><![CDATA[<article><h1>Hackers and Heroes: Rise of the CCC and Hackerspaces</h1><p>From its roots in phone phreaking to the crackdowns and legal precedents that drove hacking mostly underground (or into business), hacker culture in the United States has seen a lot over the last three decades. Perhaps the biggest standout is the L0pht, a visible 1990s US hackerspace that engaged in open disclosure and was, arguably, the last of the publicly influential US hacker groups.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5712e4cd658f849fde05cff12b4d7ca8773ddd4.jpg"></article>]]></description>
+            <link>http://hackaday.com/2016/01/12/hackers-and-heroes-rise-of-ccc-and-hackerspaces/</link>
+            <guid isPermaLink="false">967f94c2-1c88-44a4-bb3a-f4f92daa061d</guid>
+            <pubDate>Thu, 14 Jan 2016 13:50:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How This Company Creates Instant Websites]]></title>
-            <description><![CDATA[<article><h1>How This Company Creates Instant Websites</h1><p>When photographer Benjamin Edwards wants to update his website, all he has to do is load a new picture onto his phone; drag it into his web host, The Grid; and voilà, the program loads it onto his home-page and rearranges and recolors the entire site to work with the new image. For his work on behalf of charities such as World Relief that takes him around the globe, the technology is a godsend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48d2190e6d7f631c068fed4db1409cacf2fa97a4.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>How This Company Creates Instant Websites</h1><p>When photographer Benjamin Edwards wants to update his website, all he has to do is load a new picture onto his phone; drag it into his web host, The Grid; and voilà, the program loads it onto his home-page and rearranges and recolors the entire site to work with the new image. For his work on behalf of charities such as World Relief that takes him around the globe, the technology is a godsend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da8ed3fdc6886988067689f220734279d88653e7.jpg"></article>]]></description>
             <link>http://www.entrepreneur.com/article/252645</link>
             <guid isPermaLink="false">a02a515e-2d09-4011-a0cd-de2e7510ca98</guid>
             <pubDate>Wed, 13 Jan 2016 17:02:56 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.policyalternatives.ca/publications/monitor/apploitation-city-instaserfs</link>
             <guid isPermaLink="false">b345b510-bffe-41c4-8191-0f4408df4be0</guid>
             <pubDate>Tue, 12 Jan 2016 07:49:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Space Oddity]]></title>
-            <description><![CDATA[<article><h1>Space Oddity</h1><p>A revised version of David Bowie's Space Oddity, recorded by Commander Chris Hadfield on board the International Space Station.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60378f6eadbd012e2e5188bcab8416023c918c0f.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=KaOC9danxNo</link>
-            <guid isPermaLink="false">f589385c-c2cd-4640-913a-a6e5ac8be9fd</guid>
-            <pubDate>Mon, 11 Jan 2016 16:46:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
