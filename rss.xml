@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 13:52:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 14:07:02 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Big Red Button]]></title>
+            <description><![CDATA[<article><h1>The Big Red Button</h1><p>Automation is all around us: elevators, automatic doors at the supermarket, and auto-pilots on airplanes. For the most part, we never think about it. It makes our lives easier, cheaper, and safer. But with every new automation, there is this transitional moment. When something first goes automatic, it is disorienting.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96c349e6e7cf4b1fc88233e994a8a8577f78e6fe.jpg"></article>]]></description>
+            <link>http://www.npr.org/sections/money/2015/07/29/427467598/episode-642-the-big-red-button</link>
+            <guid isPermaLink="false">a5be9b02-8fb4-42c3-aca9-d3c688ba1cb3</guid>
+            <pubDate>Thu, 14 Jan 2016 14:06:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Google Street View Tours The World's Largest Model Railway 'Miniatur Wunderland']]></title>
-            <description><![CDATA[<article><h1>Google Street View Tours The World's Largest Model Railway 'Miniatur Wunderland'</h1><p>Google Street View has been on many expeditions through time and through our planet, from the Amazon to Greenland, from the Philippines to Jordan to Machu Picchu, but no mission has been as cute as this exploration of the world's largest model railway in Hamburg, Miniatur Wunderland.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/272f078d7d542a7a85132a4377b5620c7386c865.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Google Street View Tours The World's Largest Model Railway 'Miniatur Wunderland'</h1><p>Google Street View has been on many expeditions through time and through our planet, from the Amazon to Greenland, from the Philippines to Jordan to Machu Picchu, but no mission has been as cute as this exploration of the world's largest model railway in Hamburg, Miniatur Wunderland.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a3caf7545d1ee47db0d645e2bc36da185e48ea4.png"></article>]]></description>
             <link>http://www.androidpolice.com/2016/01/14/go-small-or-go-home-google-street-view-tours-the-worlds-largest-model-railway-miniatur-wunderland/</link>
             <guid isPermaLink="false">6e225a69-9ed4-41f3-906b-080f740f2a37</guid>
             <pubDate>Thu, 14 Jan 2016 13:51:37 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.wired.com/2016/01/a-robot-life-preserver-goes-to-work-in-the-greek-refugee-crisis/?mbid=social_twitter</link>
             <guid isPermaLink="false">c8ef1525-4f1b-4bd9-a8df-e16b34455f67</guid>
             <pubDate>Tue, 12 Jan 2016 16:51:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I carry a Newton]]></title>
-            <description><![CDATA[<article><h1>Why I carry a Newton</h1><p>A Newton MessagePad, the grandfather of all PDAs, is a funny thing to carry around with you when most people are sliding super slim, constantly connected, application-rich smartphones into their pockets. Compared to the iPhone a Newton MessagePad looks like a green brick, and I have been accused more than once of stealing the rubberized signature pad from a UPS delivery man.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba7b3f2ec166c22a72869eafc6129b638a4e851d.png"></article>]]></description>
-            <link>http://eggfreckles.net/notes/why-newton/</link>
-            <guid isPermaLink="false">a62cfade-f1b3-4e76-8873-d565982e28f1</guid>
-            <pubDate>Tue, 12 Jan 2016 07:49:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
