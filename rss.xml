@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 14:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 15:05:27 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The first working Hyperloop could arrive by the end of 2016]]></title>
+            <description><![CDATA[<article><h1>The first working Hyperloop could arrive by the end of 2016</h1><p>Rob Lloyd, the recently-minted CEO of Hyperloop Technologies, believes that his firm will have a fully-working test loop ready for the end of the year. The executive is here at CES to oversee the breaking ground on the facility which is being constructed on the outskirts of Las Vegas.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fbef102cc6d209c096c0956bb902c5738b5e874.jpg"></article>]]></description>
+            <link>http://www.engadget.com/2016/01/13/hyperloop-rob-lloyd-interview/</link>
+            <guid isPermaLink="false">3c3f81e5-8628-42a4-b04e-bc1e4e79debb</guid>
+            <pubDate>Thu, 14 Jan 2016 15:05:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Big Red Button]]></title>
-            <description><![CDATA[<article><h1>The Big Red Button</h1><p>Automation is all around us: elevators, automatic doors at the supermarket, and auto-pilots on airplanes. For the most part, we never think about it. It makes our lives easier, cheaper, and safer. But with every new automation, there is this transitional moment. When something first goes automatic, it is disorienting.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96c349e6e7cf4b1fc88233e994a8a8577f78e6fe.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Big Red Button</h1><p>Automation is all around us: elevators, automatic doors at the supermarket, and auto-pilots on airplanes. For the most part, we never think about it. It makes our lives easier, cheaper, and safer. But with every new automation, there is this transitional moment. When something first goes automatic, it is disorienting.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0623996584ef9e840d47e5635e25f27b5f60aba.jpg"></article>]]></description>
             <link>http://www.npr.org/sections/money/2015/07/29/427467598/episode-642-the-big-red-button</link>
             <guid isPermaLink="false">a5be9b02-8fb4-42c3-aca9-d3c688ba1cb3</guid>
             <pubDate>Thu, 14 Jan 2016 14:06:14 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/science/2016/01/for-the-second-time-we-are-witnessing-a-new-geological-epoch/</link>
             <guid isPermaLink="false">11006ddb-4cd1-4fa5-b1e9-ed7144b8bcd9</guid>
             <pubDate>Tue, 12 Jan 2016 16:57:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new robot life preserver joins rescue efforts for refugees in Europe]]></title>
-            <description><![CDATA[<article><h1>A new robot life preserver joins rescue efforts for refugees in Europe</h1><p>The European refugee crisis isn't so much a crisis as it is a catastrophe. Fleeing violence in Africa and the Middle East, particularly Syria, more than a million migrants crossed by sea into Europe in 2015. Almost 4,000 of them lost their lives in the journey.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29aea988e1569f2da78c29e9fdad2dd2c5a1fcaf.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/01/a-robot-life-preserver-goes-to-work-in-the-greek-refugee-crisis/?mbid=social_twitter</link>
-            <guid isPermaLink="false">c8ef1525-4f1b-4bd9-a8df-e16b34455f67</guid>
-            <pubDate>Tue, 12 Jan 2016 16:51:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
