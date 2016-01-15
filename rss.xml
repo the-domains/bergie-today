@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 14:32:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jan 2016 15:58:33 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[License to (Not) Drive]]></title>
+            <description><![CDATA[<article><h1>License to (Not) Drive</h1><p>An exclusive look behind the scenes at Google's autonomous car testing center I have backed out of a lot of parking spaces in my life, but today is different. As I adjust the mirrors, fasten the safety belt, turn on the ignition, and put the Lexus RX450h SUV in reverse, I feel the scrutiny of my passengers, professionals who may be skeptical of my ability to control the vehicle.</p><img src="https://cdn-images-1.medium.com/max/2000/1*-Sq4yMuoBPAFXDx5nRVpKg.jpeg"></article>]]></description>
+            <link>https://medium.com/backchannel/license-to-not-drive-6dbea84b9c45#.waipffcxl</link>
+            <guid isPermaLink="false">5d2484ae-1f29-4c4b-95c8-ad24aba33fe2</guid>
+            <pubDate>Fri, 15 Jan 2016 15:58:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NASA picks SpaceX, Orbital, and Sierra Nevada to resupply the space station through 2024]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.entrepreneur.com/article/252645</link>
             <guid isPermaLink="false">a02a515e-2d09-4011-a0cd-de2e7510ca98</guid>
             <pubDate>Wed, 13 Jan 2016 17:02:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Deep Space of Digital Reading]]></title>
-            <description><![CDATA[<article><h1>The Deep Space of Digital Reading</h1><p>In A History of Reading, the Canadian novelist and essayist Alberto Manguel describes a remarkable transformation of human consciousness, which took place around the 10th century A.D.: the advent of silent reading. Human beings have been reading for thousands of years, but in antiquity, the normal thing was to read aloud.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd82133b36e6f43a547478e259ed53550ee5709d.jpg"></article>]]></description>
-            <link>http://nautil.us/issue/32/space/the-deep-space-of-digital-reading</link>
-            <guid isPermaLink="false">3ef9cdec-35b2-4594-8584-342939c8c5b2</guid>
-            <pubDate>Wed, 13 Jan 2016 15:15:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
