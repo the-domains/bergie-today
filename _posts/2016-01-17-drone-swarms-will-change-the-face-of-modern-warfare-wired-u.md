@@ -17,7 +17,7 @@ keywords:
   - reconnaissance
   - locust
 description: "The summer of 2016 will mark a significant moment in the future of air warfare: swarms of US Navy robots will leave the laboratory and be tested in the field. In the past, small numbers of extremely expensive manned aircraft were the norm, but, in the next few years, large numbers of cheap, expendable drones will be deployed in real-world situations. The US Navy's Low-Cost UAV Swarming Technology (LOCUST) programme is fusing unmanned aircraft into a swarm, and will demonstrate 30 drones flying together somewhere over the ocean."
-datePublished: '2016-01-18T10:02:53.269Z'
+datePublished: '2016-01-18T10:02:53.307Z'
 dateModified: '2016-01-18T10:01:24.939Z'
 author: []
 related: []
