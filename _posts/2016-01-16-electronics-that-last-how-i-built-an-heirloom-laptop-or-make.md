@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://makezine.com'
-  name: 'Make: DIY Projects, How-Tos, Electronics, Crafts and Ideas for Makers'
-  favicon: 'http://1abxf1rh6g01lhm2riyrt55k.wpengine.netdna-cdn.com/favicon.ico?v=2'
-  domain: makezine.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://makezine.com/2016/01/15/electronics-that-last-how-i-built-an-heirloom-laptop/'
+inLanguage: en
+starred: false
 keywords:
   - heirloom
   - design
@@ -18,19 +17,22 @@ keywords:
   - heat
   - aluminum
 description: 'The Novena Heirloom is a limited edition custom enclosure system I built for use with the open-source Novena computer designed by Bunnie Huang and Sean Cross. It was crowd funded in cooperation with Portland, Oregon-based Crowd Supply. Several prototype concepts were developed for the campaign.'
-inLanguage: en
+datePublished: '2016-01-18T10:02:43.936Z'
+dateModified: '2016-01-18T10:00:26.965Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://makezine.com/2016/01/15/electronics-that-last-how-i-built-an-heirloom-laptop/'
-title: 'Electronics That Last: How I Built an Heirloom Laptop | Make:'
-datePublished: '2016-01-16T13:58:04.507Z'
-dateModified: '2016-01-16T13:49:05.473Z'
+title: 'Electronics That Last: How I Built an Heirloom Laptop'
 sourcePath: _posts/2016-01-16-electronics-that-last-how-i-built-an-heirloom-laptop-or-make.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: 'Make: DIY Projects, How-Tos, Electronics, Crafts and Ideas for Makers'
+  domain: makezine.com
+  url: 'http://makezine.com'
+  favicon: 'http://1abxf1rh6g01lhm2riyrt55k.wpengine.netdna-cdn.com/favicon.ico?v=2'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Electronics That Last&amp;colon; How I Built an Heirloom Laptop &amp;vert; Make&amp;colon;</h1><p>The Novena Heirloom is a limited edition custom enclosure system I built for use with the open-source Novena computer designed by Bunnie Huang and Sean Cross&amp;period; It was crowd funded in cooperation with Portland&amp;comma; Oregon-based Crowd Supply&amp;period; Several prototype concepts were developed for the campaign&amp;period;</p><img src="http://makezine.com/wp-content/uploads/2016/01/image11.png" /></article>
+<article style=""><h1>Electronics That Last: How I Built an Heirloom Laptop</h1><p>The Novena Heirloom is a limited edition custom enclosure system I built for use with the open-source Novena computer designed by Bunnie Huang and Sean Cross. It was crowd funded in cooperation with Portland, Oregon-based Crowd Supply. Several prototype concepts were developed for the campaign.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7e3e95d08c9cef094cce97d167769190360d6ac.png" /></article>
