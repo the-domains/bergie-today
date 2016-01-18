@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 15:07:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 15:37:42 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[WEF: Robots, automation and AI will replace 5 million human jobs by 2020]]></title>
+            <description><![CDATA[<article><h1>WEF: Robots, automation and AI will replace 5 million human jobs by 2020</h1><p>"Transformers" Significant technological advances have reshaped society as we know it. However, the World Economic Forum warned that while this is pushing us into "the fourth industrial revolution" and is transforming the labour markets beyond all recognition from decades ago, it will lead to a net loss of over 5 million jobs in 15 major developed and emerging economies by 2020.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bc78e069edd12e2445e6208337d051c6cca4360.jpg"></article>]]></description>
+            <link>http://www.businessinsider.de/wef-davos-report-on-robots-replacing-human-jobs-2016-1??r=UK&amp;IR=T</link>
+            <guid isPermaLink="false">6710b3f9-d14d-4f88-8759-7b82f9c4d89e</guid>
+            <pubDate>Mon, 18 Jan 2016 15:37:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What's really standing in the way of drone delivery?]]></title>
-            <description><![CDATA[<article><h1>What's really standing in the way of drone delivery?</h1><p>Amazon, Google, and the FAA all have different opinions on what needs to happen next Drones zipping above our cities, landing on rooftops to drop off a bottle of Tylenol or a hot pizza, then flying home to charge their batteries.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40fa59f20b6362f99dffcb972755060d2aedc37a.png"></article>]]></description>
+            <description><![CDATA[<article><h1>What's really standing in the way of drone delivery?</h1><p>Amazon, Google, and the FAA all have different opinions on what needs to happen next Drones zipping above our cities, landing on rooftops to drop off a bottle of Tylenol or a hot pizza, then flying home to charge their batteries.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f475dde0f01acde7f3bd03a5efec287b8232c245.png"></article>]]></description>
             <link>http://www.theverge.com/2016/1/16/10777144/delivery-drones-regulations-safety-faa-autonomous-flight</link>
             <guid isPermaLink="false">4c0713bf-e228-43fc-8d91-1d114252a7d3</guid>
             <pubDate>Mon, 18 Jan 2016 15:06:28 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Enhancing images using Deep Convolutional Generative Adversarial Networks (DCGANs)</h1><p>Recently a very impressive paper came out which produced some extremely life-like images generated from a neural network. Since I wrote a post about convolutional autoencoders about 9 months ago, I have been thinking about the problem of how one could upscale or 'enhance' an image, CSI-style, by using a neural network to fill in...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/efd0d73f2dc5e8d8281724b3094613883389eefd.png"></article>]]></description>
             <link>https://swarbrickjones.wordpress.com/2016/01/13/enhancing-images-using-deep-convolutional-generative-adversarial-networks-dcgans/</link>
             <guid isPermaLink="false">09d00ce4-40c0-4521-8182-b2d66b0a3b57</guid>
-            <pubDate>Thu, 14 Jan 2016 17:09:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You Can't Destroy the Village to Save It: W3C vs DRM, Round Two]]></title>
-            <description><![CDATA[<article><h1>You Can't Destroy the Village to Save It: W3C vs DRM, Round Two</h1><p>The World Wide Web Consortium (W3C), the nonprofit body that maintains the Web's core standards, made a terrible mistake in 2013: they decided to add DRM-the digital locks that train your computer to say "I can't let you do that, Dave"; rather than "Yes, boss"-to the Web's standards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b29986ee8fdc2fc72caad90f1089f614f61f065d.png"></article>]]></description>
-            <link>https://www.eff.org/deeplinks/2016/01/you-cant-destroy-village-save-it-w3c-vs-drm-round-two</link>
-            <guid isPermaLink="false">11649298-1bc0-4777-b83c-30148fd1cbb5</guid>
             <pubDate>Thu, 14 Jan 2016 17:09:28 GMT</pubDate>
         </item>
     </channel>
