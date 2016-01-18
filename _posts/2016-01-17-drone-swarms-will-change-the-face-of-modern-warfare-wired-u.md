@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.wired.co.uk'
-  name: Wired UK
-  favicon: 'http://www.wired.co.uk/favicon.ico'
-  domain: www.wired.co.uk
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.wired.co.uk/news/archive/2016-01/08/drone-swarms-change-warfare'
+inLanguage: en
+starred: false
 keywords:
   - swarm
   - drones
@@ -17,20 +16,23 @@ keywords:
   - coyote
   - reconnaissance
   - locust
-description: "This article was taken from The WIRED World in 2016 -- our fourth annual trends report, a standalone magazine in which our network of expert writers and influencers predicts what's coming next. Be the first to read WIRED's articles in print before they're posted online, and get your hands on loads of additional content by subscribing online."
-inLanguage: en
+description: "The summer of 2016 will mark a significant moment in the future of air warfare: swarms of US Navy robots will leave the laboratory and be tested in the field. In the past, small numbers of extremely expensive manned aircraft were the norm, but, in the next few years, large numbers of cheap, expendable drones will be deployed in real-world situations. The US Navy's Low-Cost UAV Swarming Technology (LOCUST) programme is fusing unmanned aircraft into a swarm, and will demonstrate 30 drones flying together somewhere over the ocean."
+datePublished: '2016-01-18T10:02:53.269Z'
+dateModified: '2016-01-18T10:01:24.939Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.wired.co.uk/news/archive/2016-01/08/drone-swarms-change-warfare'
-title: Drone swarms will change the face of modern warfare (Wired UK)
-datePublished: '2016-01-17T20:01:37.471Z'
-dateModified: '2016-01-16T15:16:02.839Z'
+title: Drone swarms will change the face of modern warfare
 sourcePath: _posts/2016-01-17-drone-swarms-will-change-the-face-of-modern-warfare-wired-u.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Wired UK
+  domain: www.wired.co.uk
+  url: 'http://www.wired.co.uk'
+  favicon: 'http://www.wired.co.uk/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Drone swarms will change the face of modern warfare &amp;lpar;Wired UK&amp;rpar;</h1><p>This article was taken from The WIRED World in 2016 -- our fourth annual trends report&amp;comma; a standalone magazine in which our network of expert writers and influencers predicts what's coming next&amp;period; Be the first to read WIRED's articles in print before they're posted online&amp;comma; and get your hands on loads of additional content by subscribing online&amp;period;</p><img src="http://cdni.wired.co.uk/620x413/d_f/drone%20warfare2.jpg" /></article>
+<article style=""><h1>Drone swarms will change the face of modern warfare</h1><p>The summer of 2016 will mark a significant moment in the future of air warfare: swarms of US Navy robots will leave the laboratory and be tested in the field. In the past, small numbers of extremely expensive manned aircraft were the norm, but, in the next few years, large numbers of cheap, expendable drones will be deployed in real-world situations. The US Navy's Low-Cost UAV Swarming Technology (LOCUST) programme is fusing unmanned aircraft into a swarm, and will demonstrate 30 drones flying together somewhere over the ocean.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7b9fbfff593df1d0d4f26ea90a7a2a676935eaa.jpg" /></article>
