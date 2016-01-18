@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 12:57:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 15:07:01 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What's really standing in the way of drone delivery?]]></title>
+            <description><![CDATA[<article><h1>What's really standing in the way of drone delivery?</h1><p>Amazon, Google, and the FAA all have different opinions on what needs to happen next Drones zipping above our cities, landing on rooftops to drop off a bottle of Tylenol or a hot pizza, then flying home to charge their batteries.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40fa59f20b6362f99dffcb972755060d2aedc37a.png"></article>]]></description>
+            <link>http://www.theverge.com/2016/1/16/10777144/delivery-drones-regulations-safety-faa-autonomous-flight</link>
+            <guid isPermaLink="false">4c0713bf-e228-43fc-8d91-1d114252a7d3</guid>
+            <pubDate>Mon, 18 Jan 2016 15:06:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Are cities the new countries?]]></title>
-            <description><![CDATA[<article><h1>Are cities the new countries?</h1><p>Do big cities have more in common with each other than with the rest of their own countries? Are there meaningful comparisons between cities such as New York, London and Shanghai, rather than between nation states? That is the suggestion of the Organisation for Economic Co-operation and Development (OECD).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fca990a6b81773230a87f71ad63b5e36ded90eaa.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Are cities the new countries?</h1><p>Do big cities have more in common with each other than with the rest of their own countries? Are there meaningful comparisons between cities such as New York, London and Shanghai, rather than between nation states? That is the suggestion of the Organisation for Economic Co-operation and Development (OECD).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/678f77995bbeb33a98b76aff7acdbe0feb9eaf8f.jpg"></article>]]></description>
             <link>http://www.bbc.com/news/education-35305586</link>
             <guid isPermaLink="false">dacce6ca-0349-46b2-8a98-4a5fd9ffbf6e</guid>
             <pubDate>Mon, 18 Jan 2016 12:57:01 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.eff.org/deeplinks/2016/01/you-cant-destroy-village-save-it-w3c-vs-drm-round-two</link>
             <guid isPermaLink="false">11649298-1bc0-4777-b83c-30148fd1cbb5</guid>
             <pubDate>Thu, 14 Jan 2016 17:09:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The first working Hyperloop could arrive by the end of 2016]]></title>
-            <description><![CDATA[<article><h1>The first working Hyperloop could arrive by the end of 2016</h1><p>Rob Lloyd, the recently-minted CEO of Hyperloop Technologies, believes that his firm will have a fully-working test loop ready for the end of the year. The executive is here at CES to oversee the breaking ground on the facility which is being constructed on the outskirts of Las Vegas.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c608a22196138c440233e40d1dc30b3f961e1a57.jpg"></article>]]></description>
-            <link>http://www.engadget.com/2016/01/13/hyperloop-rob-lloyd-interview/</link>
-            <guid isPermaLink="false">3c3f81e5-8628-42a4-b04e-bc1e4e79debb</guid>
-            <pubDate>Thu, 14 Jan 2016 15:05:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
