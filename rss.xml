@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 10:08:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 12:57:04 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Are cities the new countries?]]></title>
+            <description><![CDATA[<article><h1>Are cities the new countries?</h1><p>Do big cities have more in common with each other than with the rest of their own countries? Are there meaningful comparisons between cities such as New York, London and Shanghai, rather than between nation states? That is the suggestion of the Organisation for Economic Co-operation and Development (OECD).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fca990a6b81773230a87f71ad63b5e36ded90eaa.jpg"></article>]]></description>
+            <link>http://www.bbc.com/news/education-35305586</link>
+            <guid isPermaLink="false">dacce6ca-0349-46b2-8a98-4a5fd9ffbf6e</guid>
+            <pubDate>Mon, 18 Jan 2016 12:57:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Falcon lands on droneship, but the lockout collet doesn't latch on one the four legs, causing it to tip over post landing. Root cause may have been ice buildup due to condensation from heavy fog at liftoff.]]></title>
-            <description><![CDATA[<article><h1>Falcon lands on droneship, but the lockout collet doesn't latch on one the four legs, causing it to tip over post landing. Root cause may have been ice buildup due to condensation from heavy fog at liftoff.</h1><img src="https://scontent.cdninstagram.com/hphotos-xap1/t51.2885-15/e15/12407375_162604194108617_231488508_n.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Falcon lands on droneship, but the lockout collet doesn't latch on one the four legs, causing it to tip over post landing. Root cause may have been ice buildup due to condensation from heavy fog at liftoff.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9e712d4f4d04cd825677051378a797fc9ef5b77.jpg"></article>]]></description>
             <link>https://www.instagram.com/p/BAqirNbwEc0/</link>
             <guid isPermaLink="false">1e380b2d-3767-4212-9f39-ade89e418bd4</guid>
             <pubDate>Mon, 18 Jan 2016 10:08:41 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.engadget.com/2016/01/13/hyperloop-rob-lloyd-interview/</link>
             <guid isPermaLink="false">3c3f81e5-8628-42a4-b04e-bc1e4e79debb</guid>
             <pubDate>Thu, 14 Jan 2016 15:05:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Big Red Button]]></title>
-            <description><![CDATA[<article><h1>The Big Red Button</h1><p>Automation is all around us: elevators, automatic doors at the supermarket, and auto-pilots on airplanes. For the most part, we never think about it. It makes our lives easier, cheaper, and safer. But with every new automation, there is this transitional moment. When something first goes automatic, it is disorienting.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0623996584ef9e840d47e5635e25f27b5f60aba.jpg"></article>]]></description>
-            <link>http://www.npr.org/sections/money/2015/07/29/427467598/episode-642-the-big-red-button</link>
-            <guid isPermaLink="false">a5be9b02-8fb4-42c3-aca9-d3c688ba1cb3</guid>
-            <pubDate>Thu, 14 Jan 2016 14:06:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
