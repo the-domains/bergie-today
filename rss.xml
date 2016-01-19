@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 15:08:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 15:12:14 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,15 +14,22 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Why video games are essential for inventing artificial intelligence]]></title>
+            <description><![CDATA[<article><h1>Why video games are essential for inventing artificial intelligence</h1><p>The most important thing for humanity to do right now is to invent true artificial intelligence (AI): machines or software that can think and act independently in a wide variety of situations. Once we have artificial intelligence, it can help us solve all manner of other problems. Luckily, thousands of researchers around work on inventing artificial intelligence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00f3db96dcb795c3fab969198e068a31613ab418.jpg"></article>]]></description>
+            <link>http://togelius.blogspot.de/2016/01/why-video-games-are-essential-for.html?m=1</link>
+            <guid isPermaLink="false">db47f7d8-4545-40d2-bb89-de7f33f7a5cb</guid>
+            <pubDate>Tue, 19 Jan 2016 15:12:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The other side of paradise]]></title>
-            <description><![CDATA[<article><h1>The other side of paradise</h1><p>Software firms are supposed to be a paradise for "talent". Not only are their workers fabulously paid, but they are showered with perks as well. They can gorge themselves on free food cooked by Cordon Bleu chefs. They can snooze in nap pods or, if they feel more energetic, work out in on-site gyms or take yoga classes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9eefd1a379c50001d66781a28b2ead3a927680d1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The other side of paradise</h1><p>Software firms are supposed to be a paradise for "talent". Not only are their workers fabulously paid, but they are showered with perks as well. They can gorge themselves on free food cooked by Cordon Bleu chefs. They can snooze in nap pods or, if they feel more energetic, work out in on-site gyms or take yoga classes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/17f5bfa99ad5d58cd19d3b90b6cd959ec83e78b5.jpg"></article>]]></description>
             <link>http://www.economist.com/news/business/21688390-glamorous-tech-startups-can-be-brutal-places-workers-other-side-paradise?fsrc=scn/fb/te/pe/ed/theothersideofparadise</link>
             <guid isPermaLink="false">e35ebb8b-c94d-41e1-b6a1-0379b9570292</guid>
             <pubDate>Tue, 19 Jan 2016 15:08:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SpaceX's Mars Colonial Transporter: Rumors and Realities]]></title>
-            <description><![CDATA[<article><h1>SpaceX's Mars Colonial Transporter: Rumors and Realities</h1><p>For more than a decade, SpaceX CEO and Founder Elon Musk has been hinting at the eventual development of a super-heavy-lift launch vehicle and accompanying spacecraft that can economically transport 100 metric tons (220,462 lbs) of cargo or 100 people to the surface of Mars.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c451664c393e2bca3a9400b4250022c96cd5c870.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>SpaceX's Mars Colonial Transporter: Rumors and Realities</h1><p>For more than a decade, SpaceX CEO and Founder Elon Musk has been hinting at the eventual development of a super-heavy-lift launch vehicle and accompanying spacecraft that can economically transport 100 metric tons (220,462 lbs) of cargo or 100 people to the surface of Mars.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d59c5b71b5a018f878e903981ae6fb19e735330.jpg"></article>]]></description>
             <link>http://www.spaceflightinsider.com/organizations/space-exploration-technologies/spacexs-mars-colonial-transporter-rumors-realities/</link>
             <guid isPermaLink="false">432a2165-5ded-4025-a6bf-066e66aab43e</guid>
             <pubDate>Tue, 19 Jan 2016 15:08:41 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://makezine.com/2016/01/15/electronics-that-last-how-i-built-an-heirloom-laptop/</link>
             <guid isPermaLink="false">c4dc317e-e760-4b1c-9661-fe1d137609f9</guid>
             <pubDate>Mon, 18 Jan 2016 10:02:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[License to (Not) Drive]]></title>
-            <description><![CDATA[<article><h1>License to (Not) Drive</h1><p>An exclusive look behind the scenes at Google's autonomous car testing center I have backed out of a lot of parking spaces in my life, but today is different. As I adjust the mirrors, fasten the safety belt, turn on the ignition, and put the Lexus RX450h SUV in reverse, I feel the scrutiny of my passengers, professionals who may be skeptical of my ability to control the vehicle.</p><img src="https://cdn-images-1.medium.com/max/2000/1*-Sq4yMuoBPAFXDx5nRVpKg.jpeg"></article>]]></description>
-            <link>https://medium.com/backchannel/license-to-not-drive-6dbea84b9c45#.waipffcxl</link>
-            <guid isPermaLink="false">5d2484ae-1f29-4c4b-95c8-ad24aba33fe2</guid>
-            <pubDate>Fri, 15 Jan 2016 15:58:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
