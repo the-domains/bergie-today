@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 16:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 16:26:36 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The First Autonomous Company: A Journey Through the Automation of the Enterprise]]></title>
+            <description><![CDATA[<article><h1>The First Autonomous Company: A Journey Through the Automation of the Enterprise</h1><p>Certain roles within a company, and specifically certain aspects of those roles, are easier to automate than others, and so that's where tech companies have started to dive in. People who have those job functions, will need less and less time to perform aspects of their jobs as a result of automation tools.</p><img src="https://cdn-images-1.medium.com/max/2000/1*jj5jG8QVGUXZz-PA4CHu5g.jpeg"></article>]]></description>
+            <link>http://bergie.today/the-first-autonomous-company-a-journey-through-the-automati/index.html</link>
+            <guid isPermaLink="false">dc010aa4-67bb-4059-b544-a32941c2bab3</guid>
+            <pubDate>Tue, 19 Jan 2016 16:26:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Let's brew a cup of coffee]]></title>
-            <description><![CDATA[<article><h1>Let's brew a cup of coffee</h1><p>ESA astronaut Tim Peake shows how to brew a "cup" of coffee on the International Space Station. Tim is spending six months in space as part of his Principia mission. More about Principia: www.esa.int/Principia Follow Tim Peake via timpeake.esa.int</p></article>]]></description>
+            <description><![CDATA[<article><h1>Let's brew a cup of coffee</h1><p>ESA astronaut Tim Peake shows how to brew a "cup" of coffee on the International Space Station. Tim is spending six months in space as part of his Principia mission. More about Principia: www.esa.int/Principia Follow Tim Peake via timpeake.esa.int</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/128592499a710cabe5bce9414514e8b4ef901edc.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=PvIT3l9QYnQ</link>
             <guid isPermaLink="false">73405238-9303-48a0-a8bc-7e007e584b51</guid>
             <pubDate>Tue, 19 Jan 2016 16:10:48 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BAqirNbwEc0/</link>
             <guid isPermaLink="false">1e380b2d-3767-4212-9f39-ade89e418bd4</guid>
             <pubDate>Mon, 18 Jan 2016 10:08:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drone swarms will change the face of modern warfare]]></title>
-            <description><![CDATA[<article><h1>Drone swarms will change the face of modern warfare</h1><p>The summer of 2016 will mark a significant moment in the future of air warfare: swarms of US Navy robots will leave the laboratory and be tested in the field. In the past, small numbers of extremely expensive manned aircraft were the norm, but, in the next few years, large numbers of cheap, expendable drones will be deployed in real-world situations. The US Navy's Low-Cost UAV Swarming Technology (LOCUST) programme is fusing unmanned aircraft into a swarm, and will demonstrate 30 drones flying together somewhere over the ocean.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf5cfc1b483071deb19801c17f3ae8b773b9ef3a.jpg"></article>]]></description>
-            <link>http://www.wired.co.uk/news/archive/2016-01/08/drone-swarms-change-warfare</link>
-            <guid isPermaLink="false">ba1d8cae-6790-4c9e-a73e-62763cf71b6a</guid>
-            <pubDate>Mon, 18 Jan 2016 10:02:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
