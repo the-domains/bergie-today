@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 16:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 17:48:12 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snowy night]]></title>
+            <description><![CDATA[<article><h1>Snowy night</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41c015d084f309b87e2bba69188fb801e027d736.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/bergie/24151727900/in/datetaken-public/</link>
+            <guid isPermaLink="false">30dd223f-df3a-478f-8cdf-fc2df4c787b5</guid>
+            <pubDate>Tue, 19 Jan 2016 17:48:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The First Autonomous Company: A Journey Through the Automation of the Enterprise]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.bbc.com/news/education-35305586</link>
             <guid isPermaLink="false">dacce6ca-0349-46b2-8a98-4a5fd9ffbf6e</guid>
             <pubDate>Mon, 18 Jan 2016 12:57:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Falcon lands on droneship, but the lockout collet doesn't latch on one the four legs, causing it to tip over post landing. Root cause may have been ice buildup due to condensation from heavy fog at liftoff.]]></title>
-            <description><![CDATA[<article><h1>Falcon lands on droneship, but the lockout collet doesn't latch on one the four legs, causing it to tip over post landing. Root cause may have been ice buildup due to condensation from heavy fog at liftoff.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9e712d4f4d04cd825677051378a797fc9ef5b77.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/BAqirNbwEc0/</link>
-            <guid isPermaLink="false">1e380b2d-3767-4212-9f39-ade89e418bd4</guid>
-            <pubDate>Mon, 18 Jan 2016 10:08:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
