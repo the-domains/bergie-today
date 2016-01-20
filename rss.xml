@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 12:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 12:43:46 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Automation Paradox]]></title>
+            <description><![CDATA[<article><h1>The Automation Paradox</h1><p>Automation isn’t just for blue-collar workers anymore. Computers are now taking over tasks performed by professional workers, raising fears of massive unemployment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e576a6553b53b6b1f48424528ced979ee463ec2.jpg"></article>]]></description>
+            <link>http://www.theatlantic.com/business/archive/2016/01/automation-paradox/424437/?single_page=true</link>
+            <guid isPermaLink="false">a5cb3a0c-cee2-4751-a301-a8208e83e519</guid>
+            <pubDate>Wed, 20 Jan 2016 12:43:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Grid's Eyes]]></title>
-            <description><![CDATA[<article><h1>The Grid's Eyes</h1><p>Since last year I'm working together with Jon Nordby, Henri Bergius and Gabriela Thumé on an image analytics pipeline to The Grid. Basically, we are teaching our AI to identify patterns and extract relevant information from raw image data. We apply algorithms and techniques from the Computer Vision field.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00c8fb05c74f1ebaf52e666f157945b1e5ead87b.png"></article>]]></description>
+            <description><![CDATA[<article><h1>The Grid's Eyes</h1><p>Since last year I'm working together with Jon Nordby, Henri Bergius and Gabriela Thumé on an image analytics pipeline to The Grid. Basically, we are teaching our AI to identify patterns and extract relevant information from raw image data. We apply algorithms and techniques from the Computer Vision field.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f530c64bdd8e5fbe0d06ce2f40a879cd26672f88.png"></article>]]></description>
             <link>http://automata.cc/saliency-extraction/</link>
             <guid isPermaLink="false">35c54026-615b-407b-b14a-51d3d045772b</guid>
             <pubDate>Wed, 20 Jan 2016 12:21:15 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The other side of paradise</h1><p>Software firms are supposed to be a paradise for "talent". Not only are their workers fabulously paid, but they are showered with perks as well. They can gorge themselves on free food cooked by Cordon Bleu chefs. They can snooze in nap pods or, if they feel more energetic, work out in on-site gyms or take yoga classes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/17f5bfa99ad5d58cd19d3b90b6cd959ec83e78b5.jpg"></article>]]></description>
             <link>http://www.economist.com/news/business/21688390-glamorous-tech-startups-can-be-brutal-places-workers-other-side-paradise?fsrc=scn/fb/te/pe/ed/theothersideofparadise</link>
             <guid isPermaLink="false">e35ebb8b-c94d-41e1-b6a1-0379b9570292</guid>
-            <pubDate>Tue, 19 Jan 2016 15:08:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX's Mars Colonial Transporter: Rumors and Realities]]></title>
-            <description><![CDATA[<article><h1>SpaceX's Mars Colonial Transporter: Rumors and Realities</h1><p>For more than a decade, SpaceX CEO and Founder Elon Musk has been hinting at the eventual development of a super-heavy-lift launch vehicle and accompanying spacecraft that can economically transport 100 metric tons (220,462 lbs) of cargo or 100 people to the surface of Mars.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d59c5b71b5a018f878e903981ae6fb19e735330.jpg"></article>]]></description>
-            <link>http://www.spaceflightinsider.com/organizations/space-exploration-technologies/spacexs-mars-colonial-transporter-rumors-realities/</link>
-            <guid isPermaLink="false">432a2165-5ded-4025-a6bf-066e66aab43e</guid>
             <pubDate>Tue, 19 Jan 2016 15:08:41 GMT</pubDate>
         </item>
     </channel>
