@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 15:43:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 17:54:59 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,20 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spätzletag]]></title>
+            <description><![CDATA[<article><h1>Spätzletag</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/731ee95c63ec88937ad1bb757585de97adbc9c08.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/bergie/24133036949/in/datetaken-public/</link>
+            <guid isPermaLink="false">b2013953-f943-4c2d-9147-25c137d8f132</guid>
+            <pubDate>Wed, 20 Jan 2016 17:54:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Caltech Researchers Find Evidence of a Real Ninth Planet]]></title>
+            <description><![CDATA[<article><h1>Caltech Researchers Find Evidence of a Real Ninth Planet</h1><p>Caltech researchers have found evidence of a giant planet tracing a bizarre, highly elongated orbit in the outer solar system. The object, which the researchers have nicknamed Planet Nine, has a mass about 10 times that of Earth and orbits about 20 times farther from the sun on average than does Neptune (which orbits the sun at an average distance of 2.8 billion miles).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bde7caa9fb59baa67b3ecdbb16e77ab99e4f56fd.jpg"></article>]]></description>
+            <link>http://www.caltech.edu/news/caltech-researchers-find-evidence-real-ninth-planet-49523</link>
+            <guid isPermaLink="false">a5f254e0-be70-41ed-b205-68edecc044df</guid>
+            <pubDate>Wed, 20 Jan 2016 17:53:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stanford Seminar - Juan Benet of Protocol Labs]]></title>
@@ -61,20 +75,6 @@
             <link>http://bergie.today/the-first-autonomous-company-a-journey-through-the-automati/index.html</link>
             <guid isPermaLink="false">dc010aa4-67bb-4059-b544-a32941c2bab3</guid>
             <pubDate>Tue, 19 Jan 2016 16:26:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let's brew a cup of coffee]]></title>
-            <description><![CDATA[<article><h1>Let's brew a cup of coffee</h1><p>ESA astronaut Tim Peake shows how to brew a "cup" of coffee on the International Space Station. Tim is spending six months in space as part of his Principia mission. More about Principia: www.esa.int/Principia Follow Tim Peake via timpeake.esa.int</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/128592499a710cabe5bce9414514e8b4ef901edc.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=PvIT3l9QYnQ</link>
-            <guid isPermaLink="false">73405238-9303-48a0-a8bc-7e007e584b51</guid>
-            <pubDate>Tue, 19 Jan 2016 16:10:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why video games are essential for inventing artificial intelligence]]></title>
-            <description><![CDATA[<article><h1>Why video games are essential for inventing artificial intelligence</h1><p>The most important thing for humanity to do right now is to invent true artificial intelligence (AI): machines or software that can think and act independently in a wide variety of situations. Once we have artificial intelligence, it can help us solve all manner of other problems. Luckily, thousands of researchers around work on inventing artificial intelligence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12a9365425908b076d7513459d14f3e00029c3e3.jpg"></article>]]></description>
-            <link>http://togelius.blogspot.de/2016/01/why-video-games-are-essential-for.html?m=1</link>
-            <guid isPermaLink="false">db47f7d8-4545-40d2-bb89-de7f33f7a5cb</guid>
-            <pubDate>Tue, 19 Jan 2016 15:12:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
