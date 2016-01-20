@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 17:48:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 10:02:14 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Termux]]></title>
+            <description><![CDATA[<article><h1>Termux</h1><p>Terminal emulator and Linux environment for Android</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9323a1289e9ff01771a575b7481603769dc0a205.png"></article>]]></description>
+            <link>urn:uuid:7626823e-6a9e-47dc-b89a-2b8a5e28e109</link>
+            <guid isPermaLink="false">a3889023-b406-4e76-9248-3c50e5ad2ce2</guid>
+            <pubDate>Wed, 20 Jan 2016 10:01:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Snowy night]]></title>
-            <description><![CDATA[<article><h1>Snowy night</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41c015d084f309b87e2bba69188fb801e027d736.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Snowy night</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9fc8be4da72d85c19547f1883742cf66a1252d7.jpg"></article>]]></description>
             <link>https://www.flickr.com/photos/bergie/24151727900/in/datetaken-public/</link>
             <guid isPermaLink="false">30dd223f-df3a-478f-8cdf-fc2df4c787b5</guid>
             <pubDate>Tue, 19 Jan 2016 17:48:10 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/1/16/10777144/delivery-drones-regulations-safety-faa-autonomous-flight</link>
             <guid isPermaLink="false">4c0713bf-e228-43fc-8d91-1d114252a7d3</guid>
             <pubDate>Mon, 18 Jan 2016 15:06:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are cities the new countries?]]></title>
-            <description><![CDATA[<article><h1>Are cities the new countries?</h1><p>Do big cities have more in common with each other than with the rest of their own countries? Are there meaningful comparisons between cities such as New York, London and Shanghai, rather than between nation states? That is the suggestion of the Organisation for Economic Co-operation and Development (OECD).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/678f77995bbeb33a98b76aff7acdbe0feb9eaf8f.jpg"></article>]]></description>
-            <link>http://www.bbc.com/news/education-35305586</link>
-            <guid isPermaLink="false">dacce6ca-0349-46b2-8a98-4a5fd9ffbf6e</guid>
-            <pubDate>Mon, 18 Jan 2016 12:57:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
