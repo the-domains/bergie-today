@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 10:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 11:29:50 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Google's AMP Poised To Take The Lead From Facebook's And Apple's Walled Gardens]]></title>
+            <description><![CDATA[<article><h1>Google's AMP Poised To Take The Lead From Facebook's And Apple's Walled Gardens</h1><p>By the end of February, Google will deploy at full scale its Accelerated Mobile Pages project by sending search results to amp-html pages. Because it integrates all monetization instruments -advertising, analytics and now subscription systems- Google's AMP is likely to rally scores of publishers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/866cd7615b263b3757393aa3759db09e9e483d00.jpg"></article>]]></description>
+            <link>http://www.mondaynote.com/2016/01/18/googles-amp-poised-to-take-the-lead-from-facebooks-and-apples-walled-gardens/?utm_source=Sailthru&amp;utm_medium=email&amp;utm_campaign=UK%20Daily%202016-01-19&amp;utm_term=Digiday%20UK%20Newsletter</link>
+            <guid isPermaLink="false">ee82c11b-b6b0-4758-9b14-33705b100e5d</guid>
+            <pubDate>Wed, 20 Jan 2016 11:29:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Termux]]></title>
-            <description><![CDATA[<article><h1>Termux</h1><p>Terminal emulator and Linux environment for Android</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9323a1289e9ff01771a575b7481603769dc0a205.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Termux</h1><p>Terminal emulator and Linux environment for Android</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d12eedb8177af5d94c43f01c524a6bc652040d4.png"></article>]]></description>
             <link>urn:uuid:7626823e-6a9e-47dc-b89a-2b8a5e28e109</link>
             <guid isPermaLink="false">a3889023-b406-4e76-9248-3c50e5ad2ce2</guid>
             <pubDate>Wed, 20 Jan 2016 10:01:22 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.businessinsider.de/wef-davos-report-on-robots-replacing-human-jobs-2016-1??r=UK&amp;IR=T</link>
             <guid isPermaLink="false">6710b3f9-d14d-4f88-8759-7b82f9c4d89e</guid>
             <pubDate>Mon, 18 Jan 2016 15:37:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's really standing in the way of drone delivery?]]></title>
-            <description><![CDATA[<article><h1>What's really standing in the way of drone delivery?</h1><p>Amazon, Google, and the FAA all have different opinions on what needs to happen next Drones zipping above our cities, landing on rooftops to drop off a bottle of Tylenol or a hot pizza, then flying home to charge their batteries.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f475dde0f01acde7f3bd03a5efec287b8232c245.png"></article>]]></description>
-            <link>http://www.theverge.com/2016/1/16/10777144/delivery-drones-regulations-safety-faa-autonomous-flight</link>
-            <guid isPermaLink="false">4c0713bf-e228-43fc-8d91-1d114252a7d3</guid>
-            <pubDate>Mon, 18 Jan 2016 15:06:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
