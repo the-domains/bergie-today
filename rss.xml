@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 11:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 12:17:24 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Grid's Eyes]]></title>
+            <description><![CDATA[<article><h1>The Grid's Eyes</h1><p>Since last year I'm working together with Jon Nordby, Henri Bergius and Gabriela Thumé on an image analytics pipeline to The Grid. Basically, we are teaching our AI to identify patterns and extract relevant information from raw image data. We apply algorithms and techniques from the Computer Vision field.</p></article>]]></description>
+            <link>http://automata.cc/saliency-extraction/</link>
+            <guid isPermaLink="false">35c54026-615b-407b-b14a-51d3d045772b</guid>
+            <pubDate>Wed, 20 Jan 2016 12:17:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Google's AMP Poised To Take The Lead From Facebook's And Apple's Walled Gardens]]></title>
-            <description><![CDATA[<article><h1>Google's AMP Poised To Take The Lead From Facebook's And Apple's Walled Gardens</h1><p>By the end of February, Google will deploy at full scale its Accelerated Mobile Pages project by sending search results to amp-html pages. Because it integrates all monetization instruments -advertising, analytics and now subscription systems- Google's AMP is likely to rally scores of publishers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/866cd7615b263b3757393aa3759db09e9e483d00.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Google's AMP Poised To Take The Lead From Facebook's And Apple's Walled Gardens</h1><p>By the end of February, Google will deploy at full scale its Accelerated Mobile Pages project by sending search results to amp-html pages. Because it integrates all monetization instruments -advertising, analytics and now subscription systems- Google's AMP is likely to rally scores of publishers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3659df018ce47b7db4d4b29477a9b1fe0955e66.jpg"></article>]]></description>
             <link>http://www.mondaynote.com/2016/01/18/googles-amp-poised-to-take-the-lead-from-facebooks-and-apples-walled-gardens/?utm_source=Sailthru&amp;utm_medium=email&amp;utm_campaign=UK%20Daily%202016-01-19&amp;utm_term=Digiday%20UK%20Newsletter</link>
             <guid isPermaLink="false">ee82c11b-b6b0-4758-9b14-33705b100e5d</guid>
             <pubDate>Wed, 20 Jan 2016 11:29:13 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.spaceflightinsider.com/organizations/space-exploration-technologies/spacexs-mars-colonial-transporter-rumors-realities/</link>
             <guid isPermaLink="false">432a2165-5ded-4025-a6bf-066e66aab43e</guid>
             <pubDate>Tue, 19 Jan 2016 15:08:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WEF: Robots, automation and AI will replace 5 million human jobs by 2020]]></title>
-            <description><![CDATA[<article><h1>WEF: Robots, automation and AI will replace 5 million human jobs by 2020</h1><p>"Transformers" Significant technological advances have reshaped society as we know it. However, the World Economic Forum warned that while this is pushing us into "the fourth industrial revolution" and is transforming the labour markets beyond all recognition from decades ago, it will lead to a net loss of over 5 million jobs in 15 major developed and emerging economies by 2020.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3fbcda88ffcea41f27f78224b00462e3f5a1746.jpg"></article>]]></description>
-            <link>http://www.businessinsider.de/wef-davos-report-on-robots-replacing-human-jobs-2016-1??r=UK&amp;IR=T</link>
-            <guid isPermaLink="false">6710b3f9-d14d-4f88-8759-7b82f9c4d89e</guid>
-            <pubDate>Mon, 18 Jan 2016 15:37:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
