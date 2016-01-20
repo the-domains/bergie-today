@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 12:43:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 15:43:21 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Stanford Seminar - Juan Benet of Protocol Labs]]></title>
+            <description><![CDATA[<article><h1>Stanford Seminar - Juan Benet of Protocol Labs</h1><p>"IPFS and the Permanent Web"- Juan Benet of Protocol Labs Support for the Stanford Colloquium on Computer Systems Seminar Series provided by the Stanford Computer Forum. Speaker Abstract and Bio can be found here: http://ee380.stanford.edu/Abstracts/151021.html For more info about the EE380 series: http://ee380.stanford.edu Colloquium on Computer Systems Seminar Series (EE380) presents the current research in design, implementation, analysis, and use of computer systems. Topics range from integrated circuits to operating systems and programming languages.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24541a069752f9ec5406af2138bf94dba58d9312.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?ebc=ANyPxKqMiNbStnEQHC-kiEBSd1jILZqa0BT0CONnIPhZaJx8DboPmzg3vqia97Wk1XMENc3rY3Bjtz6iTqoZ-lK-mWqsshiIyQ&amp;v=HUVmypx9HGI&amp;app=desktop</link>
+            <guid isPermaLink="false">ea02631e-587f-4f80-8718-43c1d5d83c2f</guid>
+            <pubDate>Wed, 20 Jan 2016 15:43:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Automation Paradox]]></title>
-            <description><![CDATA[<article><h1>The Automation Paradox</h1><p>Automation isn’t just for blue-collar workers anymore. Computers are now taking over tasks performed by professional workers, raising fears of massive unemployment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e576a6553b53b6b1f48424528ced979ee463ec2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Automation Paradox</h1><p>Automation isn’t just for blue-collar workers anymore. Computers are now taking over tasks performed by professional workers, raising fears of massive unemployment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98f5266c165e3945dd5b8b2efb5e0a735fa5e07c.jpg"></article>]]></description>
             <link>http://www.theatlantic.com/business/archive/2016/01/automation-paradox/424437/?single_page=true</link>
             <guid isPermaLink="false">a5cb3a0c-cee2-4751-a301-a8208e83e519</guid>
             <pubDate>Wed, 20 Jan 2016 12:43:13 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://togelius.blogspot.de/2016/01/why-video-games-are-essential-for.html?m=1</link>
             <guid isPermaLink="false">db47f7d8-4545-40d2-bb89-de7f33f7a5cb</guid>
             <pubDate>Tue, 19 Jan 2016 15:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The other side of paradise]]></title>
-            <description><![CDATA[<article><h1>The other side of paradise</h1><p>Software firms are supposed to be a paradise for "talent". Not only are their workers fabulously paid, but they are showered with perks as well. They can gorge themselves on free food cooked by Cordon Bleu chefs. They can snooze in nap pods or, if they feel more energetic, work out in on-site gyms or take yoga classes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/17f5bfa99ad5d58cd19d3b90b6cd959ec83e78b5.jpg"></article>]]></description>
-            <link>http://www.economist.com/news/business/21688390-glamorous-tech-startups-can-be-brutal-places-workers-other-side-paradise?fsrc=scn/fb/te/pe/ed/theothersideofparadise</link>
-            <guid isPermaLink="false">e35ebb8b-c94d-41e1-b6a1-0379b9570292</guid>
-            <pubDate>Tue, 19 Jan 2016 15:08:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
