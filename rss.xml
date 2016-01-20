@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 17:54:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 17:54:47 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,13 +12,6 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spätzletag]]></title>
-            <description><![CDATA[<article><h1>Spätzletag</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/731ee95c63ec88937ad1bb757585de97adbc9c08.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/bergie/24133036949/in/datetaken-public/</link>
-            <guid isPermaLink="false">b2013953-f943-4c2d-9147-25c137d8f132</guid>
-            <pubDate>Wed, 20 Jan 2016 17:54:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Caltech Researchers Find Evidence of a Real Ninth Planet]]></title>
@@ -75,6 +68,13 @@
             <link>http://bergie.today/the-first-autonomous-company-a-journey-through-the-automati/index.html</link>
             <guid isPermaLink="false">dc010aa4-67bb-4059-b544-a32941c2bab3</guid>
             <pubDate>Tue, 19 Jan 2016 16:26:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Let's brew a cup of coffee]]></title>
+            <description><![CDATA[<article><h1>Let's brew a cup of coffee</h1><p>ESA astronaut Tim Peake shows how to brew a "cup" of coffee on the International Space Station. Tim is spending six months in space as part of his Principia mission. More about Principia: www.esa.int/Principia Follow Tim Peake via timpeake.esa.int</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/128592499a710cabe5bce9414514e8b4ef901edc.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=PvIT3l9QYnQ</link>
+            <guid isPermaLink="false">73405238-9303-48a0-a8bc-7e007e584b51</guid>
+            <pubDate>Tue, 19 Jan 2016 16:10:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
