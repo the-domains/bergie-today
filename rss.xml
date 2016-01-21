@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 17:34:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2016 17:34:38 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,15 +14,8 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Promise and Confusion of USB Type-C]]></title>
-            <description><![CDATA[<article><h1>The Promise and Confusion of USB Type-C</h1><p>Okay, I'll admit it - it's not exactly the sexiest topic in tech. But when it comes to the practical, day-to-day existence with all of our modern devices, connectivity is an important story.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f598c98038e823301f4dfe4df4cb419adfb8e743.jpg"></article>]]></description>
-            <link>http://recode.net/2016/01/20/the-promise-and-confusion-of-usb-type-c/</link>
-            <guid isPermaLink="false">929c7244-d679-401a-8bd9-a5bcdf0155f4</guid>
-            <pubDate>Thu, 21 Jan 2016 17:34:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[These Tricks Make Virtual Reality Feel Real]]></title>
-            <description><![CDATA[<article><h1>These Tricks Make Virtual Reality Feel Real</h1><p>I am standing a few feet away from a conference table, about to test something called a "Holojam." It is made of head-mounted displays, motion capture cameras and many lines of code. Affixed to the edges of the table, as well as to my hands and ankles, are little plastic balls, which are used to track things in the virtual environment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bc4de350828ad3c12e9d6633b9f91e902e085cd.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>These Tricks Make Virtual Reality Feel Real</h1><p>I am standing a few feet away from a conference table, about to test something called a "Holojam." It is made of head-mounted displays, motion capture cameras and many lines of code. Affixed to the edges of the table, as well as to my hands and ankles, are little plastic balls, which are used to track things in the virtual environment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a96ea1a0442ffe261b50c3f32fbba8695ff092a.jpg"></article>]]></description>
             <link>http://nautil.us/issue/32/space/these-tricks-make-virtual-reality-feel-real</link>
             <guid isPermaLink="false">a7ee3d00-0716-46cf-8e05-0ac8bf203a38</guid>
             <pubDate>Thu, 21 Jan 2016 17:33:51 GMT</pubDate>
@@ -75,6 +68,13 @@
             <link>http://automata.cc/saliency-extraction/</link>
             <guid isPermaLink="false">35c54026-615b-407b-b14a-51d3d045772b</guid>
             <pubDate>Wed, 20 Jan 2016 12:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google's AMP Poised To Take The Lead From Facebook's And Apple's Walled Gardens]]></title>
+            <description><![CDATA[<article><h1>Google's AMP Poised To Take The Lead From Facebook's And Apple's Walled Gardens</h1><p>By the end of February, Google will deploy at full scale its Accelerated Mobile Pages project by sending search results to amp-html pages. Because it integrates all monetization instruments -advertising, analytics and now subscription systems- Google's AMP is likely to rally scores of publishers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3659df018ce47b7db4d4b29477a9b1fe0955e66.jpg"></article>]]></description>
+            <link>http://www.mondaynote.com/2016/01/18/googles-amp-poised-to-take-the-lead-from-facebooks-and-apples-walled-gardens/?utm_source=Sailthru&amp;utm_medium=email&amp;utm_campaign=UK%20Daily%202016-01-19&amp;utm_term=Digiday%20UK%20Newsletter</link>
+            <guid isPermaLink="false">ee82c11b-b6b0-4758-9b14-33705b100e5d</guid>
+            <pubDate>Wed, 20 Jan 2016 11:29:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
