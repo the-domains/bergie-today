@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 17:54:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2016 10:18:50 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,22 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Grisly find suggests humans inhabited Arctic 45,000 years ago]]></title>
+            <description><![CDATA[<article><h1>Grisly find suggests humans inhabited Arctic 45,000 years ago</h1><p>In August of 2012, an 11-year-old boy made a gruesome discovery in a frozen bluff overlooking the Arctic Ocean. While exploring the foggy coast of Yenisei Bay, about 2000 kilometers south of the North Pole, he came upon the leg bones of a woolly mammoth eroding out of frozen sediments.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3651eeb8f4885cd9ecf8321fc50034217136dfee.jpg"></article>]]></description>
+            <link>http://www.sciencemag.org/news/2016/01/grisly-find-suggests-humans-inhabited-arctic-45000-years-ago</link>
+            <guid isPermaLink="false">7a515d42-4f48-4e58-995c-8f3247b56d1e</guid>
+            <pubDate>Thu, 21 Jan 2016 10:18:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spätzletag]]></title>
+            <description><![CDATA[<article><h1>Spätzletag</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fad49a3c6c936074eaabb3ecd08cacb361cc91c.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/bergie/24133036949/in/datetaken-public/</link>
+            <guid isPermaLink="false">b2013953-f943-4c2d-9147-25c137d8f132</guid>
+            <pubDate>Wed, 20 Jan 2016 17:54:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Caltech Researchers Find Evidence of a Real Ninth Planet]]></title>
-            <description><![CDATA[<article><h1>Caltech Researchers Find Evidence of a Real Ninth Planet</h1><p>Caltech researchers have found evidence of a giant planet tracing a bizarre, highly elongated orbit in the outer solar system. The object, which the researchers have nicknamed Planet Nine, has a mass about 10 times that of Earth and orbits about 20 times farther from the sun on average than does Neptune (which orbits the sun at an average distance of 2.8 billion miles).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bde7caa9fb59baa67b3ecdbb16e77ab99e4f56fd.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Caltech Researchers Find Evidence of a Real Ninth Planet</h1><p>Caltech researchers have found evidence of a giant planet tracing a bizarre, highly elongated orbit in the outer solar system. The object, which the researchers have nicknamed Planet Nine, has a mass about 10 times that of Earth and orbits about 20 times farther from the sun on average than does Neptune (which orbits the sun at an average distance of 2.8 billion miles).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2cf71d3e7b87fc33ac218b552bcccc6f45fa786.jpg"></article>]]></description>
             <link>http://www.caltech.edu/news/caltech-researchers-find-evidence-real-ninth-planet-49523</link>
             <guid isPermaLink="false">a5f254e0-be70-41ed-b205-68edecc044df</guid>
             <pubDate>Wed, 20 Jan 2016 17:53:41 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>https://www.flickr.com/photos/bergie/24151727900/in/datetaken-public/</link>
             <guid isPermaLink="false">30dd223f-df3a-478f-8cdf-fc2df4c787b5</guid>
             <pubDate>Tue, 19 Jan 2016 17:48:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The First Autonomous Company: A Journey Through the Automation of the Enterprise]]></title>
-            <description><![CDATA[<article><h1>The First Autonomous Company: A Journey Through the Automation of the Enterprise</h1><p>Certain roles within a company, and specifically certain aspects of those roles, are easier to automate than others, and so that's where tech companies have started to dive in. People who have those job functions, will need less and less time to perform aspects of their jobs as a result of automation tools.</p><img src="https://cdn-images-1.medium.com/max/2000/1*jj5jG8QVGUXZz-PA4CHu5g.jpeg"></article>]]></description>
-            <link>http://bergie.today/the-first-autonomous-company-a-journey-through-the-automati/index.html</link>
-            <guid isPermaLink="false">dc010aa4-67bb-4059-b544-a32941c2bab3</guid>
-            <pubDate>Tue, 19 Jan 2016 16:26:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let's brew a cup of coffee]]></title>
-            <description><![CDATA[<article><h1>Let's brew a cup of coffee</h1><p>ESA astronaut Tim Peake shows how to brew a "cup" of coffee on the International Space Station. Tim is spending six months in space as part of his Principia mission. More about Principia: www.esa.int/Principia Follow Tim Peake via timpeake.esa.int</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/128592499a710cabe5bce9414514e8b4ef901edc.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=PvIT3l9QYnQ</link>
-            <guid isPermaLink="false">73405238-9303-48a0-a8bc-7e007e584b51</guid>
-            <pubDate>Tue, 19 Jan 2016 16:10:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
