@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 10:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2016 13:24:04 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hyperloop Transportation Technologies Breaks Ground To Make Elon Musk's Hyperloop A Reality]]></title>
+            <description><![CDATA[<article><h1>Hyperloop Transportation Technologies Breaks Ground To Make Elon Musk's Hyperloop A Reality</h1><p>Plans to construct the beginnings of Elon Musk's Hyperloop are now underway in Quay Valley, California. Hyperloop Transportation Technologies (HTT) announced plans for a 5-mile test track late last year and is about to break ground on an initial framework for what HTT CEO Dirk Ahlborn hopes will become the U.S.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2112d8c3cfb0a7c38f1f1a7dbb3a6c2bf383705.jpg"></article>]]></description>
+            <link>http://techcrunch.com/2016/01/19/hyperloop-transportation-technologies-breaks-ground-to-make-elon-musks-hyperloop-a-reality/#.v7lrm2k:fZTI</link>
+            <guid isPermaLink="false">23159606-d9fb-4522-9c2f-d882bea89366</guid>
+            <pubDate>Thu, 21 Jan 2016 13:24:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Grisly find suggests humans inhabited Arctic 45,000 years ago]]></title>
-            <description><![CDATA[<article><h1>Grisly find suggests humans inhabited Arctic 45,000 years ago</h1><p>In August of 2012, an 11-year-old boy made a gruesome discovery in a frozen bluff overlooking the Arctic Ocean. While exploring the foggy coast of Yenisei Bay, about 2000 kilometers south of the North Pole, he came upon the leg bones of a woolly mammoth eroding out of frozen sediments.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3651eeb8f4885cd9ecf8321fc50034217136dfee.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Grisly find suggests humans inhabited Arctic 45,000 years ago</h1><p>In August of 2012, an 11-year-old boy made a gruesome discovery in a frozen bluff overlooking the Arctic Ocean. While exploring the foggy coast of Yenisei Bay, about 2000 kilometers south of the North Pole, he came upon the leg bones of a woolly mammoth eroding out of frozen sediments.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9e7f785c856b4446e4a2aca018f583380f96e9b.jpg"></article>]]></description>
             <link>http://www.sciencemag.org/news/2016/01/grisly-find-suggests-humans-inhabited-arctic-45000-years-ago</link>
             <guid isPermaLink="false">7a515d42-4f48-4e58-995c-8f3247b56d1e</guid>
             <pubDate>Thu, 21 Jan 2016 10:18:42 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>urn:uuid:7626823e-6a9e-47dc-b89a-2b8a5e28e109</link>
             <guid isPermaLink="false">a3889023-b406-4e76-9248-3c50e5ad2ce2</guid>
             <pubDate>Wed, 20 Jan 2016 10:01:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Snowy night]]></title>
-            <description><![CDATA[<article><h1>Snowy night</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9fc8be4da72d85c19547f1883742cf66a1252d7.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/bergie/24151727900/in/datetaken-public/</link>
-            <guid isPermaLink="false">30dd223f-df3a-478f-8cdf-fc2df4c787b5</guid>
-            <pubDate>Tue, 19 Jan 2016 17:48:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
