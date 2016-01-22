@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 14:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 18:11:06 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's It Like in Space?: Stories from Astronauts Who've Been There]]></title>
+            <description><![CDATA[<article><h1>What's It Like in Space?: Stories from Astronauts Who've Been There</h1><p>Everyone wonders what it's really like in space, but very few of us have ever had the chance to experience it firsthand. This captivating illustrated collection brings together stories from dozens of international astronauts—men and women who've actually been there—who have returned with accounts of the sometimes weird, often funny, and awe-inspiring sensations and realities of being in space. With playful artwork accompanying each, here are the real stories behind backwards dreams, "moon face," the tricks of sleeping in zero gravity and aiming your sneeze during a spacewalk, the importance of packing hot sauce, and dozens of other cosmic quirks and amazements that come with travel in and beyond low Earth orbit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a181b75ae894640b9694a65fa8514d912613cba4.jpg"></article>]]></description>
+            <link>http://www.amazon.com/dp/1452144761/ref=cm_sw_su_dp</link>
+            <guid isPermaLink="false">58f83c4f-c42d-4ea5-8c4b-66a6ea273850</guid>
+            <pubDate>Fri, 22 Jan 2016 18:11:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anywhere but Medium]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.flickr.com/photos/bergie/24133036949/in/datetaken-public/</link>
             <guid isPermaLink="false">b2013953-f943-4c2d-9147-25c137d8f132</guid>
             <pubDate>Wed, 20 Jan 2016 17:54:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Caltech Researchers Find Evidence of a Real Ninth Planet]]></title>
-            <description><![CDATA[<article><h1>Caltech Researchers Find Evidence of a Real Ninth Planet</h1><p>Caltech researchers have found evidence of a giant planet tracing a bizarre, highly elongated orbit in the outer solar system. The object, which the researchers have nicknamed Planet Nine, has a mass about 10 times that of Earth and orbits about 20 times farther from the sun on average than does Neptune (which orbits the sun at an average distance of 2.8 billion miles).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2cf71d3e7b87fc33ac218b552bcccc6f45fa786.jpg"></article>]]></description>
-            <link>http://www.caltech.edu/news/caltech-researchers-find-evidence-real-ninth-planet-49523</link>
-            <guid isPermaLink="false">a5f254e0-be70-41ed-b205-68edecc044df</guid>
-            <pubDate>Wed, 20 Jan 2016 17:53:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
