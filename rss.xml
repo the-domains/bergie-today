@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 15:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 15:18:06 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[In the Beginning was the Command Line]]></title>
+            <description><![CDATA[<article><h1>In the Beginning was the Command Line</h1><p>A huge stack of accordion-fold paper sat on the floor underneath each one of these glorified teletypes, and miles of paper shuddered through their platens. Almost all of this paper was thrown away or recycled without ever having been touched by ink--an ecological atrocity so glaring that those machines soon replaced by video terminals--so-called "glass teletypes"--which were quieter and didn't waste paper.</p></article>]]></description>
+            <link>http://cristal.inria.fr/~weis/info/commandline.html</link>
+            <guid isPermaLink="false">58143cea-5a23-460b-bac9-b442a96b8360</guid>
+            <pubDate>Sat, 23 Jan 2016 15:18:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Generation Uphill]]></title>
-            <description><![CDATA[<article><h1>Generation Uphill</h1><p>The millennials are the brainiest, best-educated generation ever. Yet their elders often stop them from reaching their full potential</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e42fb8a38778aaf15ffd6947acaf516b26e5c29.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Generation Uphill</h1><p>The millennials are the brainiest, best-educated generation ever. Yet their elders often stop them from reaching their full potential</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/988286feb6da835c171646dc41e7f01d1f49d346.png"></article>]]></description>
             <link>http://www.economist.com/news/special-report/21688591-millennials-are-brainiest-best-educated-generation-ever-yet-their-elders-often</link>
             <guid isPermaLink="false">2c7aebd0-cf37-45d1-8244-a6d4495c3e1d</guid>
             <pubDate>Sat, 23 Jan 2016 15:02:34 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://recode.net/2016/01/20/the-promise-and-confusion-of-usb-type-c/</link>
             <guid isPermaLink="false">929c7244-d679-401a-8bd9-a5bcdf0155f4</guid>
             <pubDate>Thu, 21 Jan 2016 17:34:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[These Tricks Make Virtual Reality Feel Real]]></title>
-            <description><![CDATA[<article><h1>These Tricks Make Virtual Reality Feel Real</h1><p>I am standing a few feet away from a conference table, about to test something called a "Holojam." It is made of head-mounted displays, motion capture cameras and many lines of code. Affixed to the edges of the table, as well as to my hands and ankles, are little plastic balls, which are used to track things in the virtual environment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bc4de350828ad3c12e9d6633b9f91e902e085cd.jpg"></article>]]></description>
-            <link>http://nautil.us/issue/32/space/these-tricks-make-virtual-reality-feel-real</link>
-            <guid isPermaLink="false">a7ee3d00-0716-46cf-8e05-0ac8bf203a38</guid>
-            <pubDate>Thu, 21 Jan 2016 17:33:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
