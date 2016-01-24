@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 15:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2016 12:19:13 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Conversation With Erik Spiekermann]]></title>
+            <description><![CDATA[<article><h1>A Conversation With Erik Spiekermann</h1><p>Erik Spiekermann has forgotten more things than most successful and creative people know in their lifetime. Now in his sixties (68), the German-born designer and typography guru remains as excited about the future as ever. A few years ago a friend invited me to have dim sum at Hakkasan in San Francisco.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a4a2239eaa28455f3f90ed85acfde6261a9d3e4.jpg"></article>]]></description>
+            <link>http://pi.co/erik-spiekermann/</link>
+            <guid isPermaLink="false">276576b6-2d1f-4398-82fb-f5d99d9a54a7</guid>
+            <pubDate>Sun, 24 Jan 2016 12:18:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In the Beginning was the Command Line]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theguardian.com/books/2016/jan/20/fairytales-much-older-than-previously-thought-say-researchers?CMP=fb_a-culture_b-gdnculture</link>
             <guid isPermaLink="false">ff15211f-63bb-4ba3-bd5c-f4f214b51480</guid>
             <pubDate>Fri, 22 Jan 2016 08:56:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Promise and Confusion of USB Type-C]]></title>
-            <description><![CDATA[<article><h1>The Promise and Confusion of USB Type-C</h1><p>Okay, I'll admit it - it's not exactly the sexiest topic in tech. But when it comes to the practical, day-to-day existence with all of our modern devices, connectivity is an important story.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/95c6f1f3230e43098080ba12d8f30c5ffdcaba7b.jpg"></article>]]></description>
-            <link>http://recode.net/2016/01/20/the-promise-and-confusion-of-usb-type-c/</link>
-            <guid isPermaLink="false">929c7244-d679-401a-8bd9-a5bcdf0155f4</guid>
-            <pubDate>Thu, 21 Jan 2016 17:34:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
