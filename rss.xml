@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 12:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 11:19:52 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Will decline in driver licenses impact car ownership?]]></title>
+            <description><![CDATA[<article><h1>Will decline in driver licenses impact car ownership?</h1><p>If you read the news, there is a growing sense that car ownership as we know it is going to be thing of the past. The rise of Uber and other car sharing services has made not owning a car an option for a good portion of the population, especially those who are (big) city dwellers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebf541dd1a01f36ad5e8b0bb97a8f0e77c436823.jpg"></article>]]></description>
+            <link>http://om.co/2016/01/19/led-by-millenials-fewer-drivers-licenses/</link>
+            <guid isPermaLink="false">fef8c7da-ecac-4094-b2fa-51e7b7719ac8</guid>
+            <pubDate>Mon, 25 Jan 2016 11:19:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A Conversation With Erik Spiekermann]]></title>
-            <description><![CDATA[<article><h1>A Conversation With Erik Spiekermann</h1><p>Erik Spiekermann has forgotten more things than most successful and creative people know in their lifetime. Now in his sixties (68), the German-born designer and typography guru remains as excited about the future as ever. A few years ago a friend invited me to have dim sum at Hakkasan in San Francisco.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a4a2239eaa28455f3f90ed85acfde6261a9d3e4.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>A Conversation With Erik Spiekermann</h1><p>Erik Spiekermann has forgotten more things than most successful and creative people know in their lifetime. Now in his sixties (68), the German-born designer and typography guru remains as excited about the future as ever. A few years ago a friend invited me to have dim sum at Hakkasan in San Francisco.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d48382a5d8cd5d0b17df58037df7178e1a502fc.jpg"></article>]]></description>
             <link>http://pi.co/erik-spiekermann/</link>
             <guid isPermaLink="false">276576b6-2d1f-4398-82fb-f5d99d9a54a7</guid>
             <pubDate>Sun, 24 Jan 2016 12:18:45 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.udacity.com/course/deep-learning--ud730</link>
             <guid isPermaLink="false">4d3013a5-c326-4867-b46a-935c6f905f7a</guid>
             <pubDate>Fri, 22 Jan 2016 14:32:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fairytales much older than previously thought, say researchers]]></title>
-            <description><![CDATA[<article><h1>Fairytales much older than previously thought, say researchers</h1><p>Fairy stories such as Beauty and the Beast and Rumpelstiltskin can be traced back thousands of years to prehistoric times, with one tale originating from the bronze age, academics have revealed.</p><img src="https://i.guim.co.uk/img/media/c7115f7078b7a21b341a0028ce64ebbb729b2608/0_415_1343_806/master/1343.jpg?w=1200&q=85&auto=format&sharp=10&s=da831e7fb3cb7525fdaa71987c47229f"></article>]]></description>
-            <link>http://www.theguardian.com/books/2016/jan/20/fairytales-much-older-than-previously-thought-say-researchers?CMP=fb_a-culture_b-gdnculture</link>
-            <guid isPermaLink="false">ff15211f-63bb-4ba3-bd5c-f4f214b51480</guid>
-            <pubDate>Fri, 22 Jan 2016 08:56:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
