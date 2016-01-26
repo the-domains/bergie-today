@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T19:51:09.646Z'
+datePublished: '2016-01-26T19:51:09.629Z'
 dateModified: '2016-01-26T19:51:03.955Z'
 title: 'USB-C: Using the same charger for my phone and laptop'
 author: []
