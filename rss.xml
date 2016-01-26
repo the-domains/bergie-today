@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 20:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 20:32:16 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[APIcon UK: Why Developers Should Take Linked Data Seriously]]></title>
+            <description><![CDATA[<article><h1>APIcon UK: Why Developers Should Take Linked Data Seriously</h1><p>If you aren't familiar with linked data or the Semantic Web, it's probably a good time to get better acquainted with the concepts, as it seems to be a popular theme that is rippling through the Web development world, with promises of exciting possibilities.</p><img src="http://www.programmableweb.com/sites/default/files/styles/large/public/Markus%20Lanthaler%20-%20APIcon%20London_0.jpg?itok=LGjcJS0m"></article>]]></description>
+            <link>http://www.programmableweb.com/news/apicon-uk-why-developers-should-take-linked-data-seriously/2014/09/25?utm_content=buffer27d7a&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">af952f30-b6d7-455e-984b-c6f289e46bb9</guid>
+            <pubDate>Tue, 26 Jan 2016 20:29:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Web Push Arrives in Firefox 44]]></title>
-            <description><![CDATA[<article><h1>Web Push Arrives in Firefox 44</h1><p>Have you ever wished that a website could notify you when something important happened, even if you didn't have the site open? Maybe you've got an incoming WebRTC call, an instant message, or a financial update. Perhaps your city just declared an emergency snow plowing schedule.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfc71119e1e48ed756430e934c4d3019ae4a25ce.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Web Push Arrives in Firefox 44</h1><p>Have you ever wished that a website could notify you when something important happened, even if you didn't have the site open? Maybe you've got an incoming WebRTC call, an instant message, or a financial update. Perhaps your city just declared an emergency snow plowing schedule.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d7e72d5d619c0288ac9d4ae3b5e8163a73bffae.png"></article>]]></description>
             <link>https://hacks.mozilla.org/2016/01/web-push-arrives-in-firefox-44/</link>
             <guid isPermaLink="false">ba60379e-cb67-4299-9fd9-1e00921f406a</guid>
             <pubDate>Tue, 26 Jan 2016 20:27:59 GMT</pubDate>
