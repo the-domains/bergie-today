@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 19:57:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 20:04:55 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[First stage of Falcon 9 rocket]]></title>
+            <description><![CDATA[<article><h1>First stage of Falcon 9 rocket</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2cfe0121f0e534bc080d82831959e13fe2433bb.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/spacexphotos/24382360351/in/datetaken/</link>
+            <guid isPermaLink="false">b1af57f1-b7fd-4812-b1e1-e01ceb06f5bf</guid>
+            <pubDate>Tue, 26 Jan 2016 20:04:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fairytales much older than previously thought, say researchers]]></title>
-            <description><![CDATA[<article><h1>Fairytales much older than previously thought, say researchers</h1><p>Fairy stories such as Beauty and the Beast and Rumpelstiltskin can be traced back thousands of years to prehistoric times, with one tale originating from the bronze age, academics have revealed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b23158e6e928bff038f3fc6069d21e18c26bff05.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Fairytales much older than previously thought, say researchers</h1><p>Fairy stories such as Beauty and the Beast and Rumpelstiltskin can be traced back thousands of years to prehistoric times, with one tale originating from the bronze age, academics have revealed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/470299e5e64d1dd436bb0ee494b3ad85dfdf94dc.jpg"></article>]]></description>
             <link>http://www.theguardian.com/books/2016/jan/20/fairytales-much-older-than-previously-thought-say-researchers?CMP=fb_a-culture_b-gdnculture</link>
             <guid isPermaLink="false">ff15211f-63bb-4ba3-bd5c-f4f214b51480</guid>
             <pubDate>Tue, 26 Jan 2016 19:57:06 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://pi.co/erik-spiekermann/</link>
             <guid isPermaLink="false">276576b6-2d1f-4398-82fb-f5d99d9a54a7</guid>
             <pubDate>Sun, 24 Jan 2016 12:18:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In the Beginning was the Command Line]]></title>
-            <description><![CDATA[<article><h1>In the Beginning was the Command Line</h1><p>A huge stack of accordion-fold paper sat on the floor underneath each one of these glorified teletypes, and miles of paper shuddered through their platens. Almost all of this paper was thrown away or recycled without ever having been touched by ink--an ecological atrocity so glaring that those machines soon replaced by video terminals--so-called "glass teletypes"--which were quieter and didn't waste paper.</p></article>]]></description>
-            <link>http://cristal.inria.fr/~weis/info/commandline.html</link>
-            <guid isPermaLink="false">58143cea-5a23-460b-bac9-b442a96b8360</guid>
-            <pubDate>Sat, 23 Jan 2016 15:18:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
