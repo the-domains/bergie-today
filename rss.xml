@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 20:04:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 20:10:57 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dream Chaser DNA: A story of spaceplane evolution]]></title>
+            <description><![CDATA[<article><h1>Dream Chaser DNA: A story of spaceplane evolution</h1><p>Since the earliest days of the space age there has been something inherently attractive in the idea of a spacecraft that could glide back after its mission and land like an aeroplane. From Sanger's Silbervogel onwards, a succession of spaceplanes sporting various shapes and configurations have flowed from the minds of aerospace designers.</p><img src="https://thehighfrontier.files.wordpress.com/2015/10/311932main_ecn-2359_full.png?w=636"></article>]]></description>
+            <link>https://thehighfrontier.wordpress.com/2015/10/27/dream-chaser-dna-a-story-of-spaceplane-evolution/</link>
+            <guid isPermaLink="false">47cf089c-8b5b-408d-95d0-c0e3ad3d257a</guid>
+            <pubDate>Tue, 26 Jan 2016 20:06:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[First stage of Falcon 9 rocket]]></title>
-            <description><![CDATA[<article><h1>First stage of Falcon 9 rocket</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2cfe0121f0e534bc080d82831959e13fe2433bb.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>First stage of Falcon 9 rocket</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e409b2e72f74d94a484f65d26ef0fd22b4b4b6f.jpg"></article>]]></description>
             <link>https://www.flickr.com/photos/spacexphotos/24382360351/in/datetaken/</link>
             <guid isPermaLink="false">b1af57f1-b7fd-4812-b1e1-e01ceb06f5bf</guid>
             <pubDate>Tue, 26 Jan 2016 20:04:53 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://om.co/2016/01/19/led-by-millenials-fewer-drivers-licenses/</link>
             <guid isPermaLink="false">fef8c7da-ecac-4094-b2fa-51e7b7719ac8</guid>
             <pubDate>Mon, 25 Jan 2016 11:19:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Conversation With Erik Spiekermann]]></title>
-            <description><![CDATA[<article><h1>A Conversation With Erik Spiekermann</h1><p>Erik Spiekermann has forgotten more things than most successful and creative people know in their lifetime. Now in his sixties (68), the German-born designer and typography guru remains as excited about the future as ever. A few years ago a friend invited me to have dim sum at Hakkasan in San Francisco.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d48382a5d8cd5d0b17df58037df7178e1a502fc.jpg"></article>]]></description>
-            <link>http://pi.co/erik-spiekermann/</link>
-            <guid isPermaLink="false">276576b6-2d1f-4398-82fb-f5d99d9a54a7</guid>
-            <pubDate>Sun, 24 Jan 2016 12:18:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
