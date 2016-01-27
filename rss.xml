@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 17:27:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 19:57:33 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gridlab]]></title>
+            <description><![CDATA[<article><h1>Gridlab</h1><p>find inspirations and a showcase of beta sites from The Founding Members of The Grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d40fe4c7aaf1cb17dde01df34d579adbf75676d5.jpg"></article>]]></description>
+            <link>http://thegrid.ai/gridlab/</link>
+            <guid isPermaLink="false">ad9b1da8-c0dc-4479-ab4f-29566b42094f</guid>
+            <pubDate>Wed, 27 Jan 2016 19:56:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The 2015 Panic Report]]></title>
-            <description><![CDATA[<article><h1>The 2015 Panic Report</h1><p>The complete Panic Family, circa 2015. Welcome to the 19th year of Panic. That's one heaping teaspoon of life-time, but you know what? It doesn't feel like it. I think it's because things at Panic are always evolving - gradually evolving, but evolving still, like any good business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db46166139fe8d114871a19b192805d91a2c08fe.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The 2015 Panic Report</h1><p>The complete Panic Family, circa 2015. Welcome to the 19th year of Panic. That's one heaping teaspoon of life-time, but you know what? It doesn't feel like it. I think it's because things at Panic are always evolving - gradually evolving, but evolving still, like any good business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/069e87de198df52b517fbf40a27fdc8c415277d5.jpg"></article>]]></description>
             <link>https://panic.com/blog/the-2015-panic-report/</link>
             <guid isPermaLink="false">70f2890a-b65b-4f3d-b9c3-c75da540a8fc</guid>
             <pubDate>Wed, 27 Jan 2016 17:27:17 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://hbr.org/2016/01/renaissance-florence-was-a-better-model-for-innovation-than-silicon-valley-is</link>
             <guid isPermaLink="false">39d05b96-1f55-4e09-846f-3a0bce771576</guid>
             <pubDate>Tue, 26 Jan 2016 18:43:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Google Pixel C Review]]></title>
-            <description><![CDATA[<article><h1>The Google Pixel C Review</h1><p>Last year's holiday launch of the Pixel C gave us the first Android device that is designed, branded, and supported by Google. It also cemented the Pixel branding as something that referred specifically to such devices, in addition to its original meaning of products which had sharp displays.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f55aad7bccc769592932c012958d2f605ca98295.jpg"></article>]]></description>
-            <link>http://www.anandtech.com/show/9972/the-google-pixel-c-review</link>
-            <guid isPermaLink="false">78ec2210-44a3-4a98-a24e-49d665659e2f</guid>
-            <pubDate>Tue, 26 Jan 2016 13:56:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
