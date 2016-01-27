@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 10:40:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 17:27:55 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The 2015 Panic Report]]></title>
+            <description><![CDATA[<article><h1>The 2015 Panic Report</h1><p>The complete Panic Family, circa 2015. Welcome to the 19th year of Panic. That's one heaping teaspoon of life-time, but you know what? It doesn't feel like it. I think it's because things at Panic are always evolving - gradually evolving, but evolving still, like any good business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db46166139fe8d114871a19b192805d91a2c08fe.jpg"></article>]]></description>
+            <link>https://panic.com/blog/the-2015-panic-report/</link>
+            <guid isPermaLink="false">70f2890a-b65b-4f3d-b9c3-c75da540a8fc</guid>
+            <pubDate>Wed, 27 Jan 2016 17:27:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dream Chaser DNA: A story of spaceplane evolution]]></title>
-            <description><![CDATA[<article><h1>Dream Chaser DNA: A story of spaceplane evolution</h1><p>Since the earliest days of the space age there has been something inherently attractive in the idea of a spacecraft that could glide back after its mission and land like an aeroplane. From Sanger's Silbervogel onwards, a succession of spaceplanes sporting various shapes and configurations have flowed from the minds of aerospace designers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14128525d96b23419f19bff4477ba28822ccae1d.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Dream Chaser DNA: A story of spaceplane evolution</h1><p>Since the earliest days of the space age there has been something inherently attractive in the idea of a spacecraft that could glide back after its mission and land like an aeroplane. From Sanger's Silbervogel onwards, a succession of spaceplanes sporting various shapes and configurations have flowed from the minds of aerospace designers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba001e648eb076ae6688cd9e2ab7777942dc8b8e.png"></article>]]></description>
             <link>https://thehighfrontier.wordpress.com/2015/10/27/dream-chaser-dna-a-story-of-spaceplane-evolution/</link>
             <guid isPermaLink="false">e4e7e6ea-82ce-481c-8714-864be8bc0d96</guid>
             <pubDate>Wed, 27 Jan 2016 10:40:16 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.anandtech.com/show/9972/the-google-pixel-c-review</link>
             <guid isPermaLink="false">78ec2210-44a3-4a98-a24e-49d665659e2f</guid>
             <pubDate>Tue, 26 Jan 2016 13:56:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Computer Revolution Has Yet to Happen]]></title>
-            <description><![CDATA[<article><h1>The Computer Revolution Has Yet to Happen</h1><p>A combination of this "carry anywhere" device and a global information utility such as the ARPA network or two-way cable TV, will bring the libraries and schools (not to mention stores and billboards) of the world to the home. One can imagine one of the first programs an owner will write is a filter to eliminate advertising!</p><img src="https://cdn-images-2.medium.com/max/600/1*XkQWZNty8gBpkjpwkkjkCA.jpeg"></article>]]></description>
-            <link>https://medium.com/absurdist/the-computer-revolution-has-yet-to-happen-f1dbf983d477#.r0tnbrela</link>
-            <guid isPermaLink="false">d2b68bea-6430-4d55-a44d-a01bb711916d</guid>
-            <pubDate>Mon, 25 Jan 2016 11:23:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
