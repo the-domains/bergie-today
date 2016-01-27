@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 20:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 10:40:57 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dream Chaser DNA: A story of spaceplane evolution]]></title>
+            <description><![CDATA[<article><h1>Dream Chaser DNA: A story of spaceplane evolution</h1><p>Since the earliest days of the space age there has been something inherently attractive in the idea of a spacecraft that could glide back after its mission and land like an aeroplane. From Sanger's Silbervogel onwards, a succession of spaceplanes sporting various shapes and configurations have flowed from the minds of aerospace designers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14128525d96b23419f19bff4477ba28822ccae1d.png"></article>]]></description>
+            <link>https://thehighfrontier.wordpress.com/2015/10/27/dream-chaser-dna-a-story-of-spaceplane-evolution/</link>
+            <guid isPermaLink="false">e4e7e6ea-82ce-481c-8714-864be8bc0d96</guid>
+            <pubDate>Wed, 27 Jan 2016 10:40:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why Developers Should Take Linked Data Seriously]]></title>
-            <description><![CDATA[<article><h1>Why Developers Should Take Linked Data Seriously</h1><p>If you aren't familiar with linked data or the Semantic Web, it's probably a good time to get better acquainted with the concepts, as it seems to be a popular theme that is rippling through the Web development world, with promises of exciting possibilities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d89a4d308772ec20056f264590b2506a9793d234.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Why Developers Should Take Linked Data Seriously</h1><p>If you aren't familiar with linked data or the Semantic Web, it's probably a good time to get better acquainted with the concepts, as it seems to be a popular theme that is rippling through the Web development world, with promises of exciting possibilities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/335754b97d31924586b38a3158d5a4e37ae66dfd.jpg"></article>]]></description>
             <link>http://www.programmableweb.com/news/apicon-uk-why-developers-should-take-linked-data-seriously/2014/09/25?utm_content=buffer27d7a&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">af952f30-b6d7-455e-984b-c6f289e46bb9</guid>
             <pubDate>Tue, 26 Jan 2016 20:33:30 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://medium.com/absurdist/the-computer-revolution-has-yet-to-happen-f1dbf983d477#.r0tnbrela</link>
             <guid isPermaLink="false">d2b68bea-6430-4d55-a44d-a01bb711916d</guid>
             <pubDate>Mon, 25 Jan 2016 11:23:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will decline in driver licenses impact car ownership?]]></title>
-            <description><![CDATA[<article><h1>Will decline in driver licenses impact car ownership?</h1><p>If you read the news, there is a growing sense that car ownership as we know it is going to be thing of the past. The rise of Uber and other car sharing services has made not owning a car an option for a good portion of the population, especially those who are (big) city dwellers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9e7ae9df63f923fdf61b46cf04b81f4431ba1a7.jpg"></article>]]></description>
-            <link>http://om.co/2016/01/19/led-by-millenials-fewer-drivers-licenses/</link>
-            <guid isPermaLink="false">fef8c7da-ecac-4094-b2fa-51e7b7719ac8</guid>
-            <pubDate>Mon, 25 Jan 2016 11:19:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
