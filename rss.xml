@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 09:36:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jan 2016 10:09:08 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Problem With Putting All the World's Code in GitHub]]></title>
+            <description><![CDATA[<article><h1>The Problem With Putting All the World's Code in GitHub</h1><p>The ancient Library of Alexandria may have been the largest collection of human knowledge in its time, and scholars still mourn its destruction. The risk of so devastating a loss diminished somewhat with the advent of the printing press and further still with the rise of the Internet.</p><img src="http://www.wired.com/wp-content/uploads/2015/06/GettyImages-177499861.jpg"></article>]]></description>
+            <link>http://www.wired.com/2015/06/problem-putting-worlds-code-github/</link>
+            <guid isPermaLink="false">8fb86a86-edb5-4bd2-b712-d199cd6ca3ea</guid>
+            <pubDate>Thu, 28 Jan 2016 10:07:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google DeepMind: Ground-breaking AlphaGo masters the game of Go]]></title>
@@ -68,13 +75,6 @@
             <link>https://segment.com/blog/automating-our-infrastructure/</link>
             <guid isPermaLink="false">f74448b4-57a8-4552-af6e-1caa301d365f</guid>
             <pubDate>Tue, 26 Jan 2016 19:31:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Motion with Meaning: Semantic Animation in Interface Design]]></title>
-            <description><![CDATA[<article><h1>Motion with Meaning: Semantic Animation in Interface Design</h1><p>Animation is fast becoming an essential part of interface design, and it’s easy to see why. It gives us a whole new dimension to play with—time. This creates opportunities to make our interfaces better at every level: it can make them easier to understand, more pleasant to use, and nicer to look at.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34784de9ff1993235bf7433b52eeee06642fcc6a.png"></article>]]></description>
-            <link>http://alistapart.com/article/motion-with-meaning-semantic-animation-in-interface-design</link>
-            <guid isPermaLink="false">cd0d2318-6946-49fa-be92-cbd288e714f8</guid>
-            <pubDate>Tue, 26 Jan 2016 19:25:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
