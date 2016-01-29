@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 10:54:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2016 10:54:26 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,13 +12,6 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Vision API: Image Analysis as a Service]]></title>
-            <description><![CDATA[<article><h1>Google Vision API: Image Analysis as a Service</h1><p>The Google Vision API was released last month, on December 2nd 2015, and it's still in limited preview. You can request access to this limited preview program here and you should receive a very quick email follow-up. I recently requested access with my personal Google Cloud Platform account in order to understand what types of analysis are supported.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85193bdf18efbaa7cefae44ca875bbb84f6b156f.jpg"></article>]]></description>
-            <link>http://cloudacademy.com/blog/google-vision-api-image-analysis/</link>
-            <guid isPermaLink="false">29a18f7c-7a4d-4d28-98a5-b8d028fee477</guid>
-            <pubDate>Fri, 29 Jan 2016 10:54:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Basic Income]]></title>
@@ -75,6 +68,13 @@
             <link>http://www.programmableweb.com/news/apicon-uk-why-developers-should-take-linked-data-seriously/2014/09/25?utm_content=buffer27d7a&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">af952f30-b6d7-455e-984b-c6f289e46bb9</guid>
             <pubDate>Tue, 26 Jan 2016 20:33:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Web Push Arrives in Firefox 44]]></title>
+            <description><![CDATA[<article><h1>Web Push Arrives in Firefox 44</h1><p>Have you ever wished that a website could notify you when something important happened, even if you didn't have the site open? Maybe you've got an incoming WebRTC call, an instant message, or a financial update. Perhaps your city just declared an emergency snow plowing schedule.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d7e72d5d619c0288ac9d4ae3b5e8163a73bffae.png"></article>]]></description>
+            <link>https://hacks.mozilla.org/2016/01/web-push-arrives-in-firefox-44/</link>
+            <guid isPermaLink="false">ba60379e-cb67-4299-9fd9-1e00921f406a</guid>
+            <pubDate>Tue, 26 Jan 2016 20:27:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
