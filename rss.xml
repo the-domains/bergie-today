@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 10:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2016 10:24:55 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Three Years of Ingress and the Road for Niantic]]></title>
+            <description><![CDATA[<article><h1>Three Years of Ingress and the Road for Niantic</h1><p>VR vs. AR and what it means for games like Pokémon GO Wow. 2015 was a busy year for Niantic and one filled with some memorable challenges and triumphs for the team.</p><img src="https://cdn-images-1.medium.com/max/800/1*MVIjzRv1IQKUdamcHw8Qpg.jpeg"></article>]]></description>
+            <link>https://medium.com/@johnhanke/three-years-of-ingress-and-the-road-for-niantic-a991a2d6587#.wy93lhmnr</link>
+            <guid isPermaLink="false">d72a4e5d-dce8-4983-af95-42bd3c4ae8b1</guid>
+            <pubDate>Fri, 29 Jan 2016 10:24:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Problem With Putting All the World's Code in GitHub]]></title>
-            <description><![CDATA[<article><h1>The Problem With Putting All the World's Code in GitHub</h1><p>The ancient Library of Alexandria may have been the largest collection of human knowledge in its time, and scholars still mourn its destruction. The risk of so devastating a loss diminished somewhat with the advent of the printing press and further still with the rise of the Internet.</p><img src="http://www.wired.com/wp-content/uploads/2015/06/GettyImages-177499861.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Problem With Putting All the World's Code in GitHub</h1><p>The ancient Library of Alexandria may have been the largest collection of human knowledge in its time, and scholars still mourn its destruction. The risk of so devastating a loss diminished somewhat with the advent of the printing press and further still with the rise of the Internet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c5a3e1df92ea0533d086f26cdf9b88ac65e254d.jpg"></article>]]></description>
             <link>http://www.wired.com/2015/06/problem-putting-worlds-code-github/</link>
             <guid isPermaLink="false">8fb86a86-edb5-4bd2-b712-d199cd6ca3ea</guid>
             <pubDate>Thu, 28 Jan 2016 10:07:34 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.theguardian.com/books/2016/jan/20/fairytales-much-older-than-previously-thought-say-researchers?CMP=fb_a-culture_b-gdnculture</link>
             <guid isPermaLink="false">ff15211f-63bb-4ba3-bd5c-f4f214b51480</guid>
             <pubDate>Tue, 26 Jan 2016 19:57:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Automating Our Infrastructure to Empower Engineers]]></title>
-            <description><![CDATA[<article><h1>Automating Our Infrastructure to Empower Engineers</h1><p>engineering Growing a business is hard and growing the engineering team to support that is arguably harder, but doing both of those without a stable infrastructure is basically impossible. Particularly for high growth businesses, where every engineer must be empowered to write, test, and ship code with a high degree of autonomy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a783d656d791278b37371542f1f86a25e91f6639.png"></article>]]></description>
-            <link>https://segment.com/blog/automating-our-infrastructure/</link>
-            <guid isPermaLink="false">f74448b4-57a8-4552-af6e-1caa301d365f</guid>
-            <pubDate>Tue, 26 Jan 2016 19:31:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
