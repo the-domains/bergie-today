@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 20:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 19:23:40 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Babylonians tracked Jupiter with sophisticated geometrical math]]></title>
+            <description><![CDATA[<article><h1>Babylonians tracked Jupiter with sophisticated geometrical math</h1><p>Even when a culture leaves behind extensive written records, it can be hard to understand their knowledge of technology and the natural world. Written records are often partial, and writers may have been unaware of some technology or simply considered it unremarkable.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bcab8f1e3bd64eb275c03aadd2386e1e98034b85.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2016/01/babylonians-tracked-jupiter-with-sophisticated-geometrical-math/</link>
+            <guid isPermaLink="false">aec7dfff-f0a1-448a-a01c-48f2d3247308</guid>
+            <pubDate>Sat, 30 Jan 2016 19:20:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Antarctic fungi survive Martian conditions on the International Space Station]]></title>
-            <description><![CDATA[<article><h1>Antarctic fungi survive Martian conditions on the International Space Station</h1><p>European scientists have gathered tiny fungi that take shelter in Antarctic rocks and sent them to the International Space Station. After 18 months on board in conditions similar to those on Mars, more than 60% of their cells remained intact, with stable DNA. The results provide new information for the search for life on the red planet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb4fcc2e18c952956b02c0039f74e557b04f3c42.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Antarctic fungi survive Martian conditions on the International Space Station</h1><p>European scientists have gathered tiny fungi that take shelter in Antarctic rocks and sent them to the International Space Station. After 18 months on board in conditions similar to those on Mars, more than 60% of their cells remained intact, with stable DNA. The results provide new information for the search for life on the red planet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96c4a19f4c6efadd951cb1f99caa8812db5929b6.jpg"></article>]]></description>
             <link>http://phys.org/news/2016-01-antarctic-fungi-survive-martian-conditions.html</link>
             <guid isPermaLink="false">f68a246a-f218-4870-81be-a5959ab9b846</guid>
             <pubDate>Fri, 29 Jan 2016 20:15:55 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://panic.com/blog/the-2015-panic-report/</link>
             <guid isPermaLink="false">70f2890a-b65b-4f3d-b9c3-c75da540a8fc</guid>
             <pubDate>Wed, 27 Jan 2016 17:27:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dream Chaser DNA: A story of spaceplane evolution]]></title>
-            <description><![CDATA[<article><h1>Dream Chaser DNA: A story of spaceplane evolution</h1><p>Since the earliest days of the space age there has been something inherently attractive in the idea of a spacecraft that could glide back after its mission and land like an aeroplane. From Sanger's Silbervogel onwards, a succession of spaceplanes sporting various shapes and configurations have flowed from the minds of aerospace designers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba001e648eb076ae6688cd9e2ab7777942dc8b8e.png"></article>]]></description>
-            <link>https://thehighfrontier.wordpress.com/2015/10/27/dream-chaser-dna-a-story-of-spaceplane-evolution/</link>
-            <guid isPermaLink="false">e4e7e6ea-82ce-481c-8714-864be8bc0d96</guid>
-            <pubDate>Wed, 27 Jan 2016 10:40:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
