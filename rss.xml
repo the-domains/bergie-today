@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 11:44:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 11:43:08 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Project Natick]]></title>
+            <description><![CDATA[<article><h1>Project Natick</h1><p>Project Natick is a research project to determine the feasibility of subsea datacenters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f13bf5f54a54e4c4c70a8e8374583cab3b36486c.jpg"></article>]]></description>
+            <link>http://www.projectnatick.com/</link>
+            <guid isPermaLink="false">b6f69cb0-c0fc-4318-90f0-8199ca5aa4dc</guid>
+            <pubDate>Mon, 01 Feb 2016 11:42:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why investors are following Musk, Bezos in betting on the stars]]></title>
-            <description><![CDATA[<article><h1>Why investors are following Musk, Bezos in betting on the stars</h1><p>Last year, when Google and Fidelity invested $1 billion into Elon Musk's SpaceX, one of the company's earliest backers also wanted to get in on the latest round of funding. But SpaceX ever-so politely asked Steve Jurvetson's Silicon Valley venture capital firm to kindly hold off.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4f3ad6b361cf1627251b0c9c7289204590286ad.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Why investors are following Musk, Bezos in betting on the stars</h1><p>Last year, when Google and Fidelity invested $1 billion into Elon Musk's SpaceX, one of the company's earliest backers also wanted to get in on the latest round of funding. But SpaceX ever-so politely asked Steve Jurvetson's Silicon Valley venture capital firm to kindly hold off.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35cc3fc7e60c574fec8a262d5eee8dc448f10cf6.jpg"></article>]]></description>
             <link>https://www.washingtonpost.com/business/economy/why-investors-are-following-musk-bezos-in-betting-on-the-stars/2016/01/28/42bd5066-b962-11e5-b682-4bb4dd403c7d_story.html?hpid=hp_regional-hp-cards_no-name%3Ahomepage%2Fcard</link>
             <guid isPermaLink="false">5de2084a-ce99-4ba7-adb5-13800fae4049</guid>
             <pubDate>Sun, 31 Jan 2016 11:44:00 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/SUbqykXVx0A</link>
             <guid isPermaLink="false">36f0b376-ead0-44e0-b9f4-1a7bbff48453</guid>
             <pubDate>Thu, 28 Jan 2016 08:49:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gridlab]]></title>
-            <description><![CDATA[<article><h1>Gridlab</h1><p>find inspirations and a showcase of beta sites from The Founding Members of The Grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99167c2dd830b6fc9bcc5e483efc91170173739b.jpg"></article>]]></description>
-            <link>http://thegrid.ai/gridlab/</link>
-            <guid isPermaLink="false">ad9b1da8-c0dc-4479-ab4f-29566b42094f</guid>
-            <pubDate>Wed, 27 Jan 2016 19:56:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
