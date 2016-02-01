@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 11:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 14:47:38 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Curiosity Self-Portrait at Martian Sand Dune]]></title>
+            <description><![CDATA[<article><h1>Curiosity Self-Portrait at Martian Sand Dune</h1><p>This self-portrait of NASA's Curiosity Mars rover shows the vehicle at "Namib Dune," where the rover's activities included scuffing into the dune with a wheel and scooping samples of sand for laboratory analysis.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4551d054aaaa348e4eafc08f3c12c10c432d46e.jpg"></article>]]></description>
+            <link>http://www.nasa.gov/image-feature/jpl/pia20316/curiosity-self-portrait-at-martian-sand-dune</link>
+            <guid isPermaLink="false">77080935-5f85-4bfe-bab6-2f37cf92fb97</guid>
+            <pubDate>Mon, 01 Feb 2016 14:46:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Project Natick]]></title>
-            <description><![CDATA[<article><h1>Project Natick</h1><p>Project Natick seeks to understand the benefits and difficulties in deploying subsea datacenters worldwide. We did so by designing, building, and deploying our own subsea datacenter in the ocean, all in about a year. This is the story of the Leona Philpot and Project Natick.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdc166d9ca715711f3f0566396381f26c96e0410.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Project Natick</h1><p>Project Natick seeks to understand the benefits and difficulties in deploying subsea datacenters worldwide. We did so by designing, building, and deploying our own subsea datacenter in the ocean, all in about a year. This is the story of the Leona Philpot and Project Natick.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c16d9b1420ec13b7006b05b4018bac51fc612f04.jpg"></article>]]></description>
             <link>http://www.projectnatick.com/</link>
             <guid isPermaLink="false">b6f69cb0-c0fc-4318-90f0-8199ca5aa4dc</guid>
             <pubDate>Mon, 01 Feb 2016 11:56:17 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.wired.com/2015/06/problem-putting-worlds-code-github/</link>
             <guid isPermaLink="false">8fb86a86-edb5-4bd2-b712-d199cd6ca3ea</guid>
             <pubDate>Thu, 28 Jan 2016 10:07:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google DeepMind: Ground-breaking AlphaGo masters the game of Go]]></title>
-            <description><![CDATA[<article><h1>Google DeepMind: Ground-breaking AlphaGo masters the game of Go</h1><p>In a paper published in Nature on 28th January 2016, we describe a new approach to computer Go. This is the first time ever that a computer program "AlphaGo" has defeated a human professional player. The game of Go is widely viewed as an unsolved "grand challenge" for artificial intelligence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/103f1dc545720e7417c603b6c9fca10c59c2225d.jpg"></article>]]></description>
-            <link>https://youtu.be/SUbqykXVx0A</link>
-            <guid isPermaLink="false">36f0b376-ead0-44e0-b9f4-1a7bbff48453</guid>
-            <pubDate>Thu, 28 Jan 2016 08:49:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
