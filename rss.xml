@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 08:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 12:28:11 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[CIO Explainer: What Is Blockchain?]]></title>
+            <description><![CDATA[<article><h1>CIO Explainer: What Is Blockchain?</h1><p>Widely known as the technology underpinning the digital currency bitcoin, blockchain has acquired a new identity in the enterprise. Today, more than 40 top financial institutions and a growing number of companies across industries are experimenting with distributed ledger technology as a trusted way to track the ownership of assets without the need for a central authority, which could speed up transactions and cut costs while lowering the chance of fraud.</p><img src="http://si.wsj.net/public/resources/images/BN-MJ873_0201_c_P_20160201185132.jpg"></article>]]></description>
+            <link>http://www.wsj.com/articles/BL-CIOB-8993</link>
+            <guid isPermaLink="false">384801df-b4a9-4281-bfa1-add249b40c14</guid>
+            <pubDate>Tue, 02 Feb 2016 12:28:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The audacious rescue plan that might have saved space shuttle Columbia]]></title>
-            <description><![CDATA[<article><h1>The audacious rescue plan that might have saved space shuttle Columbia</h1><p>February 1, 2016: One of the most tragic events in the history of space exploration is the loss of the space shuttle Columbia and all seven of its crew on February 1, 2003-a tragedy made worse because it didn't have to happen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/034d1252600b402e6ed058de7b275ad2731ec16c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The audacious rescue plan that might have saved space shuttle Columbia</h1><p>February 1, 2016: One of the most tragic events in the history of space exploration is the loss of the space shuttle Columbia and all seven of its crew on February 1, 2003-a tragedy made worse because it didn't have to happen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/17df21617cd14fb9741f0f843690a56828dae126.jpg"></article>]]></description>
             <link>http://arstechnica.com/science/2016/02/the-audacious-rescue-plan-that-might-have-saved-space-shuttle-columbia/</link>
             <guid isPermaLink="false">59735f11-be1d-4a84-a696-801d84aa0927</guid>
             <pubDate>Tue, 02 Feb 2016 08:15:46 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://cloudacademy.com/blog/google-vision-api-image-analysis/</link>
             <guid isPermaLink="false">29a18f7c-7a4d-4d28-98a5-b8d028fee477</guid>
             <pubDate>Fri, 29 Jan 2016 10:54:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Basic Income]]></title>
-            <description><![CDATA[<article><h1>Basic Income</h1><p>We're going to try something new-our first Request For Research. We'd like to fund a study on basic income-i.e., giving people enough money to live on with no strings attached. I've been intrigued by the idea for a while, and although there's been a lot of discussion, there's fairly little data about how it would work.</p></article>]]></description>
-            <link>https://blog.ycombinator.com/basic-income</link>
-            <guid isPermaLink="false">a36bc9ea-9806-45ca-b7cd-5b297e1c0c78</guid>
-            <pubDate>Fri, 29 Jan 2016 10:53:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
