@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 15:38:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 15:43:00 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Megabite]]></title>
+            <description><![CDATA[<article><h1>Megabite</h1><p>Megabite is a mobile app that automatically turns a photo of your food into a face. Let's face it, food is more fun when it looks happy. I was playing with my food one lunchtime, and I wondered to myself - would it be possible to automate this process?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51233d37d936a843e0a12a087d949437008ce33b.jpg"></article>]]></description>
+            <link>http://aaronrandall.com/blog/megabite/</link>
+            <guid isPermaLink="false">24e1e548-2383-411e-87f0-4711fb3b9515</guid>
+            <pubDate>Tue, 02 Feb 2016 15:42:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[BofA: The Oil Crash Is Kicking Off One of the Largest Wealth Transfers in Human History]]></title>
-            <description><![CDATA[<article><h1>BofA: The Oil Crash Is Kicking Off One of the Largest Wealth Transfers in Human History</h1><p>Economists are still hotly debating whether the oil crash has been a net positive for advanced economies. Optimists argue that cheap oil is a good thing for consumers and commodity-sensitive businesses, while pessimists point to the hit to energy-related investment and possible spillover into the financial system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/674aec3f22e2abfe1a9a279640aaad4244cbbfde.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>BofA: The Oil Crash Is Kicking Off One of the Largest Wealth Transfers in Human History</h1><p>Economists are still hotly debating whether the oil crash has been a net positive for advanced economies. Optimists argue that cheap oil is a good thing for consumers and commodity-sensitive businesses, while pessimists point to the hit to energy-related investment and possible spillover into the financial system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11b4fa3e18a8b21cc1b43042185e991714842299.jpg"></article>]]></description>
             <link>http://www.bloomberg.com/news/articles/2016-02-01/bofa-the-oil-crash-is-kicking-off-one-of-the-largest-wealth-transfers-in-human-history</link>
             <guid isPermaLink="false">27aaad0c-48e1-48de-9083-d0efa659b6b6</guid>
             <pubDate>Tue, 02 Feb 2016 15:38:12 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/science/2016/01/babylonians-tracked-jupiter-with-sophisticated-geometrical-math/</link>
             <guid isPermaLink="false">aec7dfff-f0a1-448a-a01c-48f2d3247308</guid>
             <pubDate>Sat, 30 Jan 2016 19:20:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Antarctic fungi survive Martian conditions on the International Space Station]]></title>
-            <description><![CDATA[<article><h1>Antarctic fungi survive Martian conditions on the International Space Station</h1><p>European scientists have gathered tiny fungi that take shelter in Antarctic rocks and sent them to the International Space Station. After 18 months on board in conditions similar to those on Mars, more than 60% of their cells remained intact, with stable DNA. The results provide new information for the search for life on the red planet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96c4a19f4c6efadd951cb1f99caa8812db5929b6.jpg"></article>]]></description>
-            <link>http://phys.org/news/2016-01-antarctic-fungi-survive-martian-conditions.html</link>
-            <guid isPermaLink="false">f68a246a-f218-4870-81be-a5959ab9b846</guid>
-            <pubDate>Fri, 29 Jan 2016 20:15:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
