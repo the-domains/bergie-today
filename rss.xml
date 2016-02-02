@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 15:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 08:17:18 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The audacious rescue plan that might have saved space shuttle Columbia]]></title>
+            <description><![CDATA[<article><h1>The audacious rescue plan that might have saved space shuttle Columbia</h1><p>February 1, 2016: One of the most tragic events in the history of space exploration is the loss of the space shuttle Columbia and all seven of its crew on February 1, 2003-a tragedy made worse because it didn't have to happen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/034d1252600b402e6ed058de7b275ad2731ec16c.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2016/02/the-audacious-rescue-plan-that-might-have-saved-space-shuttle-columbia/</link>
+            <guid isPermaLink="false">59735f11-be1d-4a84-a696-801d84aa0927</guid>
+            <pubDate>Tue, 02 Feb 2016 08:15:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A closer look at the vehicles designed for the Hyperloop Pod competition]]></title>
-            <description><![CDATA[<article><h1>A closer look at the vehicles designed for the Hyperloop Pod competition</h1><p>The Hyperloop Pod competition pitted teams from all over the world against one another hoping that they would be picked to advance to the next level. The finalists will receive up to $150,000 from sponsors to build small scale versions of their pod designs and have them tested on a track being built next to the SpaceX headquarters in Hawthorne California this summer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1e5f5e94b3e25f8dc3d43004b0d43fc8d41c8c7.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>A closer look at the vehicles designed for the Hyperloop Pod competition</h1><p>The Hyperloop Pod competition pitted teams from all over the world against one another hoping that they would be picked to advance to the next level. The finalists will receive up to $150,000 from sponsors to build small scale versions of their pod designs and have them tested on a track being built next to the SpaceX headquarters in Hawthorne California this summer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e216ccef8f897270546f03b9e4be31cebe30966f.jpg"></article>]]></description>
             <link>http://www.engadget.com/2016/01/31/hyperloop-pod-competition-in-photos/</link>
             <guid isPermaLink="false">efade426-cf37-44c5-9821-adf3d0abcd74</guid>
             <pubDate>Mon, 01 Feb 2016 15:30:56 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://blog.ycombinator.com/basic-income</link>
             <guid isPermaLink="false">a36bc9ea-9806-45ca-b7cd-5b297e1c0c78</guid>
             <pubDate>Fri, 29 Jan 2016 10:53:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three Years of Ingress and the Road for Niantic]]></title>
-            <description><![CDATA[<article><h1>Three Years of Ingress and the Road for Niantic</h1><p>VR vs. AR and what it means for games like Pokémon GO Wow. 2015 was a busy year for Niantic and one filled with some memorable challenges and triumphs for the team.</p><img src="https://cdn-images-1.medium.com/max/800/1*MVIjzRv1IQKUdamcHw8Qpg.jpeg"></article>]]></description>
-            <link>https://medium.com/@johnhanke/three-years-of-ingress-and-the-road-for-niantic-a991a2d6587#.wy93lhmnr</link>
-            <guid isPermaLink="false">d72a4e5d-dce8-4983-af95-42bd3c4ae8b1</guid>
-            <pubDate>Fri, 29 Jan 2016 10:24:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
