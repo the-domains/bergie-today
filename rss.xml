@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 15:43:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 17:47:03 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[First Look: Newest LightSail Spacecraft Unfurls Solar Sails]]></title>
+            <description><![CDATA[<article><h1>First Look: Newest LightSail Spacecraft Unfurls Solar Sails</h1><p>The Planetary Society's newest LightSail spacecraft successfully deployed its solar sails Thursday, wrapping up an initial round of system-level tests to prepare the CubeSat for flight.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a281e3354bcb14b9ef2d25b580279805b0abc7e.jpg"></article>]]></description>
+            <link>http://www.planetary.org/blogs/jason-davis/2016/20160129-lightsail-b-sail-deployment.html</link>
+            <guid isPermaLink="false">3f75f82c-dc66-4854-9fd3-aa1e25d36016</guid>
+            <pubDate>Tue, 02 Feb 2016 17:45:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Megabite]]></title>
-            <description><![CDATA[<article><h1>Megabite</h1><p>Megabite is a mobile app that automatically turns a photo of your food into a face. Let's face it, food is more fun when it looks happy. I was playing with my food one lunchtime, and I wondered to myself - would it be possible to automate this process?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51233d37d936a843e0a12a087d949437008ce33b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Megabite</h1><p>Megabite is a mobile app that automatically turns a photo of your food into a face. Let's face it, food is more fun when it looks happy. I was playing with my food one lunchtime, and I wondered to myself - would it be possible to automate this process?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b680cf1b1af8eaee0509c29c209baa09cc3a73d.jpg"></article>]]></description>
             <link>http://aaronrandall.com/blog/megabite/</link>
             <guid isPermaLink="false">24e1e548-2383-411e-87f0-4711fb3b9515</guid>
             <pubDate>Tue, 02 Feb 2016 15:42:05 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.washingtonpost.com/business/economy/why-investors-are-following-musk-bezos-in-betting-on-the-stars/2016/01/28/42bd5066-b962-11e5-b682-4bb4dd403c7d_story.html?hpid=hp_regional-hp-cards_no-name%3Ahomepage%2Fcard</link>
             <guid isPermaLink="false">5de2084a-ce99-4ba7-adb5-13800fae4049</guid>
             <pubDate>Sun, 31 Jan 2016 11:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Babylonians tracked Jupiter with sophisticated geometrical math]]></title>
-            <description><![CDATA[<article><h1>Babylonians tracked Jupiter with sophisticated geometrical math</h1><p>Even when a culture leaves behind extensive written records, it can be hard to understand their knowledge of technology and the natural world. Written records are often partial, and writers may have been unaware of some technology or simply considered it unremarkable.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7bd6f360f95f4f537ef2a069cfa03dbf3a306ae.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/01/babylonians-tracked-jupiter-with-sophisticated-geometrical-math/</link>
-            <guid isPermaLink="false">aec7dfff-f0a1-448a-a01c-48f2d3247308</guid>
-            <pubDate>Sat, 30 Jan 2016 19:20:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
