@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 12:28:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 15:38:15 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[BofA: The Oil Crash Is Kicking Off One of the Largest Wealth Transfers in Human History]]></title>
+            <description><![CDATA[<article><h1>BofA: The Oil Crash Is Kicking Off One of the Largest Wealth Transfers in Human History</h1><p>Economists are still hotly debating whether the oil crash has been a net positive for advanced economies. Optimists argue that cheap oil is a good thing for consumers and commodity-sensitive businesses, while pessimists point to the hit to energy-related investment and possible spillover into the financial system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/674aec3f22e2abfe1a9a279640aaad4244cbbfde.jpg"></article>]]></description>
+            <link>http://www.bloomberg.com/news/articles/2016-02-01/bofa-the-oil-crash-is-kicking-off-one-of-the-largest-wealth-transfers-in-human-history</link>
+            <guid isPermaLink="false">27aaad0c-48e1-48de-9083-d0efa659b6b6</guid>
+            <pubDate>Tue, 02 Feb 2016 15:38:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[CIO Explainer: What Is Blockchain?]]></title>
-            <description><![CDATA[<article><h1>CIO Explainer: What Is Blockchain?</h1><p>Widely known as the technology underpinning the digital currency bitcoin, blockchain has acquired a new identity in the enterprise. Today, more than 40 top financial institutions and a growing number of companies across industries are experimenting with distributed ledger technology as a trusted way to track the ownership of assets without the need for a central authority, which could speed up transactions and cut costs while lowering the chance of fraud.</p><img src="http://si.wsj.net/public/resources/images/BN-MJ873_0201_c_P_20160201185132.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>CIO Explainer: What Is Blockchain?</h1><p>Widely known as the technology underpinning the digital currency bitcoin, blockchain has acquired a new identity in the enterprise. Today, more than 40 top financial institutions and a growing number of companies across industries are experimenting with distributed ledger technology as a trusted way to track the ownership of assets without the need for a central authority, which could speed up transactions and cut costs while lowering the chance of fraud.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/818bebc170fecacb07d766b7b1e85b5ea10c8e8c.jpg"></article>]]></description>
             <link>http://www.wsj.com/articles/BL-CIOB-8993</link>
             <guid isPermaLink="false">384801df-b4a9-4281-bfa1-add249b40c14</guid>
             <pubDate>Tue, 02 Feb 2016 12:28:01 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://phys.org/news/2016-01-antarctic-fungi-survive-martian-conditions.html</link>
             <guid isPermaLink="false">f68a246a-f218-4870-81be-a5959ab9b846</guid>
             <pubDate>Fri, 29 Jan 2016 20:15:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Vision API: Image Analysis as a Service]]></title>
-            <description><![CDATA[<article><h1>Google Vision API: Image Analysis as a Service</h1><p>The Google Vision API was released last month, on December 2nd 2015, and it's still in limited preview. You can request access to this limited preview program here and you should receive a very quick email follow-up. I recently requested access with my personal Google Cloud Platform account in order to understand what types of analysis are supported.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/803c66f1d343a41e09498726ba8f863737ad67e7.jpg"></article>]]></description>
-            <link>http://cloudacademy.com/blog/google-vision-api-image-analysis/</link>
-            <guid isPermaLink="false">29a18f7c-7a4d-4d28-98a5-b8d028fee477</guid>
-            <pubDate>Fri, 29 Jan 2016 10:54:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
