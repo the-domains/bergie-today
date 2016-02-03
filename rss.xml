@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 18:07:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 11:39:23 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[NASA Stole the Rocket Countdown From a 1929 Fritz Lang Film]]></title>
+            <description><![CDATA[<article><h1>NASA Stole the Rocket Countdown From a 1929 Fritz Lang Film</h1><p>On December 1, 2014, NASA retired a historic piece of equipment at Kennedy Space Center in Florida. It wasn't a rocket, or even a deep space nine-iron -it was the original countdown clock, an analog display the size of a titan's wristwatch that stood across the river from the rocket launch site and stoically ticked off the seconds until blastoff.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61d27cbcc0a1dfaf217e53c5c79fa566ed879d5e.jpg"></article>]]></description>
+            <link>http://www.atlasobscura.com/articles/nasa-stole-the-rocket-countdown-from-a-1929-fritz-lang-film-1d569cc0-50ff-4045-b0c9-1f0d72a193db</link>
+            <guid isPermaLink="false">72af7660-a36e-48b1-93d7-1aac336e15c4</guid>
+            <pubDate>Wed, 03 Feb 2016 11:39:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[First Look: Newest LightSail Spacecraft Unfurls Solar Sails]]></title>
-            <description><![CDATA[<article><h1>First Look: Newest LightSail Spacecraft Unfurls Solar Sails</h1><p>The Planetary Society's newest LightSail spacecraft successfully deployed its solar sails Thursday, wrapping up an initial round of system-level tests to prepare the CubeSat for flight.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f779065efda728fbc5210362afc6813af8f8357.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>First Look: Newest LightSail Spacecraft Unfurls Solar Sails</h1><p>Thanks to the recent Kickstarter, there will be some familiar names that are written on that sail. Hoping the launch goes well!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b7cf7c28cc7512b29cab7c5cae7b7bbb1ec3fea.jpg"></article>]]></description>
             <link>http://www.planetary.org/blogs/jason-davis/2016/20160129-lightsail-b-sail-deployment.html</link>
             <guid isPermaLink="false">3f75f82c-dc66-4854-9fd3-aa1e25d36016</guid>
             <pubDate>Tue, 02 Feb 2016 18:07:01 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.projectnatick.com/</link>
             <guid isPermaLink="false">b6f69cb0-c0fc-4318-90f0-8199ca5aa4dc</guid>
             <pubDate>Mon, 01 Feb 2016 11:56:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why investors are following Musk, Bezos in betting on the stars]]></title>
-            <description><![CDATA[<article><h1>Why investors are following Musk, Bezos in betting on the stars</h1><p>Last year, when Google and Fidelity invested $1 billion into Elon Musk's SpaceX, one of the company's earliest backers also wanted to get in on the latest round of funding. But SpaceX ever-so politely asked Steve Jurvetson's Silicon Valley venture capital firm to kindly hold off.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35cc3fc7e60c574fec8a262d5eee8dc448f10cf6.jpg"></article>]]></description>
-            <link>https://www.washingtonpost.com/business/economy/why-investors-are-following-musk-bezos-in-betting-on-the-stars/2016/01/28/42bd5066-b962-11e5-b682-4bb4dd403c7d_story.html?hpid=hp_regional-hp-cards_no-name%3Ahomepage%2Fcard</link>
-            <guid isPermaLink="false">5de2084a-ce99-4ba7-adb5-13800fae4049</guid>
-            <pubDate>Sun, 31 Jan 2016 11:44:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
