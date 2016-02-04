@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 15:58:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 12:58:30 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crown-of-thorns starfish Detection system - COTSBot]]></title>
+            <description><![CDATA[<article><h1>Crown-of-thorns starfish Detection system - COTSBot</h1><p>This work presents a novel vision-based underwater robotic system for the identification and control of Crown-Of-Thorns starfish (COTS) in coral reef environments. COTS have been identified as one of the most significant threats to Australia's Great Barrier Reef. These starfish literally eat coral, impacting large areas of reef and the marine ecosystem that depends on it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/641512ed63391c90d763b91185326c955b871d73.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=RS3EpYfeJAk</link>
+            <guid isPermaLink="false">99c464b5-2f6a-42dd-b090-79eda8b9afd3</guid>
+            <pubDate>Thu, 04 Feb 2016 12:57:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wendelstein 7-X stellarator first light live stream from control room]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.engadget.com/2016/01/31/hyperloop-pod-competition-in-photos/</link>
             <guid isPermaLink="false">efade426-cf37-44c5-9821-adf3d0abcd74</guid>
             <pubDate>Mon, 01 Feb 2016 15:30:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Curiosity Self-Portrait at Martian Sand Dune]]></title>
-            <description><![CDATA[<article><h1>Curiosity Self-Portrait at Martian Sand Dune</h1><p>This self-portrait of NASA's Curiosity Mars rover shows the vehicle at "Namib Dune," where the rover's activities included scuffing into the dune with a wheel and scooping samples of sand for laboratory analysis.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e025af7216ba16092d211c2444d1d7a2fdf0bceb.jpg"></article>]]></description>
-            <link>http://www.nasa.gov/image-feature/jpl/pia20316/curiosity-self-portrait-at-martian-sand-dune</link>
-            <guid isPermaLink="false">77080935-5f85-4bfe-bab6-2f37cf92fb97</guid>
-            <pubDate>Mon, 01 Feb 2016 14:46:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
