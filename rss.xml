@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 19:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2016 20:45:42 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I'm Done with MacBooks]]></title>
+            <description><![CDATA[<article><h1>I'm Done with MacBooks</h1><p>Last week I was on the road for five days straight. I brought along my MacBook Pro because, knowing that I would be away from my desk for so long, I anticipated needing to do some actual design work at some point.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8af6dbad9009cf9f20a400a3494e72a833616b91.jpg"></article>]]></description>
+            <link>http://www.subtraction.com/2016/02/05/im-done-with-macbooks/</link>
+            <guid isPermaLink="false">044663dd-caf2-4a1b-a06c-b390b879fa41</guid>
+            <pubDate>Fri, 05 Feb 2016 20:45:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Start here: Statistics for A/B testing]]></title>
-            <description><![CDATA[<article><h1>Start here: Statistics for A/B testing</h1><p>Testing hypothesis with some sort of A/B testing is one of the ways to avoid blind-guessing and “hope-for-the-best” approaches. Below you’ll find a collection of statistics principles and best-practices that I consider fundamental for anyone wanting to use A/B testing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3338e8354a54cefd298b4d089f74f4f4a01ed6a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Start here: Statistics for A/B testing</h1><p>Testing hypothesis with some sort of A/B testing is one of the ways to avoid blind-guessing and “hope-for-the-best” approaches. Below you’ll find a collection of statistics principles and best-practices that I consider fundamental for anyone wanting to use A/B testing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cd0d73fec664d2a1095a36776d38516410bb66f.jpg"></article>]]></description>
             <link>https://medium.com/@iamguico/start-here-statistics-for-a-b-testing-5f5c7e02ce1e#.95fi0dj1k</link>
             <guid isPermaLink="false">f291314d-64e1-4bcb-8ea4-ac1e079bbf59</guid>
             <pubDate>Fri, 05 Feb 2016 19:11:06 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.bloomberg.com/news/articles/2016-02-01/bofa-the-oil-crash-is-kicking-off-one-of-the-largest-wealth-transfers-in-human-history</link>
             <guid isPermaLink="false">27aaad0c-48e1-48de-9083-d0efa659b6b6</guid>
             <pubDate>Tue, 02 Feb 2016 15:38:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CIO Explainer: What Is Blockchain?]]></title>
-            <description><![CDATA[<article><h1>CIO Explainer: What Is Blockchain?</h1><p>Widely known as the technology underpinning the digital currency bitcoin, blockchain has acquired a new identity in the enterprise. Today, more than 40 top financial institutions and a growing number of companies across industries are experimenting with distributed ledger technology as a trusted way to track the ownership of assets without the need for a central authority, which could speed up transactions and cut costs while lowering the chance of fraud.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/818bebc170fecacb07d766b7b1e85b5ea10c8e8c.jpg"></article>]]></description>
-            <link>http://www.wsj.com/articles/BL-CIOB-8993</link>
-            <guid isPermaLink="false">384801df-b4a9-4281-bfa1-add249b40c14</guid>
-            <pubDate>Tue, 02 Feb 2016 12:28:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
