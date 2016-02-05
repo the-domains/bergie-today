@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 11:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2016 19:11:09 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Start here: Statistics for A/B testing]]></title>
+            <description><![CDATA[<article><h1>Start here: Statistics for A/B testing</h1><p>Testing hypothesis with some sort of A/B testing is one of the ways to avoid blind-guessing and “hope-for-the-best” approaches. Below you’ll find a collection of statistics principles and best-practices that I consider fundamental for anyone wanting to use A/B testing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3338e8354a54cefd298b4d089f74f4f4a01ed6a.jpg"></article>]]></description>
+            <link>https://medium.com/@iamguico/start-here-statistics-for-a-b-testing-5f5c7e02ce1e#.95fi0dj1k</link>
+            <guid isPermaLink="false">f291314d-64e1-4bcb-8ea4-ac1e079bbf59</guid>
+            <pubDate>Fri, 05 Feb 2016 19:11:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Apple's declining software quality]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.wsj.com/articles/BL-CIOB-8993</link>
             <guid isPermaLink="false">384801df-b4a9-4281-bfa1-add249b40c14</guid>
             <pubDate>Tue, 02 Feb 2016 12:28:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The audacious rescue plan that might have saved space shuttle Columbia]]></title>
-            <description><![CDATA[<article><h1>The audacious rescue plan that might have saved space shuttle Columbia</h1><p>February 1, 2016: One of the most tragic events in the history of space exploration is the loss of the space shuttle Columbia and all seven of its crew on February 1, 2003-a tragedy made worse because it didn't have to happen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/17df21617cd14fb9741f0f843690a56828dae126.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/02/the-audacious-rescue-plan-that-might-have-saved-space-shuttle-columbia/</link>
-            <guid isPermaLink="false">59735f11-be1d-4a84-a696-801d84aa0927</guid>
-            <pubDate>Tue, 02 Feb 2016 08:15:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
