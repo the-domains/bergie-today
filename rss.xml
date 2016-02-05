@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 20:45:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2016 21:16:06 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[This Situation is Copyrighted: When Cinematic Set Pieces Meet Virtual Reality]]></title>
+            <description><![CDATA[<article><h1>This Situation is Copyrighted: When Cinematic Set Pieces Meet Virtual Reality</h1><p>TRON. Alien. Blade Runner. Movies can take us to iconic places, and present great opportunities to inspire VR experiences created by fans. But what will happen when these experiences get too close to the original content?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19e469cb9f674d1bc864a4be3373067613ce86a5.jpg"></article>]]></description>
+            <link>http://augmentl.io/this-scene-is-copyrighted-when-cinematic-set-pieces-meet-vi/</link>
+            <guid isPermaLink="false">160ee000-6c03-44d5-8d21-ac01093f70fd</guid>
+            <pubDate>Fri, 05 Feb 2016 21:14:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I'm Done with MacBooks]]></title>
-            <description><![CDATA[<article><h1>I'm Done with MacBooks</h1><p>Last week I was on the road for five days straight. I brought along my MacBook Pro because, knowing that I would be away from my desk for so long, I anticipated needing to do some actual design work at some point.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8af6dbad9009cf9f20a400a3494e72a833616b91.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>I'm Done with MacBooks</h1><p>Last week I was on the road for five days straight. I brought along my MacBook Pro because, knowing that I would be away from my desk for so long, I anticipated needing to do some actual design work at some point.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cec4bd7cbeb02169c40c824516cddeb8d32bec2f.jpg"></article>]]></description>
             <link>http://www.subtraction.com/2016/02/05/im-done-with-macbooks/</link>
             <guid isPermaLink="false">044663dd-caf2-4a1b-a06c-b390b879fa41</guid>
             <pubDate>Fri, 05 Feb 2016 20:45:39 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://aaronrandall.com/blog/megabite/</link>
             <guid isPermaLink="false">24e1e548-2383-411e-87f0-4711fb3b9515</guid>
             <pubDate>Tue, 02 Feb 2016 15:42:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BofA: The Oil Crash Is Kicking Off One of the Largest Wealth Transfers in Human History]]></title>
-            <description><![CDATA[<article><h1>BofA: The Oil Crash Is Kicking Off One of the Largest Wealth Transfers in Human History</h1><p>Economists are still hotly debating whether the oil crash has been a net positive for advanced economies. Optimists argue that cheap oil is a good thing for consumers and commodity-sensitive businesses, while pessimists point to the hit to energy-related investment and possible spillover into the financial system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11b4fa3e18a8b21cc1b43042185e991714842299.jpg"></article>]]></description>
-            <link>http://www.bloomberg.com/news/articles/2016-02-01/bofa-the-oil-crash-is-kicking-off-one-of-the-largest-wealth-transfers-in-human-history</link>
-            <guid isPermaLink="false">27aaad0c-48e1-48de-9083-d0efa659b6b6</guid>
-            <pubDate>Tue, 02 Feb 2016 15:38:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
