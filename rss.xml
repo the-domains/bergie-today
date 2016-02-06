@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 22:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2016 11:34:12 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[JavaScript In 2016 - Beyond the Browser]]></title>
+            <description><![CDATA[<article><h1>JavaScript In 2016 - Beyond the Browser</h1><p>In the last several years, JavaScript, a scripting language designed for use in web browsers, has been used in an increasingly diverse set of software applications. With JavaScript now running as server-side code, driving iOS and Android apps, and even controlling robotics, it’s hard to find a software ecosystem that JavaScript hasn’t influenced.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7878bf888e47a4b8605cb9f76fa58a7aeb3b0f8.jpg"></article>]]></description>
+            <link>http://developer.telerik.com/featured/what-to-expect-from-javascript-in-2016-beyond-the-browser/</link>
+            <guid isPermaLink="false">bfca2604-cbd1-44ea-bcc9-988be92c314a</guid>
+            <pubDate>Sat, 06 Feb 2016 11:33:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Microsoft, Nokia, and the burning platform: a final look at the failed Windows Phone alliance]]></title>
-            <description><![CDATA[<article><h1>Microsoft, Nokia, and the burning platform: a final look at the failed Windows Phone alliance</h1><p>When Microsoft acquired Nokia's Devices and Services division in late 2013 and began integrating the storied Lumia brand into its offerings, it was hailed by Microsoft's then-CEO Steve Ballmer as "a bold step into the future - a win-win for employees, shareholders, and consumers of both companies."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8644c8c90aee7326d5426231a3140e6267011de5.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Microsoft, Nokia, and the burning platform: a final look at the failed Windows Phone alliance</h1><p>When Microsoft acquired Nokia's Devices and Services division in late 2013 and began integrating the storied Lumia brand into its offerings, it was hailed by Microsoft's then-CEO Steve Ballmer as "a bold step into the future - a win-win for employees, shareholders, and consumers of both companies."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49d849f0a5a4c9821c980feec0d110c074017621.jpg"></article>]]></description>
             <link>http://venturebeat.com/2016/02/05/microsoft-nokia-and-the-burning-platform-a-final-look-at-the-failed-windows-phone-alliance/</link>
             <guid isPermaLink="false">f0382f71-ab2a-42e6-9bc6-afe7f4e57db9</guid>
             <pubDate>Fri, 05 Feb 2016 22:08:10 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=XEVpm-u7fnw</link>
             <guid isPermaLink="false">b61d108e-9ab6-46a9-8465-7115856a4a96</guid>
             <pubDate>Wed, 03 Feb 2016 15:58:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NASA Stole the Rocket Countdown From a 1929 Fritz Lang Film]]></title>
-            <description><![CDATA[<article><h1>NASA Stole the Rocket Countdown From a 1929 Fritz Lang Film</h1><p>On December 1, 2014, NASA retired a historic piece of equipment at Kennedy Space Center in Florida. It wasn't a rocket, or even a deep space nine-iron -it was the original countdown clock, an analog display the size of a titan's wristwatch that stood across the river from the rocket launch site and stoically ticked off the seconds until blastoff.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09c105958bccb9f3dec27f6cc4b1185c80aedb68.jpg"></article>]]></description>
-            <link>http://www.atlasobscura.com/articles/nasa-stole-the-rocket-countdown-from-a-1929-fritz-lang-film-1d569cc0-50ff-4045-b0c9-1f0d72a193db</link>
-            <guid isPermaLink="false">72af7660-a36e-48b1-93d7-1aac336e15c4</guid>
-            <pubDate>Wed, 03 Feb 2016 11:39:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
