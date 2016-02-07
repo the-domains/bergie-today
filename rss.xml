@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 18:53:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 16:45:12 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Online Apollo Guidance Computer Simulator]]></title>
+            <description><![CDATA[<article><h1>Online Apollo Guidance Computer Simulator</h1><p>AGC was the main computer system of the Apollo program that successfully landed 12 astronauts on Moon. There was one AGC on each of the Apollo Command Modules and another one on each Lunar Module. There was also a second backup computer system called Abort Guidance System (AGS) on the Lunar Modules, which is simulated by Virtual AGC, but not the current version of Moonjs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2429af7d33e2ef2670da93c58e6e59712a420f5e.png"></article>]]></description>
+            <link>http://svtsim.com/moonjs/agc.html</link>
+            <guid isPermaLink="false">28e26d18-807f-46da-9772-1383f348d083</guid>
+            <pubDate>Sun, 07 Feb 2016 16:44:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Watson for President 2016]]></title>
-            <description><![CDATA[<article><h1>Watson for President 2016</h1><p>Political decision making is not simply a bullet list of separate issues but rather a complex interconnected network of systems, all of which affect each other. Watson's capabilities for parallel processing on a given query allow it to evaluate concerns on a variety of metrics, gauging the most beneficial response across all areas.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d1aec9747514bc1374cf14838432b8bf8de5363.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Watson for President 2016</h1><p>Political decision making is not simply a bullet list of separate issues but rather a complex interconnected network of systems, all of which affect each other. Watson's capabilities for parallel processing on a given query allow it to evaluate concerns on a variety of metrics, gauging the most beneficial response across all areas.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/802407880001ca26833cca8fba5f904e1e6de3e5.jpg"></article>]]></description>
             <link>http://watson2016.com/</link>
             <guid isPermaLink="false">c50db516-856b-4a38-a5b3-42da602e5c37</guid>
             <pubDate>Sat, 06 Feb 2016 18:52:05 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://sudophilosophical.com/2016/02/04/apples-declining-software-quality/</link>
             <guid isPermaLink="false">ec76df3d-aded-4052-a1d0-a991501ba42d</guid>
             <pubDate>Fri, 05 Feb 2016 11:45:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crown-of-thorns starfish Detection system - COTSBot]]></title>
-            <description><![CDATA[<article><h1>Crown-of-thorns starfish Detection system - COTSBot</h1><p>This work presents a novel vision-based underwater robotic system for the identification and control of Crown-Of-Thorns starfish (COTS) in coral reef environments. COTS have been identified as one of the most significant threats to Australia's Great Barrier Reef. These starfish literally eat coral, impacting large areas of reef and the marine ecosystem that depends on it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/641512ed63391c90d763b91185326c955b871d73.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=RS3EpYfeJAk</link>
-            <guid isPermaLink="false">99c464b5-2f6a-42dd-b090-79eda8b9afd3</guid>
-            <pubDate>Thu, 04 Feb 2016 12:57:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
