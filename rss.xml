@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 11:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 11:20:39 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How To Use Classic Mechanical Keyboards on Modern iPads]]></title>
+            <description><![CDATA[<article><h1>How To Use Classic Mechanical Keyboards on Modern iPads</h1><p>I recently tweeted a photo of my iPad connected to classic Apple keyboard. It seemed to strike a chord with a lot of people - it was my most popular tweet ever by a wide margin actually - so I figured I'd put together a guide explaining what I was doing, why you might want to do it, and how to go about it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e0cab1563a2afba17ac4ba81dbd5be6863af83d.jpg"></article>]]></description>
+            <link>https://afterpad.com/how-to-use-classic-mechanical-keyboards-on-modern-ipads/</link>
+            <guid isPermaLink="false">c351b0f8-8515-4b96-803d-ec997efd0d48</guid>
+            <pubDate>Mon, 08 Feb 2016 11:19:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sailing ships are back in vogue as a green alternative to conventional shipping]]></title>
-            <description><![CDATA[<article><h1>Sailing ships are back in vogue as a green alternative to conventional shipping</h1><p>One of the world's oldest methods of transporting goods is making an unlikely comeback. Sailing ships, which kept the British Empire in tea, sugar and tobacco, are back in vogue as a green alternative to conventional shipping.</p><img src="http://static.independent.co.uk/s3fs-public/thumbnails/image/2016/02/06/21/3-tall-ship-alamy.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Sailing ships are back in vogue as a green alternative to conventional shipping</h1><p>One of the world's oldest methods of transporting goods is making an unlikely comeback. Sailing ships, which kept the British Empire in tea, sugar and tobacco, are back in vogue as a green alternative to conventional shipping.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1ab7671d888bf07c4e2baef593e8105b00e1e56.jpg"></article>]]></description>
             <link>http://www.independent.co.uk/environment/sailing-ships-back-in-vogue-as-a-green-alternative-to-conventional-shipping-a6858411.html</link>
             <guid isPermaLink="false">cff7d19d-e2c6-4402-8b3c-b7349e022f10</guid>
             <pubDate>Mon, 08 Feb 2016 11:14:52 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.subtraction.com/2016/02/05/im-done-with-macbooks/</link>
             <guid isPermaLink="false">044663dd-caf2-4a1b-a06c-b390b879fa41</guid>
             <pubDate>Fri, 05 Feb 2016 20:45:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Start here: Statistics for A/B testing]]></title>
-            <description><![CDATA[<article><h1>Start here: Statistics for A/B testing</h1><p>Testing hypothesis with some sort of A/B testing is one of the ways to avoid blind-guessing and “hope-for-the-best” approaches. Below you’ll find a collection of statistics principles and best-practices that I consider fundamental for anyone wanting to use A/B testing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cd0d73fec664d2a1095a36776d38516410bb66f.jpg"></article>]]></description>
-            <link>https://medium.com/@iamguico/start-here-statistics-for-a-b-testing-5f5c7e02ce1e#.95fi0dj1k</link>
-            <guid isPermaLink="false">f291314d-64e1-4bcb-8ea4-ac1e079bbf59</guid>
-            <pubDate>Fri, 05 Feb 2016 19:11:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
