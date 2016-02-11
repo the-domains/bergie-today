@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 13:51:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 13:54:02 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Plantoid: the blockchain-based art that makes itself]]></title>
+            <description><![CDATA[<article><h1>Plantoid: the blockchain-based art that makes itself</h1><p>Plantoid by Okhaos is a self-creating, self-propagating artwork system that uses blockchain technology to gather and manage the resources it needs to become real and to participate in the artworld. Structured as a Decentralised Autonomous Organization (DAO), once it is set in motion the code of the Plantoid system combines the functions of artwork, artist and art dealer in a single piece of software.</p><img src="http://www.furtherfield.org/sites/furtherfield.org/files/resize/rob_myers/a7-584x875.jpg"></article>]]></description>
+            <link>http://www.furtherfield.org/features/reviews/plantoid-blockchain-based-art-makes-itself</link>
+            <guid isPermaLink="false">c079b2be-6a21-4ba4-b5f3-8e104ef24c49</guid>
+            <pubDate>Thu, 11 Feb 2016 13:52:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Is AI the future of web design?]]></title>
-            <description><![CDATA[<article><h1>Is AI the future of web design?</h1><p>The Grid. You've probably heard of it. It's a new form of website design, currently still in development, whose big selling point is that it uses artificial intelligence to both design and decide the hierarchy of content on the website. It's been running seemingly endless advertising for nearly a year, with countless banner ads and...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11f6c5c25a01e0fe59a457648be66f29cbc777a7.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Is AI the future of web design?</h1><p>The Grid. You've probably heard of it. It's a new form of website design, currently still in development, whose big selling point is that it uses artificial intelligence to both design and decide the hierarchy of content on the website. It's been running seemingly endless advertising for nearly a year, with countless banner ads and...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6143911f103b711a44d389846bd3d15be427441d.png"></article>]]></description>
             <link>http://community.envato.com/is-ai-the-future-of-web-design/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=community_content_social</link>
             <guid isPermaLink="false">ecf107d5-a4c0-4d11-88b2-8157d862525d</guid>
             <pubDate>Thu, 11 Feb 2016 13:49:53 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.independent.co.uk/environment/sailing-ships-back-in-vogue-as-a-green-alternative-to-conventional-shipping-a6858411.html</link>
             <guid isPermaLink="false">cff7d19d-e2c6-4402-8b3c-b7349e022f10</guid>
             <pubDate>Mon, 08 Feb 2016 11:14:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Online Apollo Guidance Computer Simulator]]></title>
-            <description><![CDATA[<article><h1>Online Apollo Guidance Computer Simulator</h1><p>AGC was the main computer system of the Apollo program that successfully landed 12 astronauts on Moon. There was one AGC on each of the Apollo Command Modules and another one on each Lunar Module. There was also a second backup computer system called Abort Guidance System (AGS) on the Lunar Modules, which is simulated by Virtual AGC, but not the current version of Moonjs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88c1057ea6226db968211ccd78851cdda5c0253d.png"></article>]]></description>
-            <link>http://svtsim.com/moonjs/agc.html</link>
-            <guid isPermaLink="false">28e26d18-807f-46da-9772-1383f348d083</guid>
-            <pubDate>Sun, 07 Feb 2016 16:44:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
