@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 11:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2016 16:43:26 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="AI&colon; Not science fiction but contemporary reality&period; The Grid by &commat;bergie gives new meaning to responsive sites &num;Lift16" src="https://pbs.twimg.com/media/CbBNpd-WEAAbCtI.jpg:large">]]></description>
+            <link>https://twitter.com/kareyhelms/status/698143340009811968</link>
+            <guid isPermaLink="false">e302a23d-ffe3-48af-a42f-2b880554e9c3</guid>
+            <pubDate>Fri, 12 Feb 2016 16:43:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Gravitational Waves Exist: Here's How Scientists Finally Found Them]]></title>
-            <description><![CDATA[<article><h1>Gravitational Waves Exist: Here's How Scientists Finally Found Them</h1><p>Just over a billion years ago, many millions of galaxies from here, a pair of black holes collided. They had been circling each other for aeons, in a sort of mating dance, gathering pace with each orbit, hurtling closer and closer.</p><img src="http://www.newyorker.com/wp-content/uploads/2016/02/Twilley-Gravitational-Waves1-1200x630-1455147341.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Gravitational Waves Exist: Here's How Scientists Finally Found Them</h1><p>Just over a billion years ago, many millions of galaxies from here, a pair of black holes collided. They had been circling each other for aeons, in a sort of mating dance, gathering pace with each orbit, hurtling closer and closer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6582907bbb01cd84a97f1f3932223fcdcf6b414.jpg"></article>]]></description>
             <link>http://www.newyorker.com/tech/elements/gravitational-waves-exist-heres-how-scientists-finally-found-them</link>
             <guid isPermaLink="false">a313da44-663e-4eda-9d6f-5784a6fe25bf</guid>
             <pubDate>Fri, 12 Feb 2016 11:26:21 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://medium.com/@sicross/living-with-and-building-for-the-amazon-echo-525caea9f280#.fzbce5e7h</link>
             <guid isPermaLink="false">9a299da2-a38d-48d4-849b-3510d1ae0459</guid>
             <pubDate>Tue, 09 Feb 2016 08:18:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The future is here, some assembly required]]></title>
-            <description><![CDATA[<article><h1>The future is here, some assembly required</h1><p>Technology moves fast. So fast, in fact, that it's easy to take it for granted. Smartphones, which have been around for a decade or more, are so ubiquitous and such an integral part of our daily lives that it's easy to forget just how advanced they really are.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8578d0f8b71add2769b72bcb2223463c1bd30eaa.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/2/6/10924694/living-in-the-future-essay</link>
-            <guid isPermaLink="false">dfae0333-e71f-460b-8e6e-b971cde5c1fc</guid>
-            <pubDate>Mon, 08 Feb 2016 11:45:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
