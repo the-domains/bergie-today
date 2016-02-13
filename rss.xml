@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 16:43:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 09:20:46 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Space Tourism Posters]]></title>
+            <description><![CDATA[<article><h1>Space Tourism Posters</h1><p>Fourteen space travel posters of colorful, exotic space settings are now available free for downloading and printing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3958345e2095694d638cc3bb56b020ed314dada.jpg"></article>]]></description>
+            <link>http://www.jpl.nasa.gov/visions-of-the-future/</link>
+            <guid isPermaLink="false">8926c92a-96f1-45ba-995d-9b87773ccf54</guid>
+            <pubDate>Sat, 13 Feb 2016 09:19:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://spacenews.com/luxembourg-to-invest-in-space-based-asteroid-mining/</link>
             <guid isPermaLink="false">23578b81-9200-4f82-8b24-7395bc431d59</guid>
             <pubDate>Tue, 09 Feb 2016 15:43:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Living with (and building for) the Amazon Echo]]></title>
-            <description><![CDATA[<article><h1>Living with (and building for) the Amazon Echo</h1><p>For those who’re yet to experience Alexa, she’s the entity that emanates from the Amazon Echo, a wine-bottle-sized cylinder of internet-connected speakers and microphones sent directly from the future. It’s a much more dramatic product than I’d expected.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0def0e9bb8ae147db858f272ededa3c287d14e72.jpg"></article>]]></description>
-            <link>https://medium.com/@sicross/living-with-and-building-for-the-amazon-echo-525caea9f280#.fzbce5e7h</link>
-            <guid isPermaLink="false">9a299da2-a38d-48d4-849b-3510d1ae0459</guid>
-            <pubDate>Tue, 09 Feb 2016 08:18:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
