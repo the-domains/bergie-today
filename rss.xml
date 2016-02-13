@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 09:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 09:21:18 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Language Barrier Is About to Fall]]></title>
+            <description><![CDATA[<article><h1>The Language Barrier Is About to Fall</h1><p>It used to be the case when I traveled abroad that I would take a little pocket dictionary that provided translations for commonly used phrases and words. If I wanted to construct a sentence, I would thumb through the dictionary for five minutes to develop a clunky expression with unconjugated verbs and my best approximation of the correct noun.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c04110892dc23f2735f630ed90df66334811ee49.jpg"></article>]]></description>
+            <link>http://www.wsj.com/articles/the-language-barrier-is-about-to-fall-1454077968?</link>
+            <guid isPermaLink="false">0d445764-db1c-4c43-9424-7a2c8c87fbdb</guid>
+            <pubDate>Sat, 13 Feb 2016 09:19:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Space Tourism Posters]]></title>
@@ -68,13 +75,6 @@
             <link>http://m.nautil.us/issue/29/scaling/the-box-that-built-the-modern-world-rp</link>
             <guid isPermaLink="false">d0b33201-7034-4ed8-bec7-a22cd454cbf5</guid>
             <pubDate>Wed, 10 Feb 2016 04:17:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Luxembourg to invest in space-based asteroid mining]]></title>
-            <description><![CDATA[<article><h1>Luxembourg to invest in space-based asteroid mining</h1><p>The Luxembourg government on Feb. 3 announced it would seek to jump-start an industrial sector to mine asteroid resources in space by creating regulatory and financial incentives. The incentives include co-investment in research and development and, eventually, direct capital investment in space resource-mining companies setting up shop in Luxembourg.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc53fdaf17472bf77402756019d9200ca3c8a686.jpg"></article>]]></description>
-            <link>http://spacenews.com/luxembourg-to-invest-in-space-based-asteroid-mining/</link>
-            <guid isPermaLink="false">23578b81-9200-4f82-8b24-7395bc431d59</guid>
-            <pubDate>Tue, 09 Feb 2016 15:43:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
