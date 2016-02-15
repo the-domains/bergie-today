@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 09:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 11:05:37 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,15 +14,22 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[RoboCorp]]></title>
+            <description><![CDATA[<article><h1>RoboCorp</h1><p>Get ready for companies that run themselves. But will the autonomous economy set us all free, or just make the rich richer?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16f853539105d2b191e26a68062ee6b743983a7e.jpg"></article>]]></description>
+            <link>https://aeon.co/essays/are-we-ready-for-companies-that-run-themselves</link>
+            <guid isPermaLink="false">f55e822c-247d-4ee2-b0b0-1e3e4950803c</guid>
+            <pubDate>Mon, 15 Feb 2016 11:04:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Language Barrier Is About to Fall]]></title>
-            <description><![CDATA[<article><h1>The Language Barrier Is About to Fall</h1><p>It used to be the case when I traveled abroad that I would take a little pocket dictionary that provided translations for commonly used phrases and words. If I wanted to construct a sentence, I would thumb through the dictionary for five minutes to develop a clunky expression with unconjugated verbs and my best approximation of the correct noun.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c04110892dc23f2735f630ed90df66334811ee49.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Language Barrier Is About to Fall</h1><p>It used to be the case when I traveled abroad that I would take a little pocket dictionary that provided translations for commonly used phrases and words. If I wanted to construct a sentence, I would thumb through the dictionary for five minutes to develop a clunky expression with unconjugated verbs and my best approximation of the correct noun.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5025850023a1c33ce1e05b001423a265b992d882.jpg"></article>]]></description>
             <link>http://www.wsj.com/articles/the-language-barrier-is-about-to-fall-1454077968?</link>
             <guid isPermaLink="false">0d445764-db1c-4c43-9424-7a2c8c87fbdb</guid>
             <pubDate>Sat, 13 Feb 2016 09:19:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Space Tourism Posters]]></title>
-            <description><![CDATA[<article><h1>Space Tourism Posters</h1><p>Fourteen space travel posters of colorful, exotic space settings are now available free for downloading and printing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3958345e2095694d638cc3bb56b020ed314dada.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Space Tourism Posters</h1><p>Fourteen space travel posters of colorful, exotic space settings are now available free for downloading and printing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d6ba78252f84a82614ad431a20a8803d2daf5ae.jpg"></article>]]></description>
             <link>http://www.jpl.nasa.gov/visions-of-the-future/</link>
             <guid isPermaLink="false">8926c92a-96f1-45ba-995d-9b87773ccf54</guid>
             <pubDate>Sat, 13 Feb 2016 09:19:31 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.flickr.com/photos/bergie/24819124072/in/datetaken-public/</link>
             <guid isPermaLink="false">122c2789-e94b-427e-8e12-ffb7b0825478</guid>
             <pubDate>Wed, 10 Feb 2016 13:52:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Box That Built the Modern World]]></title>
-            <description><![CDATA[<article><h1>The Box That Built the Modern World</h1><p>It was 11:30 am on a sunny Tuesday in mid-April, and the Hong Kong Express had been docked at Hamburg's Container Terminal Altenwerder for exactly 33 hours. Already, the ship was half empty. Cargo from Asia was stacked in neat rows of shipping containers on the dock.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9bfbcaeeddce0ffcfbea5ba09024472e3cb0c030.png"></article>]]></description>
-            <link>http://m.nautil.us/issue/29/scaling/the-box-that-built-the-modern-world-rp</link>
-            <guid isPermaLink="false">d0b33201-7034-4ed8-bec7-a22cd454cbf5</guid>
-            <pubDate>Wed, 10 Feb 2016 04:17:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
