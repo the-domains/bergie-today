@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 10:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 10:46:07 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Henri Bergius]]></title>
+            <description><![CDATA[<article><h1>Henri Bergius</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b3982efbdf3e6206813060ecf6194d8f06e643d.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/liftconference/24970217691/in/album-72157664291396181/</link>
+            <guid isPermaLink="false">239c5c77-ca7a-4f7e-b20c-696f3edf10d4</guid>
+            <pubDate>Tue, 16 Feb 2016 10:45:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Storing data into plants]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.newyorker.com/tech/elements/gravitational-waves-exist-heres-how-scientists-finally-found-them</link>
             <guid isPermaLink="false">a313da44-663e-4eda-9d6f-5784a6fe25bf</guid>
             <pubDate>Fri, 12 Feb 2016 11:26:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trying out Virtual Reality with motion capture]]></title>
-            <description><![CDATA[<article><h1>Trying out Virtual Reality with motion capture</h1><p>Artanim was showing their motion capture VR setup at Lift Conference. Crazy immersive when you can see your hands and feet, and interact with objects on the area and the other participant.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8c750da2ad1ad6350bc074cd0e2d46036afc79e.jpg"></article>]]></description>
-            <link>http://www.artanim.ch/</link>
-            <guid isPermaLink="false">e94f3d92-9626-4a07-90e2-62796960ab6b</guid>
-            <pubDate>Thu, 11 Feb 2016 14:05:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
