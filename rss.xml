@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 14:40:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 17:58:42 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Eternal 5D data storage could record the history of humankind]]></title>
+            <description><![CDATA[<article><h1>Eternal 5D data storage could record the history of humankind</h1><p>Scientists at the University of Southampton have made a major step forward in the development of digital data storage that is capable of surviving for billions of years. Using nanostructured glass, scientists from the University’s Optoelectronics Research Centre (ORC) have developed the recording and retrieval processes of five dimensional (5D) digital data by femtosecond laser writing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d60a350e7cb48f634e35321b6e026e315db1e3d0.jpg"></article>]]></description>
+            <link>http://www.southampton.ac.uk/news/2016/02/5d-data-storage-update.page</link>
+            <guid isPermaLink="false">02e6d3a5-cc33-4d46-be45-f5afcaf81e7f</guid>
+            <pubDate>Wed, 17 Feb 2016 17:58:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Min Li Marti, Alex Lebrun & Henri Bergius]]></title>
-            <description><![CDATA[<article><h1>Min Li Marti, Alex Lebrun & Henri Bergius</h1><p>Artificial Intelligence, Technology without Alternative? Session Main Stage</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fc566ef10afc7a4c26e8f7078c852f39944cb02.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Min Li Marti, Alex Lebrun & Henri Bergius</h1><p>Artificial Intelligence, Technology without Alternative? Session Main Stage</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6c939eb40a59a1ce6b11325487d414651c1297a.jpg"></article>]]></description>
             <link>https://www.flickr.com/photos/liftconference/24970228361/in/album-72157664291396181/</link>
             <guid isPermaLink="false">b8224e2b-daad-4e63-a726-b20ad14ab674</guid>
             <pubDate>Wed, 17 Feb 2016 14:38:12 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/2/15/10999826/first-train-iran-china-silk-road-trade-route</link>
             <guid isPermaLink="false">07ba9fe3-3afd-4723-8ee9-4555d81cfd8c</guid>
             <pubDate>Mon, 15 Feb 2016 18:39:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RoboCorp]]></title>
-            <description><![CDATA[<article><h1>RoboCorp</h1><p>Get ready for companies that run themselves. But will the autonomous economy set us all free, or just make the rich richer?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f3be73a9d14a20bfa7a3e79e25a76ba8fc3c102.jpg"></article>]]></description>
-            <link>https://aeon.co/essays/are-we-ready-for-companies-that-run-themselves</link>
-            <guid isPermaLink="false">f55e822c-247d-4ee2-b0b0-1e3e4950803c</guid>
-            <pubDate>Mon, 15 Feb 2016 11:04:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
