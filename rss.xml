@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 10:32:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 14:40:24 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Min Li Marti, Alex Lebrun & Henri Bergius]]></title>
+            <description><![CDATA[<article><h1>Min Li Marti, Alex Lebrun & Henri Bergius</h1><p>Artificial Intelligence, Technology without Alternative? Session Main Stage</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fc566ef10afc7a4c26e8f7078c852f39944cb02.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/liftconference/24970228361/in/album-72157664291396181/</link>
+            <guid isPermaLink="false">b8224e2b-daad-4e63-a726-b20ad14ab674</guid>
+            <pubDate>Wed, 17 Feb 2016 14:38:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://aeon.co/essays/are-we-ready-for-companies-that-run-themselves</link>
             <guid isPermaLink="false">f55e822c-247d-4ee2-b0b0-1e3e4950803c</guid>
             <pubDate>Mon, 15 Feb 2016 11:04:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Language Barrier Is About to Fall]]></title>
-            <description><![CDATA[<article><h1>The Language Barrier Is About to Fall</h1><p>It used to be the case when I traveled abroad that I would take a little pocket dictionary that provided translations for commonly used phrases and words. If I wanted to construct a sentence, I would thumb through the dictionary for five minutes to develop a clunky expression with unconjugated verbs and my best approximation of the correct noun.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5025850023a1c33ce1e05b001423a265b992d882.jpg"></article>]]></description>
-            <link>http://www.wsj.com/articles/the-language-barrier-is-about-to-fall-1454077968?</link>
-            <guid isPermaLink="false">0d445764-db1c-4c43-9424-7a2c8c87fbdb</guid>
-            <pubDate>Sat, 13 Feb 2016 09:19:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
