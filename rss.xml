@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 18:32:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 09:12:45 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Goodbye, Cameras]]></title>
+            <description><![CDATA[<article><h1>Goodbye, Cameras</h1><p>This past October, just before the leaves changed, I went on a six-day hike through the mountains of Wakayama, in central Japan, tracing the path of an ancient imperial pilgrimage called the Kumano Kodo. I took along a powerful camera, believing, as I always have, that it would be an indispensable creative tool.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16e5e7b5342254e08c9980548f4544057e7e98b3.jpg"></article>]]></description>
+            <link>http://www.newyorker.com/tech/elements/goodbye-cameras</link>
+            <guid isPermaLink="false">8609db54-6674-44b8-a033-264e81c2d285</guid>
+            <pubDate>Wed, 17 Feb 2016 09:12:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Alexa, Unlock the Internet]]></title>
-            <description><![CDATA[<article><h1>Alexa, Unlock the Internet</h1><p>The Echo Taps Into 'Vocal Computing' Earlier this week, I finally got an Amazon Echo). While I've been wanting to try it out for months, I'd also been dragging my feet. Because, once the novelty wears off, how cool could it really be? The answer is very cool.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e858621c24f2ccfe8d425eca1757af3564e04944.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Alexa, Unlock the Internet</h1><p>The Echo Taps Into 'Vocal Computing' Earlier this week, I finally got an Amazon Echo). While I've been wanting to try it out for months, I'd also been dragging my feet. Because, once the novelty wears off, how cool could it really be? The answer is very cool.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccb5a3e7522bd502d8091e4b72c2e947b204c9db.jpg"></article>]]></description>
             <link>https://500ish.com/alexa-5f7924bffcf3#.ulz0dxbt6</link>
             <guid isPermaLink="false">13c2a104-a578-4444-be2a-1e6365fd82b9</guid>
             <pubDate>Tue, 16 Feb 2016 18:32:30 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.jpl.nasa.gov/visions-of-the-future/</link>
             <guid isPermaLink="false">8926c92a-96f1-45ba-995d-9b87773ccf54</guid>
             <pubDate>Sat, 13 Feb 2016 09:19:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="AI&colon; Not science fiction but contemporary reality&period; The Grid by &commat;bergie gives new meaning to responsive sites &num;Lift16" src="https://pbs.twimg.com/media/CbBNpd-WEAAbCtI.jpg:large">]]></description>
-            <link>https://twitter.com/kareyhelms/status/698143340009811968</link>
-            <guid isPermaLink="false">e302a23d-ffe3-48af-a42f-2b880554e9c3</guid>
-            <pubDate>Fri, 12 Feb 2016 16:43:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
