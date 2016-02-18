@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 17:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 20:14:06 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Google Cloud Vision API enters Beta, open to all to try!]]></title>
+            <description><![CDATA[<article><h1>Google Cloud Vision API enters Beta, open to all to try!</h1><p>Today, we're announcing the beta release of Google Cloud Vision API. Now anyone can submit their images to the Cloud Vision API to understand the contents of those images - from detecting everyday objects (for example, "sports car," "sushi," or "eagle") to reading text within the image or identifying product logos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad947b339087d2e28f89d113a794ff2d70910031.png"></article>]]></description>
+            <link>http://googlecloudplatform.blogspot.de/2016/02/Google-Cloud-Vision-API-enters-beta-open-to-all-to-try.html</link>
+            <guid isPermaLink="false">91dbfa82-7133-4c0f-ae82-a6f4ef4e6264</guid>
+            <pubDate>Thu, 18 Feb 2016 20:13:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SpaceX Falcon 9]]></title>
-            <description><![CDATA[<article><h1>SpaceX Falcon 9</h1><p>This is a model of the SpaceX Falcon 9 (v1.1), that is based on what flew on Flight 20 (Orbcomm OG2 M2). It is a complete launch vehicle</p><img src="https://dp1eoqdp1qht7.cloudfront.net/community/projects/3c9/8e5/128030/2260896-o_1a8o6ajv918jp8itnl81r0hte5e-thumbnail-ViF75Qp4P9NWQg.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>SpaceX Falcon 9</h1><p>This is a model of the SpaceX Falcon 9 (v1.1), that is based on what flew on Flight 20 (Orbcomm OG2 M2). It is a complete launch vehicle</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/adce620c46fef4b970edda47a63c3ee7855baeda.jpg"></article>]]></description>
             <link>https://ideas.lego.com/projects/128030</link>
             <guid isPermaLink="false">4cd0be86-4ef0-4f54-a066-bb5d1d2ee337</guid>
             <pubDate>Thu, 18 Feb 2016 17:48:43 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.flickr.com/photos/liftconference/24970217691/in/album-72157664291396181/</link>
             <guid isPermaLink="false">239c5c77-ca7a-4f7e-b20c-696f3edf10d4</guid>
             <pubDate>Tue, 16 Feb 2016 10:45:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Storing data into plants]]></title>
-            <description><![CDATA[<article><h1>Storing data into plants</h1><p>Have you ever imagined storing a computer program, music or your party picture from early 20`s into a plant. Imagine resting in a near park, taking a leaf from a flower and listening to the Rolling Stones directly from it? This sort of "green" information hosting could become a reality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49073410f8a7afde433d6dbf5ca52da793141316.jpg"></article>]]></description>
-            <link>http://www.karin-l-fister.com/?cat=8</link>
-            <guid isPermaLink="false">7b5aee86-5f2b-47c3-9584-36b764ca89ae</guid>
-            <pubDate>Tue, 16 Feb 2016 10:33:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
