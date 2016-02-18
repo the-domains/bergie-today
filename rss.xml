@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 17:58:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 09:14:20 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Ready For HTTP/2]]></title>
+            <description><![CDATA[<article><h1>Getting Ready For HTTP/2</h1><p>The Hypertext Transfer Protocol (HTTP) is the protocol that governs the connection between your server and the browsers of your website’s visitors. For the first time since 1999, we have a new version of this protocol, and it promises far faster websites for everyone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bb7ee4d58bb2a20f0b05af0a5a8c81cd0588e28.png"></article>]]></description>
+            <link>https://www.smashingmagazine.com/2016/02/getting-ready-for-http2/</link>
+            <guid isPermaLink="false">3e001a86-94f0-4b74-b889-e58e11111501</guid>
+            <pubDate>Thu, 18 Feb 2016 09:13:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eternal 5D data storage could record the history of humankind]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theguardian.com/technology/2016/feb/12/digital-capitalism-douglas-rushkoff</link>
             <guid isPermaLink="false">435f901a-04e5-4ea3-bf58-4aef1c2ab01b</guid>
             <pubDate>Mon, 15 Feb 2016 21:16:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The ancient 'Silk Road' is back in business as new train connects China to Tehran]]></title>
-            <description><![CDATA[<article><h1>The ancient 'Silk Road' is back in business as new train connects China to Tehran</h1><p>The first train connecting Iran and China loaded with Chinese goods arrived in Tehran Monday, reviving the ancient Silk Road trade route and highlighting the economic possibilities for Iran since the lifting of international sanctions, AFP reports.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9881a578bf4ffdcabbef0611628c7f71fafee854.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/2/15/10999826/first-train-iran-china-silk-road-trade-route</link>
-            <guid isPermaLink="false">07ba9fe3-3afd-4723-8ee9-4555d81cfd8c</guid>
-            <pubDate>Mon, 15 Feb 2016 18:39:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
