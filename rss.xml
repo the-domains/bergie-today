@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 09:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 17:49:00 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[SpaceX Falcon 9]]></title>
+            <description><![CDATA[<article><h1>SpaceX Falcon 9</h1><p>This is a model of the SpaceX Falcon 9 (v1.1), that is based on what flew on Flight 20 (Orbcomm OG2 M2). It is a complete launch vehicle</p><img src="https://dp1eoqdp1qht7.cloudfront.net/community/projects/3c9/8e5/128030/2260896-o_1a8o6ajv918jp8itnl81r0hte5e-thumbnail-ViF75Qp4P9NWQg.jpg"></article>]]></description>
+            <link>https://ideas.lego.com/projects/128030</link>
+            <guid isPermaLink="false">4cd0be86-4ef0-4f54-a066-bb5d1d2ee337</guid>
+            <pubDate>Thu, 18 Feb 2016 17:48:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Getting Ready For HTTP/2]]></title>
-            <description><![CDATA[<article><h1>Getting Ready For HTTP/2</h1><p>The Hypertext Transfer Protocol (HTTP) is the protocol that governs the connection between your server and the browsers of your website’s visitors. For the first time since 1999, we have a new version of this protocol, and it promises far faster websites for everyone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bb7ee4d58bb2a20f0b05af0a5a8c81cd0588e28.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Getting Ready For HTTP/2</h1><p>The Hypertext Transfer Protocol (HTTP) is the protocol that governs the connection between your server and the browsers of your website’s visitors. For the first time since 1999, we have a new version of this protocol, and it promises far faster websites for everyone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e618dfd8cb35308bad08ba2ac252e8bc1090805.png"></article>]]></description>
             <link>https://www.smashingmagazine.com/2016/02/getting-ready-for-http2/</link>
             <guid isPermaLink="false">3e001a86-94f0-4b74-b889-e58e11111501</guid>
             <pubDate>Thu, 18 Feb 2016 09:13:33 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.karin-l-fister.com/?cat=8</link>
             <guid isPermaLink="false">7b5aee86-5f2b-47c3-9584-36b764ca89ae</guid>
             <pubDate>Tue, 16 Feb 2016 10:33:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Douglas Rushkoff: 'I'm thinking it may be good to be off social media altogether']]></title>
-            <description><![CDATA[<article><h1>Douglas Rushkoff: 'I'm thinking it may be good to be off social media altogether'</h1><p>Douglas Rushkoff emerged as a media commentator in 1994 with his first book, Cyberia. His debut examined "the early psychedelic, rave roots of digital technology. I was trying to infer what a digital society might be like given the beliefs of these people," he tells me, while speaking on phone from his home in Hastings-on-Hudson, some 20 miles north of Manhattan.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38d385f17c0d9ade93d929321674fcffa2ab28b3.jpg"></article>]]></description>
-            <link>http://www.theguardian.com/technology/2016/feb/12/digital-capitalism-douglas-rushkoff</link>
-            <guid isPermaLink="false">435f901a-04e5-4ea3-bf58-4aef1c2ab01b</guid>
-            <pubDate>Mon, 15 Feb 2016 21:16:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
