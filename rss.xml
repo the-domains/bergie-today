@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 20:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 08:19:01 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Opinion: 5 reasons why USB Type-C is a non-negotiable feature in my next Android phone]]></title>
+            <description><![CDATA[<article><h1>Opinion: 5 reasons why USB Type-C is a non-negotiable feature in my next Android phone</h1><p>Very quickly, USB Type-C has this year become a part of every phone's spec sheet. Either a new phone has USB Type-C, or it doesn't. And it's already being seen as a pro (or a con) when comparing phones against each other.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c6073f9819fcd1ee026ae34feb0d96e2ec7a539.jpg"></article>]]></description>
+            <link>http://9to5google.com/2016/02/18/5-reasons-why-you-need-usb-type-c-android/</link>
+            <guid isPermaLink="false">9b9cdb61-e340-41dc-9b5c-3dae7d5d66d1</guid>
+            <pubDate>Fri, 19 Feb 2016 08:17:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Google Cloud Vision API enters Beta, open to all to try!]]></title>
-            <description><![CDATA[<article><h1>Google Cloud Vision API enters Beta, open to all to try!</h1><p>Today, we're announcing the beta release of Google Cloud Vision API. Now anyone can submit their images to the Cloud Vision API to understand the contents of those images - from detecting everyday objects (for example, "sports car," "sushi," or "eagle") to reading text within the image or identifying product logos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad947b339087d2e28f89d113a794ff2d70910031.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Google Cloud Vision API enters Beta, open to all to try!</h1><p>Today, we're announcing the beta release of Google Cloud Vision API. Now anyone can submit their images to the Cloud Vision API to understand the contents of those images - from detecting everyday objects (for example, "sports car," "sushi," or "eagle") to reading text within the image or identifying product logos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b115c17fdef15247ee47ea8dcb7820794785a8b.png"></article>]]></description>
             <link>http://googlecloudplatform.blogspot.de/2016/02/Google-Cloud-Vision-API-enters-beta-open-to-all-to-try.html</link>
             <guid isPermaLink="false">91dbfa82-7133-4c0f-ae82-a6f4ef4e6264</guid>
             <pubDate>Thu, 18 Feb 2016 20:13:31 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://500ish.com/alexa-5f7924bffcf3#.ulz0dxbt6</link>
             <guid isPermaLink="false">13c2a104-a578-4444-be2a-1e6365fd82b9</guid>
             <pubDate>Tue, 16 Feb 2016 18:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Henri Bergius]]></title>
-            <description><![CDATA[<article><h1>Henri Bergius</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0a3f071c7600149d85843bc8f8db16f96f98bf8.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/liftconference/24970217691/in/album-72157664291396181/</link>
-            <guid isPermaLink="false">239c5c77-ca7a-4f7e-b20c-696f3edf10d4</guid>
-            <pubDate>Tue, 16 Feb 2016 10:45:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
