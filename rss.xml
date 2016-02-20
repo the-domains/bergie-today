@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 16:04:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 00:41:02 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[An Introduction to IPFS]]></title>
+            <description><![CDATA[<article><h1>An Introduction to IPFS</h1><p>"When you have IPFS, you can start looking at everything else in one specific way and you realize that you can replace it all" -  Juan Benet</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4651d2a1c577978e3b0fd37d52486ae05573b5c3.jpg"></article>]]></description>
+            <link>https://medium.com/@ConsenSys/an-introduction-to-ipfs-9bba4860abd0#.xv3as4r8y</link>
+            <guid isPermaLink="false">76da2fcb-ba48-4544-ab54-c1665f414629</guid>
+            <pubDate>Sat, 20 Feb 2016 00:40:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Terminal]]></title>
-            <description><![CDATA[<article><h1>Terminal</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c105c13d29ff798a3128c0e97e28eb95283638e7.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Terminal</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8a171caf4540b023cf10fd43d3b6c4bef808a49.jpg"></article>]]></description>
             <link>https://www.flickr.com/photos/bergie/25036543631/</link>
             <guid isPermaLink="false">0ba3e466-b200-4dc1-a54f-a89d559d5f94</guid>
             <pubDate>Fri, 19 Feb 2016 16:03:57 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.smashingmagazine.com/2016/02/getting-ready-for-http2/</link>
             <guid isPermaLink="false">3e001a86-94f0-4b74-b889-e58e11111501</guid>
             <pubDate>Thu, 18 Feb 2016 09:13:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eternal 5D data storage could record the history of humankind]]></title>
-            <description><![CDATA[<article><h1>Eternal 5D data storage could record the history of humankind</h1><p>Scientists at the University of Southampton have made a major step forward in the development of digital data storage that is capable of surviving for billions of years. Using nanostructured glass, scientists from the University’s Optoelectronics Research Centre (ORC) have developed the recording and retrieval processes of five dimensional (5D) digital data by femtosecond laser writing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d60a350e7cb48f634e35321b6e026e315db1e3d0.jpg"></article>]]></description>
-            <link>http://www.southampton.ac.uk/news/2016/02/5d-data-storage-update.page</link>
-            <guid isPermaLink="false">02e6d3a5-cc33-4d46-be45-f5afcaf81e7f</guid>
-            <pubDate>Wed, 17 Feb 2016 17:58:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
