@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 11:57:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 11:57:46 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Culture, mathematical models, and Neandertal extinction]]></title>
+            <description><![CDATA[<article><h1>Culture, mathematical models, and Neandertal extinction</h1><p>I am not philosophically opposed to building a mathematical model of Neandertal populations. Some of my best work has involved mathematical model-building. Models have an important place in helping us to understand evolutionary history. But when it comes to understanding Neandertal and modern human interactions, we have had lots and lots and lots of models and few testable predictions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67cdba0b216e7e2a25c6329c1b82a7bfbb058e2e.jpg"></article>]]></description>
+            <link>http://johnhawks.net/weblog/reviews/neandertals/demography/ecocultural-model-gilpin-2016.html</link>
+            <guid isPermaLink="false">a038c38e-1e9a-4979-954d-81a76602584e</guid>
+            <pubDate>Tue, 23 Feb 2016 11:55:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Working on the iPad: One Year Later, Still My Favorite Computer]]></title>
@@ -68,13 +75,6 @@
             <link>https://medium.com/@ConsenSys/an-introduction-to-ipfs-9bba4860abd0#.xv3as4r8y</link>
             <guid isPermaLink="false">76da2fcb-ba48-4544-ab54-c1665f414629</guid>
             <pubDate>Sat, 20 Feb 2016 00:40:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Terminal]]></title>
-            <description><![CDATA[<article><h1>Terminal</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8a171caf4540b023cf10fd43d3b6c4bef808a49.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/bergie/25036543631/</link>
-            <guid isPermaLink="false">0ba3e466-b200-4dc1-a54f-a89d559d5f94</guid>
-            <pubDate>Fri, 19 Feb 2016 16:03:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
