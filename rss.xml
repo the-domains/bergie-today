@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 11:56:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 11:57:24 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Working on the iPad: One Year Later, Still My Favorite Computer]]></title>
+            <description><![CDATA[<article><h1>Working on the iPad: One Year Later, Still My Favorite Computer</h1><p>Four years ago, I struggled to move from a Mac to an iPad. Today, I only have to open my MacBook once a week. And I wish I didn't have to.  In February 2015, after years of experiments and workarounds, I shared the story of how the iPad Air 2 became my primary computer. The article, while unsurprising for MacStories readers who had been following my iPad coverage since 2012, marked an important milestone in my journey towards being Mac-free.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc4bd7b385fcaa009436b99eaeac0c4adb32e506.jpg"></article>]]></description>
+            <link>https://www.macstories.net/stories/working-on-the-ipad-one-year-later-still-my-favorite-computer/</link>
+            <guid isPermaLink="false">36697fab-0f9f-442a-8d2a-828f5f19c01f</guid>
+            <pubDate>Tue, 23 Feb 2016 11:55:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[So you want to build a generator...]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.flickr.com/photos/bergie/25036543631/</link>
             <guid isPermaLink="false">0ba3e466-b200-4dc1-a54f-a89d559d5f94</guid>
             <pubDate>Fri, 19 Feb 2016 16:03:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The dawn of trustworthy computing]]></title>
-            <description><![CDATA[<article><h1>The dawn of trustworthy computing</h1><p>When we currently use a smart phone or a laptop on a cell network or the Internet, the other end of these interactions typically run on other solo computers, such as web servers. Practically all of these machines have architectures that were designed to be controlled by a single person or a hierarchy of people who know and trust each other.</p></article>]]></description>
-            <link>http://unenumerated.blogspot.de/2014/12/the-dawn-of-trustworthy-computing.html?m=1</link>
-            <guid isPermaLink="false">baaf93a7-f0a2-43d6-8e2f-01c01388c8ed</guid>
-            <pubDate>Fri, 19 Feb 2016 15:39:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
