@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 19:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 08:08:29 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Resizer]]></title>
+            <description><![CDATA[<article><h1>Introducing Resizer</h1><p>An interactive viewer that helps designers test material design breakpoints across desktop, mobile, and tablet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcd2ff17b552a9fde2001e0cf48ee418cacc87cc.png"></article>]]></description>
+            <link>https://design.google.com/articles/introducing-resizer/</link>
+            <guid isPermaLink="false">64cbe5ef-01ae-4059-9645-45bb9be2382b</guid>
+            <pubDate>Wed, 24 Feb 2016 08:07:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why I don't want stuff]]></title>
@@ -64,17 +71,10 @@
         </item>
         <item>
             <title><![CDATA[What's Next in Computing?]]></title>
-            <description><![CDATA[<article><h1>What's Next in Computing?</h1><p>The computing industry progresses in two mostly independent cycles: financial and product cycles. There has been a lot of handwringing lately about where we are in the financial cycle. Financial markets get a lot of attention. They tend to fluctuate unpredictably and sometimes wildly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73d3bc8eb81b2df2f91fd2c1040e6b1222941025.png"></article>]]></description>
+            <description><![CDATA[<article><h1>What's Next in Computing?</h1><p>The computing industry progresses in two mostly independent cycles: financial and product cycles. There has been a lot of handwringing lately about where we are in the financial cycle. Financial markets get a lot of attention. They tend to fluctuate unpredictably and sometimes wildly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c060571e7fe615d4ea6fa9d84e7861697b0c016.png"></article>]]></description>
             <link>https://medium.com/@cdixon/what-s-next-in-computing-e54b870b80cc#.gti49klbe</link>
             <guid isPermaLink="false">a3c991b1-e5bd-4f48-9202-ba3e89055208</guid>
             <pubDate>Mon, 22 Feb 2016 11:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Giving Up the Controller]]></title>
-            <description><![CDATA[<article><h1>Giving Up the Controller</h1><p>How Virtual Reality Could Make Us Healthier and Happier In the United States one in three American adults is clinically obese. It's a stat we've heard hundreds of times yet despite decades of diets, exercise fads, and gadgets, we simply cannot get our weight problem under control.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/383f603232eabcdfad0e1c4e5b209b5193cfba6a.jpg"></article>]]></description>
-            <link>https://medium.com/the-metaverse-muse/giving-up-the-controller-7ab3ac2d95e4#.o316hqbak</link>
-            <guid isPermaLink="false">45091027-4784-45ea-8d48-c3a0bb7aa221</guid>
-            <pubDate>Sun, 21 Feb 2016 00:32:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
