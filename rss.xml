@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 16:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 17:38:00 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Filco MiniLa Air Bluetooth keyboard review]]></title>
+            <description><![CDATA[<article><h1>Filco MiniLa Air Bluetooth keyboard review</h1><p>I took the Filco MiniLa Air Bluetooth keyboard with me on vacation this year to use with a MacBook Air propped up on the fantastic Roost stand. I use the tenkeyless Filco Majestouch at home, and I was hoping for the same super-accurate, clicky-key action in this battery-powered, portable wireless version.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50f2b063f74857d9f5bdaff16712a2b9511b8d6f.jpg"></article>]]></description>
+            <link>http://www.cultofmac.com/290750/filco-minila-air-bluetooth-keyboard-review/</link>
+            <guid isPermaLink="false">459382a9-334a-4a69-9a20-622c67842db0</guid>
+            <pubDate>Wed, 24 Feb 2016 17:37:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Henri Bergius - Websites Designed by Artificial Intelligence]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Working on the iPad: One Year Later, Still My Favorite Computer</h1><p>Four years ago, I struggled to move from a Mac to an iPad. Today, I only have to open my MacBook once a week. And I wish I didn't have to.  In February 2015, after years of experiments and workarounds, I shared the story of how the iPad Air 2 became my primary computer. The article, while unsurprising for MacStories readers who had been following my iPad coverage since 2012, marked an important milestone in my journey towards being Mac-free.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc4bd7b385fcaa009436b99eaeac0c4adb32e506.jpg"></article>]]></description>
             <link>https://www.macstories.net/stories/working-on-the-ipad-one-year-later-still-my-favorite-computer/</link>
             <guid isPermaLink="false">36697fab-0f9f-442a-8d2a-828f5f19c01f</guid>
-            <pubDate>Tue, 23 Feb 2016 11:55:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[So you want to build a generator...]]></title>
-            <description><![CDATA[<article><h1>So you want to build a generator...</h1><p>This is a beginner-level advice essay for people just getting started with building generators. It’s also for practiced experts who want a way to organize their knowledge. The advice is meant for any kind of generators: humorous twitterbots, fanciful art-making bots, level generators, planet builders, makers of music, architecture, poetry, and cocktails.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a31e3263be215b8d8982ff867d15ef08313d8deb.png"></article>]]></description>
-            <link>http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator</link>
-            <guid isPermaLink="false">db1397bd-3db0-4e76-9e8a-bec10ce191c7</guid>
             <pubDate>Tue, 23 Feb 2016 11:55:38 GMT</pubDate>
         </item>
     </channel>
