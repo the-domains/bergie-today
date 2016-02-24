@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 10:39:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 11:05:18 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Atlas, The Next Generation]]></title>
+            <description><![CDATA[<article><h1>Atlas, The Next Generation</h1><p>This version of Atlas was designed to operate outdoors and inside buildings. It is electrically powered and hydraulically actuated. It uses sensors in its body and legs to balance. LIDAR and stereo sensors in the head are used to avoid obstacles, assess the terrain and help with navigation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b0d0eaf522a2dcea7262d8f5bbe89e01c60d1cf.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=rVlhMGQgDkY</link>
+            <guid isPermaLink="false">2909753f-0055-4088-a6d8-ab233dfdc1ce</guid>
+            <pubDate>Wed, 24 Feb 2016 11:05:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Plain Text Accounting]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/2/22/11087890/mark-zuckerberg-mwc-picture-future-samsung</link>
             <guid isPermaLink="false">0d37db45-5ee2-4f2e-af36-9f50747f3d11</guid>
             <pubDate>Mon, 22 Feb 2016 11:24:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What sparked the Cambrian explosion?]]></title>
-            <description><![CDATA[<article><h1>What sparked the Cambrian explosion?</h1><p>A series of dark, craggy pinnacles rises 80 metres above the grassy plains of Namibia. The peaks call to mind something ancient - the burial mounds of past civilizations or the tips of vast pyramids buried by the ages. The stone formations are indeed monuments of a faded empire, but not from anything hewn by human hands.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/95460d470269b97e130b554a23256f573ebec016.jpg"></article>]]></description>
-            <link>http://www.nature.com/news/what-sparked-the-cambrian-explosion-1.19379</link>
-            <guid isPermaLink="false">54bf5dcb-104a-41b3-8262-2c5dc6a62f4f</guid>
-            <pubDate>Mon, 22 Feb 2016 11:24:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
