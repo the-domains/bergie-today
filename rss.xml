@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 15:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 15:29:01 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Meanwhile onboard the international space station...]]></title>
+            <description><![CDATA[<article><h1>Meanwhile onboard the international space station...</h1><p>Somebody brought a gorilla suit on board</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53f07c1d3e416e46b529cc15aa0ea56fd75cae31.jpg"></article>]]></description>
+            <link>https://i.imgur.com/vhmd0UU.gifv</link>
+            <guid isPermaLink="false">f3e20dd7-eafe-4a8b-888c-667dc95854fe</guid>
+            <pubDate>Wed, 24 Feb 2016 15:28:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lift16 - Henri Bergius - VP Engineering at The Grid - from Lift16]]></title>
-            <description><![CDATA[<article><h1>Lift16 - Henri Bergius - VP Engineering at The Grid - from Lift16</h1><p>Lift16 by Lift Conference on Livestream - Livestream.com</p></article>]]></description>
+            <description><![CDATA[<article><h1>Lift16 - Henri Bergius - VP Engineering at The Grid - from Lift16</h1><p>Lift16 by Lift Conference on Livestream - Livestream.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1d44c536fb87aed33a4393c45921b93b40563c7.jpg"></article>]]></description>
             <link>http://livestream.com/liftconference/events/4805866/videos/112147620</link>
             <guid isPermaLink="false">593e7e10-31c1-48ff-8c96-62b439310d33</guid>
             <pubDate>Wed, 24 Feb 2016 15:08:11 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator</link>
             <guid isPermaLink="false">db1397bd-3db0-4e76-9e8a-bec10ce191c7</guid>
             <pubDate>Tue, 23 Feb 2016 11:55:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Mir Space Station Was a Marvel, a Clusterfuck, and an Underdog Hero]]></title>
-            <description><![CDATA[<article><h1>The Mir Space Station Was a Marvel, a Clusterfuck, and an Underdog Hero</h1><p>The core module of the iconic Mir space station, launched 30 years ago Saturday, was a cramped living space that could barely support two cosmonauts. But over the years, the station evolved like a multicellular organism, sprouting six more pressurized limbs from the DOS-7 base block to become the largest spacefaring vessel of its day, as well as the first continuously inhabited orbital outpost in human history.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba96c38c682584a033cfc6824045810eac448d23.jpg"></article>]]></description>
-            <link>http://motherboard.vice.com/read/the-mir-space-station-was-a-marvel-a-clusterfuck-and-an-underdog-hero</link>
-            <guid isPermaLink="false">2f52e234-82ac-429e-b812-789e188322a3</guid>
-            <pubDate>Tue, 23 Feb 2016 09:31:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
