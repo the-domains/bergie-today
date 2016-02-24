@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 11:05:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 11:10:31 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -22,10 +22,10 @@
         </item>
         <item>
             <title><![CDATA[Plain Text Accounting]]></title>
-            <description><![CDATA[<article><h1>Plain Text Accounting</h1><p>Accounting is tracking the flow of valuable commodities, such as money or time. It clarifies activity, priorities, obligations, opportunities. It can reduce stress and even be enjoyable. double-entry bookkeeping is a process for doing this reliably. For every movement of value (a transaction ), both the source and destination are recorded.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Plain Text Accounting</h1><p>Accounting data is valuable; we want to know that it will be accessible for ever - even without software. We want to know when it changes, and revision-control it. We want to search and manipulate it efficiently. So, we store it as human-readable plain text.</p></article>]]></description>
             <link>http://plaintextaccounting.org/</link>
             <guid isPermaLink="false">dc736338-b81a-49d8-9697-5da09ce59703</guid>
-            <pubDate>Wed, 24 Feb 2016 10:38:49 GMT</pubDate>
+            <pubDate>Wed, 24 Feb 2016 11:08:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introducing Resizer]]></title>
