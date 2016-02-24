@@ -16,23 +16,23 @@ keywords:
   - tracking
   - ledger
   - efficient
-description: 'Accounting is tracking the flow of valuable commodities, such as money or time. It clarifies activity, priorities, obligations, opportunities. It can reduce stress and even be enjoyable. double-entry bookkeeping is a process for doing this reliably. For every movement of value (a transaction ), both the source and destination are recorded.'
-datePublished: '2016-02-24T10:38:49.930Z'
-dateModified: '2016-02-24T10:38:41.097Z'
+description: 'Accounting data is valuable; we want to know that it will be accessible for ever - even without software. We want to know when it changes, and revision-control it. We want to search and manipulate it efficiently. So, we store it as human-readable plain text.'
+datePublished: '2016-02-24T11:08:48.387Z'
+dateModified: '2016-02-24T11:05:54.493Z'
 author: []
 related: []
 app_links: []
 title: Plain Text Accounting
+sourcePath: _posts/2016-02-24-plain-text-accounting.md
+published: true
 authors: []
 publisher:
   name: Plaintextaccounting
   domain: plaintextaccounting.org
   url: 'http://plaintextaccounting.org'
   favicon: 'http://plaintextaccounting.org/images/favicon.png'
-sourcePath: _posts/2016-02-24-plain-text-accounting.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Plain Text Accounting</h1><p>Accounting is tracking the flow of valuable commodities, such as money or time. It clarifies activity, priorities, obligations, opportunities. It can reduce stress and even be enjoyable. double-entry bookkeeping is a process for doing this reliably. For every movement of value (a transaction ), both the source and destination are recorded.</p></article>
+<article style=""><h1>Plain Text Accounting</h1><p>Accounting data is valuable; we want to know that it will be accessible for ever - even without software. We want to know when it changes, and revision-control it. We want to search and manipulate it efficiently. So, we store it as human-readable plain text.</p></article>
