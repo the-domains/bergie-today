@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 15:30:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 16:35:40 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google's answer to Facebook Instant Articles is now available on the mobile web]]></title>
+            <description><![CDATA[<article><h1>Google's answer to Facebook Instant Articles is now available on the mobile web</h1><p>Last fall Google announced Accelerated Mobile Pages - an open-source project to speed up the mobile web by changing how web pages are built and displayed. The project, which followed similar efforts from Facebook and Apple, promises to result in pages that load four times as fast and use 10 times less data than traditional pages.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f4d9dbbd657beeefa0e010b624d1ed182cd39e0.png"></article>]]></description>
+            <link>http://www.theverge.com/2016/2/24/11095776/google-amp-facebook-instant-articles</link>
+            <guid isPermaLink="false">c021c94a-d273-4199-9016-6c71e2664b15</guid>
+            <pubDate>Wed, 24 Feb 2016 16:34:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lift16 - Henri Bergius - VP Engineering at The Grid - from Lift16]]></title>
