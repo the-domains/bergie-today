@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 16:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 17:32:17 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reign of the Algorithm]]></title>
+            <description><![CDATA[<article><h1>Reign of the Algorithm</h1><p>This is (yet another) reflection about the ways that 'Web 2.0', social media, and the mass adoption of smartphones have changed society. But first, here is the introductory, prerequisite stanza: I began blogging in 2004. MySpace was one year old. Facebook was exclusively for Harvard students.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/419157110df7527eba08d60595604dbb315dccbe.jpg"></article>]]></description>
+            <link>http://jamesshelley.com/2016/02/20/reign-of-the-algorithm/</link>
+            <guid isPermaLink="false">7a8660b1-c54a-488c-8300-2289a2116615</guid>
+            <pubDate>Thu, 25 Feb 2016 17:31:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Artificial Intelligence, Technology without Alternative? at Lift16]]></title>
@@ -68,13 +75,6 @@
             <link>http://plaintextaccounting.org/</link>
             <guid isPermaLink="false">dc736338-b81a-49d8-9697-5da09ce59703</guid>
             <pubDate>Wed, 24 Feb 2016 11:08:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Resizer]]></title>
-            <description><![CDATA[<article><h1>Introducing Resizer</h1><p>An interactive viewer that helps designers test material design breakpoints across desktop, mobile, and tablet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcd2ff17b552a9fde2001e0cf48ee418cacc87cc.png"></article>]]></description>
-            <link>https://design.google.com/articles/introducing-resizer/</link>
-            <guid isPermaLink="false">64cbe5ef-01ae-4059-9645-45bb9be2382b</guid>
-            <pubDate>Wed, 24 Feb 2016 08:07:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
