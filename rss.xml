@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 14:43:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 15:03:53 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Real or computer-generated: can you tell the difference?]]></title>
+            <description><![CDATA[<article><h1>Real or computer-generated: can you tell the difference?</h1><p>As computer-generated characters become increasingly photorealistic, people are finding it harder to distinguish between real and computer-generated, a Dartmouth College-led study has found. This has introduced complex forensic and legal issues*, such as how to distinguish between computer-generated and photographic images of child pornography, says Hany Farid, a professor of computer science, pioneering researcher in digital forensics at Dartmouth, and senior author of a paper in the journal ACM Transactions on Applied Perception.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d85ab5fe0f9464ef1e8b510749d30ebe148d1df.jpg"></article>]]></description>
+            <link>http://www.kurzweilai.net/real-or-computer-generated-can-you-tell-the-difference</link>
+            <guid isPermaLink="false">c033ae7c-cd56-4159-a22e-6cd02d615902</guid>
+            <pubDate>Thu, 25 Feb 2016 15:03:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wikidata makes Wikipedia a database. Let the fun begin]]></title>
@@ -68,13 +75,6 @@
             <link>https://sivers.org/gifts</link>
             <guid isPermaLink="false">abd1782c-6328-40f5-ad92-9a7ae5c58da1</guid>
             <pubDate>Tue, 23 Feb 2016 19:09:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Culture, mathematical models, and Neandertal extinction]]></title>
-            <description><![CDATA[<article><h1>Culture, mathematical models, and Neandertal extinction</h1><p>I am not philosophically opposed to building a mathematical model of Neandertal populations. Some of my best work has involved mathematical model-building. Models have an important place in helping us to understand evolutionary history. But when it comes to understanding Neandertal and modern human interactions, we have had lots and lots and lots of models and few testable predictions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67cdba0b216e7e2a25c6329c1b82a7bfbb058e2e.jpg"></article>]]></description>
-            <link>http://johnhawks.net/weblog/reviews/neandertals/demography/ecocultural-model-gilpin-2016.html</link>
-            <guid isPermaLink="false">a038c38e-1e9a-4979-954d-81a76602584e</guid>
-            <pubDate>Tue, 23 Feb 2016 11:55:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
