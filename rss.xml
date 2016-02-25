@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 17:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 14:43:59 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wikidata makes Wikipedia a database. Let the fun begin]]></title>
+            <description><![CDATA[<article><h1>Wikidata makes Wikipedia a database. Let the fun begin</h1><p>Aliens have invaded! They threaten to destroy the Earth, unless we can answer a simple question: What are the ten largest cities on the planet with female mayors? Where would you even begin to answer that question?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1ce1f1d96c57b5736e235c39cbd3594bf90e5aa.jpg"></article>]]></description>
+            <link>http://www.theregister.co.uk/2016/02/25/wikidata_turns_the_world_into_a_database/?mt=1456408828593</link>
+            <guid isPermaLink="false">8f6b33c9-313c-4b5f-9fc2-c02503c0fbf8</guid>
+            <pubDate>Thu, 25 Feb 2016 14:43:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Filco MiniLa Air Bluetooth keyboard review]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Culture, mathematical models, and Neandertal extinction</h1><p>I am not philosophically opposed to building a mathematical model of Neandertal populations. Some of my best work has involved mathematical model-building. Models have an important place in helping us to understand evolutionary history. But when it comes to understanding Neandertal and modern human interactions, we have had lots and lots and lots of models and few testable predictions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67cdba0b216e7e2a25c6329c1b82a7bfbb058e2e.jpg"></article>]]></description>
             <link>http://johnhawks.net/weblog/reviews/neandertals/demography/ecocultural-model-gilpin-2016.html</link>
             <guid isPermaLink="false">a038c38e-1e9a-4979-954d-81a76602584e</guid>
-            <pubDate>Tue, 23 Feb 2016 11:55:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Working on the iPad: One Year Later, Still My Favorite Computer]]></title>
-            <description><![CDATA[<article><h1>Working on the iPad: One Year Later, Still My Favorite Computer</h1><p>Four years ago, I struggled to move from a Mac to an iPad. Today, I only have to open my MacBook once a week. And I wish I didn't have to.  In February 2015, after years of experiments and workarounds, I shared the story of how the iPad Air 2 became my primary computer. The article, while unsurprising for MacStories readers who had been following my iPad coverage since 2012, marked an important milestone in my journey towards being Mac-free.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc4bd7b385fcaa009436b99eaeac0c4adb32e506.jpg"></article>]]></description>
-            <link>https://www.macstories.net/stories/working-on-the-ipad-one-year-later-still-my-favorite-computer/</link>
-            <guid isPermaLink="false">36697fab-0f9f-442a-8d2a-828f5f19c01f</guid>
             <pubDate>Tue, 23 Feb 2016 11:55:38 GMT</pubDate>
         </item>
     </channel>
