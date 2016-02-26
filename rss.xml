@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 08:59:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 09:00:30 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IPFS: The InterPlanetary File System]]></title>
+            <description><![CDATA[<article><h1>IPFS: The InterPlanetary File System</h1><p>The InterPlanetary File System (IPFS) is a new Open Source project whose main goal is to turn the web into a distributed system - one that is not reliant on any one server or path. I've played around with it a bit this past week and would like to share my findings.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1321bee405790c2c6e5aa417d1e5e3dca158124.jpg"></article>]]></description>
+            <link>https://netninja.com/2015/09/30/ipfs_interplanetary_file_system/</link>
+            <guid isPermaLink="false">2719c8d3-9c1a-4384-84f9-d12289ff644f</guid>
+            <pubDate>Fri, 26 Feb 2016 08:58:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Driverless Cars Can Reshape Our Cities]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/2/24/11095776/google-amp-facebook-instant-articles</link>
             <guid isPermaLink="false">c021c94a-d273-4199-9016-6c71e2664b15</guid>
             <pubDate>Wed, 24 Feb 2016 16:34:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Atlas, The Next Generation]]></title>
-            <description><![CDATA[<article><h1>Atlas, The Next Generation</h1><p>This version of Atlas was designed to operate outdoors and inside buildings. It is electrically powered and hydraulically actuated. It uses sensors in its body and legs to balance. LIDAR and stereo sensors in the head are used to avoid obstacles, assess the terrain and help with navigation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b0d0eaf522a2dcea7262d8f5bbe89e01c60d1cf.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=rVlhMGQgDkY</link>
-            <guid isPermaLink="false">2909753f-0055-4088-a6d8-ab233dfdc1ce</guid>
-            <pubDate>Wed, 24 Feb 2016 11:05:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
