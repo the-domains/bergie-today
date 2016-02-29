@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 11:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 11:21:41 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No Wool, No Vikings]]></title>
+            <description><![CDATA[<article><h1>No Wool, No Vikings</h1><p>Gray clouds hang low over the Trondheim Fjord, a huge, convoluted indentation in the central Norwegian coast. A gusting wind blows the tops off the waves, tosses rain in my face, and fills Braute 's great square sail.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b66813f08c4ca6c7c3383a739093b48b851e7d45.jpg"></article>]]></description>
+            <link>http://www.hakaimagazine.com/article-long/no-wool-no-vikings</link>
+            <guid isPermaLink="false">fcee4bea-d335-4c6a-a627-17a2449b7f00</guid>
+            <pubDate>Mon, 29 Feb 2016 11:20:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Futurist Programming.. in 1994]]></title>
@@ -68,13 +75,6 @@
             <link>http://liftconference.com/news/2016/02/24/artificial-intelligence-technology-without-alternative-lift16</link>
             <guid isPermaLink="false">9608b7ce-f126-46fd-90ab-5e626e4d4e2c</guid>
             <pubDate>Thu, 25 Feb 2016 16:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Real or computer-generated: can you tell the difference?]]></title>
-            <description><![CDATA[<article><h1>Real or computer-generated: can you tell the difference?</h1><p>As computer-generated characters become increasingly photorealistic, people are finding it harder to distinguish between real and computer-generated, a Dartmouth College-led study has found. This has introduced complex forensic and legal issues*, such as how to distinguish between computer-generated and photographic images of child pornography, says Hany Farid, a professor of computer science, pioneering researcher in digital forensics at Dartmouth, and senior author of a paper in the journal ACM Transactions on Applied Perception.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d85ab5fe0f9464ef1e8b510749d30ebe148d1df.jpg"></article>]]></description>
-            <link>http://www.kurzweilai.net/real-or-computer-generated-can-you-tell-the-difference</link>
-            <guid isPermaLink="false">c033ae7c-cd56-4159-a22e-6cd02d615902</guid>
-            <pubDate>Thu, 25 Feb 2016 15:03:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
