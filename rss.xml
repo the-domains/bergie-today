@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 10:45:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2016 16:21:29 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The car century was a mistake. It's time to move on.]]></title>
+            <description><![CDATA[<article><h1>The car century was a mistake. It's time to move on.</h1><p>We must first remember that all cities were car-free little more than a century ago. Not all cities responded to the advent of automobiles with the same enthusiasm as the cities of the United States. In fact, some cities never did adopt the car. Venice was unwilling to destroy itself in order to build streets wide enough for cars, and therefore has never had them except in a sliver near the mainland. The same situation exists in the Medina of Fez, Morocco, and several other North African cities. These districts are usually the most vibrant parts of their cities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/024a66951dcb913bb26d78a1696482f5eb579d04.jpg"></article>]]></description>
+            <link>https://www.washingtonpost.com/news/in-theory/wp/2016/02/29/the-car-century-was-a-mistake-its-time-to-move-on/?postshare=3101456817934445&amp;tid=ss_tw</link>
+            <guid isPermaLink="false">eca6fdd6-73b6-4677-bd2c-722db2e29183</guid>
+            <pubDate>Tue, 01 Mar 2016 16:19:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IPFS Introduction by Example]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.svds.com/ethereum-the-rise-of-the-world-computer/#.Vs3MJboMMl0.facebook</link>
             <guid isPermaLink="false">421c8814-7657-4dec-81ae-e313865fe2d6</guid>
             <pubDate>Fri, 26 Feb 2016 18:22:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IPFS: The InterPlanetary File System]]></title>
-            <description><![CDATA[<article><h1>IPFS: The InterPlanetary File System</h1><p>The InterPlanetary File System (IPFS) is a new Open Source project whose main goal is to turn the web into a distributed system - one that is not reliant on any one server or path. I've played around with it a bit this past week and would like to share my findings.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1321bee405790c2c6e5aa417d1e5e3dca158124.jpg"></article>]]></description>
-            <link>https://netninja.com/2015/09/30/ipfs_interplanetary_file_system/</link>
-            <guid isPermaLink="false">2719c8d3-9c1a-4384-84f9-d12289ff644f</guid>
-            <pubDate>Fri, 26 Feb 2016 08:58:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
