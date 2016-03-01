@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 16:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2016 17:54:05 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DAOs, or how to replace both the Kickstarter and token presale models]]></title>
+            <description><![CDATA[<article><h1>DAOs, or how to replace both the Kickstarter and token presale models</h1><p>DAOs, or how to replace both the Kickstarter and token presale models With interest around blockchain at an all-time high, many are considering building decentralized applications, specifically on Ethereum. However, these developers are also hitting a brick wall when it comes to the correct way of 'structuring' their blockchain-based organizations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a100a9fbb0e3bccfebdb22a36396d37e7cf2050d.jpg"></article>]]></description>
+            <link>https://blog.slock.it/daos-or-how-to-replace-both-the-kickstarter-and-token-presale-models-1b2b8898d6e7#.8l2hiqpic</link>
+            <guid isPermaLink="false">e9b4ad22-9875-4bc5-a72a-5907834a12a2</guid>
+            <pubDate>Tue, 01 Mar 2016 17:52:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The car century was a mistake. It's time to move on.]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.telegraph.co.uk/technology/2016/02/25/end-of-moores-law-whats-next-could-be-more-exciting/</link>
             <guid isPermaLink="false">a723c368-e9f2-45fe-a96f-221f156fe5e8</guid>
             <pubDate>Mon, 29 Feb 2016 16:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum: Rise of the World Computer]]></title>
-            <description><![CDATA[<article><h1>Ethereum: Rise of the World Computer</h1><p>The Ethereum network is a distributed economy like Bitcoin, except it is much, much more powerful. The essential difference is that Ethereum is programmable. In fact, it only takes a few minutes to program a whole new currency like Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e64a8b7b65b3452eec617f262f3dc1a65cda9f3c.png"></article>]]></description>
-            <link>http://www.svds.com/ethereum-the-rise-of-the-world-computer/#.Vs3MJboMMl0.facebook</link>
-            <guid isPermaLink="false">421c8814-7657-4dec-81ae-e313865fe2d6</guid>
-            <pubDate>Fri, 26 Feb 2016 18:22:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
