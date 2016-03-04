@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 20:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 20:55:53 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Untold History of Arduino]]></title>
+            <description><![CDATA[<article><h1>The Untold History of Arduino</h1><p>The history of Arduino has been told by many people, and no two stories match. I want to clarify some facts around the history of Arduino, with proper supported references and documents, to better communicate to people who are interested, about Arduino’s origin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d730d7cb25e1bc44a958a74482851db98347221b.jpg"></article>]]></description>
+            <link>http://arduinohistory.github.io/</link>
+            <guid isPermaLink="false">59d3efaa-2b9a-40de-9254-b755c8063729</guid>
+            <pubDate>Fri, 04 Mar 2016 20:55:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Four pitfalls of hill climbing]]></title>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/gaming/2016/03/people-will-fall-for-it-like-a-drug-game-devs-on-the-future-of-vr/</link>
             <guid isPermaLink="false">c6282412-c744-4f0d-b00d-6eba7a543596</guid>
             <pubDate>Wed, 02 Mar 2016 18:00:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Get Started in The Grid Beta]]></title>
-            <description><![CDATA[<article><h1>Get Started in The Grid Beta</h1><p>So, you FINALLY got your activation email! Congrats! Welcome to the team. The links below will help you blast off into beta.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d40960b00cc0fd8df1fd012e9a853ef0f78aac8.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thegridsupport/b3af4b43-e125-4cc2-ab96-e5b46528b187/</link>
-            <guid isPermaLink="false">fdb17309-0164-40d8-86c9-d0b84eb9a910</guid>
-            <pubDate>Wed, 02 Mar 2016 17:58:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
