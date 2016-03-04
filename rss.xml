@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 20:55:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 23:48:32 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SES-9 Full Webcast]]></title>
+            <description><![CDATA[<article><h1>SES-9 Full Webcast</h1><p>SpaceX's Falcon 9 rocket will deliver SES-9, a commercial communications satellite for SES, to a Geostationary Transfer Orbit (GTO). SES is a world-leading satellite operator that provides satellite-enabled communications services to broadcasters, Internet service providers, mobile and fixed network operators, and business and governmental organizations worldwide using its fleet of more than 50 geostationary satellites.</p></article>]]></description>
+            <link>https://youtu.be/muDPSyO7-A0</link>
+            <guid isPermaLink="false">3ef31add-5953-4787-b0f5-fc92c248e669</guid>
+            <pubDate>Fri, 04 Mar 2016 23:47:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Untold History of Arduino]]></title>
@@ -68,13 +75,6 @@
             <link>http://techcrunch.com/2016/02/28/even-peter-thiel-has-got-soul/</link>
             <guid isPermaLink="false">facddb9d-9b57-4018-a910-422f14ccade7</guid>
             <pubDate>Wed, 02 Mar 2016 19:38:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["People will fall for it like a drug"-Game devs on the future of VR]]></title>
-            <description><![CDATA[<article><h1>"People will fall for it like a drug"-Game devs on the future of VR</h1><p>Industry luminaries discuss the promise and pitfalls of impending headsets with Ars.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff638ccc605ebc3f79be3877f332baf82f296c25.jpg"></article>]]></description>
-            <link>http://arstechnica.com/gaming/2016/03/people-will-fall-for-it-like-a-drug-game-devs-on-the-future-of-vr/</link>
-            <guid isPermaLink="false">c6282412-c744-4f0d-b00d-6eba7a543596</guid>
-            <pubDate>Wed, 02 Mar 2016 18:00:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
