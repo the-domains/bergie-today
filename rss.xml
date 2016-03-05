@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 23:48:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 08:35:55 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[My view on the current situation of Bitcoin and the Blockchain]]></title>
+            <description><![CDATA[<article><h1>My view on the current situation of Bitcoin and the Blockchain</h1><p>In a previous post, I wrote that I believe the Blockchain has the potential to be as disruptive -- and unlock as much opportunity and innovation -- as the Internet and that it could become a ubiquitous, interoperable, reliable, low-cost network for transactions of various kinds.</p></article>]]></description>
+            <link>http://joi.ito.com/weblog/2016/02/22/my-view-on-the-.html</link>
+            <guid isPermaLink="false">38cdc3a0-acea-4a0e-88c3-1d3236f47ad7</guid>
+            <pubDate>Sat, 05 Mar 2016 08:34:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SES-9 Full Webcast]]></title>
-            <description><![CDATA[<article><h1>SES-9 Full Webcast</h1><p>SpaceX's Falcon 9 rocket will deliver SES-9, a commercial communications satellite for SES, to a Geostationary Transfer Orbit (GTO). SES is a world-leading satellite operator that provides satellite-enabled communications services to broadcasters, Internet service providers, mobile and fixed network operators, and business and governmental organizations worldwide using its fleet of more than 50 geostationary satellites.</p></article>]]></description>
+            <description><![CDATA[<article><h1>SES-9 Full Webcast</h1><p>SpaceX's Falcon 9 rocket will deliver SES-9, a commercial communications satellite for SES, to a Geostationary Transfer Orbit (GTO). SES is a world-leading satellite operator that provides satellite-enabled communications services to broadcasters, Internet service providers, mobile and fixed network operators, and business and governmental organizations worldwide using its fleet of more than 50 geostationary satellites.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb616780bd9b6bfe029c72e9528406f770abac4a.jpg"></article>]]></description>
             <link>https://youtu.be/muDPSyO7-A0</link>
             <guid isPermaLink="false">3ef31add-5953-4787-b0f5-fc92c248e669</guid>
             <pubDate>Fri, 04 Mar 2016 23:47:13 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.theguardian.com/commentisfree/2016/feb/29/brewdogs-open-source-revolution-is-at-the-vanguard-of-postcapitalism</link>
             <guid isPermaLink="false">c4065a46-8a1d-4280-bc03-87889907cafc</guid>
             <pubDate>Thu, 03 Mar 2016 10:33:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[After The Gold Rush]]></title>
-            <description><![CDATA[<article><h1>After The Gold Rush</h1><p>The startup gold rush of the last ten years is over. Sorry. Those hordes of ambitious entrepreneurs still stampeding to the Bay Area in the hopes of building their Minimum Viable Product, getting into Y Combinator, and growing their app into the Next Big Thing-they're already too late.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d001188a533c6e1236f11a7d209aaaebd338d0fa.jpg"></article>]]></description>
-            <link>http://techcrunch.com/2016/02/28/even-peter-thiel-has-got-soul/</link>
-            <guid isPermaLink="false">facddb9d-9b57-4018-a910-422f14ccade7</guid>
-            <pubDate>Wed, 02 Mar 2016 19:38:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
