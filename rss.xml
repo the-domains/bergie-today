@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 12:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 13:44:28 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Walkers don Google cameras to map 2,500 miles of ancient trails]]></title>
+            <description><![CDATA[<article><h1>Walkers don Google cameras to map 2,500 miles of ancient trails</h1><p>If "the Google effect"on Britain is anything like "the Wild effect" in the US, there will soon be unprecedented numbers of people walking the national trails that traverse some of the most beautiful countryside in England and Wales.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8282173b9881bb5c007be71a986714d02d88817b.jpg"></article>]]></description>
+            <link>http://www.theguardian.com/uk-news/2016/mar/05/google-street-view-england-wales-national-trails</link>
+            <guid isPermaLink="false">f955fd62-59ba-412a-b760-b2423ad121b4</guid>
+            <pubDate>Sun, 06 Mar 2016 13:43:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Marble Machine (music instrument using 2000 marbles)]]></title>
@@ -68,13 +75,6 @@
             <link>https://robinrendle.com/essays/new-web-typography/</link>
             <guid isPermaLink="false">9f98d626-bf9a-45d5-a95b-38613019299d</guid>
             <pubDate>Thu, 03 Mar 2016 17:14:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Testing, Testing - One, Two, Hands Free]]></title>
-            <description><![CDATA[<article><h1>Testing, Testing - One, Two, Hands Free</h1><p>We wanted to explore what the future of mobile payments could look like. Imagine if you could rush through a drive-thru without reaching for your wallet, or pick up a hot dog at the ballpark without fumbling to pass coins or your credit card to the cashier. This prompted us to build a pilot app called Hands Free that we’re now in the early stages of testing. It lets you pay in stores quickly, easily, and completely hands-free.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb48c1629224306294adb349378001b617100c95.png"></article>]]></description>
-            <link>http://googlecommerce.blogspot.de/2016/03/testing-testing-one-two-hands-free.html</link>
-            <guid isPermaLink="false">280bb234-c9f4-4303-bc0f-7d2c3fc45d5b</guid>
-            <pubDate>Thu, 03 Mar 2016 10:57:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
