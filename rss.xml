@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 18:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 12:04:37 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marble Machine (music instrument using 2000 marbles)]]></title>
+            <description><![CDATA[<article><h1>Marble Machine (music instrument using 2000 marbles)</h1><p>Marble Machine built and composed by Martin Molin Video filmed and edited by Hannes Knutsson Costume designed by Angelique Nagtegaal Swedish band Wintergatan will play live concerts starting from summer 2016. For booking inquiries email: jesper.kumberg@gmail.com There is alot of people requesting audio, i will try to fix a download link tonight!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1e89b5004b4f0a96bfc4b6d7cbd2ad5d4b42697.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=IvUU8joBb1Q</link>
+            <guid isPermaLink="false">c55d76d1-e752-44de-a1db-f8d1db7dbacf</guid>
+            <pubDate>Sun, 06 Mar 2016 12:03:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The City States of Europe]]></title>
@@ -68,13 +75,6 @@
             <link>http://googlecommerce.blogspot.de/2016/03/testing-testing-one-two-hands-free.html</link>
             <guid isPermaLink="false">280bb234-c9f4-4303-bc0f-7d2c3fc45d5b</guid>
             <pubDate>Thu, 03 Mar 2016 10:57:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid - Beta]]></title>
-            <description><![CDATA[<article><h1>The Grid - Beta</h1><p>There are a lot of things going on under the hood.  The system is analyzing my photos, adding color filters to match my branding (which was in turn created from the system analyzing a picture I chose, in the first place).  Then it attempts to place title text in places that don’t overlap important parts of the images.  You make a few other choices, layout, type formality and then the AI builds you a site.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32a723ccd69abc75360842dbe40c06973000dcca.png"></article>]]></description>
-            <link>http://www.staciearellano.com/the-grid-beta/</link>
-            <guid isPermaLink="false">eeacea93-df93-49d9-aef5-360d94620590</guid>
-            <pubDate>Thu, 03 Mar 2016 10:40:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
