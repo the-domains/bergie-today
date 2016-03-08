@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 11:00:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 11:30:20 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CreativeAI]]></title>
+            <description><![CDATA[<article><h1>CreativeAI</h1><p>We live in times, where science fiction authors are struggling to keep up with reality. In recent years, there has been an explosion of research and experiments that deal with creativity and A.I. Almost every week, there is a new bot that paints, writes stories, composes music, designs objects or builds houses: Artificial Intelligence systems performing creative tasks?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08d82beadbab578872f763fbce62aca7be54dcfa.jpg"></article>]]></description>
+            <link>https://medium.com/@ArtificialExperience/creativeai-9d4b2346faf3#.8m4lj7zi7</link>
+            <guid isPermaLink="false">0811c1e4-94a3-4ebd-b43f-faf088109301</guid>
+            <pubDate>Tue, 08 Mar 2016 11:30:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ethereum and Oracles]]></title>
@@ -68,13 +75,6 @@
             <link>http://joi.ito.com/weblog/2016/02/22/my-view-on-the-.html</link>
             <guid isPermaLink="false">38cdc3a0-acea-4a0e-88c3-1d3236f47ad7</guid>
             <pubDate>Sat, 05 Mar 2016 08:34:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SES-9 Full Webcast]]></title>
-            <description><![CDATA[<article><h1>SES-9 Full Webcast</h1><p>SpaceX's Falcon 9 rocket will deliver SES-9, a commercial communications satellite for SES, to a Geostationary Transfer Orbit (GTO). SES is a world-leading satellite operator that provides satellite-enabled communications services to broadcasters, Internet service providers, mobile and fixed network operators, and business and governmental organizations worldwide using its fleet of more than 50 geostationary satellites.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb616780bd9b6bfe029c72e9528406f770abac4a.jpg"></article>]]></description>
-            <link>https://youtu.be/muDPSyO7-A0</link>
-            <guid isPermaLink="false">3ef31add-5953-4787-b0f5-fc92c248e669</guid>
-            <pubDate>Fri, 04 Mar 2016 23:47:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
