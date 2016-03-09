@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 11:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 09:22:31 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google's DeepMind defeats legendary Go player Lee Se-dol in historic victory]]></title>
+            <description><![CDATA[<article><h1>Google's DeepMind defeats legendary Go player Lee Se-dol in historic victory</h1><p>A huge milestone has just been reached in the field of artificial intelligence: AlphaGo, the program developed by Google's DeepMind unit, has defeated legendary Go player Lee Se-dol in the first of five historic matches being held in Seoul, South Korea. Lee resigned after about three and a half hours, with 28 minutes and 28 seconds on the clock.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf60b904a70f5f1f93f2b821b411caed73a663d4.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/3/9/11184362/google-alphago-go-deepmind-result</link>
+            <guid isPermaLink="false">64e65dc6-f1a7-463c-8842-a175cc4d98c0</guid>
+            <pubDate>Wed, 09 Mar 2016 09:21:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CreativeAI]]></title>
@@ -68,13 +75,6 @@
             <link>http://bigthink.com/strange-maps/the-city-states-of-europe</link>
             <guid isPermaLink="false">6d6ce854-6f6c-46ad-baff-c2d3d9fe8ca1</guid>
             <pubDate>Sat, 05 Mar 2016 18:42:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My view on the current situation of Bitcoin and the Blockchain]]></title>
-            <description><![CDATA[<article><h1>My view on the current situation of Bitcoin and the Blockchain</h1><p>In a previous post, I wrote that I believe the Blockchain has the potential to be as disruptive -- and unlock as much opportunity and innovation -- as the Internet and that it could become a ubiquitous, interoperable, reliable, low-cost network for transactions of various kinds.</p></article>]]></description>
-            <link>http://joi.ito.com/weblog/2016/02/22/my-view-on-the-.html</link>
-            <guid isPermaLink="false">38cdc3a0-acea-4a0e-88c3-1d3236f47ad7</guid>
-            <pubDate>Sat, 05 Mar 2016 08:34:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
