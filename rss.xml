@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 15:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 11:31:11 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HTTP vs IPFS: is Peer-to-Peer Sharing the Future of the Web?]]></title>
+            <description><![CDATA[<article><h1>HTTP vs IPFS: is Peer-to-Peer Sharing the Future of the Web?</h1><p>The Inter-Planetary File System (IPFS) is a revolutionary model that could change the way we use the Internet. Unlike the typical server-client model we're accustomed to, IPFS is something more like BitTorrent. Does that grab your attention? Then read on! The Hypertext Transfer Protocol (HTTP) is the backbone of the World Wide Web.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/baf51a5b0777bae17a6f80905626a5e772f3dd4a.png"></article>]]></description>
+            <link>http://www.sitepoint.com/http-vs-ipfs-is-peer-to-peer-sharing-the-future-of-the-web/</link>
+            <guid isPermaLink="false">eea4eb3e-cd3d-4039-838d-2d4a3a30d9b0</guid>
+            <pubDate>Thu, 10 Mar 2016 11:30:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[System loads Web pages 34 percent faster by fetching files more effectively]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Rise and Rise of Ethereum - The World Supercomputer</h1><p>Ethereum is a world supercomputer that anyone can tap into without requiring any permission from any entity. By downloading a software, your computer or server becomes a node and in so becoming it "shares" its computation, storage, bandwith with other nodes, so pooling in resources to create this powerful global intelligent network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/837b9fe7b33c1e2a546db1ba2785910e9074665c.jpg"></article>]]></description>
             <link>http://www.blockcy.com/the-rise-of-ethereum-the-world-supercomputer</link>
             <guid isPermaLink="false">fb1af506-bcc5-44d1-bd16-20e012c5d46e</guid>
-            <pubDate>Sun, 06 Mar 2016 23:32:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The evolution of linkblogging]]></title>
-            <description><![CDATA[<article><h1>The evolution of linkblogging</h1><p>In my posts about defining what makes a microblog post and guidelines for RSS, I talked a little about links but didn't explore linkblogging. While many blog authors post primarily long essays, shorter link blogs are a common approach for bloggers who want to post new content several times a day.</p></article>]]></description>
-            <link>http://www.manton.org/2016/03/the-evolution-of-linkblogging.html</link>
-            <guid isPermaLink="false">1d34e1eb-afff-4556-ab8a-edd397813397</guid>
             <pubDate>Sun, 06 Mar 2016 23:32:25 GMT</pubDate>
         </item>
     </channel>
