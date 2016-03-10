@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 20:29:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 22:30:24 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The future of computing]]></title>
+            <description><![CDATA[<article><h1>The future of computing</h1><p>In 1971 the fastest car in the world was the Ferrari Daytona, capable of 280kph (174mph). The world's tallest buildings were New York's twin towers, at 415 metres (1,362 feet). In November that year Intel launched the first commercial microprocessor chip, the 4004, containing 2,300 tiny transistors, each the size of a red blood cell.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31fdaa7ce0e4846ee8c5e72848ead72887c9a06a.jpg"></article>]]></description>
+            <link>http://www.economist.com/news/leaders/21694528-era-predictable-improvement-computer-hardware-ending-what-comes-next-future</link>
+            <guid isPermaLink="false">2bc6e53c-440d-4a8a-a300-49e735731fd7</guid>
+            <pubDate>Thu, 10 Mar 2016 22:30:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DeepMind founder Demis Hassabis on how AI will shape the future]]></title>
@@ -68,13 +75,6 @@
             <link>https://blog.ethereum.org/2014/07/22/ethereum-and-oracles/</link>
             <guid isPermaLink="false">e201356a-a25a-49fa-80ff-7a18248e4869</guid>
             <pubDate>Tue, 08 Mar 2016 11:00:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sid Meier - The man who made a million empires]]></title>
-            <description><![CDATA[<article><h1>Sid Meier - The man who made a million empires</h1><p>Not many creators have the brazen audacity to slap their name in the actual titles of the things they create. John Lennon didn't call his 1971 album, "John Lennon's Imagine." Mrs. Dalloway isn't called "Virginia Woolf's Mrs. Dalloway." James Cameron has so far managed to keep his name out of all his movie titles.  But a lot of Sid Meier's games flash the words "Sid Meier" right there in the title. Most famously: the Sid Meier's Civilization series, which has sold more than 33 million units over the past 25 years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/675892c85473dee85e477df071fbb5b12b9ad25a.jpg"></article>]]></description>
-            <link>http://www.polygon.com/features/2016/3/4/11158134/the-man-who-made-a-million-empires</link>
-            <guid isPermaLink="false">7dda930f-0868-4f8b-b951-ae3f26596b97</guid>
-            <pubDate>Mon, 07 Mar 2016 02:32:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
