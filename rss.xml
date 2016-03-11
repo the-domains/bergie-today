@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 22:30:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 09:11:31 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Logan CIJ Symposium in Berlin on March 11-12, 2016]]></title>
+            <description><![CDATA[<article><h1>Logan CIJ Symposium in Berlin on March 11-12, 2016</h1><p>Over the years, facts like those revealed by WikiLeaks and Edward Snowden have made clear that we are all vulnerable. Our human rights are at risk. For journalists, the disclosures impacted what we do and, importantly, how we do it. Remarkably, we also discovered allies we didn't know we had.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b10bb05a145af7af5f16de16b43c1f81e84f32f.png"></article>]]></description>
+            <link>https://logancij.com/</link>
+            <guid isPermaLink="false">76a23953-8aa8-4d77-ac01-841c389fd39f</guid>
+            <pubDate>Fri, 11 Mar 2016 09:11:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The future of computing]]></title>
@@ -68,13 +75,6 @@
             <link>https://medium.com/@ArtificialExperience/creativeai-9d4b2346faf3#.8m4lj7zi7</link>
             <guid isPermaLink="false">0811c1e4-94a3-4ebd-b43f-faf088109301</guid>
             <pubDate>Tue, 08 Mar 2016 11:30:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum and Oracles]]></title>
-            <description><![CDATA[<article><h1>Ethereum and Oracles</h1><p>One of the more popular proposals for implementing smart contracts differently from the way they are typically presented in Ethereum is through the concept of oracles. Essentially, instead of a long-running contract being run directly on the blockchain, all funds that are intended to go into the contract would instead go into an M-of-N multisig address controlled by a set of specialized entities called “oracles”, and the contract code would be simultaneously sent to all of these entities. Every time someone wants to send a message to the contract, they would send the message to the oracles. The oracles would run the code, and if the code execution leads to a withdrawal from the contract to some particular address then the oracles circulate a transaction sending the funds and sign it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab25511acc1b28e2913ec9da1bfdf68b6b5cfa20.jpg"></article>]]></description>
-            <link>https://blog.ethereum.org/2014/07/22/ethereum-and-oracles/</link>
-            <guid isPermaLink="false">e201356a-a25a-49fa-80ff-7a18248e4869</guid>
-            <pubDate>Tue, 08 Mar 2016 11:00:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
