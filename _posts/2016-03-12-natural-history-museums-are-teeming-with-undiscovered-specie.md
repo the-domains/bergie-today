@@ -17,8 +17,8 @@ keywords:
   - teeth
   - olinguito
 description: Tracking them down is a globe-trotting adventure that rivals any jungle expedition.
-datePublished: '2016-03-12T13:58:51.776Z'
-dateModified: '2016-03-12T13:58:38.204Z'
+datePublished: '2016-03-12T14:09:51.796Z'
+dateModified: '2016-03-12T14:09:23.879Z'
 author:
   - name: Ed Yong
     url: 'http://www.theatlantic.com/author/ed-yong/'
@@ -26,14 +26,14 @@ author:
 related: []
 app_links: []
 title: Natural History Museums Are Teeming With Undiscovered Species
+sourcePath: _posts/2016-03-12-natural-history-museums-are-teeming-with-undiscovered-specie.md
+published: true
 authors: []
 publisher:
   name: The Atlantic
   domain: www.theatlantic.com
   url: 'http://www.theatlantic.com'
   favicon: 'http://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/favicon.ico'
-sourcePath: _posts/2016-03-12-natural-history-museums-are-teeming-with-undiscovered-specie.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
