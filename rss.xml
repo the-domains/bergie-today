@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 15:34:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 15:35:02 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deep Secrets and the Thrill of Discovery]]></title>
+            <description><![CDATA[<article><h1>Deep Secrets and the Thrill of Discovery</h1><p>I have spent all of my adult life working in or running a biology research lab. It has been a very fulfilling, full-time pursuit. So when colleagues discover that I wrote a book that's set in Paris and delves into such topics as the French Resistance, the Cold War and the author Albert Camus, they're somewhat baffled.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9028c586b436cd3c267b9b1e470da862030e8575.jpg"></article>]]></description>
+            <link>https://www.quantamagazine.org/20160225-thrill-of-discovery/</link>
+            <guid isPermaLink="false">6817e7a8-f9af-4ef9-86f8-79140fadec50</guid>
+            <pubDate>Sun, 13 Mar 2016 15:34:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Are We Fighting the Crypto Wars Again?]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>System loads Web pages 34 percent faster by fetching files more effectively</h1><p>"Polaris" system from MIT's Computer Science and Artificial Intelligence Lab accelerates website load-time by decreasing network trips.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92e0618f1d4396129005f7e813764e60d02c41a7.jpg"></article>]]></description>
             <link>http://news.mit.edu/2016/system-loads-web%20pages-34-percent-faster-0309</link>
             <guid isPermaLink="false">db234834-c940-48bb-b69b-053626ed67c5</guid>
-            <pubDate>Wed, 09 Mar 2016 15:24:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jeff Bezos Lifts Veil on His Rocket Company, Blue Origin]]></title>
-            <description><![CDATA[<article><h1>Jeff Bezos Lifts Veil on His Rocket Company, Blue Origin</h1><p>The headquarters of Blue Origin, the secretive rocket company in an industrial park here, is anonymous, with not even a sign at the road to announce the occupants. On Tuesday, for the first time, Blue Origin, started by Jeffrey P. Bezos, the billionaire founder of Amazon, opened its doors to reporters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2229669a4714ef331e6445fe9e51baa730b47969.jpg"></article>]]></description>
-            <link>http://www.nytimes.com/2016/03/09/science/space/jeff-bezos-lifts-veil-on-his-rocket-company-blue-origin.html?_r=0</link>
-            <guid isPermaLink="false">2662b3d8-8547-4af6-a894-ac336d20e75f</guid>
             <pubDate>Wed, 09 Mar 2016 15:24:50 GMT</pubDate>
         </item>
     </channel>
