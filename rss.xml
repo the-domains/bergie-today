@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 15:35:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 15:35:45 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Sadness and Beauty of Watching Google's AI Play Go]]></title>
+            <description><![CDATA[<article><h1>The Sadness and Beauty of Watching Google's AI Play Go</h1><p>At first, Fan Hui thought the move was rather odd. But then he saw its beauty. "It's not a human move. I've never seen a human play this move," he says. "So beautiful." It's a word he keeps repeating. Beautiful. Beautiful. Beautiful.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac9c62fb23b89863f53f4e74a8e2cf4afdbf4af5.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/03/sadness-beauty-watching-googles-ai-play-go/</link>
+            <guid isPermaLink="false">bfe8efbf-326b-4235-a01c-33c3e2178734</guid>
+            <pubDate>Sun, 13 Mar 2016 15:34:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Sound of Silence]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/3/10/11192774/demis-hassabis-interview-alphago-google-deepmind-ai</link>
             <guid isPermaLink="false">2a3b91f3-9351-44c2-8d44-70c54e178071</guid>
             <pubDate>Thu, 10 Mar 2016 20:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HTTP vs IPFS: is Peer-to-Peer Sharing the Future of the Web?]]></title>
-            <description><![CDATA[<article><h1>HTTP vs IPFS: is Peer-to-Peer Sharing the Future of the Web?</h1><p>The Inter-Planetary File System (IPFS) is a revolutionary model that could change the way we use the Internet. Unlike the typical server-client model we're accustomed to, IPFS is something more like BitTorrent. Does that grab your attention? Then read on! The Hypertext Transfer Protocol (HTTP) is the backbone of the World Wide Web.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/baf51a5b0777bae17a6f80905626a5e772f3dd4a.png"></article>]]></description>
-            <link>http://www.sitepoint.com/http-vs-ipfs-is-peer-to-peer-sharing-the-future-of-the-web/</link>
-            <guid isPermaLink="false">eea4eb3e-cd3d-4039-838d-2d4a3a30d9b0</guid>
-            <pubDate>Thu, 10 Mar 2016 11:30:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
