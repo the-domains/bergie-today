@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 19:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 21:12:28 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="We sometimes think of the shift to mobile as finished&comma; or almost finished&period; It isn&apos;t&period;" src="https://pbs.twimg.com/media/CdX1U3XVIAA5riG.jpg:large">]]></description>
+            <link>https://twitter.com/BenedictEvans/status/708742258724462592?ref_src=twsrc%5Etfw</link>
+            <guid isPermaLink="false">11695740-4074-488e-b51b-42d33cb9993d</guid>
+            <pubDate>Sun, 13 Mar 2016 21:12:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The idea maze for AI startups]]></title>
-            <description><![CDATA[<article><h1>The idea maze for AI startups</h1><p>An " idea maze " is a map of all the key decisions and tradeoffs that startups in a given space need to make: A good founder is capable of anticipating which turns lead to treasure and which lead to certain death.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc6aacc034edae24057fba103ab758744efb42b0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The idea maze for AI startups</h1><p>An " idea maze " is a map of all the key decisions and tradeoffs that startups in a given space need to make: A good founder is capable of anticipating which turns lead to treasure and which lead to certain death.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99beda13acdd81f1c79e3fa79c84b0c658bc6aff.jpg"></article>]]></description>
             <link>http://cdixon.org/2015/02/01/the-ai-startup-idea-maze/</link>
             <guid isPermaLink="false">e3457f39-0801-4dff-90a2-c482a185a159</guid>
             <pubDate>Sun, 13 Mar 2016 19:18:06 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://backchannel.com/why-are-we-fighting-the-crypto-wars-again-b5310a423295#.tahcubm4m</link>
             <guid isPermaLink="false">1c487099-2ccb-474d-9ba4-f81b65f5cb63</guid>
             <pubDate>Sun, 13 Mar 2016 15:34:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Artificial intelligence and language]]></title>
-            <description><![CDATA[<article><h1>Artificial intelligence and language</h1><p>The concept of artificial intelligence has been around for a long time. We're all familiar with HAL 9000 from 2001: A Space Odyssey, C-3PO from Star Wars and, more recently, Samantha from Her. In written fiction, AI characters show up in stories from writers like Philip K. Dick, William Gibson and Isaac Asimov.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5548ae3b0b2574dd7d0a48ad36c960d967c8ee15.jpg"></article>]]></description>
-            <link>http://techcrunch.com/2016/03/12/artificial-intelligence-and-language/</link>
-            <guid isPermaLink="false">5780c6c2-c2f1-40fb-9a16-32b841bf3103</guid>
-            <pubDate>Sun, 13 Mar 2016 15:29:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
