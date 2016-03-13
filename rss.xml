@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 15:30:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 15:31:35 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Artificial intelligence and language]]></title>
+            <description><![CDATA[<article><h1>Artificial intelligence and language</h1><p>The concept of artificial intelligence has been around for a long time. We're all familiar with HAL 9000 from 2001: A Space Odyssey, C-3PO from Star Wars and, more recently, Samantha from Her. In written fiction, AI characters show up in stories from writers like Philip K. Dick, William Gibson and Isaac Asimov.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5548ae3b0b2574dd7d0a48ad36c960d967c8ee15.jpg"></article>]]></description>
+            <link>http://techcrunch.com/2016/03/12/artificial-intelligence-and-language/</link>
+            <guid isPermaLink="false">5780c6c2-c2f1-40fb-9a16-32b841bf3103</guid>
+            <pubDate>Sun, 13 Mar 2016 15:29:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When I was young, there was nothing so bad as being asked to work. Now I find it hard to conjure up that feeling, but I see it in my five-year-old daughter. "Can I please have some water, daddy?" "You can get it yourself, you're a big girl."]]></title>
@@ -68,13 +75,6 @@
             <link>https://bergie.crew.c-base.org/usb-dead-drop-publishing-via-ipfs/</link>
             <guid isPermaLink="false">7d778338-17cf-41e8-9ec7-ea8344ea744b</guid>
             <pubDate>Wed, 09 Mar 2016 12:17:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google's DeepMind defeats legendary Go player Lee Se-dol in historic victory]]></title>
-            <description><![CDATA[<article><h1>Google's DeepMind defeats legendary Go player Lee Se-dol in historic victory</h1><p>A huge milestone has just been reached in the field of artificial intelligence: AlphaGo, the program developed by Google's DeepMind unit, has defeated legendary Go player Lee Se-dol in the first of five historic matches being held in Seoul, South Korea. Lee resigned after about three and a half hours, with 28 minutes and 28 seconds on the clock.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf60b904a70f5f1f93f2b821b411caed73a663d4.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/3/9/11184362/google-alphago-go-deepmind-result</link>
-            <guid isPermaLink="false">64e65dc6-f1a7-463c-8842-a175cc4d98c0</guid>
-            <pubDate>Wed, 09 Mar 2016 09:21:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
