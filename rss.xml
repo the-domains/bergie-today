@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 18:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 19:19:18 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The idea maze for AI startups]]></title>
+            <description><![CDATA[<article><h1>The idea maze for AI startups</h1><p>An " idea maze " is a map of all the key decisions and tradeoffs that startups in a given space need to make: A good founder is capable of anticipating which turns lead to treasure and which lead to certain death.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc6aacc034edae24057fba103ab758744efb42b0.jpg"></article>]]></description>
+            <link>http://cdixon.org/2015/02/01/the-ai-startup-idea-maze/</link>
+            <guid isPermaLink="false">e3457f39-0801-4dff-90a2-c482a185a159</guid>
+            <pubDate>Sun, 13 Mar 2016 19:18:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This Man Wants to Be Earth's First Space Traffic Controller and We Need to Give Him the Gig]]></title>
@@ -68,13 +75,6 @@
             <link>http://techcrunch.com/2016/03/12/artificial-intelligence-and-language/</link>
             <guid isPermaLink="false">5780c6c2-c2f1-40fb-9a16-32b841bf3103</guid>
             <pubDate>Sun, 13 Mar 2016 15:29:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When I was young, there was nothing so bad as being asked to work. Now I find it hard to conjure up that feeling, but I see it in my five-year-old daughter. "Can I please have some water, daddy?" "You can get it yourself, you're a big girl."]]></title>
-            <description><![CDATA[<article><h1>When I was young, there was nothing so bad as being asked to work. Now I find it hard to conjure up that feeling, but I see it in my five-year-old daughter. "Can I please have some water, daddy?" "You can get it yourself, you're a big girl."</h1><p>W hen I was young, there was nothing so bad as being asked to work. Now I find it hard to conjure up that feeling, but I see it in my five-year-old daughter. "Can I please have some water, daddy?" "You can get it yourself, you're a big girl."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32144cc0862322a352df62764785545599edfc63.jpg"></article>]]></description>
-            <link>https://www.1843magazine.com/features/why-do-we-work-so-hard</link>
-            <guid isPermaLink="false">ed8f58d4-c509-473e-a5c3-fa0dc809ea5e</guid>
-            <pubDate>Sun, 13 Mar 2016 15:29:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
