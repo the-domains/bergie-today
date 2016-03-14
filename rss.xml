@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 09:57:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 14:56:39 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Пуск РКН Протон-М с КА миссии ExoMars-2016]]></title>
+            <description><![CDATA[<article><h1>Пуск РКН Протон-М с КА миссии ExoMars-2016</h1><p>14 марта 2016 года в 12:31 мск с космодрома БАЙКОНУР успешно стартовала ракета-носитель (РН) "Протон-М" с разгонным блоком "Бриз-М" и двумя космическими аппаратами (КА) российско-европейской миссии ExoMars-2016 ("ЭкзоМарс-2016") - демонстрационным посадочным модулем Schiaparelli ("Скиапарелли") и орбитальным модулем Trace Gas Orbiter (TGO, "Трейс Газ Орбитер").</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04ac5e81cc13f15a3c7bc94c9bb49568d374f4db.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=2r7qqK5E7fU&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">395cb1a9-9282-4abc-ac0c-f6390dc43f90</guid>
+            <pubDate>Mon, 14 Mar 2016 14:56:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why ExoMars' ride to space takes the time it does]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Sound of Silence</h1><p>Jean Sibelius and the symphony that never was From 1904 until his death in 1957, the composer Jean Sibelius lived some 20 miles north of Helsinki, in a rural villa built of timber and stone on the shores of Lake Tuusula. He called the house Ainola, after his wife, Aino.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc364251a0c6cce0e949afa990019b8875e2066e.png"></article>]]></description>
             <link>https://theamericanscholar.org/the-sound-of-silence/</link>
             <guid isPermaLink="false">7ff29b74-5b6d-4f03-9130-99ae84686391</guid>
-            <pubDate>Sun, 13 Mar 2016 15:34:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deep Secrets and the Thrill of Discovery]]></title>
-            <description><![CDATA[<article><h1>Deep Secrets and the Thrill of Discovery</h1><p>I have spent all of my adult life working in or running a biology research lab. It has been a very fulfilling, full-time pursuit. So when colleagues discover that I wrote a book that's set in Paris and delves into such topics as the French Resistance, the Cold War and the author Albert Camus, they're somewhat baffled.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9028c586b436cd3c267b9b1e470da862030e8575.jpg"></article>]]></description>
-            <link>https://www.quantamagazine.org/20160225-thrill-of-discovery/</link>
-            <guid isPermaLink="false">6817e7a8-f9af-4ef9-86f8-79140fadec50</guid>
             <pubDate>Sun, 13 Mar 2016 15:34:24 GMT</pubDate>
         </item>
     </channel>
