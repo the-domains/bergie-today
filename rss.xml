@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 21:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 09:57:33 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why ExoMars' ride to space takes the time it does]]></title>
+            <description><![CDATA[<article><h1>Why ExoMars' ride to space takes the time it does</h1><p>On 14 March 2016 at 9:31:42 UTC, a Proton M / Breeze M rocket will lift off from Baikonur Cosmodrome with the ExoMars 2016 spacecraft under its payload fairing.  10 hours and 45 minutes later, the rocket will release its payload and ExoMars will be on an Earth escape trajectory - the ExoMars 2016 mission will have started.  But hey: ten hours and 45 minutes? Almost half a day? Why does it take so long this time? After all, with both the Mars Express and Venus Express missions the escape sequence was over within 90 minutes from liftoff.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a7052033c45e2d66f34ec0f88c74d27a23fa2ec.jpg"></article>]]></description>
+            <link>http://blogs.esa.int/rocketscience/2016/03/13/why-exomars-ride-to-space-takes-the-time-it-does/</link>
+            <guid isPermaLink="false">c61ea421-f0d3-4801-b90d-03200c26aaf7</guid>
+            <pubDate>Mon, 14 Mar 2016 09:56:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Deep Secrets and the Thrill of Discovery</h1><p>I have spent all of my adult life working in or running a biology research lab. It has been a very fulfilling, full-time pursuit. So when colleagues discover that I wrote a book that's set in Paris and delves into such topics as the French Resistance, the Cold War and the author Albert Camus, they're somewhat baffled.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9028c586b436cd3c267b9b1e470da862030e8575.jpg"></article>]]></description>
             <link>https://www.quantamagazine.org/20160225-thrill-of-discovery/</link>
             <guid isPermaLink="false">6817e7a8-f9af-4ef9-86f8-79140fadec50</guid>
-            <pubDate>Sun, 13 Mar 2016 15:34:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Are We Fighting the Crypto Wars Again?]]></title>
-            <description><![CDATA[<article><h1>Why Are We Fighting the Crypto Wars Again?</h1><p>The iPhone Crisis reignited a conflict that should have been settled in the 90s. The loser is our national security. L ast week I arrived in San Francisco to hear good news: Whitfield Diffie and Martin Hellman had won the ACM A.M. Turing Award.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59fd0493e2a118b5372d39bcf405c515f5301962.gif"></article>]]></description>
-            <link>https://backchannel.com/why-are-we-fighting-the-crypto-wars-again-b5310a423295#.tahcubm4m</link>
-            <guid isPermaLink="false">1c487099-2ccb-474d-9ba4-f81b65f5cb63</guid>
             <pubDate>Sun, 13 Mar 2016 15:34:24 GMT</pubDate>
         </item>
     </channel>
