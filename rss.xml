@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 14:56:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 09:06:53 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shipwreck Discovered from Explorer Vasco da Gama's Fleet]]></title>
+            <description><![CDATA[<article><h1>Shipwreck Discovered from Explorer Vasco da Gama's Fleet</h1><p>The oldest shipwreck from Europe's Golden Age of Exploration has been found off the coast of Oman, the country's Ministry of Heritage and Culture will announce on Tuesday. The wreck is believed to be that of the Esmeralda, which was part of a fleet led by legendary Portuguese explorer Vasco da Gama during his second voyage to India (1502-1503).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c8055790cf664cdc6e4bead3f3940278f33bc91.jpg"></article>]]></description>
+            <link>http://news.nationalgeographic.com/2016/03/20160314-oman-shipwreck-explorer-vasco-da-gama-age-of-exploration-india-route/</link>
+            <guid isPermaLink="false">3fde5eaa-7a2c-4b7e-8599-c95a9cbeb9fd</guid>
+            <pubDate>Tue, 15 Mar 2016 09:06:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Пуск РКН Протон-М с КА миссии ExoMars-2016]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Sadness and Beauty of Watching Google's AI Play Go</h1><p>At first, Fan Hui thought the move was rather odd. But then he saw its beauty. "It's not a human move. I've never seen a human play this move," he says. "So beautiful." It's a word he keeps repeating. Beautiful. Beautiful. Beautiful.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac9c62fb23b89863f53f4e74a8e2cf4afdbf4af5.jpg"></article>]]></description>
             <link>http://www.wired.com/2016/03/sadness-beauty-watching-googles-ai-play-go/</link>
             <guid isPermaLink="false">bfe8efbf-326b-4235-a01c-33c3e2178734</guid>
-            <pubDate>Sun, 13 Mar 2016 15:34:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Sound of Silence]]></title>
-            <description><![CDATA[<article><h1>The Sound of Silence</h1><p>Jean Sibelius and the symphony that never was From 1904 until his death in 1957, the composer Jean Sibelius lived some 20 miles north of Helsinki, in a rural villa built of timber and stone on the shores of Lake Tuusula. He called the house Ainola, after his wife, Aino.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc364251a0c6cce0e949afa990019b8875e2066e.png"></article>]]></description>
-            <link>https://theamericanscholar.org/the-sound-of-silence/</link>
-            <guid isPermaLink="false">7ff29b74-5b6d-4f03-9130-99ae84686391</guid>
             <pubDate>Sun, 13 Mar 2016 15:34:24 GMT</pubDate>
         </item>
     </channel>
