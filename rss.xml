@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 09:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 14:55:34 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Experimental support for WebAssembly in V8]]></title>
+            <description><![CDATA[<article><h1>Experimental support for WebAssembly in V8</h1><p>Since June 2015, collaborators from Google, Mozilla, Microsoft, Apple and the W3C WebAssembly Community Group have been hard at work designing, specifying, and implementing  WebAssembly, a new runtime and compilation target for the web. WebAssembly is a low-level, portable bytecode that is designed to be encoded in a compact binary format and executed at near-native speed in a memory-safe sandbox. As an evolution of existing technologies, WebAssembly is tightly integrated with the web platform, as well as faster to download over the network and faster to instantiate than asm.js, a low-level subset of JavaScript.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b934b057cb9c7fab0d3dab1ff2d4061c7ee0bb2.jpg"></article>]]></description>
+            <link>http://v8project.blogspot.de/2016/03/experimental-support-for-webassembly.html</link>
+            <guid isPermaLink="false">b3f6b36b-a230-4229-bca2-ad52b840a94f</guid>
+            <pubDate>Tue, 15 Mar 2016 14:55:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shipwreck Discovered from Explorer Vasco da Gama's Fleet]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Were the Mysterious Bog People Human Sacrifices?</h1><p>A British archaeologist argues that the miraculously preserved bodies were left in the water as offerings to the gods.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2035f73a8588ea46ea59ed3017fc105664690173.jpg"></article>]]></description>
             <link>http://www.theatlantic.com/science/archive/2016/03/were-europes-mysterious-bog-people-human-sacrifices/472839/?single_page=true</link>
             <guid isPermaLink="false">b60b966a-10c3-40ae-a391-e2553ca2616d</guid>
-            <pubDate>Sun, 13 Mar 2016 15:34:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Sadness and Beauty of Watching Google's AI Play Go]]></title>
-            <description><![CDATA[<article><h1>The Sadness and Beauty of Watching Google's AI Play Go</h1><p>At first, Fan Hui thought the move was rather odd. But then he saw its beauty. "It's not a human move. I've never seen a human play this move," he says. "So beautiful." It's a word he keeps repeating. Beautiful. Beautiful. Beautiful.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac9c62fb23b89863f53f4e74a8e2cf4afdbf4af5.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/03/sadness-beauty-watching-googles-ai-play-go/</link>
-            <guid isPermaLink="false">bfe8efbf-326b-4235-a01c-33c3e2178734</guid>
             <pubDate>Sun, 13 Mar 2016 15:34:24 GMT</pubDate>
         </item>
     </channel>
