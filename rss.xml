@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 08:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 08:18:02 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Amazon Tax]]></title>
+            <description><![CDATA[<article><h1>The Amazon Tax</h1><p>Ten years ago yesterday Amazon evangelist Jeff Barr posted a 222-word post on the Amazon Web Services Blog that opened: Earlier today we rolled out Amazon S3, our reliable, highly scalable, low-latency data storage service.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cef569488c3f2fcdcd6c2a2ff73e6dc083b4a506.png"></article>]]></description>
+            <link>https://stratechery.com/2016/the-amazon-tax/</link>
+            <guid isPermaLink="false">e2fe79df-525e-43ac-9b53-54419209dd8b</guid>
+            <pubDate>Wed, 16 Mar 2016 08:17:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jeff Bezos sees 'millions' of people living, working in space]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/BenedictEvans/status/708742258724462592?ref_src=twsrc%5Etfw</link>
             <guid isPermaLink="false">11695740-4074-488e-b51b-42d33cb9993d</guid>
             <pubDate>Sun, 13 Mar 2016 21:12:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The idea maze for AI startups]]></title>
-            <description><![CDATA[<article><h1>The idea maze for AI startups</h1><p>An " idea maze " is a map of all the key decisions and tradeoffs that startups in a given space need to make: A good founder is capable of anticipating which turns lead to treasure and which lead to certain death.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99beda13acdd81f1c79e3fa79c84b0c658bc6aff.jpg"></article>]]></description>
-            <link>http://cdixon.org/2015/02/01/the-ai-startup-idea-maze/</link>
-            <guid isPermaLink="false">e3457f39-0801-4dff-90a2-c482a185a159</guid>
-            <pubDate>Sun, 13 Mar 2016 19:18:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
