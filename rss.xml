@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 08:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 11:25:29 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 Most Endangered: Helsinki-Malmi Airport, Finland]]></title>
+            <description><![CDATA[<article><h1>7 Most Endangered: Helsinki-Malmi Airport, Finland</h1><p>Helsinki‐Malmi is an international airport built in the mid‐1930s in the functionalist architectural style as part of a larger ensemble in Helsinki which was intended to serve the 1940 Helsinki Olympic Games, cancelled due to World War II.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f650ea994b23f9e0d35c5d751043eabdc9feb88.jpg"></article>]]></description>
+            <link>http://7mostendangered.eu/2015/12/10/helsinki-malmi-airport-finland/</link>
+            <guid isPermaLink="false">d06f81d4-b292-4abd-abdf-23c6fd440b9b</guid>
+            <pubDate>Wed, 16 Mar 2016 11:25:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Amazon Tax]]></title>
@@ -68,13 +75,6 @@
             <link>http://blogs.esa.int/rocketscience/2016/03/13/why-exomars-ride-to-space-takes-the-time-it-does/</link>
             <guid isPermaLink="false">c61ea421-f0d3-4801-b90d-03200c26aaf7</guid>
             <pubDate>Mon, 14 Mar 2016 09:56:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="We sometimes think of the shift to mobile as finished&comma; or almost finished&period; It isn&apos;t&period;" src="https://pbs.twimg.com/media/CdX1U3XVIAA5riG.jpg:large">]]></description>
-            <link>https://twitter.com/BenedictEvans/status/708742258724462592?ref_src=twsrc%5Etfw</link>
-            <guid isPermaLink="false">11695740-4074-488e-b51b-42d33cb9993d</guid>
-            <pubDate>Sun, 13 Mar 2016 21:12:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
