@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 09:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 10:04:50 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Pixel C Challenge, Day 11: We Interrupt This Program To Bring You Android N]]></title>
+            <description><![CDATA[<article><h1>The Pixel C Challenge, Day 11: We Interrupt This Program To Bring You Android N</h1><p>Wow. Just wow. Out of nowhere, Google decided to drop a nuke on the Android community this week with the release of the very first developer preview for Android N, the next version of the mobile operating system. No one expected to see or hear anything about Android N until Google's I/O developer conference in ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e9ce8b9360ecd1e9ba72b13249414a347857e9e.jpg"></article>]]></description>
+            <link>http://www.chromestory.com/2016/03/pixel-c-challenge-day-11-interrupt-program-bring-android-n/</link>
+            <guid isPermaLink="false">c12e4f55-3236-4e31-9918-e17a73f325b1</guid>
+            <pubDate>Thu, 17 Mar 2016 10:04:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[One to Zero]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.wired.com/2016/03/self-driving-cars-wont-work-change-roads-attitudes/</link>
             <guid isPermaLink="false">63e7028c-6f53-4622-970d-3a0ffe3712f2</guid>
             <pubDate>Tue, 15 Mar 2016 17:52:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Experimental support for WebAssembly in V8]]></title>
-            <description><![CDATA[<article><h1>Experimental support for WebAssembly in V8</h1><p>Since June 2015, collaborators from Google, Mozilla, Microsoft, Apple and the W3C WebAssembly Community Group have been hard at work designing, specifying, and implementing  WebAssembly, a new runtime and compilation target for the web. WebAssembly is a low-level, portable bytecode that is designed to be encoded in a compact binary format and executed at near-native speed in a memory-safe sandbox. As an evolution of existing technologies, WebAssembly is tightly integrated with the web platform, as well as faster to download over the network and faster to instantiate than asm.js, a low-level subset of JavaScript.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b934b057cb9c7fab0d3dab1ff2d4061c7ee0bb2.jpg"></article>]]></description>
-            <link>http://v8project.blogspot.de/2016/03/experimental-support-for-webassembly.html</link>
-            <guid isPermaLink="false">b3f6b36b-a230-4229-bca2-ad52b840a94f</guid>
-            <pubDate>Tue, 15 Mar 2016 14:55:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
