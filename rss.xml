@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 14:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 14:19:36 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google Is Going to Speed Up the Web. Is This Good?]]></title>
+            <description><![CDATA[<article><h1>Google Is Going to Speed Up the Web. Is This Good?</h1><p>To improve reading the news on mobile - and better compete with Facebook Instant Articles - Google today is launching AMP S tarting today, some users of mobile devices will get a happy surprise when they click on links to stories from some of their favorite blogs or news websites: The articles will show up in their browsers incredibly fast.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07bd9d451f45516fbd4952adec33442f6bb6fda1.jpg"></article>]]></description>
+            <link>https://backchannel.com/google-is-going-to-speed-up-the-web-is-this-good-a92a6043598b#.lukg68tzj</link>
+            <guid isPermaLink="false">512b8e04-dd81-4709-9ed2-7b53acbcd4e4</guid>
+            <pubDate>Fri, 18 Mar 2016 14:19:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The HTTP 451 Error Code for Censorship Is Now an Internet Standard]]></title>
@@ -68,13 +75,6 @@
             <link>https://stratechery.com/2016/the-amazon-tax/</link>
             <guid isPermaLink="false">e2fe79df-525e-43ac-9b53-54419209dd8b</guid>
             <pubDate>Wed, 16 Mar 2016 08:17:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jeff Bezos sees 'millions' of people living, working in space]]></title>
-            <description><![CDATA[<article><h1>Jeff Bezos sees 'millions' of people living, working in space</h1><p>Amazon.com Chief Executive Officer Jeff Bezos envisions "millions" of people living in orbit as his exploration company, Blue Origin, and other commercial ventures develop spacecraft to make travel more widely available. Investment from wealthy entrepreneurs with a passion for space will usher in a new era that makes leaving the Earth's atmosphere accessible to anyone, Bezos said Tuesday.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59cb1d887ca07dcc93d12bff5c5f808cf124911c.jpg"></article>]]></description>
-            <link>https://au.pfinance.yahoo.com/fame-and-fortune/article/-/29544248/jeff-bezos-sees-millions-of-people-living-working-in-space/</link>
-            <guid isPermaLink="false">a2379270-489b-4259-8f38-326b989b77be</guid>
-            <pubDate>Wed, 16 Mar 2016 08:16:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
