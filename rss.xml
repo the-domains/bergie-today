@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 10:49:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 10:49:30 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are we together or are we alone?]]></title>
+            <description><![CDATA[<article><h1>Are we together or are we alone?</h1><p>That is Tensay, the Shaman of the Wenja tribe in Far Cry Primal. Here, he is exhorting me to drink a mix of blood and mysterious powders and - look closely - a couple eyeballs. The developers of Far Cry were surely anticipating that we would experience his mugging and invasion of personal space on a television.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/552545f74078e06b006d328f735058ef6abc1ef0.png"></article>]]></description>
+            <link>http://www.theverge.com/2016/3/17/11254304/avegant-glyph-review-headset-screen-face</link>
+            <guid isPermaLink="false">0705337b-0e89-4522-b7a8-c38817f6932f</guid>
+            <pubDate>Fri, 18 Mar 2016 10:48:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Pixel C Challenge, Day 11]]></title>
@@ -68,13 +75,6 @@
             <link>https://i.imgur.com/tlChmrO.gifv</link>
             <guid isPermaLink="false">6426665c-d8a7-45f0-867e-186734825185</guid>
             <pubDate>Tue, 15 Mar 2016 18:36:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Self-Driving Cars Won't Work Until We Change Our Roads-And Attitudes]]></title>
-            <description><![CDATA[<article><h1>Self-Driving Cars Won't Work Until We Change Our Roads-And Attitudes</h1><p>Autonomous vehicles will join human drivers on our roads sooner than most people think. At Baidu, we plan to put commercial, self-driving cars on the roads by 2018. But the way to make them safe is not to make them act just like human driven cars-in fact, the limitations of today's technology mean that's not feasible.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbd826ca5c67c23f8ffe3538ac6d0e1c2875ea16.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/03/self-driving-cars-wont-work-change-roads-attitudes/</link>
-            <guid isPermaLink="false">63e7028c-6f53-4622-970d-3a0ffe3712f2</guid>
-            <pubDate>Tue, 15 Mar 2016 17:52:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
