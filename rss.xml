@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 10:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 14:17:41 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The HTTP 451 Error Code for Censorship Is Now an Internet Standard]]></title>
+            <description><![CDATA[<article><h1>The HTTP 451 Error Code for Censorship Is Now an Internet Standard</h1><p>The 451 HTTP status code is now official in the eyes of the Internet Engineering Task Force (IETF), the independent organization responsible for many of the internet's operating standards. Now, when an internet user hits a web page that has been blocked for legal reasons (read: censorship), they may be presented with a 451 error instead of the more generic 403 "forbidden" error.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a35033c9e45896084ec607301772d54cb1ef8849.jpg"></article>]]></description>
+            <link>http://motherboard.vice.com/read/the-http-451-error-code-for-censorship-is-now-an-internet-standard</link>
+            <guid isPermaLink="false">9d070efb-4674-4c6a-ad20-d4bad655710f</guid>
+            <pubDate>Fri, 18 Mar 2016 14:17:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Are we together or are we alone?]]></title>
@@ -68,13 +75,6 @@
             <link>https://au.pfinance.yahoo.com/fame-and-fortune/article/-/29544248/jeff-bezos-sees-millions-of-people-living-working-in-space/</link>
             <guid isPermaLink="false">a2379270-489b-4259-8f38-326b989b77be</guid>
             <pubDate>Wed, 16 Mar 2016 08:16:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Solar eclipse viewed from an airplane.]]></title>
-            <description><![CDATA[<article><h1>Solar eclipse viewed from an airplane.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be68205f3ff2f02b2ee41b2b94bbbf78229bc9bc.gif"></article>]]></description>
-            <link>https://i.imgur.com/tlChmrO.gifv</link>
-            <guid isPermaLink="false">6426665c-d8a7-45f0-867e-186734825185</guid>
-            <pubDate>Tue, 15 Mar 2016 18:36:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
