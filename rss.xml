@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 20:57:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 21:16:47 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Expedition 47/48 launches to the International Space Station]]></title>
+            <description><![CDATA[<article><h1>Expedition 47/48 launches to the International Space Station</h1><p>NASA astronaut Jeff Williams and Russian Federal Space Agency (Roscosmos) cosmonauts Oleg Skriprochka and Alexey Ovchinin takeoff to the International Space Station aboard the Soyuz TMA-20M spacecraft, which launches from the Baikonur Cosmodrome on Friday, March 18.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c17eb6c1f7b878c06fea64bfb17463044cc4f1fc.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=5VjTDvzsybA</link>
+            <guid isPermaLink="false">dbd2aa04-9035-4ffa-a52b-279567e6fd91</guid>
+            <pubDate>Fri, 18 Mar 2016 21:16:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Typical Day in a Blockchain-Enabled World Circa 2030]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.inc.com/john-boitnott/7-innovative-companies-using-ai-to-disrupt-their-industries.html</link>
             <guid isPermaLink="false">dae3ca43-8f9d-40f0-9ac1-6c4a71b60ac7</guid>
             <pubDate>Wed, 16 Mar 2016 15:19:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 Most Endangered: Helsinki-Malmi Airport, Finland]]></title>
-            <description><![CDATA[<article><h1>7 Most Endangered: Helsinki-Malmi Airport, Finland</h1><p>Helsinki‐Malmi is an international airport built in the mid‐1930s in the functionalist architectural style as part of a larger ensemble in Helsinki which was intended to serve the 1940 Helsinki Olympic Games, cancelled due to World War II.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f650ea994b23f9e0d35c5d751043eabdc9feb88.jpg"></article>]]></description>
-            <link>http://7mostendangered.eu/2015/12/10/helsinki-malmi-airport-finland/</link>
-            <guid isPermaLink="false">d06f81d4-b292-4abd-abdf-23c6fd440b9b</guid>
-            <pubDate>Wed, 16 Mar 2016 11:25:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
