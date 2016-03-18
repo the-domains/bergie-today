@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 14:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 20:57:26 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Typical Day in a Blockchain-Enabled World Circa 2030]]></title>
+            <description><![CDATA[<article><h1>A Typical Day in a Blockchain-Enabled World Circa 2030</h1><p>Let's follow Crowley the Crocodile as he goes about his day in the year 2030, from the moment his bitcoin-powered bioalarm clock wakes him, until he eats his late night pizza ordered using a rating service that runs without human owners.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d67fdd24326f43d22fb3e8edd4d5c3558b8cf8bd.jpg"></article>]]></description>
+            <link>https://blockchainfutureslab.wordpress.com/2016/02/27/a-typical-day-in-a-blockchain-enabled-world/</link>
+            <guid isPermaLink="false">c90b775a-0d89-4328-8483-4164ac5f557e</guid>
+            <pubDate>Fri, 18 Mar 2016 20:56:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google Is Going to Speed Up the Web. Is This Good?]]></title>
@@ -68,13 +75,6 @@
             <link>http://7mostendangered.eu/2015/12/10/helsinki-malmi-airport-finland/</link>
             <guid isPermaLink="false">d06f81d4-b292-4abd-abdf-23c6fd440b9b</guid>
             <pubDate>Wed, 16 Mar 2016 11:25:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Amazon Tax]]></title>
-            <description><![CDATA[<article><h1>The Amazon Tax</h1><p>Ten years ago yesterday Amazon evangelist Jeff Barr posted a 222-word post on the Amazon Web Services Blog that opened: Earlier today we rolled out Amazon S3, our reliable, highly scalable, low-latency data storage service.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cef569488c3f2fcdcd6c2a2ff73e6dc083b4a506.png"></article>]]></description>
-            <link>https://stratechery.com/2016/the-amazon-tax/</link>
-            <guid isPermaLink="false">e2fe79df-525e-43ac-9b53-54419209dd8b</guid>
-            <pubDate>Wed, 16 Mar 2016 08:17:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
