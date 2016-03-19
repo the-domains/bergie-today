@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 21:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 12:57:47 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Maritime Insurance Built Ancient Rome]]></title>
+            <description><![CDATA[<article><h1>How Maritime Insurance Built Ancient Rome</h1><p>In Ancient Rome, shipping was a very big deal.  Sea voyages were a major economic activity—and a risky one. Ships sank, ran afoul of piracy, suffered delays due to weather, or arrived to find that prices were unexpectedly low. This made insuring and financing voyages the high finance of the time. Before there were private equity firms and hedge funds, there was cargo insurance. It was a speculative way for wealthy families and private banks to earn high returns—as long as ships arrived safely in harbor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7ce2166cdc627cc5d34c90b5c5a8229fc018178.jpg"></article>]]></description>
+            <link>http://priceonomics.com/how-maritime-insurance-built-ancient-rome/</link>
+            <guid isPermaLink="false">256c342d-9c0a-4662-b165-06d89268853e</guid>
+            <pubDate>Sat, 19 Mar 2016 12:57:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Expedition 47/48 launches to the International Space Station]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/3/16/11244364/nasa-saffire-test-fire-orbital-atk-cygnus-iss-resupply-mission</link>
             <guid isPermaLink="false">552eab3b-fd76-46f9-995d-c32407644b75</guid>
             <pubDate>Wed, 16 Mar 2016 19:20:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 Innovative Companies Using AI to Disrupt Their Industries]]></title>
-            <description><![CDATA[<article><h1>7 Innovative Companies Using AI to Disrupt Their Industries</h1><p>Despite predictions of a tech slowdown, big-name businesses like Facebook, Apple, and IBM are pouring resources into artificial intelligence (AI), changing the field and gaining the interest of venture capitalists everywhere. As investors actively seek innovative players in the AI space, more entrepreneurs are gravitating toward the technology as they build and grow their own companies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/634b898dd415bbc333d5ac586f57c6806aaa7cf5.jpg"></article>]]></description>
-            <link>http://www.inc.com/john-boitnott/7-innovative-companies-using-ai-to-disrupt-their-industries.html</link>
-            <guid isPermaLink="false">dae3ca43-8f9d-40f0-9ac1-6c4a71b60ac7</guid>
-            <pubDate>Wed, 16 Mar 2016 15:19:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
