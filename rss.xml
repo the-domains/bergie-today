@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 12:58:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 15:28:20 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hype springs eternal]]></title>
+            <description><![CDATA[<article><h1>Hype springs eternal</h1><p>Normally, it is Simon Taylor's job to persuade sceptical colleagues at Barclays that rapid technological change will disrupt the bank's business. So it comes as something of a surprise to have to dampen the excitement about the blockchain. "It's quite silly. I get ten invitations to speak at a conference every day," he says.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8557825196b41eab5bba6b0818e1830ec075ff8d.jpg"></article>]]></description>
+            <link>http://www.economist.com/news/finance-and-economics/21695068-distributed-ledgers-are-future-their-advent-will-be-slow-hype-springs</link>
+            <guid isPermaLink="false">02c26986-c503-46ab-91ee-583f9bebd2c4</guid>
+            <pubDate>Sun, 20 Mar 2016 15:28:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The empire the world forgot]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.chromestory.com/2016/03/pixel-c-challenge-day-11-interrupt-program-bring-android-n/</link>
             <guid isPermaLink="false">c12e4f55-3236-4e31-9918-e17a73f325b1</guid>
             <pubDate>Thu, 17 Mar 2016 10:48:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One to Zero]]></title>
-            <description><![CDATA[<article><h1>One to Zero</h1><p>From the 21st century to the Dark Ages, instantly. This is life for billions in the developing world, connected to aging electric grids. One minute you're in Islamabad watching Netflix while facetiming on your iPad. The next instant, the power goes out.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fee9d6002a6b34f50322622531822ae564d06595.jpg"></article>]]></description>
-            <link>https://medium.com/@haseebj/one-to-zero-890f1008257f#.x5ocemjmd</link>
-            <guid isPermaLink="false">c8bd5390-54b8-47d0-a7c9-6e8a6765deba</guid>
-            <pubDate>Thu, 17 Mar 2016 09:29:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
