@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 08:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 13:34:14 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Decentralized Autonomous Organizations: Ethereum Sparks Up Googles of Tomorrow]]></title>
+            <description><![CDATA[<article><h1>Decentralized Autonomous Organizations: Ethereum Sparks Up Googles of Tomorrow</h1><p>The recent rise of Ethereum has brought a wave of new users and enthusiasm into its possible applications. While smart contracts and their benefits are nothing new to the community one of the more disruptive use cases, DAOs have not been explored to the extent they deserve.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58dd7934bb332b9419a1c9e92d8455d7f7edfcae.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/decentralized-autonomous-organizations-ethereum-sparks-up-googles-of-tomorrow</link>
+            <guid isPermaLink="false">e0014c5e-12fd-47fe-bc41-f743f81dc21a</guid>
+            <pubDate>Tue, 22 Mar 2016 13:34:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can we save the open web?]]></title>
@@ -68,13 +75,6 @@
             <link>http://priceonomics.com/how-maritime-insurance-built-ancient-rome/</link>
             <guid isPermaLink="false">256c342d-9c0a-4662-b165-06d89268853e</guid>
             <pubDate>Sat, 19 Mar 2016 12:57:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Expedition 47/48 launches to the International Space Station]]></title>
-            <description><![CDATA[<article><h1>Expedition 47/48 launches to the International Space Station</h1><p>NASA astronaut Jeff Williams and Russian Federal Space Agency (Roscosmos) cosmonauts Oleg Skriprochka and Alexey Ovchinin takeoff to the International Space Station aboard the Soyuz TMA-20M spacecraft, which launches from the Baikonur Cosmodrome on Friday, March 18.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c17eb6c1f7b878c06fea64bfb17463044cc4f1fc.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=5VjTDvzsybA</link>
-            <guid isPermaLink="false">dbd2aa04-9035-4ffa-a52b-279567e6fd91</guid>
-            <pubDate>Fri, 18 Mar 2016 21:16:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
