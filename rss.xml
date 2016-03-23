@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 19:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 20:56:25 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the iPad Pro Is the Greatest Travel Gadget]]></title>
+            <description><![CDATA[<article><h1>Why the iPad Pro Is the Greatest Travel Gadget</h1><p>A few minutes before our Delta flight touches down in Austin, Texas, the flight attendant walks through the plane's aisle one last time. Tray tables and seats in their upright and locked position, please. Bags underneath the seat in front of you. She pauses for a moment at my row, and waves until I look up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86aab9210d634a5cee3ecd63d3a47f3c8bb768f2.jpg"></article>]]></description>
+            <link>http://www.wired.com/2015/11/ipad-pro-perfect-travel-gadget/</link>
+            <guid isPermaLink="false">687b2789-ee34-4478-a6b6-744092d73dc4</guid>
+            <pubDate>Wed, 23 Mar 2016 20:56:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why I switched to Android after 7 years of iOS]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/thegrugq/status/710896520359387136</link>
             <guid isPermaLink="false">af6b54e1-12b1-4c01-91eb-99880e230aa3</guid>
             <pubDate>Sun, 20 Mar 2016 15:46:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Blockchain Project Launches First Production Release]]></title>
-            <description><![CDATA[<article><h1>Ethereum Blockchain Project Launches First Production Release</h1><p>Next-generation blockchain platform Ethereum has released 'Homestead' the first production release of its software, which was implemented at block 1,150,000 today. The introduction follows Frontier, Ethereum's inaugural release, which was released to developers in July 2015.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a112316cd53831a0d6cced3dffe0afda6970601.png"></article>]]></description>
-            <link>http://www.coindesk.com/ethereum-blockchain-homestead/</link>
-            <guid isPermaLink="false">bdd1e185-d2c5-40e1-af3d-7e47c61fd2a1</guid>
-            <pubDate>Sun, 20 Mar 2016 15:45:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
