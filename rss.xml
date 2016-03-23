@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 20:56:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 21:48:22 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stellar Module Management - Install your Node.js modules using IPFS]]></title>
+            <description><![CDATA[<article><h1>Stellar Module Management - Install your Node.js modules using IPFS</h1><p>registry-mirror enables distributed discovery of npm modules by fetching and caching the latest state of npm through IPNS, the InterPlanetary Naming System. With this state, a node in the network is capable of querying IPFS network for an npm module’s cryptographic hash, fetching it from any peer that has it available.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d77402914384bfbada2edcaf6cee0d54677784d0.png"></article>]]></description>
+            <link>http://blog.daviddias.me/2015/12/08/stellar-module-management</link>
+            <guid isPermaLink="false">d11d1509-473a-407b-bfd9-f47fd6e8f2c0</guid>
+            <pubDate>Wed, 23 Mar 2016 21:48:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why the iPad Pro Is the Greatest Travel Gadget]]></title>
@@ -68,13 +75,6 @@
             <link>http://setosa.io/ev/markov-chains/</link>
             <guid isPermaLink="false">90875edd-1427-40ff-ba0f-73178dbce034</guid>
             <pubDate>Mon, 21 Mar 2016 11:46:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>That dystopian cyberpunk future where the richest company in the world fights the government over encrypted pocket computers</p>]]></description>
-            <link>https://twitter.com/thegrugq/status/710896520359387136</link>
-            <guid isPermaLink="false">af6b54e1-12b1-4c01-91eb-99880e230aa3</guid>
-            <pubDate>Sun, 20 Mar 2016 15:46:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
