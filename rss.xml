@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 10:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 19:41:30 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reflections on Programming]]></title>
+            <description><![CDATA[<article><h1>Reflections on Programming</h1><p>My perspective on programming has changed quite a bit over the years. Even in the few years since I started this blog I've noticed that I look at programming differently than I used to. If there's anything people who work with technology need to get used to, it's change, and I expect that my perspective will continue to evolve in the years to come.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9bd024a488558e422573af245b95ee5ca1840a6.png"></article>]]></description>
+            <link>urn:uuid:7d405a41-1fc9-474e-8819-5947994a3aeb</link>
+            <guid isPermaLink="false">edb0cbd6-52e6-4db3-8294-a58bdee8b043</guid>
+            <pubDate>Wed, 23 Mar 2016 19:40:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Extracting image metadata at scale]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.economist.com/news/finance-and-economics/21695068-distributed-ledgers-are-future-their-advent-will-be-slow-hype-springs</link>
             <guid isPermaLink="false">02c26986-c503-46ab-91ee-583f9bebd2c4</guid>
             <pubDate>Sun, 20 Mar 2016 15:28:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The empire the world forgot]]></title>
-            <description><![CDATA[<article><h1>The empire the world forgot</h1><p>An abandoned city of ghosts Ruled by a dizzying array of kingdoms and empires over the centuries - from the Byzantines to the Ottomans - the city of Ani once housed many thousands of people, becoming a cultural hub and regional power under the medieval Bagratid Armenian dynasty.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/690b05b32e994a83276a7d88ecc5bd988e2506d8.jpg"></article>]]></description>
-            <link>http://www.bbc.com/travel/story/20160309-the-empire-the-world-forgot</link>
-            <guid isPermaLink="false">ae15b823-5ef1-4e4a-a8e9-1af53a1cd592</guid>
-            <pubDate>Sat, 19 Mar 2016 12:57:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
