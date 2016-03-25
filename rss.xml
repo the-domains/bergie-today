@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 13:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 18:12:53 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creating a Web-enabled IoT device with Intel Edison]]></title>
+            <description><![CDATA[<article><h1>Creating a Web-enabled IoT device with Intel Edison</h1><p>Internet of Things is really on everyone's lips these days, but what if you could create an IoT device which you accessed from your web browser? In this article we look at how you can do exactly that using Physical Web, Web Bluetooth as well as Node.js, running on an Intel® Edison Arduino breakout board.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe92f69267292153d875cb4df8fbfeb01ef139c2.jpg"></article>]]></description>
+            <link>https://developers.google.com/web/updates/2016/03/web-enabled-internet-of-things</link>
+            <guid isPermaLink="false">be2c9f49-db55-422e-95de-ff642a67b563</guid>
+            <pubDate>Fri, 25 Mar 2016 18:12:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Smartwatches and the three-second rule]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.wired.com/2015/11/ipad-pro-perfect-travel-gadget/</link>
             <guid isPermaLink="false">687b2789-ee34-4478-a6b6-744092d73dc4</guid>
             <pubDate>Wed, 23 Mar 2016 20:56:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I switched to Android after 7 years of iOS]]></title>
-            <description><![CDATA[<article><h1>Why I switched to Android after 7 years of iOS</h1><p>I pulled out an older Android phone that I keep around for development. Then I also got my sleek, new, shiny iPhone 6s out of my pocket, with its smooth curves and speedy OS. But as I looked at my iPhone I was kind of bummed out.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ffadb748cacaa354f5978332c209422fcdd4eec.jpg"></article>]]></description>
-            <link>https://joreteg.com/blog/why-i-switched-to-android</link>
-            <guid isPermaLink="false">17abbc11-4a93-4655-a555-84ce168b4cb3</guid>
-            <pubDate>Wed, 23 Mar 2016 19:45:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
