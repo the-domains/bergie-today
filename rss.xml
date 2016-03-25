@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 18:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 18:13:43 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Landwehrkanal]]></title>
+            <description><![CDATA[<article><h1>Landwehrkanal</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3acd6c6e-f642-4658-a0f7-4c9c8822a619.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/bergie/25921787715/in/datetaken-public/</link>
+            <guid isPermaLink="false">5c2354b1-8bcb-426b-9313-d9428f3bcd46</guid>
+            <pubDate>Fri, 25 Mar 2016 18:13:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Creating a Web-enabled IoT device with Intel Edison]]></title>
@@ -68,13 +75,6 @@
             <link>http://blog.daviddias.me/2015/12/08/stellar-module-management</link>
             <guid isPermaLink="false">d11d1509-473a-407b-bfd9-f47fd6e8f2c0</guid>
             <pubDate>Wed, 23 Mar 2016 21:48:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the iPad Pro Is the Greatest Travel Gadget]]></title>
-            <description><![CDATA[<article><h1>Why the iPad Pro Is the Greatest Travel Gadget</h1><p>A few minutes before our Delta flight touches down in Austin, Texas, the flight attendant walks through the plane's aisle one last time. Tray tables and seats in their upright and locked position, please. Bags underneath the seat in front of you. She pauses for a moment at my row, and waves until I look up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86aab9210d634a5cee3ecd63d3a47f3c8bb768f2.jpg"></article>]]></description>
-            <link>http://www.wired.com/2015/11/ipad-pro-perfect-travel-gadget/</link>
-            <guid isPermaLink="false">687b2789-ee34-4478-a6b6-744092d73dc4</guid>
-            <pubDate>Wed, 23 Mar 2016 20:56:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
