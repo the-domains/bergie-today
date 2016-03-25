@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 14:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 13:03:08 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Slaughter at the bridge: uncovering a colossal Bronze Age battle]]></title>
+            <description><![CDATA[<article><h1>Slaughter at the bridge: uncovering a colossal Bronze Age battle</h1><p>About 3200 years ago, two armies clashed at a river crossing near the Baltic Sea. The confrontation can't be found in any history books-the written word didn't become common in these parts for another 2000 years-but this was no skirmish between local clans.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c43ae11986d5ee2094ded6653c1149f2ef9395e.jpg"></article>]]></description>
+            <link>http://www.sciencemag.org/news/2016/03/slaughter-bridge-uncovering-colossal-bronze-age-battle?utm_source=sciencemagazine&amp;utm_medium=facebook-text&amp;utm_campaign=bronzeagebattle-3174</link>
+            <guid isPermaLink="false">ba8c4266-105d-4823-b353-f1852be24a53</guid>
+            <pubDate>Fri, 25 Mar 2016 13:02:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Twitter taught Microsoft's AI chatbot to be a racist asshole in less than a day]]></title>
@@ -68,13 +75,6 @@
             <link>urn:uuid:7d405a41-1fc9-474e-8819-5947994a3aeb</link>
             <guid isPermaLink="false">edb0cbd6-52e6-4db3-8294-a58bdee8b043</guid>
             <pubDate>Wed, 23 Mar 2016 19:40:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Extracting image metadata at scale]]></title>
-            <description><![CDATA[<article><h1>Extracting image metadata at scale</h1><p>We have a collection of nearly two million images that play very prominent roles in helping members pick what to watch. This blog describes how we use computer vision algorithms to address the challenges of focal point, text placement and image clustering at a large scale.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5fbb9ead09b10f3d377c8e55908eef0b47c1de6.jpg"></article>]]></description>
-            <link>http://techblog.netflix.com/2016/03/extracting-image-metadata-at-scale.html</link>
-            <guid isPermaLink="false">d56e36f6-b8c1-4810-bb83-8f21e4d4a528</guid>
-            <pubDate>Wed, 23 Mar 2016 10:31:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
