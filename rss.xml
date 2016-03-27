@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 21:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2016 17:06:21 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Rise of Scandinavian Design]]></title>
+            <description><![CDATA[<article><h1>The Rise of Scandinavian Design</h1><p>The works of well-known designers from Denmark, Sweden, Finland, Norway, and Iceland are experiencing a renaissance, and a new generation of Nordic design firms are making their way into hearts and living rooms all over the world. How did countries with disparate histories, languages, and even geographical features become lumped together in a single design movement?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73e758b7021e38a729f9e1ab281036961141ae83.jpg"></article>]]></description>
+            <link>http://www.curbed.com/2016/3/23/11286010/scandinavian-design-arne-jacobsen-alvar-aalto-muuto-artek</link>
+            <guid isPermaLink="false">16292635-80a7-4c7e-9e48-b82087142d83</guid>
+            <pubDate>Sun, 27 Mar 2016 17:06:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why the Golden Age of Walking Robots Never Arrived]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Akin's Laws of Spacecraft Design</h1><p>1. Engineering is done with numbers. Analysis without numbers is only an opinion. 2. To design a spacecraft right takes an infinite amount of effort. This is why it's a good idea to design them to operate when some things are wrong . 3. Design is an iterative process.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc26de271fca141bb6c949a38c56e95a00c86435.png"></article>]]></description>
             <link>urn:uuid:9d1f6fdb-00dc-4570-8a74-d8f74568923c</link>
             <guid isPermaLink="false">84256b89-5468-4cce-9a59-bcf5beb0dfcc</guid>
-            <pubDate>Thu, 24 Mar 2016 12:16:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[So you want to write a package manager]]></title>
-            <description><![CDATA[<article><h1>So you want to write a package manager</h1><p>You woke up this morning, rolled out of bed, and thought, "Y'know what? I don't have enough misery and suffering in my life. I know what to do - I'll write a language package manager!" Totally. Right there with you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2faeb6a77e18b31c78cdcac2cb81321b72eb4de1.jpg"></article>]]></description>
-            <link>https://medium.com/@sdboyer/so-you-want-to-write-a-package-manager-4ae9c17d9527#.vtamw0jg6</link>
-            <guid isPermaLink="false">16c558df-19fb-4478-bf88-a188d6d841b3</guid>
             <pubDate>Thu, 24 Mar 2016 12:16:25 GMT</pubDate>
         </item>
     </channel>
