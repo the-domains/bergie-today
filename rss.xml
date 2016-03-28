@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 16:52:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 16:53:36 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here's why the next SpaceX launch isn't just about the booster landing]]></title>
+            <description><![CDATA[<article><h1>Here's why the next SpaceX launch isn't just about the booster landing</h1><p>It's a big idea. It's a bold idea. And at first blush, it seems a bit of a daft idea. A company called Bigelow Aerospace wants to build space stations for the government and hotels for private customers that will inflate like balloons once they reach outer space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b893f9d9c5de7fce03f76036d6f8c54f092c1c7.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2016/03/heres-why-the-next-spacex-launch-isnt-just-about-the-booster-landing/</link>
+            <guid isPermaLink="false">db4c0fad-ec97-420c-a89b-3fce031187b0</guid>
+            <pubDate>Mon, 28 Mar 2016 16:53:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The New Old Masters]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist</link>
             <guid isPermaLink="false">cb730678-ee10-4d01-b559-1dff981d5176</guid>
             <pubDate>Thu, 24 Mar 2016 14:24:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NASA images show Ceres' brightest spot in spectacular detail]]></title>
-            <description><![CDATA[<article><h1>NASA images show Ceres' brightest spot in spectacular detail</h1><p>The large, bright spot on Ceres can be seen in the most detailed images yet taken from NASA's Dawn spacecraft, which has been orbiting the dwarf planet for a year. The pictures, taken just 240 miles (385 kilometers) above the surface, show that the region known as Occator Crater is comprised of a complex mixture of land formations, deepening the mystery of how the area formed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b5702a3cf4627abef8649e51a8fa2af63bd282c.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/3/22/11286270/nasa-new-ceres-pictures-occator-crater-map</link>
-            <guid isPermaLink="false">d0e86df8-e694-4d88-aaf9-73be4e32dd26</guid>
-            <pubDate>Thu, 24 Mar 2016 12:16:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
