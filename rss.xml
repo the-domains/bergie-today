@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 17:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 16:52:45 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The New Old Masters]]></title>
+            <description><![CDATA[<article><h1>The New Old Masters</h1><p>The Lake Shore Limited comes up fast in Freedom Tunnel, racing up Manhattan from Pennsylvania Station along the old trackways of the Hudson River Railroad toward the Empire Connection, then on to Spuyten Duyvil and points north and west-Albany and Chicago.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/588e7cbb53ce854d83bf2e841baf44007b91cc7f.jpg"></article>]]></description>
+            <link>http://www.city-journal.org/html/new-old-masters-14188.html</link>
+            <guid isPermaLink="false">935ba62d-d82a-4687-8c60-ebebc0a498d3</guid>
+            <pubDate>Mon, 28 Mar 2016 16:52:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Rise of Scandinavian Design]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>NASA images show Ceres' brightest spot in spectacular detail</h1><p>The large, bright spot on Ceres can be seen in the most detailed images yet taken from NASA's Dawn spacecraft, which has been orbiting the dwarf planet for a year. The pictures, taken just 240 miles (385 kilometers) above the surface, show that the region known as Occator Crater is comprised of a complex mixture of land formations, deepening the mystery of how the area formed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b5702a3cf4627abef8649e51a8fa2af63bd282c.jpg"></article>]]></description>
             <link>http://www.theverge.com/2016/3/22/11286270/nasa-new-ceres-pictures-occator-crater-map</link>
             <guid isPermaLink="false">d0e86df8-e694-4d88-aaf9-73be4e32dd26</guid>
-            <pubDate>Thu, 24 Mar 2016 12:16:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Akin's Laws of Spacecraft Design]]></title>
-            <description><![CDATA[<article><h1>Akin's Laws of Spacecraft Design</h1><p>1. Engineering is done with numbers. Analysis without numbers is only an opinion. 2. To design a spacecraft right takes an infinite amount of effort. This is why it's a good idea to design them to operate when some things are wrong . 3. Design is an iterative process.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc26de271fca141bb6c949a38c56e95a00c86435.png"></article>]]></description>
-            <link>urn:uuid:9d1f6fdb-00dc-4570-8a74-d8f74568923c</link>
-            <guid isPermaLink="false">84256b89-5468-4cce-9a59-bcf5beb0dfcc</guid>
             <pubDate>Thu, 24 Mar 2016 12:16:25 GMT</pubDate>
         </item>
     </channel>
