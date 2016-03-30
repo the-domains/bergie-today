@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 10:01:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 09:05:33 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Power Water Networks]]></title>
+            <description><![CDATA[<article><h1>Power Water Networks</h1><p>During the second half of the nineteenth century, water motors were widely used in Europe and America. These small water turbines were connected to the tap and could power any machine that is now driven by electricity. As we have seen in a previous article, operating motors with tap water was not very sustainable.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/097a635e5a0c5ee4cab75578e560a45d80fc2045.jpg"></article>]]></description>
+            <link>http://www.lowtechmagazine.com/2016/03/hydraulic-accumulator-power-water-networks.html</link>
+            <guid isPermaLink="false">9c855ffa-394e-48d7-ac7d-238ab07dfa67</guid>
+            <pubDate>Wed, 30 Mar 2016 09:05:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Oculus Rift review: Virtual reality is always almost here]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/3/24/11299174/smartwatch-problems-design-features-pdas-zen-of-palm</link>
             <guid isPermaLink="false">d7541ee6-a7ac-42e5-9aa3-8ff980f961b3</guid>
             <pubDate>Fri, 25 Mar 2016 13:07:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Slaughter at the bridge: uncovering a colossal Bronze Age battle]]></title>
-            <description><![CDATA[<article><h1>Slaughter at the bridge: uncovering a colossal Bronze Age battle</h1><p>About 3200 years ago, two armies clashed at a river crossing near the Baltic Sea. The confrontation can't be found in any history books-the written word didn't become common in these parts for another 2000 years-but this was no skirmish between local clans.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c43ae11986d5ee2094ded6653c1149f2ef9395e.jpg"></article>]]></description>
-            <link>http://www.sciencemag.org/news/2016/03/slaughter-bridge-uncovering-colossal-bronze-age-battle?utm_source=sciencemagazine&amp;utm_medium=facebook-text&amp;utm_campaign=bronzeagebattle-3174</link>
-            <guid isPermaLink="false">ba8c4266-105d-4823-b353-f1852be24a53</guid>
-            <pubDate>Fri, 25 Mar 2016 13:02:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
