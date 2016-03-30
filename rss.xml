@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 09:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 09:22:58 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When our culture's past is lost in the cloud]]></title>
+            <description><![CDATA[<article><h1>When our culture's past is lost in the cloud</h1><p>Imagine if the Declaration were composed today. It would almost certainly be written on a computer screen rather than with ink and paper, and the edits would be made electronically, through email exchanges or a file shared on the Internet. If we were lucky, a modern-day Jefferson would turn on track-changes and print copies of the document as it progressed. We’d at least know who wrote what, even if the generic computer type lacked the expressiveness of handwriting. More likely, the digital file would come to be erased or rendered unreadable by changes in technical standards. We’d have the words, but the document itself would have little resonance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c478767a37610ab18f65ef1254f7c42fe0c775b7.jpg"></article>]]></description>
+            <link>https://www.washingtonpost.com/opinions/when-our-digital-memory-is-lost-in-the-cloud-what-becomes-of-our-human-history/2016/03/24/11ed1482-ba46-11e5-99f3-184bc379b12d_story.html</link>
+            <guid isPermaLink="false">dd0c840a-3837-47bf-9007-bbca157402eb</guid>
+            <pubDate>Wed, 30 Mar 2016 09:22:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Keep a Changelog]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.flickr.com/photos/bergie/25921787715/in/datetaken-public/</link>
             <guid isPermaLink="false">5c2354b1-8bcb-426b-9313-d9428f3bcd46</guid>
             <pubDate>Fri, 25 Mar 2016 18:13:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creating a Web-enabled IoT device with Intel Edison]]></title>
-            <description><![CDATA[<article><h1>Creating a Web-enabled IoT device with Intel Edison</h1><p>Internet of Things is really on everyone's lips these days, but what if you could create an IoT device which you accessed from your web browser? In this article we look at how you can do exactly that using Physical Web, Web Bluetooth as well as Node.js, running on an Intel® Edison Arduino breakout board.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe92f69267292153d875cb4df8fbfeb01ef139c2.jpg"></article>]]></description>
-            <link>https://developers.google.com/web/updates/2016/03/web-enabled-internet-of-things</link>
-            <guid isPermaLink="false">be2c9f49-db55-422e-95de-ff642a67b563</guid>
-            <pubDate>Fri, 25 Mar 2016 18:12:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
