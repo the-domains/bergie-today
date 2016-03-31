@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 09:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 14:34:28 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Safari Technology Preview]]></title>
+            <description><![CDATA[<article><h1>Introducing Safari Technology Preview</h1><p>Starting today, there’s a new, convenient way to see what features and improvements are coming to Safari and other applications that use WebKit. Safari Technology Preview is a version of Safari for OS X, distributed by Apple, that includes a cutting-edge, in-development version of the WebKit browser engine. It’s a great way to test upcoming WebKit features and give feedback to the people building them when it’s most useful — early in development.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4a1537ef515cf4c94f4b7c2980e6093a628b559.png"></article>]]></description>
+            <link>https://webkit.org/blog/6017/introducing-safari-technology-preview/</link>
+            <guid isPermaLink="false">6d439508-fc62-46ee-929f-9509ea1b442a</guid>
+            <pubDate>Thu, 31 Mar 2016 14:33:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ubuntu on Windows -- The Ubuntu Userspace for Windows Developers]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.popularmechanics.com/technology/robots/a20123/boston-dyanamics-google-sale/</link>
             <guid isPermaLink="false">bbb458e9-7c2c-4ec4-a4da-8d99d8b5c994</guid>
             <pubDate>Sat, 26 Mar 2016 21:10:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Landwehrkanal]]></title>
-            <description><![CDATA[<article><h1>Landwehrkanal</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3acd6c6e-f642-4658-a0f7-4c9c8822a619.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/bergie/25921787715/in/datetaken-public/</link>
-            <guid isPermaLink="false">5c2354b1-8bcb-426b-9313-d9428f3bcd46</guid>
-            <pubDate>Fri, 25 Mar 2016 18:13:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
