@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Onboard Computer System</h1><p>A complete sailing navigation system / weather station / stereo system built on Raspberry Pi</p></article>
+<article style=""><img src="http://perpetual.voyage/img/journal/ocs/media/ocs_photo_02.jpg"><h1>Onboard Computer System</h1><p>A complete sailing navigation system / weather station / stereo system built on Raspberry Pi</p></article>
