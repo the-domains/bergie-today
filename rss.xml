@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 08:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 08:36:04 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Onboard Computer System]]></title>
+            <description><![CDATA[<article><h1>Onboard Computer System</h1><p>A complete sailing navigation system / weather station / stereo system built on Raspberry Pi</p></article>]]></description>
+            <link>http://perpetual.voyage/journal/1</link>
+            <guid isPermaLink="false">959d06f1-3f49-4ef2-98a1-7979acd80090</guid>
+            <pubDate>Fri, 01 Apr 2016 08:35:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The New Space Race]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.city-journal.org/html/new-old-masters-14188.html</link>
             <guid isPermaLink="false">935ba62d-d82a-4687-8c60-ebebc0a498d3</guid>
             <pubDate>Mon, 28 Mar 2016 16:52:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Rise of Scandinavian Design]]></title>
-            <description><![CDATA[<article><h1>The Rise of Scandinavian Design</h1><p>The works of well-known designers from Denmark, Sweden, Finland, Norway, and Iceland are experiencing a renaissance, and a new generation of Nordic design firms are making their way into hearts and living rooms all over the world. How did countries with disparate histories, languages, and even geographical features become lumped together in a single design movement?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73e758b7021e38a729f9e1ab281036961141ae83.jpg"></article>]]></description>
-            <link>http://www.curbed.com/2016/3/23/11286010/scandinavian-design-arne-jacobsen-alvar-aalto-muuto-artek</link>
-            <guid isPermaLink="false">16292635-80a7-4c7e-9e48-b82087142d83</guid>
-            <pubDate>Sun, 27 Mar 2016 17:06:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
