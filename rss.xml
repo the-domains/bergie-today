@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 08:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 09:03:23 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://bergie.today/henri-bergius/index.html</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 19 May 2015 03:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hands-on with HoloLens: On the cusp of a revolution]]></title>
+            <description><![CDATA[<article><h1>Hands-on with HoloLens: On the cusp of a revolution</h1><p>Since it was first revealed in Redmond at the start of last year, I've used HoloLens a couple more times. I did a development session that walked through developing a simple app for the headset using Unity, and I've also seen Microsoft's touring HoloLens experience that it was offering developers last year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37f5d84e95194bf1c29d3ac446e24cc20105805a.png"></article>]]></description>
+            <link>http://arstechnica.com/gadgets/2016/04/hands-on-hololens-on-the-cusp-of-a-revolution/</link>
+            <guid isPermaLink="false">3c893ba3-2137-4560-aa5f-3784310d88e4</guid>
+            <pubDate>Mon, 04 Apr 2016 09:02:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Onboard Computer System]]></title>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/science/2016/03/heres-why-the-next-spacex-launch-isnt-just-about-the-booster-landing/</link>
             <guid isPermaLink="false">db4c0fad-ec97-420c-a89b-3fce031187b0</guid>
             <pubDate>Mon, 28 Mar 2016 16:53:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The New Old Masters]]></title>
-            <description><![CDATA[<article><h1>The New Old Masters</h1><p>The Lake Shore Limited comes up fast in Freedom Tunnel, racing up Manhattan from Pennsylvania Station along the old trackways of the Hudson River Railroad toward the Empire Connection, then on to Spuyten Duyvil and points north and west-Albany and Chicago.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/588e7cbb53ce854d83bf2e841baf44007b91cc7f.jpg"></article>]]></description>
-            <link>http://www.city-journal.org/html/new-old-masters-14188.html</link>
-            <guid isPermaLink="false">935ba62d-d82a-4687-8c60-ebebc0a498d3</guid>
-            <pubDate>Mon, 28 Mar 2016 16:52:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
