@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 15:50:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 20:27:25 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It's a Tesla]]></title>
+            <description><![CDATA[<article><h1>It's a Tesla</h1><p>Let's start with the caveats: no, Tesla did not sell 276,000 Model 3's in three days; that is the number of fully refundable pre-orders that required a deposit of "only" $1,000. And yes, Tesla has a history of delivering cars late and with a higher price than expected.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0df47fda81a30d75a95ea5c54ea81e4de8eae33c.png"></article>]]></description>
+            <link>https://stratechery.com/2016/its-a-tesla/</link>
+            <guid isPermaLink="false">5f8de896-7304-42e3-aca2-6bea2fb53f4d</guid>
+            <pubDate>Tue, 05 Apr 2016 20:27:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How expandable astronaut habitats could pave the way for private space hotels]]></title>
@@ -68,13 +75,6 @@
             <link>http://perpetual.voyage/journal/1</link>
             <guid isPermaLink="false">959d06f1-3f49-4ef2-98a1-7979acd80090</guid>
             <pubDate>Fri, 01 Apr 2016 08:35:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The New Space Race]]></title>
-            <description><![CDATA[<article><h1>The New Space Race</h1><p>Touting everything from asteroid mining to shoebox-sized satellites, a new generation of space entrepreneurs is taking the search for the next big thing to the farthest reaches of the galaxy</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8082c492ae0e426a0112378a8d1a2fcdeca82fa4.jpg"></article>]]></description>
-            <link>https://www.alumni.hbs.edu/stories/Pages/story-impact.aspx?num=5152</link>
-            <guid isPermaLink="false">8e481ca2-a8f2-489f-9b15-ec94245882e8</guid>
-            <pubDate>Fri, 01 Apr 2016 08:30:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
