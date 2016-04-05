@@ -1,13 +1,16 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg'
 inLanguage: null
 starred: true
 keywords: []
 description: ''
+datePublished: '2016-04-05T10:28:08.737Z'
+dateModified: '2015-10-27T18:07:42.981Z'
 author: []
 title: Henri Bergius
-datePublished: '2015-05-19T03:55:25.931Z'
-dateModified: '2015-07-30T12:03:20.425Z'
 sourcePath: _posts/2015-05-19-henri-bergius.md
 published: true
 authors: []
@@ -16,7 +19,6 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: henri-bergius/index.html
 _type: Article
 _context: 'http://schema.org'
 
