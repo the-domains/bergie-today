@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 11:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 15:50:51 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How expandable astronaut habitats could pave the way for private space hotels]]></title>
+            <description><![CDATA[<article><h1>How expandable astronaut habitats could pave the way for private space hotels</h1><p>Next week, astronauts on the International Space Station are getting a brand new room. Called the BEAM, short for Bigelow Expandable Activity Module, the room is launching on top of one of SpaceX's rockets on Friday; it will then be attached to the ISS sometime within the next four months.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3da40165be69ef88f16c19e0faeff1240127727.gif"></article>]]></description>
+            <link>http://www.theverge.com/2016/4/5/11355852/nasa-beam-spacex-iss-future-space-tourism</link>
+            <guid isPermaLink="false">ba93a146-a935-4374-a374-87b6fc838530</guid>
+            <pubDate>Tue, 05 Apr 2016 15:50:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Personal observations on the reliability of the Shuttle]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.alumni.hbs.edu/stories/Pages/story-impact.aspx?num=5152</link>
             <guid isPermaLink="false">8e481ca2-a8f2-489f-9b15-ec94245882e8</guid>
             <pubDate>Fri, 01 Apr 2016 08:30:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Safari Technology Preview]]></title>
-            <description><![CDATA[<article><h1>Introducing Safari Technology Preview</h1><p>Starting today, there’s a new, convenient way to see what features and improvements are coming to Safari and other applications that use WebKit. Safari Technology Preview is a version of Safari for OS X, distributed by Apple, that includes a cutting-edge, in-development version of the WebKit browser engine. It’s a great way to test upcoming WebKit features and give feedback to the people building them when it’s most useful — early in development.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4a1537ef515cf4c94f4b7c2980e6093a628b559.png"></article>]]></description>
-            <link>https://webkit.org/blog/6017/introducing-safari-technology-preview/</link>
-            <guid isPermaLink="false">6d439508-fc62-46ee-929f-9509ea1b442a</guid>
-            <pubDate>Thu, 31 Mar 2016 14:33:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
