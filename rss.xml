@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 10:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 10:50:57 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Astronaut Prime: Here's how Jeff Bezos plans to remake spaceflight]]></title>
+            <description><![CDATA[<article><h1>Astronaut Prime: Here's how Jeff Bezos plans to remake spaceflight</h1><p>After Blue Origin completed the third flight of its New Shepard launch system on Saturday, the spaceflight community applauded the effort. And on Sunday after video emerged showing the dramatic firing of its engines just before the rocket would have struck the ground, the response was again approbation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ccdd0bf5f760cfb6fd70b594e28baf6abd330f9.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2016/04/astronaut-prime-heres-how-jeff-bezos-plans-to-remake-spaceflight/</link>
+            <guid isPermaLink="false">8087b20e-c32d-4414-80a1-b65b726b1d9d</guid>
+            <pubDate>Wed, 06 Apr 2016 10:50:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nest Reminds Customers That Ownership Isn't What It Used to Be]]></title>
-            <description><![CDATA[<article><h1>Nest Reminds Customers That Ownership Isn't What It Used to Be</h1><p>Nest Labs, a home automation company acquired by Google in 2014, will disable some of its customers' home automation control devices in May. This move is causing quite a stir among people who purchased the $300 Revolv Hub devices-customers who reasonably expected that the promised "lifetime" of updates would enable the hardware they paid for to actually work, only to discover the manufacturer can turn their device into a useless brick when it so chooses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41863b5e0a4b24299558a35728e4faee6b42991b.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Nest Reminds Customers That Ownership Isn't What It Used to Be</h1><p>Nest Labs, a home automation company acquired by Google in 2014, will disable some of its customers' home automation control devices in May. This move is causing quite a stir among people who purchased the $300 Revolv Hub devices-customers who reasonably expected that the promised "lifetime" of updates would enable the hardware they paid for to actually work, only to discover the manufacturer can turn their device into a useless brick when it so chooses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b29986ee8fdc2fc72caad90f1089f614f61f065d.png"></article>]]></description>
             <link>https://www.eff.org/deeplinks/2016/04/nest-reminds-customers-ownership-isnt-what-it-used-be</link>
             <guid isPermaLink="false">f3a90992-26a9-4b6d-8695-2559ae28b9bc</guid>
             <pubDate>Wed, 06 Apr 2016 10:10:45 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=F6XnH_OnpO0</link>
             <guid isPermaLink="false">4f712810-ad68-491c-b6aa-095835c51ca2</guid>
             <pubDate>Mon, 04 Apr 2016 09:05:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hands-on with HoloLens: On the cusp of a revolution]]></title>
-            <description><![CDATA[<article><h1>Hands-on with HoloLens: On the cusp of a revolution</h1><p>Since it was first revealed in Redmond at the start of last year, I've used HoloLens a couple more times. I did a development session that walked through developing a simple app for the headset using Unity, and I've also seen Microsoft's touring HoloLens experience that it was offering developers last year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37f5d84e95194bf1c29d3ac446e24cc20105805a.png"></article>]]></description>
-            <link>http://arstechnica.com/gadgets/2016/04/hands-on-hololens-on-the-cusp-of-a-revolution/</link>
-            <guid isPermaLink="false">3c893ba3-2137-4560-aa5f-3784310d88e4</guid>
-            <pubDate>Mon, 04 Apr 2016 09:02:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
