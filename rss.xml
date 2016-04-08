@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 10:30:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 10:56:25 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[go-ipfs 0.4.0 has been released]]></title>
+            <description><![CDATA[<article><h1>go-ipfs 0.4.0 has been released</h1><p>go-ipfs 0.4.0 has been released! Among the many changes are a revamped implementation of the IPFS communication protocols, increased performance, improvements to IPNS (the Interplanetary Naming System), many bugfixes, and lots of new features to make IPFS even more powerful.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d98551db33222bbf30d44e4ef03724fb7be92a13.jpg"></article>]]></description>
+            <link>https://ipfs.io/blog/14-ipfs-0-4-0-released/</link>
+            <guid isPermaLink="false">06057728-96a3-4233-977b-832c0e8dde70</guid>
+            <pubDate>Fri, 08 Apr 2016 10:55:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A fleet of trucks just drove themselves across Europe]]></title>
-            <description><![CDATA[<article><h1>A fleet of trucks just drove themselves across Europe</h1><p>About a dozen trucks from major manufacturers like Volvo and Daimler just completed a week of largely autonomous driving across Europe, the first such major exercise on the continent.</p><img src="https://i2.wp.com/qzprod.files.wordpress.com/2016/04/scania_platooningtruckchallenge_still009.jpg?fit=440%2C330&quality=80&strip=all&ssl=1"></article>]]></description>
+            <description><![CDATA[<article><h1>A fleet of trucks just drove themselves across Europe</h1><p>About a dozen trucks from major manufacturers like Volvo and Daimler just completed a week of largely autonomous driving across Europe, the first such major exercise on the continent.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/184ba86ea03f180b89d4262ddf9157d592477074.jpg"></article>]]></description>
             <link>http://qz.com/656104/a-fleet-of-trucks-just-drove-themselves-across-europe/</link>
             <guid isPermaLink="false">5f8e86f3-254b-4083-9697-fdcbb8e3d7b4</guid>
             <pubDate>Thu, 07 Apr 2016 10:30:14 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://science.ksc.nasa.gov/shuttle/missions/51-l/docs/rogers-commission/Appendix-F.txt</link>
             <guid isPermaLink="false">93424ec4-d455-48c2-83a7-e78550685c84</guid>
             <pubDate>Tue, 05 Apr 2016 11:09:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AWS Lambda Makes Serverless Applications A Reality]]></title>
-            <description><![CDATA[<article><h1>AWS Lambda Makes Serverless Applications A Reality</h1><p>Most companies today develop applications and deploy them on servers - whether on-premises or in the cloud. That means figuring out how much server, storage and database power they need ahead of time, and deploying all of the hardware and software it takes to run the application.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4187c2a87623312754c9770ece0d880230b3563.jpg"></article>]]></description>
-            <link>http://techcrunch.com/2015/11/24/aws-lamda-makes-serverless-applications-a-reality/</link>
-            <guid isPermaLink="false">7068127c-5dfe-4ba1-8008-8b93ac0d8c48</guid>
-            <pubDate>Tue, 05 Apr 2016 10:52:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
