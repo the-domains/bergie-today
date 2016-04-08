@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 11:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 14:47:57 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Internet hyperlinks do not infringe copyright, EU court advised]]></title>
+            <description><![CDATA[<article><h1>Internet hyperlinks do not infringe copyright, EU court advised</h1><p>A link to a website which publishes photos without authorisation of the author does not in itself constitute a copyright infringement, an adviser to Europe's top court said on Thursday. The opinion, by the European Court of Justice's advocate general, is not binding but the court normally follows such advice.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6adc454dd6cb842d62977c1e7ba84d654c502ce0.jpg"></article>]]></description>
+            <link>http://in.reuters.com/article/internet-copyright-eu-court-idINKCN0X40VE</link>
+            <guid isPermaLink="false">607e720e-1a7a-4985-acbc-d63e8f782755</guid>
+            <pubDate>Fri, 08 Apr 2016 14:47:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Bill Gates Predicted the iPad Pro]]></title>
@@ -68,13 +75,6 @@
             <link>https://stratechery.com/2016/its-a-tesla/</link>
             <guid isPermaLink="false">5f8de896-7304-42e3-aca2-6bea2fb53f4d</guid>
             <pubDate>Tue, 05 Apr 2016 20:27:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How expandable astronaut habitats could pave the way for private space hotels]]></title>
-            <description><![CDATA[<article><h1>How expandable astronaut habitats could pave the way for private space hotels</h1><p>Next week, astronauts on the International Space Station are getting a brand new room. Called the BEAM, short for Bigelow Expandable Activity Module, the room is launching on top of one of SpaceX's rockets on Friday; it will then be attached to the ISS sometime within the next four months.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3da40165be69ef88f16c19e0faeff1240127727.gif"></article>]]></description>
-            <link>http://www.theverge.com/2016/4/5/11355852/nasa-beam-spacex-iss-future-space-tourism</link>
-            <guid isPermaLink="false">ba93a146-a935-4374-a374-87b6fc838530</guid>
-            <pubDate>Tue, 05 Apr 2016 15:50:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
