@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 20:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 10:37:14 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36684d3540d724999d2d2a0825a0b306ad23d171.jpg" alt="Falcon 9 first stage on our droneship in the Atlantic after propelling the Dragon spacecraft to the @Space_Station" title="">]]></description>
+            <link>https://twitter.com/SpaceX/status/718547446066913280</link>
+            <guid isPermaLink="false">ce4e850a-b6d5-48aa-a4e2-6b0f7e60abeb</guid>
+            <pubDate>Sat, 09 Apr 2016 10:37:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CRS-8 Dragon Technical Webcast]]></title>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/science/2016/04/astronaut-prime-heres-how-jeff-bezos-plans-to-remake-spaceflight/</link>
             <guid isPermaLink="false">8087b20e-c32d-4414-80a1-b65b726b1d9d</guid>
             <pubDate>Wed, 06 Apr 2016 10:50:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nest Reminds Customers That Ownership Isn't What It Used to Be]]></title>
-            <description><![CDATA[<article><h1>Nest Reminds Customers That Ownership Isn't What It Used to Be</h1><p>Nest Labs, a home automation company acquired by Google in 2014, will disable some of its customers' home automation control devices in May. This move is causing quite a stir among people who purchased the $300 Revolv Hub devices-customers who reasonably expected that the promised "lifetime" of updates would enable the hardware they paid for to actually work, only to discover the manufacturer can turn their device into a useless brick when it so chooses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b29986ee8fdc2fc72caad90f1089f614f61f065d.png"></article>]]></description>
-            <link>https://www.eff.org/deeplinks/2016/04/nest-reminds-customers-ownership-isnt-what-it-used-be</link>
-            <guid isPermaLink="false">f3a90992-26a9-4b6d-8695-2559ae28b9bc</guid>
-            <pubDate>Wed, 06 Apr 2016 10:10:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
