@@ -17,8 +17,8 @@ keywords:
   - bookmarks
   - instagram
 description: '"Today everything exists to end in a photograph," Susan Sontag wrote in her seminal 1977 book "On Photography." This was something I thought about when I recently read that Google was making its one-hundred-and-forty-nine-dollar photo-editing suite, the Google Nik Collection, free.'
-datePublished: '2016-04-13T05:29:09.694Z'
-dateModified: '2016-04-13T05:27:52.333Z'
+datePublished: '2016-04-13T05:30:01.080Z'
+dateModified: '2016-04-13T05:29:15.975Z'
 author:
   - name: Om Malik
     url: 'http://www.newyorker.com/contributors/om-malik'
