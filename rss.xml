@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 05:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 21:24:20 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Internet of things you inherit or leave behind]]></title>
+            <description><![CDATA[<article><h1>The Internet of things you inherit or leave behind</h1><p>Between 2000 and 2010, Bryan and I lived a somewhat nomadic lifestyle. We moved more than fifteen times, including stays of varying lengths in three continents, six countries, three Canadian provinces, and four cities in the UK. After five wonderful years in Scotland, we've recently moved once again!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca3dab3b7eb7da0d7456a492c0f2ed01b889b62e.jpg"></article>]]></description>
+            <link>http://bergie.today/the-internet-of-things-you-inherit-or-leave-behind/index.html</link>
+            <guid isPermaLink="false">e6b0da55-8ba8-43e2-8c3c-d77ce459cf81</guid>
+            <pubDate>Wed, 13 Apr 2016 21:24:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In the Future, We Will Photograph Everything and Look at Nothing]]></title>
@@ -68,13 +75,6 @@
             <link>https://backchannel.com/how-bill-gates-predicted-the-ipad-pro-c76ab3dfe96a#.7hqzl8kj8</link>
             <guid isPermaLink="false">e44eddec-12b8-44db-9d0a-309b6766de25</guid>
             <pubDate>Fri, 08 Apr 2016 11:10:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[go-ipfs 0.4.0 has been released]]></title>
-            <description><![CDATA[<article><h1>go-ipfs 0.4.0 has been released</h1><p>go-ipfs 0.4.0 has been released! Among the many changes are a revamped implementation of the IPFS communication protocols, increased performance, improvements to IPNS (the Interplanetary Naming System), many bugfixes, and lots of new features to make IPFS even more powerful.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d98551db33222bbf30d44e4ef03724fb7be92a13.jpg"></article>]]></description>
-            <link>https://ipfs.io/blog/14-ipfs-0-4-0-released/</link>
-            <guid isPermaLink="false">06057728-96a3-4233-977b-832c0e8dde70</guid>
-            <pubDate>Fri, 08 Apr 2016 10:55:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
