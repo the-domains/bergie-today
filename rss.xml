@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 21:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 21:24:23 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian photographer matches random people with social network photos]]></title>
+            <description><![CDATA[<article><h1>Russian photographer matches random people with social network photos</h1><p>For six weeks Yegor Tsvetkov, a young St. Petersburg photographer, has been snapping random people and then identifying them on Russia's biggest social network VKontakte with the help of the FindFace app (based on algorithms of self-learning neural networks).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfcabf08df38cfb67ca82a1629e9ace23a1a97e5.jpg"></article>]]></description>
+            <link>http://rbth.com/science_and_tech/2016/04/12/russian-photographer-matches-random-people-with-social-network-photos_584153</link>
+            <guid isPermaLink="false">51e39274-2d45-4fac-8adb-ab33e04721f1</guid>
+            <pubDate>Wed, 13 Apr 2016 21:24:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Internet of things you inherit or leave behind]]></title>
@@ -68,13 +75,6 @@
             <link>http://in.reuters.com/article/internet-copyright-eu-court-idINKCN0X40VE</link>
             <guid isPermaLink="false">607e720e-1a7a-4985-acbc-d63e8f782755</guid>
             <pubDate>Fri, 08 Apr 2016 14:47:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Bill Gates Predicted the iPad Pro]]></title>
-            <description><![CDATA[<article><h1>How Bill Gates Predicted the iPad Pro</h1><p>Should a tablet do everything your laptop does? Microsoft always said yes. Apple disagreed. Until now. In early 2001, Bill Gates summoned me to Redmond, Washington to view a product that he touted as the future of computing. It would be called the Microsoft Tablet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e93f60631c344bc4b414f9d1a18121efbe9da9fd.jpg"></article>]]></description>
-            <link>https://backchannel.com/how-bill-gates-predicted-the-ipad-pro-c76ab3dfe96a#.7hqzl8kj8</link>
-            <guid isPermaLink="false">e44eddec-12b8-44db-9d0a-309b6766de25</guid>
-            <pubDate>Fri, 08 Apr 2016 11:10:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
