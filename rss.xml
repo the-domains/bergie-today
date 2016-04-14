@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 01:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 20:52:22 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[​Inside a Billionaire's New Interstellar Mission]]></title>
+            <description><![CDATA[<article><h1>​Inside a Billionaire's New Interstellar Mission</h1><p>Yuri Milner is spending $100 million on a probe that could travel to Alpha Centauri within a generation-and he's recruited Mark Zuckerberg and Stephen Hawking to help. In an interview with ​ The Atlantic, Milner makes his case for star travel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2001b5a680b25c966dc92b30d4eb4624d6b54b43.jpg"></article>]]></description>
+            <link>http://www.theatlantic.com/science/archive/2016/04/yuri-milner-zuckerberg-starshot-interstellar-centauri/477669/</link>
+            <guid isPermaLink="false">bf9457bb-3dd8-4ad7-b4d5-393a961e60be</guid>
+            <pubDate>Thu, 14 Apr 2016 20:51:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NASA Really Is Trying to Grow Potatoes on Mars]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/SpaceX/status/718547446066913280</link>
             <guid isPermaLink="false">ce4e850a-b6d5-48aa-a4e2-6b0f7e60abeb</guid>
             <pubDate>Sat, 09 Apr 2016 10:37:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CRS-8 Dragon Technical Webcast]]></title>
-            <description><![CDATA[<article><h1>CRS-8 Dragon Technical Webcast</h1><p>This is the technical webcast for the SpaceX CRS-8 Launch. It will not provide commentary or hosts but will have views of the rocket, launch pad and comms. SpaceX's Falcon 9 rocket will launch the Dragon spacecraft to low Earth orbit to deliver critical cargo to the International Space Station (ISS) for NASA.</p><img src="http://img.youtube.com/vi/sh8V0COrrzE/hqdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/sh8V0COrrzE</link>
-            <guid isPermaLink="false">f8892647-c086-49c3-8178-443cebe516ac</guid>
-            <pubDate>Fri, 08 Apr 2016 20:22:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
