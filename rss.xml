@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 20:52:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 20:42:23 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,20 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dutch divers discover 400-year-old dress in a sunken ship]]></title>
+            <description><![CDATA[<article><h1>Dutch divers discover 400-year-old dress in a sunken ship</h1><p>It wasn't exactly what divers searching for sunken ships expect to find. When the Texel Divers Club glimpsed a package in the sand-buried remains of a sunken ship off the island of Texel in the Wadden Sea, they brought it to the surface-only to discover it held a wealthy lady's most prized possessions: a silk damask dress, velvet embroidered purse, perfume ball, lice comb, stockings, and books bound in beautiful leather.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cbf197b0dd5b3c9a8ba8ee7455a1899432f93bd.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2016/04/dutch-divers-discover-400-year-old-dress-in-a-sunken-ship/</link>
+            <guid isPermaLink="false">cb08f9cd-ce91-4e57-a568-06e227d0462c</guid>
+            <pubDate>Fri, 15 Apr 2016 20:41:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The museum filled with poisonous spiders that just won't die]]></title>
+            <description><![CDATA[<article><h1>The museum filled with poisonous spiders that just won't die</h1><p>It is close to midnight as I enter the Finnish Museum of Natural History in Helsinki by a back door. I am on the hunt for a deadly spider. As is fitting for a national institution, the museum boasts a significant collection of botanical, zoological, geological and palaeontological specimens from all around the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a945b691ce512de75da9cd16062df91c59417dd.jpg"></article>]]></description>
+            <link>http://www.bbc.com/future/story/20160413-the-museum-filled-with-poisonous-spiders-that-just-wont-die?ocid=ww.social.link.facebook</link>
+            <guid isPermaLink="false">2ff77694-f3f8-475f-b7d9-f8058877071c</guid>
+            <pubDate>Fri, 15 Apr 2016 20:41:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[​Inside a Billionaire's New Interstellar Mission]]></title>
@@ -61,20 +75,6 @@
             <link>https://help.riseup.net/en/security/message-security/openpgp/best-practices</link>
             <guid isPermaLink="false">7af1fe51-1b63-4301-a5ac-d5fde4a63143</guid>
             <pubDate>Mon, 11 Apr 2016 18:24:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uncovering the Luna Colony, a Lost Remnant of Spanish Florida]]></title>
-            <description><![CDATA[<article><h1>Uncovering the Luna Colony, a Lost Remnant of Spanish Florida</h1><p>One Friday last October, Tom Garner was driving through a residential neighborhood of wide lawns and old-growth oaks in Pensacola, Florida, on his way to lunch. Cutting through the cozy quarter, which is adjacent to his own, allowed Garner to avoid an eternally long traffic light across a major highway, and to keep an eye out for freshly turned soil.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07a9107156215eb9f5f6de5b0a52eb008cedd918.jpg"></article>]]></description>
-            <link>http://www.newyorker.com/news/news-desk/uncovering-the-luna-colony-a-lost-remnant-of-spanish-florida</link>
-            <guid isPermaLink="false">0d4d89d4-0538-4612-a046-9d7bae5951e1</guid>
-            <pubDate>Mon, 11 Apr 2016 18:23:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36684d3540d724999d2d2a0825a0b306ad23d171.jpg" alt="Falcon 9 first stage on our droneship in the Atlantic after propelling the Dragon spacecraft to the @Space_Station" title="">]]></description>
-            <link>https://twitter.com/SpaceX/status/718547446066913280</link>
-            <guid isPermaLink="false">ce4e850a-b6d5-48aa-a4e2-6b0f7e60abeb</guid>
-            <pubDate>Sat, 09 Apr 2016 10:37:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
