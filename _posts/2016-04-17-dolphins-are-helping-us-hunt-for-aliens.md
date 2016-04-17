@@ -17,20 +17,20 @@ keywords:
   - seti
   - word
 description: 'When twelve men gathered at the Green Bank Observatory in West Virginia to discuss the art and science of alien hunting in 1961, the Order of the Dolphin was born. A number of the brightest minds from a range of scientific disciplines, including three Nobel laureates, a young Carl Sagan, and an eccentric neuroscientist named John Lilly-who was best known for trying to talk to dolphins-were in attendance.'
-datePublished: '2016-04-17T22:37:14.470Z'
-dateModified: '2016-04-17T22:28:42.492Z'
+datePublished: '2016-04-17T22:40:32.430Z'
+dateModified: '2016-04-17T22:40:17.615Z'
 author: []
 related: []
 app_links: []
 title: Dolphins Are Helping Us Hunt for Aliens
+sourcePath: _posts/2016-04-17-dolphins-are-helping-us-hunt-for-aliens.md
+published: true
 authors: []
 publisher:
   name: Nautilus
   domain: nautil.us
   url: 'http://nautil.us'
   favicon: 'http://nautil.us/favicon.ico'
-sourcePath: _posts/2016-04-17-dolphins-are-helping-us-hunt-for-aliens.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
