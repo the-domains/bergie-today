@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 21:41:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 23:26:52 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[By tacking back and forth into the sun's rays like a sailboat, LightSail gradually raises the apoapsis, or high point, of its orbit.]]></title>
+            <description><![CDATA[<article><h1>By tacking back and forth into the sun's rays like a sailboat, LightSail gradually raises the apoapsis, or high point, of its orbit.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87c2607575dd288a72f525f7d082bbf18206c6b5.jpg"></article>]]></description>
+            <link>https://vine.co/v/eTImPxmgOnp</link>
+            <guid isPermaLink="false">15e8a81f-c4d5-4636-ac30-db936b8ae96b</guid>
+            <pubDate>Mon, 18 Apr 2016 23:26:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Instagram Is Ruining Vacation]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.wired.com/2016/04/google-beacon-security-eddystone/</link>
             <guid isPermaLink="false">fd92a93f-f82b-466f-8470-885e5a50c7f4</guid>
             <pubDate>Fri, 15 Apr 2016 21:34:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dutch divers discover 400-year-old dress in a sunken ship]]></title>
-            <description><![CDATA[<article><h1>Dutch divers discover 400-year-old dress in a sunken ship</h1><p>It wasn't exactly what divers searching for sunken ships expect to find. When the Texel Divers Club glimpsed a package in the sand-buried remains of a sunken ship off the island of Texel in the Wadden Sea, they brought it to the surface-only to discover it held a wealthy lady's most prized possessions: a silk damask dress, velvet embroidered purse, perfume ball, lice comb, stockings, and books bound in beautiful leather.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cbf197b0dd5b3c9a8ba8ee7455a1899432f93bd.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/04/dutch-divers-discover-400-year-old-dress-in-a-sunken-ship/</link>
-            <guid isPermaLink="false">cb08f9cd-ce91-4e57-a568-06e227d0462c</guid>
-            <pubDate>Fri, 15 Apr 2016 20:41:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
