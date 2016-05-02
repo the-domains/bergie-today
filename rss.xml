@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 09:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 10:32:01 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Orangutan from Borneo photographed using a spear tool to fish]]></title>
+            <description><![CDATA[<article><h1>Orangutan from Borneo photographed using a spear tool to fish</h1><p>Tool use among orangutans was first documented by Carel van Schaik. In 1994, Carel observed orangutans developing tools to help themselves eat, while conducting field work in Gunung Leuser National Park, in the northwest Sumatra. Specifically the orangutans were using sticks to pry open pulpy fruits that have "Plexiglas needles" capable of delivering a painful...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69d5632466b4023144abd8981e8880528ac50019.jpg"></article>]]></description>
+            <link>https://primatology.net/2008/04/29/orangutan-photographed-using-tool-as-spear-to-fish/</link>
+            <guid isPermaLink="false">96a683d6-678b-4db6-9f51-57188e098f93</guid>
+            <pubDate>Mon, 02 May 2016 10:31:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Craig Steven Wright claims to be Satoshi Nakamoto. Is he?]]></title>
@@ -68,13 +75,6 @@
             <link>https://backchannel.com/instagram-is-ruining-vacation-701086a67440#.2kzb1ttqk</link>
             <guid isPermaLink="false">80189d80-2e21-42f8-b58e-673dcd5aaba1</guid>
             <pubDate>Mon, 18 Apr 2016 21:41:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The final frontier: cheap space travel]]></title>
-            <description><![CDATA[<article><h1>The final frontier: cheap space travel</h1><p>Coming on the heels of a couple of revolutionary rocket landings by SpaceX and Blue Origin, the 32nd Space Symposium in Colorado Springs, Colo., was abuzz last week with talk of a new golden age of space travel. Amazon.com Inc.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfb2968b1d8f88d2b5c68906b228b6ab4d99777b.jpg"></article>]]></description>
-            <link>http://www.latimes.com/business/technology/la-fi-spacex-rocket-science-20160417-story.html</link>
-            <guid isPermaLink="false">c3bfa77f-0e18-494b-9f6e-fa4aaef77361</guid>
-            <pubDate>Mon, 18 Apr 2016 05:22:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
