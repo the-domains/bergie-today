@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 08:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 09:14:59 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Craig Steven Wright claims to be Satoshi Nakamoto. Is he?]]></title>
+            <description><![CDATA[<article><h1>Craig Steven Wright claims to be Satoshi Nakamoto. Is he?</h1><p>Imagine that the paternity of a particularly brilliant child is in doubt, and someone steps forward to claim he is the father. In the real world a DNA test would sort the matter out quickly. In the confusing world of bitcoin, a cryptocurrency, things are not that simple.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa79c70b0a1144d6650200c8433d25a6bd535608.jpg"></article>]]></description>
+            <link>http://www.economist.com/news/briefings/21698061-craig-steven-wright-claims-be-satoshi-nakamoto-bitcoin</link>
+            <guid isPermaLink="false">f7ad415c-9afa-4f65-b921-758d60a9e09d</guid>
+            <pubDate>Mon, 02 May 2016 09:14:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meet SpaceX's SuperDraco thruster, the key to landing a Dragon on Mars]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.latimes.com/business/technology/la-fi-spacex-rocket-science-20160417-story.html</link>
             <guid isPermaLink="false">c3bfa77f-0e18-494b-9f6e-fa4aaef77361</guid>
             <pubDate>Mon, 18 Apr 2016 05:22:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Managing dotfiles with GNU Stow]]></title>
-            <description><![CDATA[<article><h1>Managing dotfiles with GNU Stow</h1><p>In Unix-like operating systems, dotfile is synonymous with hidden file. Usually used by programs to store configuration variables. I have multiple machines, which I regularly work on. I keep sync of a set of personalised dotfiles between them - customised settings for programs that I'm using, like many of you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/610d7742e002fac9fd2c8a11721619d09d199f44.png"></article>]]></description>
-            <link>https://taihen.org/managing-dotfiles-with-gnu-stow/</link>
-            <guid isPermaLink="false">3b09bb92-72bc-49bf-9181-4fb0c623e969</guid>
-            <pubDate>Mon, 18 Apr 2016 03:34:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
