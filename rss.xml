@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 10:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 13:47:53 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Everything as a Service]]></title>
+            <description><![CDATA[<article><h1>Everything as a Service</h1><p>Last month Benedict Evans observed that The Best is the Last: A technology often produces its best results just when it's ready to be replaced - it's the best it's ever been, but it's also the best it could ever be.</p></article>]]></description>
+            <link>https://stratechery.com/2016/everything-as-a-service/</link>
+            <guid isPermaLink="false">785a1dfb-4afa-487f-92a3-9669ca542d52</guid>
+            <pubDate>Wed, 04 May 2016 13:47:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amara's law]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.economist.com/news/briefings/21698061-craig-steven-wright-claims-be-satoshi-nakamoto-bitcoin</link>
             <guid isPermaLink="false">f7ad415c-9afa-4f65-b921-758d60a9e09d</guid>
             <pubDate>Mon, 02 May 2016 09:14:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet SpaceX's SuperDraco thruster, the key to landing a Dragon on Mars]]></title>
-            <description><![CDATA[<article><h1>Meet SpaceX's SuperDraco thruster, the key to landing a Dragon on Mars</h1><p>This week SpaceX announced plans to land a Dragon spacecraft on Mars by 2018. This would be a monumental achievement for NASA or any other national space agency, let alone a single company, considering the 6,000kg Dragon is nearly an order of magnitude more massive than anything previously landed on the red planet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c53cbc8040b94a3441a62cf78679d62d2e9266fd.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/04/meet-spacexs-superdraco-thruster-the-key-to-landing-a-dragon-on-mars/</link>
-            <guid isPermaLink="false">4ef49c10-8998-42e8-8369-9f3985b460bc</guid>
-            <pubDate>Mon, 02 May 2016 08:13:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
