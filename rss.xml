@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 17:06:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 07:50:30 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Atom Can't Replace Vim]]></title>
+            <description><![CDATA[<article><h1>Why Atom Can't Replace Vim</h1><p>1976 was a good year for text editors. At MIT, Richard Stallman and Guy Steele wrote the first version of Emacs. And over at Berkeley, Bill Joy wrote vi (though it wouldn't be called that for a few years yet).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f20b3476db9e72bb1444fbdf9d6b20222e43655.png"></article>]]></description>
+            <link>http://bergie.today/why-atom-cant-replace-vim/index.html</link>
+            <guid isPermaLink="false">700a46af-79e8-478b-adc0-11ead5933d6c</guid>
+            <pubDate>Thu, 05 May 2016 07:50:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google wants to inject cyborg lenses into your eyeballs]]></title>
@@ -68,13 +75,6 @@
             <link>https://spaceflightnow.com/2016/04/27/spacex-announces-plan-to-send-mission-to-mars-in-2018/</link>
             <guid isPermaLink="false">f96a87c9-b578-4068-a156-5e86125061d4</guid>
             <pubDate>Mon, 02 May 2016 11:04:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Orangutan from Borneo photographed using a spear tool to fish]]></title>
-            <description><![CDATA[<article><h1>Orangutan from Borneo photographed using a spear tool to fish</h1><p>Tool use among orangutans was first documented by Carel van Schaik. In 1994, Carel observed orangutans developing tools to help themselves eat, while conducting field work in Gunung Leuser National Park, in the northwest Sumatra. Specifically the orangutans were using sticks to pry open pulpy fruits that have "Plexiglas needles" capable of delivering a painful...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69d5632466b4023144abd8981e8880528ac50019.jpg"></article>]]></description>
-            <link>https://primatology.net/2008/04/29/orangutan-photographed-using-tool-as-spear-to-fish/</link>
-            <guid isPermaLink="false">96a683d6-678b-4db6-9f51-57188e098f93</guid>
-            <pubDate>Mon, 02 May 2016 10:31:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
