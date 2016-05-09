@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 10:02:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 15:39:14 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Estonia's e-Residency Program Is the Future of Immigration]]></title>
+            <description><![CDATA[<article><h1>Estonia's e-Residency Program Is the Future of Immigration</h1><p>A few years ago, Estonia had a problem. The small, Baltic nation had spent the past several decades in the midst of a technological revolution, using the term "e-Estonia" to describe a set of sweeping digital reforms: Citizens could vote online, pay their taxes online, and track government legislation online.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a6ec847fee63ae4c3cad325864e235e958a5bbf.jpg"></article>]]></description>
+            <link>http://www.vice.com/read/estonias-e-residency-program-is-the-future-of-immigration</link>
+            <guid isPermaLink="false">2d8317ce-03b7-4796-9be8-4f99b7cc0981</guid>
+            <pubDate>Mon, 09 May 2016 15:38:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Deutsche Bahn looking at adding autonomous cars to its mass transit network]]></title>
@@ -68,13 +75,6 @@
             <link>https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/</link>
             <guid isPermaLink="false">0bdc5709-bd40-4c26-9e3e-8cef55b94787</guid>
             <pubDate>Thu, 05 May 2016 14:52:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Atom Can't Replace Vim]]></title>
-            <description><![CDATA[<article><h1>Why Atom Can't Replace Vim</h1><p>1976 was a good year for text editors. At MIT, Richard Stallman and Guy Steele wrote the first version of Emacs. And over at Berkeley, Bill Joy wrote vi (though it wouldn't be called that for a few years yet).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f20b3476db9e72bb1444fbdf9d6b20222e43655.png"></article>]]></description>
-            <link>http://bergie.today/why-atom-cant-replace-vim/index.html</link>
-            <guid isPermaLink="false">700a46af-79e8-478b-adc0-11ead5933d6c</guid>
-            <pubDate>Thu, 05 May 2016 07:50:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
