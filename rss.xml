@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 17:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 14:45:11 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[End Geoblocking]]></title>
+            <description><![CDATA[<article><h1>End Geoblocking</h1><p>Every day, artificial digital borders block millions of Europeans from ordering goods, purchasing movies on demand or watching videos. Now the EU is considering taking action. Join us in demanding: End geoblocking!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6cac334d7fd73013f6b10c1dfdcc10dd433a34b.jpg"></article>]]></description>
+            <link>https://endgeoblocking.eu/</link>
+            <guid isPermaLink="false">807168e6-c367-42be-9c85-e56506e3c7d6</guid>
+            <pubDate>Wed, 25 May 2016 14:45:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Programmers are not different, they need simple UIs. -]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.zgrethphoto.com/Learn/Exp/Tut/SpaceX</link>
             <guid isPermaLink="false">ec24ddbe-e6e4-41fe-b654-6b6d8650965b</guid>
             <pubDate>Thu, 19 May 2016 10:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Soon We Won't Program Computers. We'll Train Them Like Dogs]]></title>
-            <description><![CDATA[<article><h1>Soon We Won't Program Computers. We'll Train Them Like Dogs</h1><p>Before the invention of the computer, most experimental psychologists thought the brain was an unknowable black box. You could analyze a subject's behavior- ring bell, dog salivates -but thoughts, memories, emotions? That stuff was obscure and inscrutable, beyond the reach of science.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c873187cdee0eebda41318fab78e1a487d0a8b9.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/05/the-end-of-code/</link>
-            <guid isPermaLink="false">3a875bb0-6d95-4ff2-9502-47f79f34d925</guid>
-            <pubDate>Thu, 19 May 2016 10:53:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
