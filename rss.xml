@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 10:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2016 21:28:41 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google wins trial against Oracle as jury finds Android is "fair use"]]></title>
+            <description><![CDATA[<article><h1>Google wins trial against Oracle as jury finds Android is "fair use"</h1><p>Following a two-week trial, a jury has found that Google's Android operating system does not infringe Oracle-owned copyrights because its re-implementation of 37 Java APIs is protected by "fair use." The verdict was reached after three days of deliberation. The verdict in Google's favor ends the trial, which began earlier this month.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18621c9b145e9cc41e2b51b954311968dd89ed4e.jpg"></article>]]></description>
+            <link>http://arstechnica.com/tech-policy/2016/05/google-wins-trial-against-oracle-as-jury-finds-android-is-fair-use/</link>
+            <guid isPermaLink="false">9989af58-4b01-48e5-b3be-bf577994993d</guid>
+            <pubDate>Thu, 26 May 2016 21:28:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Regressive Web Apps]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theregister.co.uk/2015/01/21/review_tek_gear_twiddler_3_remote_handheld_keyboard/</link>
             <guid isPermaLink="false">c7ec1fab-15ec-4451-96a0-610981675f55</guid>
             <pubDate>Fri, 20 May 2016 06:39:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Manila Galleons that oceaneered for plague and profit]]></title>
-            <description><![CDATA[<article><h1>The Manila Galleons that oceaneered for plague and profit</h1><p>Gemelli Careri, an Italian adventurer, circled the world in the late 17th century. No part of his journey was more dangerous than the trip from Manila to Acapulco, made in 1697 on one of the deep-drafted, many-sailed boats known as the Manila Galleons.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a701322b7e393e7bc984ad7eb7c0b20f360dd79.jpg"></article>]]></description>
-            <link>https://aeon.co/essays/the-manila-galleons-that-oceaneered-for-plague-and-profit</link>
-            <guid isPermaLink="false">43fee199-01e5-4ca1-89a9-172940b5f6bf</guid>
-            <pubDate>Fri, 20 May 2016 06:35:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
