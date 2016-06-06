@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 10:29:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 14:32:56 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Tyranny of the Hollerith Punched Card]]></title>
+            <description><![CDATA[<article><h1>The Tyranny of the Hollerith Punched Card</h1><p>When I was a young enlisted Marine, barely out of boot camp, I heard this wise old Staff Sergeant tell the following story to some truculent PFC (not me): "There was this experiment one time; some scientists took a bunch of monkeys and locked them in a room.</p></article>]]></description>
+            <link>http://pub.gajendra.net/2012/09/hollerith_tyranny</link>
+            <guid isPermaLink="false">b82e7a5c-95cf-4a1b-84c7-8294e47a764a</guid>
+            <pubDate>Mon, 06 Jun 2016 14:32:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Luxembourg wants to become the Silicon Valley of asteroid mining]]></title>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/4jEz03Z8azc</link>
             <guid isPermaLink="false">6bc3496f-7940-4372-9c5b-7c1d90d5a779</guid>
             <pubDate>Sat, 28 May 2016 10:36:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google wins trial against Oracle as jury finds Android is "fair use"]]></title>
-            <description><![CDATA[<article><h1>Google wins trial against Oracle as jury finds Android is "fair use"</h1><p>Following a two-week trial, a jury has found that Google's Android operating system does not infringe Oracle-owned copyrights because its re-implementation of 37 Java APIs is protected by "fair use." The verdict was reached after three days of deliberation. The verdict in Google's favor ends the trial, which began earlier this month.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18621c9b145e9cc41e2b51b954311968dd89ed4e.jpg"></article>]]></description>
-            <link>http://arstechnica.com/tech-policy/2016/05/google-wins-trial-against-oracle-as-jury-finds-android-is-fair-use/</link>
-            <guid isPermaLink="false">9989af58-4b01-48e5-b3be-bf577994993d</guid>
-            <pubDate>Thu, 26 May 2016 21:28:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
