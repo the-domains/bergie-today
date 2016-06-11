@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 14:52:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 12:12:02 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elon Musk provides new details on his "mind blowing" mission to Mars]]></title>
+            <description><![CDATA[<article><h1>Elon Musk provides new details on his "mind blowing" mission to Mars</h1><p>Ever since Elon Musk founded a start-up space company 14 years ago, the goal has always been the same: Establishing a colony on Mars. Now he's finally beginning to reveal how he plans to get there. Starting as soon as 2018, Musk's SpaceX plans to fly an unmanned spacecraft to Mars.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4cbb950f6d760959424e7cb542a5bd4df1d84e1.jpg"></article>]]></description>
+            <link>https://www.washingtonpost.com/news/the-switch/wp/2016/06/10/elon-musk-provides-new-details-on-his-mind-blowing-mission-to-mars/</link>
+            <guid isPermaLink="false">3d61581d-1b61-4143-a0b6-8536746ba3a6</guid>
+            <pubDate>Sat, 11 Jun 2016 12:11:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Launching the Interplanetary Database]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.vox.com/2016/6/1/11787262/blade-runner-neural-network-encoding</link>
             <guid isPermaLink="false">c0d544f3-fa0c-41d6-bf7b-a9eee7f78b4e</guid>
             <pubDate>Fri, 03 Jun 2016 09:44:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Rise of Small Farm Robots - Food is the New Internet]]></title>
-            <description><![CDATA[<article><h1>The Rise of Small Farm Robots - Food is the New Internet</h1><p>Or why the miniaturization of farm machinery will help encourage small, diverse farms. Marilee Foster is not the kind of farmer who makes rash decisions. But when she recently heard about Rowbot, a lawn-mower sized autonomous machine that can fertilize the soil, mulch weeds and sow crops on 50 acres a day, she asked, "How much does it cost?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8d6b675f25f690c94b9c86d0633603d40d6c0c2.jpg"></article>]]></description>
-            <link>http://bergie.today/the-rise-of-small-farm-robots-food-is-the-new-internet/index.html</link>
-            <guid isPermaLink="false">47983460-455f-4081-86c9-2aa225c1f29f</guid>
-            <pubDate>Wed, 01 Jun 2016 08:54:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
