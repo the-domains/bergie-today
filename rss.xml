@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 16:00:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 16:31:55 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mongolia is changing all its addresses to three-word phrases]]></title>
+            <description><![CDATA[<article><h1>Mongolia is changing all its addresses to three-word phrases</h1><p>Mongolia will become a global pioneer next month, when its national post office starts referring to locations by a series of three-word phrases instead of house numbers and street names. The new system is devised by a British startup called What3Words, which has assigned a three-word phrase to every point on the globe.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7a3adb508686e1ed1b3036b7f2b6eafd/croprotate.png?cropheight=1057&cropwidth=1082&degrees=0&input=https%3A%2F%2Fqzprod.files.wordpress.com%2F2016%2F06%2Fscreen-shot-2016-06-13-at-3-13-59-pm.png&x=0&y=0"></article>]]></description>
+            <link>http://qz.com/705273/mongolia-is-changing-all-its-addresses-to-three-word-phrases/</link>
+            <guid isPermaLink="false">87b16c0d-d00b-4904-bd14-666258038cbb</guid>
+            <pubDate>Mon, 13 Jun 2016 16:31:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['2001: A Space Odyssey' rendered in the style of Picasso]]></title>
@@ -68,13 +75,6 @@
             <link>http://pub.gajendra.net/2012/09/hollerith_tyranny</link>
             <guid isPermaLink="false">b82e7a5c-95cf-4a1b-84c7-8294e47a764a</guid>
             <pubDate>Mon, 06 Jun 2016 14:32:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Luxembourg wants to become the Silicon Valley of asteroid mining]]></title>
-            <description><![CDATA[<article><h1>Luxembourg wants to become the Silicon Valley of asteroid mining</h1><p>Luxembourg, a small European country about the size of Rhode Island, wants to be the Silicon Valley of the space mining industry. The landlocked Grand Duchy announced Friday it was opening a €200 million ($225 million) line of credit for entrepreneurial space companies to set up their European headquarters within its borders.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/642ed501dc68c2b7734aecb8f68a7a6e02b5c220.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/06/luxembourg-wants-to-become-the-silicon-valley-of-asteroid-mining/</link>
-            <guid isPermaLink="false">6ffd2ecd-deef-4f94-9ee1-d67892c20567</guid>
-            <pubDate>Sat, 04 Jun 2016 10:29:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
