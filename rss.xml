@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 13:43:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2016 08:01:26 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As Tech Evaporates Jobs, "The Tipping Point Will Be Driverless Trucks"]]></title>
+            <description><![CDATA[<article><h1>As Tech Evaporates Jobs, "The Tipping Point Will Be Driverless Trucks"</h1><p>Driverless vehicles “will make what happened in the steel or auto industries look tiny,” says the former chief of one of America’s largest unions.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e425370e-2142-4f73-b071-5f1727ff64c0.webp"></article>]]></description>
+            <link>https://www.buzzfeed.com/coralewis/as-tech-evaporates-jobs-tipping-point-will-be-driverless-tru?utm_term=.arvmoXJEK#.pky5ELyA2</link>
+            <guid isPermaLink="false">f57b3177-6167-413e-b1d8-50af46b3182b</guid>
+            <pubDate>Thu, 16 Jun 2016 08:01:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Technologies of the Decentralized Web Summit]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.wipp.energy.gov/picsprog/articles/wipp%20exhibit%20message%20to%2012,000%20a_d.htm</link>
             <guid isPermaLink="false">fa1734b8-8fc9-47ee-b349-3109bcf4a7ce</guid>
             <pubDate>Tue, 07 Jun 2016 08:43:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Being privacy-aware in 2016]]></title>
-            <description><![CDATA[<article><h1>Being privacy-aware in 2016</h1><p>Even if you're not doing anything wrong, you are being watched and recorded. - Edward Snowden As more and more people are living a digital life inside their computers, discussions about privacy and whether or not we can expect to be protected from intrusions in our private lives are taking over the Internet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f20344a70d7e73faad19fa25d78f15cf2c8febbf.jpg"></article>]]></description>
-            <link>https://vox.space/blog/89/being-privacy-aware-in-2016</link>
-            <guid isPermaLink="false">0de3a17a-a5c2-4553-8c1d-cedef8de543a</guid>
-            <pubDate>Tue, 07 Jun 2016 07:29:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
