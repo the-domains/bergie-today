@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 18:07:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 18:07:32 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Serverless Architectures]]></title>
+            <description><![CDATA[<article><h1>Serverless Architectures</h1><p>Serverless is a hot topic in the software architecture world. We’re already seeing books, open source frameworks, plenty of vendor products, and even a conference dedicated to the subject. But what is Serverless and why is (or isn’t) it worth considering? Through this evolving publication I hope to enlighten you a little on these questions.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e8546c6-a9fd-4ed1-93bf-3e71ac4eb494.png"></article>]]></description>
+            <link>http://martinfowler.com/articles/serverless.html</link>
+            <guid isPermaLink="false">bcdf3dc4-5908-4f68-aec1-9eff97a421fb</guid>
+            <pubDate>Fri, 17 Jun 2016 18:07:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Apps are dying]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/6/8/11880730/apple-app-store-subscription-update-phil-schiller-interview</link>
             <guid isPermaLink="false">be6799c0-cedf-4185-ada4-c950cf60e1ae</guid>
             <pubDate>Thu, 09 Jun 2016 10:37:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Web's Creator Looks to Reinvent It]]></title>
-            <description><![CDATA[<article><h1>The Web's Creator Looks to Reinvent It</h1><p>Twenty-seven years ago, Tim Berners-Lee created the World Wide Web as a way for scientists to easily find information. It has since become the world's most powerful medium for knowledge, communications and commerce - but that doesn't mean Mr. Berners-Lee is happy with all of the consequences.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74d0a0f81a1543f8d1eed020f37fd577c09e00b7.jpg"></article>]]></description>
-            <link>http://mobile.nytimes.com/2016/06/08/technology/the-webs-creator-looks-to-reinvent-it.html?referer=https://news.ycombinator.com/</link>
-            <guid isPermaLink="false">97b69092-18a6-451e-a868-4de4b8aeddad</guid>
-            <pubDate>Wed, 08 Jun 2016 07:58:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
