@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 10:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 15:13:14 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Solar Impulse completes Atlantic crossing with landing in Seville]]></title>
+            <description><![CDATA[<article><h1>Solar Impulse completes Atlantic crossing with landing in Seville</h1><p>The zero-fuel aeroplane, Solar Impulse, has touched down in Spain, completing the 70-hour Atlantic leg of its historic bid to circle the globe. The landing in Seville marked the end of the 15th stage of Solar Impulse's journey.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/87aee8582785b05355ac32e6f13d585a/noop.jpg?input=http%3A%2F%2Fichef.bbci.co.uk%2Fnews%2F1024%2Fcpsprodpb%2FC8E3%2Fproduction%2F_90072415_2016_06_23_landing_sevilla_2669.jpg"></article>]]></description>
+            <link>http://www.bbc.com/news/science-environment-36598140</link>
+            <guid isPermaLink="false">ee32a40f-6df1-4b97-a51c-562bb57b0ac6</guid>
+            <pubDate>Fri, 24 Jun 2016 15:12:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google search spike suggests people don't know why they Brexited]]></title>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/science/2016/06/some-real-talk-about-the-future-of-rockets/</link>
             <guid isPermaLink="false">602ea7c8-49ce-4f14-aa84-a6acd8be3f46</guid>
             <pubDate>Tue, 21 Jun 2016 11:59:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When everything else fails, amateur radio will still be there-and thriving]]></title>
-            <description><![CDATA[<article><h1>When everything else fails, amateur radio will still be there-and thriving</h1><p>It's a good time to be technical. Maker communities are thriving around the world, tools and materials to create and adapt are cheaper and more powerful now than ever, and open source hardware, software, and information mean that if you can think it, you can learn how to do it and then make it happen.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2e7ef791bedbf76bf4f0afc3aef09aa1/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F06%2FGettyImages-116564967-640x426.jpg"></article>]]></description>
-            <link>http://arstechnica.com/gadgets/2016/06/when-everything-else-fails-amateur-radio-will-still-be-there-and-thriving/</link>
-            <guid isPermaLink="false">6a879255-24f6-49ce-b671-8d7561f08942</guid>
-            <pubDate>Mon, 20 Jun 2016 13:25:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
