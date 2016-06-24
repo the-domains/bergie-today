@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 15:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 15:13:23 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit, as seen in Kreuzberg]]></title>
+            <description><![CDATA[<article><h1>Brexit, as seen in Kreuzberg</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8c69b6c60dc975591d707565b3f6346e/croprotate.jpg?cropheight=2983&cropwidth=2983&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fde931fb6-6903-4b84-81fa-0a1b83ea2fac.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/de931fb6-6903-4b84-81fa-0a1b83ea2fac.jpg</link>
+            <guid isPermaLink="false">33024a86-0e97-4790-bbec-f52450a7c977</guid>
+            <pubDate>Fri, 24 Jun 2016 15:12:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Solar Impulse completes Atlantic crossing with landing in Seville]]></title>
@@ -68,13 +75,6 @@
             <link>https://news.ycombinator.com/item?id=11939851</link>
             <guid isPermaLink="false">31325971-3441-4534-9d98-d951384d0ee8</guid>
             <pubDate>Tue, 21 Jun 2016 18:53:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Some real talk about the future of rockets]]></title>
-            <description><![CDATA[<article><h1>Some real talk about the future of rockets</h1><p>In a first, the secretive Blue Origin rocket company invited the world to watch its Sunday launch, live. Blue Origin's New Shepard vehicle accelerated to 2,142mph, ascended into space, and returned to Earth 10 minutes later. Not that all that much of the world watched.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4db48e26ae996dbca87d78654c0d1184/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F06%2FNew_Shepard_Booster_Landing_June_19_2016-640x423.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/06/some-real-talk-about-the-future-of-rockets/</link>
-            <guid isPermaLink="false">602ea7c8-49ce-4f14-aa84-a6acd8be3f46</guid>
-            <pubDate>Tue, 21 Jun 2016 11:59:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
