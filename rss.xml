@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 15:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 07:20:02 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Berlin can now usurp London as startup capital of Europe]]></title>
+            <description><![CDATA[<article><h1>Berlin can now usurp London as startup capital of Europe</h1><p>Startups are not the only ones digesting the shock result this weekend. As political analysts predict Germany will take a larger role as a global leader as the most powerful country in the European Union, technology observers should expect the same for the country in the entrepreneurs' realm.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/20963f8f88b3cdfd9c8697fd9d14e2e3/noop.png?input=http%3A%2F%2Fi0.wp.com%2Fwww.geektime.com%2Fwp-content%2Fuploads%2F2016%2F06%2FFlag-of-Berlin-CC-BY-2.0-e1466979971876.png%3Fresize%3D750%252C451"></article>]]></description>
+            <link>http://www.geektime.com/2016/06/27/berlin-is-now-in-a-position-to-usurp-london-as-the-startup-capital-of-europe/</link>
+            <guid isPermaLink="false">202b9d94-f7cf-459b-9781-bd88f2eea8cc</guid>
+            <pubDate>Mon, 27 Jun 2016 07:19:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fire in Microgravity]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.npr.org/sections/thesalt/2016/06/21/482322571/silicon-valley-s-bloody-plant-burger-smells-tastes-and-sizzles-like-meat</link>
             <guid isPermaLink="false">c82b82da-8126-4d83-97f0-74dfed30ad92</guid>
             <pubDate>Wed, 22 Jun 2016 16:05:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Making progressive web apps even better: ambient badging and "pop into browser"]]></title>
-            <description><![CDATA[<article><h1>Making progressive web apps even better: ambient badging and "pop into browser"</h1><p>We're excited to release a Labs build of Opera for Android with support for two experimenal features that enhance the discoverability and use of progressive web apps. Earlier this month, Alex Russell wrote: Wouldn't it be great if there were a button in the URL bar that appeared whenever you landed on a PWA that you could always tap to save it to your homescreen?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9ba9d25e0e680ad00dcbc2eef7e29821/croprotate.png?cropheight=1151&cropwidth=720&degrees=0&input=https%3A%2F%2Fdev.opera.com%2Fblog%2Fpwa-badge-pop%2Fpicture.png&x=0&y=1"></article>]]></description>
-            <link>https://dev.opera.com/blog/pwa-badge-pop/</link>
-            <guid isPermaLink="false">e5ffc2cc-3c98-41e9-8d59-4e7328d4d023</guid>
-            <pubDate>Tue, 21 Jun 2016 19:40:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
