@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 13:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 18:29:24 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shout at the devil: the confusing world of talking to computers]]></title>
+            <description><![CDATA[<article><h1>Shout at the devil: the confusing world of talking to computers</h1><p>Microsoft calls it "conversation as a platform." Google says it wants to computers to have an "ongoing two-way dialogue" with their users. This both is and isn't a metaphor. Digital assistants that we talk to - Siri, Alexa, Cortana - are already commonplace, but creating computers that talk back will mean something extra: using machine learning to offer users prompts and suggestions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/352fc22b1c76de9e25a5eb4f2956c653/noop.jpg?input=https%3A%2F%2Fcdn3.vox-cdn.com%2Fthumbor%2FAF9bf8cCbYSJ2XSdm2Pk8NxEFWc%3D%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F2934176%2Famazon-echo-verge-9723.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/6/28/12038802/apple-siri-amazon-alexa-microsoft-cortana-google-assistant-voice</link>
+            <guid isPermaLink="false">e28b2343-13be-4dc6-bbc2-cd1a4015edbc</guid>
+            <pubDate>Wed, 29 Jun 2016 18:29:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why the Humble Notebook Is Flourishing in the iPhone Era]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Fire in Microgravity</h1><p>In space, flames don't extinguish under the same low-oxygen conditions that would put them out on Earth, setting the stage for dangerous flare-ups. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ef3713f1f43629c5234ef4604429a537/croprotate.jpg?cropheight=1804&cropwidth=399&degrees=0&input=http%3A%2F%2Famsciadmin.eresources.com%2FLibraries%2Fimages%2F20151281415311595-2016-01WichmanF3.jpg%3Fst%3D00&x=0&y=0"></article>]]></description>
             <link>https://www.americanscientist.org/issues/feature/2016/1/fire-in-microgravity/1</link>
             <guid isPermaLink="false">cb8ccfbc-cccd-4f4d-85ea-bbac11a383a5</guid>
-            <pubDate>Fri, 24 Jun 2016 15:12:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brexit, as seen in Kreuzberg]]></title>
-            <description><![CDATA[<article><h1>Brexit, as seen in Kreuzberg</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8c69b6c60dc975591d707565b3f6346e/croprotate.jpg?cropheight=2983&cropwidth=2983&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fde931fb6-6903-4b84-81fa-0a1b83ea2fac.jpg&x=0&y=0"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/de931fb6-6903-4b84-81fa-0a1b83ea2fac.jpg</link>
-            <guid isPermaLink="false">33024a86-0e97-4790-bbec-f52450a7c977</guid>
             <pubDate>Fri, 24 Jun 2016 15:12:57 GMT</pubDate>
         </item>
     </channel>
