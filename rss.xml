@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 18:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 11:24:18 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Amazon Triggered a Robot Arms Race]]></title>
+            <description><![CDATA[<article><h1>How Amazon Triggered a Robot Arms Race</h1><p>An Amazon warehouse is a flurry of activity. Workers jog around a manmade cavern plopping items into yellow and black crates. Towering hydraulic arms lift heavy boxes toward the rafters. And an army of stubby orange robots slide along the floor like giant, sentient hockey pucks, piled high with towers of consumer gratification ranging from bestsellers to kitchenware.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fd3e691073a0f5e9ad7ce3b30c4f0e16/noop.gif?input=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiZW7pKShqhK8%2Fv0%2F-999x-999.gif"></article>]]></description>
+            <link>http://www.bloomberg.com/news/articles/2016-06-29/how-amazon-triggered-a-robot-arms-race</link>
+            <guid isPermaLink="false">c9185e7d-7843-4b1c-8d47-e88fff64a9b2</guid>
+            <pubDate>Thu, 30 Jun 2016 11:24:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shout at the devil: the confusing world of talking to computers]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.geektime.com/2016/06/27/berlin-is-now-in-a-position-to-usurp-london-as-the-startup-capital-of-europe/</link>
             <guid isPermaLink="false">202b9d94-f7cf-459b-9781-bd88f2eea8cc</guid>
             <pubDate>Mon, 27 Jun 2016 07:19:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fire in Microgravity]]></title>
-            <description><![CDATA[<article><h1>Fire in Microgravity</h1><p>In space, flames don't extinguish under the same low-oxygen conditions that would put them out on Earth, setting the stage for dangerous flare-ups. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ef3713f1f43629c5234ef4604429a537/croprotate.jpg?cropheight=1804&cropwidth=399&degrees=0&input=http%3A%2F%2Famsciadmin.eresources.com%2FLibraries%2Fimages%2F20151281415311595-2016-01WichmanF3.jpg%3Fst%3D00&x=0&y=0"></article>]]></description>
-            <link>https://www.americanscientist.org/issues/feature/2016/1/fire-in-microgravity/1</link>
-            <guid isPermaLink="false">cb8ccfbc-cccd-4f4d-85ea-bbac11a383a5</guid>
-            <pubDate>Fri, 24 Jun 2016 15:12:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
