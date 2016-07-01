@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 14:35:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 18:33:45 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Automated to Death]]></title>
+            <description><![CDATA[<article><h1>Automated to Death</h1><p>The passengers and crew of Malaysia Airlines Flight 124 were just settling into their five-hour flight from Perth to Kuala Lumpur that late on the afternoon of 1 August 2005. Approximately 18 minutes into the flight, as the Boeing 777-200 series aircraft was climbing through 36 000 feet altitude on autopilot, the aircraft-suddenly and without warning-pitched to 18 degrees, nose up, and started to climb rapidly.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1d1c3930185a996c80beed79edb47579/noop.jpeg?input=http%3A%2F%2Fspectrum.ieee.org%2Fimage%2FMjc3MTU1Mw.jpeg"></article>]]></description>
+            <link>http://spectrum.ieee.org/computing/software/automated-to-death</link>
+            <guid isPermaLink="false">7bee4992-2bce-4109-b0dd-7465880c4971</guid>
+            <pubDate>Fri, 01 Jul 2016 18:33:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://500ish.com/requiem-for-a-headphone-jack-9a5b06613e9c#.3aw0jbwu2</link>
             <guid isPermaLink="false">013058d9-bbde-4efe-8d41-b2c7ce140a6e</guid>
             <pubDate>Tue, 28 Jun 2016 12:42:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World going to hell? Here are the Solar System's five most livable places]]></title>
-            <description><![CDATA[<article><h1>World going to hell? Here are the Solar System's five most livable places</h1><p>In the year 2016 one might be forgiven for thinking the world is going to hell. Across much of Europe and the United States a distressed and angry working class has begun wielding nationalism as a blunt weapon against the disconnected ruling class.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a65cc8bc7ffa6ad06b9214c08a06abd2/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F06%2FEso1509a_-_Mars_planet-640x393.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/06/world-going-to-hell-here-are-the-solar-systems-five-most-livable-places/</link>
-            <guid isPermaLink="false">2197406e-957e-401f-8edd-b76cf172aa77</guid>
-            <pubDate>Mon, 27 Jun 2016 09:07:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
