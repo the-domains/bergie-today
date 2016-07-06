@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 17:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 07:44:15 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dutch crops grown on 'Mars' soil found safe to eat]]></title>
+            <description><![CDATA[<article><h1>Dutch crops grown on 'Mars' soil found safe to eat</h1><p>Dutch scientists said Thursday crops of four vegetables and cereals grown on soil similar to that on Mars have been found safe to eat, amid plans for the first manned mission to the planet. Abundant harvests of radishes, peas, rye and tomatoes all grown on the soil were found to contain "no dangerous levels" of heavy metals, said the team from Wageningen University in the Netherlands.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4e39f1cd34125649c601301e0bbaa610/noop.jpg?input=http%3A%2F%2Fcdn.phys.org%2Fnewman%2Fgfx%2Fnews%2F2016%2F1-researcherwi.jpg"></article>]]></description>
+            <link>http://phys.org/news/2016-06-dutch-crops-grown-mars-soil.html</link>
+            <guid isPermaLink="false">92ac5ad4-9b0c-4e05-8d0b-d7083e22157a</guid>
+            <pubDate>Wed, 06 Jul 2016 07:44:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reusability in Modern Rocketry]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/338f4241-5edd-4050-8fd2-743edc0ee2bd.gif</link>
             <guid isPermaLink="false">fbafe7aa-0f5f-4aee-a42d-f19328375f20</guid>
             <pubDate>Thu, 30 Jun 2016 14:35:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Amazon Triggered a Robot Arms Race]]></title>
-            <description><![CDATA[<article><h1>How Amazon Triggered a Robot Arms Race</h1><p>An Amazon warehouse is a flurry of activity. Workers jog around a manmade cavern plopping items into yellow and black crates. Towering hydraulic arms lift heavy boxes toward the rafters. And an army of stubby orange robots slide along the floor like giant, sentient hockey pucks, piled high with towers of consumer gratification ranging from bestsellers to kitchenware.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fd3e691073a0f5e9ad7ce3b30c4f0e16/noop.gif?input=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiZW7pKShqhK8%2Fv0%2F-999x-999.gif"></article>]]></description>
-            <link>http://www.bloomberg.com/news/articles/2016-06-29/how-amazon-triggered-a-robot-arms-race</link>
-            <guid isPermaLink="false">c9185e7d-7843-4b1c-8d47-e88fff64a9b2</guid>
-            <pubDate>Thu, 30 Jun 2016 11:24:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
