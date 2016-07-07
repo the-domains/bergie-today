@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 14:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 14:57:41 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Europe's largest economy is resisting the new industrial revolution]]></title>
+            <description><![CDATA[<article><h1>Why Europe's largest economy is resisting the new industrial revolution</h1><p>Angela Merkel champions Industry 4.0, urging investment in new technology. German business isn't heeding the call. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0710bd1d369187402fc2a35645ca15dd/croprotate.jpg?cropheight=628&cropwidth=1181&degrees=0&input=http%3A%2F%2Fwww.politico.eu%2Fwp-content%2Fuploads%2F2016%2F06%2Ffactoryb-1200x628.jpg&x=9&y=0"></article>]]></description>
+            <link>http://www.politico.eu/article/why-europes-largest-economy-resists-new-industrial-revolution-factories-of-the-future-special-report/?utm_content=bufferd4822&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">7bfa7995-22a9-4639-a35f-23a18bfa4700</guid>
+            <pubDate>Thu, 07 Jul 2016 14:57:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Night sailing on the Gulf of Finland]]></title>
@@ -68,13 +75,6 @@
             <link>http://bergie.today/reusability-in-modern-rocketry/index.html</link>
             <guid isPermaLink="false">cfc78ccd-b50e-423d-879e-6bee60e9495a</guid>
             <pubDate>Tue, 05 Jul 2016 17:20:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="From the country that invented the word &quot;Schadenfreude.&quot; The FDP is driving this truck around London today.pic.twitter.com/zGEuLxonhQ" src="https://pbs.twimg.com/media/CmmDSSuXgAABdXn.jpg:large">]]></description>
-            <link>https://twitter.com/charles_hawley/status/750275297740816384</link>
-            <guid isPermaLink="false">3bd076f9-0fae-48b6-b45f-131f1944ea13</guid>
-            <pubDate>Tue, 05 Jul 2016 15:26:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
