@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 21:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 10:14:52 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make the Web Work For Everyone]]></title>
+            <description><![CDATA[<article><h1>Make the Web Work For Everyone</h1><p>Millions of websites have compatibility problems on one or more of the major browsers, leading to a poor user experience. The web developer community can fix this. The web has changed immensely in the past 20 years. In 1996 there were roughly a million websites; now there are more than a billion.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7ddb6d9841ed49c4d6a065284e633dff/noop.jpg?input=https%3A%2F%2F2r4s9p1yi1fa2jd7j43zph8r-wpengine.netdna-ssl.com%2Ffiles%2F2016%2F06%2Fwebcompat_blog_graphics_600x800-01-500x667.jpg"></article>]]></description>
+            <link>https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/</link>
+            <guid isPermaLink="false">4efe4708-9815-4763-abd9-7cabd6476ace</guid>
+            <pubDate>Fri, 08 Jul 2016 10:14:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mossberg: The tyranny of messaging and notifications]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theatlantic.com/business/archive/2016/06/would-a-world-without-work-be-so-bad/488711/?single_page=true</link>
             <guid isPermaLink="false">6845035f-49d6-4bf5-8ba4-a1b34759950e</guid>
             <pubDate>Wed, 06 Jul 2016 13:34:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dutch crops grown on 'Mars' soil found safe to eat]]></title>
-            <description><![CDATA[<article><h1>Dutch crops grown on 'Mars' soil found safe to eat</h1><p>Dutch scientists said Thursday crops of four vegetables and cereals grown on soil similar to that on Mars have been found safe to eat, amid plans for the first manned mission to the planet. Abundant harvests of radishes, peas, rye and tomatoes all grown on the soil were found to contain "no dangerous levels" of heavy metals, said the team from Wageningen University in the Netherlands.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4e39f1cd34125649c601301e0bbaa610/noop.jpg?input=http%3A%2F%2Fcdn.phys.org%2Fnewman%2Fgfx%2Fnews%2F2016%2F1-researcherwi.jpg"></article>]]></description>
-            <link>http://phys.org/news/2016-06-dutch-crops-grown-mars-soil.html</link>
-            <guid isPermaLink="false">92ac5ad4-9b0c-4e05-8d0b-d7083e22157a</guid>
-            <pubDate>Wed, 06 Jul 2016 07:44:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
