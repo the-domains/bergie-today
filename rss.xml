@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 10:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 15:02:59 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The tyranny of messaging and notifications]]></title>
+            <description><![CDATA[<article><h1>The tyranny of messaging and notifications</h1><p>Up until just a few years ago, I got around 350 emails a day, which presented me with an exhausting, time-consuming daily task that I grumbled about plenty. Now, because of social media and messaging services, that number has been cut by more than half. But things are actually worse.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bf76b90f3be61880d53f10c327758112/noop.jpg?input=https%3A%2F%2Fcdn2.vox-cdn.com%2Fthumbor%2F_PDhfGShkgY5uSmjTDQM_yMSc9M%3D%2F0x0%3A2040x1148%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50034231%2Fgoogle-allo-vpavic-verge-1.0.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/7/6/12102874/walt-mossberg-messaging-notifications</link>
+            <guid isPermaLink="false">e7aaf60f-4978-4663-8b9c-d0b0eca9ea5d</guid>
+            <pubDate>Fri, 08 Jul 2016 15:02:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Make the Web Work For Everyone]]></title>
             <description><![CDATA[<article><h1>Make the Web Work For Everyone</h1><p>Millions of websites have compatibility problems on one or more of the major browsers, leading to a poor user experience. The web developer community can fix this. The web has changed immensely in the past 20 years. In 1996 there were roughly a million websites; now there are more than a billion.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7ddb6d9841ed49c4d6a065284e633dff/noop.jpg?input=https%3A%2F%2F2r4s9p1yi1fa2jd7j43zph8r-wpengine.netdna-ssl.com%2Ffiles%2F2016%2F06%2Fwebcompat_blog_graphics_600x800-01-500x667.jpg"></article>]]></description>
             <link>https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/</link>
             <guid isPermaLink="false">4efe4708-9815-4763-abd9-7cabd6476ace</guid>
             <pubDate>Fri, 08 Jul 2016 10:14:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mossberg: The tyranny of messaging and notifications]]></title>
-            <description><![CDATA[<article><h1>Mossberg: The tyranny of messaging and notifications</h1><p>Up until just a few years ago, I got around 350 emails a day, which presented me with an exhausting, time-consuming daily task that I grumbled about plenty. Now, because of social media and messaging services, that number has been cut by more than half. But things are actually worse.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bf76b90f3be61880d53f10c327758112/noop.jpg?input=https%3A%2F%2Fcdn2.vox-cdn.com%2Fthumbor%2F_PDhfGShkgY5uSmjTDQM_yMSc9M%3D%2F0x0%3A2040x1148%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50034231%2Fgoogle-allo-vpavic-verge-1.0.0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/7/6/12102874/walt-mossberg-messaging-notifications</link>
-            <guid isPermaLink="false">e7aaf60f-4978-4663-8b9c-d0b0eca9ea5d</guid>
-            <pubDate>Thu, 07 Jul 2016 21:48:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Europe's largest economy is resisting the new industrial revolution]]></title>
