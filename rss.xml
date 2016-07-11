@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jul 2016 22:52:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2016 13:26:17 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flying on a budget carrier for business is bad for the ego, but necessary]]></title>
+            <description><![CDATA[<article><h1>Flying on a budget carrier for business is bad for the ego, but necessary</h1><p>Last week your correspondent was put in a quandary. Having been booked to speak at an event in Ireland, the organiser sent through the travel itinerary. Ryanair. Not just Ryanair, but no-frills Ryanair: no priority boarding, no checked baggage and no option to choose seating.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/50b76f309fde38d69559470266b4686c/croprotate.jpg?cropheight=626&cropwidth=1200&degrees=0&input=http%3A%2F%2Fcdn.static-economist.com%2Fsites%2Fdefault%2Ffiles%2Fcf_images%2Fimages-magazine%2F2016%2F07%2F09%2FBL%2F20160709_BLP535_facebook.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.economist.com/blogs/gulliver/2016/07/what-no-lie-flat-bed?fsrc=scn/gg/te/bl/ed/</link>
+            <guid isPermaLink="false">2b06111d-c928-4f4e-9dab-4f627adf78a7</guid>
+            <pubDate>Mon, 11 Jul 2016 13:26:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Are We at the Start of a Tech World War?]]></title>
@@ -68,13 +75,6 @@
             <link>http://bergie.today/night-sailing-on-the-gulf-of-finland/index.html</link>
             <guid isPermaLink="false">b322e9e1-4474-4c66-a2c9-43aadb410b6d</guid>
             <pubDate>Thu, 07 Jul 2016 14:16:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Literate programming: presenting code in human order]]></title>
-            <description><![CDATA[<article><h1>Literate programming: presenting code in human order</h1><p>People best understand computer programs in a different order than compilers do. This is a key idea of literate programming, and one that distinguishes literate programs from heavily commented programs. Traditional source code, no matter how heavily commented, is presented in the order dictated by the compiler. The computer is the primary audience.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/866ed20d674f627cfa88ade9c65471bf/noop.jpg?input=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F41KSVC8Q2JL._SL250_.jpg"></article>]]></description>
-            <link>http://www.johndcook.com/blog/2016/07/06/literate-programming-presenting-code-in-human-order/</link>
-            <guid isPermaLink="false">cbaf0310-0ed4-46c3-a7ea-191f2ee3629e</guid>
-            <pubDate>Thu, 07 Jul 2016 13:44:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
