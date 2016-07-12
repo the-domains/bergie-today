@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 17:28:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 15:53:04 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Marie Kondo and the Ruthless War on Stuff]]></title>
+            <description><![CDATA[<article><h1>Marie Kondo and the Ruthless War on Stuff</h1><p>Joy points upward, according to Marie Kondo, whose name is now a verb and whose nickname is being trademarked and whose life has become a philosophy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a09eb20ddd3b9bc16875dc6c49d182aa/croprotate.jpg?cropheight=580&cropwidth=976&degrees=0&input=https%3A%2F%2Fcdn1.nyt.com%2Fimages%2F2016%2F07%2F10%2Fmagazine%2F10kondo1%2F10kondo1-jumbo-v5.jpg&x=24&y=0"></article>]]></description>
+            <link>http://mobile.nytimes.com/2016/07/10/magazine/marie-kondo-and-the-ruthless-war-on-stuff.html?hp&amp;action=click&amp;pgtype=Homepage&amp;clickSource=story-heading&amp;module=mini-moth&amp;region=top-stories-below&amp;WT.nav=top-stories-below&amp;_r=1&amp;referer=https://news.ycombinator.com/</link>
+            <guid isPermaLink="false">fac4ca6e-3cdf-45fb-92fa-a503647f5c18</guid>
+            <pubDate>Tue, 12 Jul 2016 15:52:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Suddenly, it's a Pokemon Go world, and we're just living in it]]></title>
-            <description><![CDATA[<article><h1>Suddenly, it's a Pokemon Go world, and we're just living in it</h1><p>At a minimum, Pokemon Go makes walking the dog more interesting. This morning, Hazel and I caught Kakuna in my alley, Pidgey in front of the nearby comic-book store. I was told I don't have enough skill level yet to visit the Pokemon Gym, which is apparently where you go to test battle skills, and which is located at the town pool.</p><img src="http://www.trbimg.com/img-5783c237/turbine/ct-suddenly-its-a-pokemon-go-world-and-we-are-just-living-in-it-20160711"></article>]]></description>
+            <description><![CDATA[<article><h1>Suddenly, it's a Pokemon Go world, and we're just living in it</h1><p>At a minimum, Pokemon Go makes walking the dog more interesting. This morning, Hazel and I caught Kakuna in my alley, Pidgey in front of the nearby comic-book store. I was told I don't have enough skill level yet to visit the Pokemon Gym, which is apparently where you go to test battle skills, and which is located at the town pool.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/abdbdf7ba9ffc9e064b737b948ce822d/croprotate?cropheight=1366&cropwidth=2048&degrees=0&input=http%3A%2F%2Fwww.trbimg.com%2Fimg-5783c237%2Fturbine%2Fct-suddenly-its-a-pokemon-go-world-and-we-are-just-living-in-it-20160711&x=0&y=0"></article>]]></description>
             <link>http://www.chicagotribune.com/entertainment/ct-suddenly-its-a-pokemon-go-world-and-we-are-just-living-in-it-20160711-column.html</link>
             <guid isPermaLink="false">6d50cc77-31cb-4b53-a203-2f7bffb875c9</guid>
             <pubDate>Mon, 11 Jul 2016 17:27:45 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/</link>
             <guid isPermaLink="false">4efe4708-9815-4763-abd9-7cabd6476ace</guid>
             <pubDate>Fri, 08 Jul 2016 10:14:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Europe's largest economy is resisting the new industrial revolution]]></title>
-            <description><![CDATA[<article><h1>Why Europe's largest economy is resisting the new industrial revolution</h1><p>Angela Merkel champions Industry 4.0, urging investment in new technology. German business isn't heeding the call. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0710bd1d369187402fc2a35645ca15dd/croprotate.jpg?cropheight=628&cropwidth=1181&degrees=0&input=http%3A%2F%2Fwww.politico.eu%2Fwp-content%2Fuploads%2F2016%2F06%2Ffactoryb-1200x628.jpg&x=9&y=0"></article>]]></description>
-            <link>http://www.politico.eu/article/why-europes-largest-economy-resists-new-industrial-revolution-factories-of-the-future-special-report/?utm_content=bufferd4822&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
-            <guid isPermaLink="false">7bfa7995-22a9-4639-a35f-23a18bfa4700</guid>
-            <pubDate>Thu, 07 Jul 2016 14:57:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
