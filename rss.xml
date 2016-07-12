@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 17:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 17:55:17 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frank The Vandal]]></title>
+            <description><![CDATA[<article><h1>Frank The Vandal</h1><p>The Macintosh came out five years ago, and I seem to have had the builders in my house for almost that long. Someone asked me the other day what they were doing and I explained that I had been trying to pluck up the courage to ask them that myself.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f33cb1d7cf528e6ed12fed461c81db2f/noop.jpg?input=http%3A%2F%2Fdouglasadams.s3-website-eu-west-1.amazonaws.com%2Fimages%2Fdefault.jpg"></article>]]></description>
+            <link>http://www.douglasadams.com/dna/980707-00-a.html</link>
+            <guid isPermaLink="false">5952081e-5888-4366-a4d1-c678e2075568</guid>
+            <pubDate>Tue, 12 Jul 2016 17:55:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[VentuSky, Weather Maps]]></title>
@@ -68,13 +75,6 @@
             <link>https://eager.io/blog/the-history-of-the-url-domain-and-protocol/</link>
             <guid isPermaLink="false">26a2018b-e1c6-4fb6-ad38-8ef7cf2c2448</guid>
             <pubDate>Fri, 08 Jul 2016 22:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[References for "The Future of Programming"]]></title>
-            <description><![CDATA[<article><h1>References for "The Future of Programming"</h1><p>I gave a talk at the DBX conference called The Future of Programming . Below are links and quotes from some primary sources I used, as well as links to wikipedia and elsewhere where you can learn more. Much of the overall message and style of the talk was inspired by Alan Kay.</p></article>]]></description>
-            <link>http://worrydream.com/dbx/</link>
-            <guid isPermaLink="false">0513af04-574c-4232-b49b-6278b7cdf5da</guid>
-            <pubDate>Fri, 08 Jul 2016 17:13:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
