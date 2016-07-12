@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 15:56:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 17:17:07 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VentuSky, Weather Maps]]></title>
+            <description><![CDATA[<article><h1>VentuSky, Weather Maps</h1><p>Animated wind, rain and temperature maps, detailed forecast for your place, data from the best weather forecast models such as GFS, ICON, GEM</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/53e5749d8d07a599dfe5c2af7b8b673b/noop.jpg?input=http%3A%2F%2Fwww.ventusky.com%2Fimages%2Fsocial.jpg"></article>]]></description>
+            <link>http://www.ventusky.com/?p=47.398;9.272;4&amp;l=wind&amp;t=20160712/17</link>
+            <guid isPermaLink="false">64fbee50-c87d-4850-862f-48c3bce2e4d4</guid>
+            <pubDate>Tue, 12 Jul 2016 17:17:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Polynesian trade networks may have persisted for centuries]]></title>
@@ -68,13 +75,6 @@
             <link>http://worrydream.com/dbx/</link>
             <guid isPermaLink="false">0513af04-574c-4232-b49b-6278b7cdf5da</guid>
             <pubDate>Fri, 08 Jul 2016 17:13:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The tyranny of messaging and notifications]]></title>
-            <description><![CDATA[<article><h1>The tyranny of messaging and notifications</h1><p>Up until just a few years ago, I got around 350 emails a day, which presented me with an exhausting, time-consuming daily task that I grumbled about plenty. Now, because of social media and messaging services, that number has been cut by more than half. But things are actually worse.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bf76b90f3be61880d53f10c327758112/noop.jpg?input=https%3A%2F%2Fcdn2.vox-cdn.com%2Fthumbor%2F_PDhfGShkgY5uSmjTDQM_yMSc9M%3D%2F0x0%3A2040x1148%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50034231%2Fgoogle-allo-vpavic-verge-1.0.0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/7/6/12102874/walt-mossberg-messaging-notifications</link>
-            <guid isPermaLink="false">e7aaf60f-4978-4663-8b9c-d0b0eca9ea5d</guid>
-            <pubDate>Fri, 08 Jul 2016 15:02:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
