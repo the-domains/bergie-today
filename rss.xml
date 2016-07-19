@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 18:53:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 19:03:50 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -14,6 +14,13 @@
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Exploring the Physical Web (Without Buying Beacons)]]></title>
+            <description><![CDATA[<article><h1>Exploring the Physical Web (Without Buying Beacons)</h1><p>Not convinced this is the future? Well think about this: what if you were giving a presentation, and could bring along a beacon that sent out a link to download the slides for your presentation? Or what if you owned a sandwich shop and wanted customers to easily access a link to the mobile app for online ordering you spent so much time building?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e44ee34207c537c32230f94037f1d27b/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*7xJC9sVvvYFo1y89MYfvPQ.jpeg"></article>]]></description>
+            <link>https://medium.com/@urish/exploring-the-physical-web-without-buying-beacons-efae51e36c2e#.8n83p212g</link>
+            <guid isPermaLink="false">6c8fb1e3-c500-4685-ac27-8405cb24d765</guid>
+            <pubDate>Tue, 19 Jul 2016 19:03:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Power of Mobile.]]></title>
             <description><![CDATA[<article><h1>Power of Mobile.</h1><p>Most of us use our mobile devices to read, watch and post on the web and social media. Yet, when it comes to creating and updating our own websites, we have to use a desktop browser. In fact, almost everything related to the web today is driven from mobile devices except for creating or updating websites.
 
@@ -21,13 +28,6 @@ How does this make sense?</p></article>]]></description>
             <link>http://blog.thegrid.io/power-of-mobile/index.html</link>
             <guid isPermaLink="false">74c94c16-ad33-4fe2-8135-7232ad753b42</guid>
             <pubDate>Tue, 19 Jul 2016 18:53:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exploring the Physical Web (Without Buying Beacons)]]></title>
-            <description><![CDATA[<article><h1>Exploring the Physical Web (Without Buying Beacons)</h1><p>Not convinced this is the future? Well think about this: what if you were giving a presentation, and could bring along a beacon that sent out a link to download the slides for your presentation? Or what if you owned a sandwich shop and wanted customers to easily access a link to the mobile app for online ordering you spent so much time building?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e44ee34207c537c32230f94037f1d27b/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*7xJC9sVvvYFo1y89MYfvPQ.jpeg"></article>]]></description>
-            <link>http://bergie.today/exploring-the-physical-web-without-buying-beacons/index.html</link>
-            <guid isPermaLink="false">6c8fb1e3-c500-4685-ac27-8405cb24d765</guid>
-            <pubDate>Tue, 19 Jul 2016 17:20:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Surprising Ease of Plain Text Accounting]]></title>
