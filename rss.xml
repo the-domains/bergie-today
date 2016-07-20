@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 19:03:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 09:56:08 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When a crow dies, the other crows investigate the cause of death]]></title>
+            <description><![CDATA[<article><h1>When a crow dies, the other crows investigate the cause of death</h1><p>Many who have heard the melancholy cry of the mourning dove might wonder: Do birds grieve for their loved ones? For this Saturday's Weird Animal Question of the Week Emilie Bouef commented via Facebook: "I heard that ravens do some kind of funeral when one of them dies. I’d love to know more about this."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e6038621c7a4f6f3b5e5e7d793a09fc9/noop.jpg?input=http%3A%2F%2Fnews.nationalgeographic.com%2Fcontent%2Fdam%2Fnews%2F2015%2F10%2F02%2Fcrowmourning%2F01crowmourning.ngsversion.1443879000523.jpg"></article>]]></description>
+            <link>http://news.nationalgeographic.com/2015/10/151003-animals-science-crows-birds-culture-brains/</link>
+            <guid isPermaLink="false">6df1658b-3190-4b49-80e0-6b985d2ef8d9</guid>
+            <pubDate>Wed, 20 Jul 2016 09:56:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Exploring the Physical Web (Without Buying Beacons)]]></title>
@@ -70,13 +77,6 @@ How does this make sense?</p></article>]]></description>
             <link>https://www.stilldrinking.org/the-search-for-the-hitchhiker-s-guide-as-read-by-stephen-moore</link>
             <guid isPermaLink="false">f394e6f9-7866-4774-a34d-577112e71a14</guid>
             <pubDate>Mon, 18 Jul 2016 12:43:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Save the Internet in Europe]]></title>
-            <description><![CDATA[<article><h1>Save the Internet in Europe</h1><p>European Regulators are about to decide whether to give big telecoms corporations the power to influence what we can (and can't) do online. Europe urgently needs clear net neutrality guidelines to protect our freedoms and rights online. Join the movement, take action now!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/15dfef1b7219b26d55f47bb4ed199d27/noop.png?input=https%3A%2F%2Fsavetheinternet.eu%2Fimages%2Fsave_the_internet_logo_headline_sharing.png"></article>]]></description>
-            <link>https://savetheinternet.eu/en/</link>
-            <guid isPermaLink="false">75099f57-17cf-4d12-9fe7-153dc1e942f6</guid>
-            <pubDate>Mon, 18 Jul 2016 05:41:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
