@@ -1,13 +1,13 @@
 ---
 author:
   - name: Liz Langley
-dateModified: '2016-07-20T11:28:54.583Z'
-datePublished: '2016-07-20T11:29:06.156Z'
+dateModified: '2016-07-21T18:29:44.457Z'
+datePublished: '2016-07-21T18:30:00.435Z'
 description: >-
   Many who have heard the melancholy cry of the mourning dove might wonder: Do
   birds grieve for their loved ones? For this Saturday's Weird Animal Question
-  of the Week Emilie Bouef commented: "I heard that ravens do some kind of
-  funeral when one of them dies. I’d love to know more about this."
+  of the Week Emilie Bouef commented via Facebook: "I heard that ravens do some
+  kind of funeral when one of them dies. I’d love to know more about this."
 inLanguage: en
 isBasedOnUrl: >-
   http://news.nationalgeographic.com/2015/10/151003-animals-science-crows-birds-culture-brains/
@@ -26,9 +26,12 @@ publisher:
   domain: news.nationalgeographic.com
   favicon: >-
     http://news.nationalgeographic.com/etc/designs/platform/v2/images/favicon.ico
-  name: National Geographic News
+  name: National Geographic
   url: 'http://news.nationalgeographic.com'
 title: 'When a crow dies, the other crows investigate the cause of death'
+via:
+  name: Hacker News
+  url: 'https://news.ycombinator.com/item?id=12126284'
 starred: false
 sourcePath: >-
   _posts/2016-07-20-when-a-crow-dies-the-other-crows-investigate-the-cause-of-d.md
@@ -39,4 +42,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e6038621c7a4f6f3b5e5e7d793a09fc9/noop.jpg?input=http%3A%2F%2Fnews.nationalgeographic.com%2Fcontent%2Fdam%2Fnews%2F2015%2F10%2F02%2Fcrowmourning%2F01crowmourning.ngsversion.1443879000523.jpg" /><h1>When a crow dies, the other crows investigate the cause of death</h1><p>Many who have heard the melancholy cry of the mourning dove might wonder: Do birds grieve for their loved ones? For this Saturday's Weird Animal Question of the Week Emilie Bouef commented: "I heard that ravens do some kind of funeral when one of them dies. I’d love to know more about this."</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e6038621c7a4f6f3b5e5e7d793a09fc9/noop.jpg?input=http%3A%2F%2Fnews.nationalgeographic.com%2Fcontent%2Fdam%2Fnews%2F2015%2F10%2F02%2Fcrowmourning%2F01crowmourning.ngsversion.1443879000523.jpg" /><h1>When a crow dies, the other crows investigate the cause of death</h1><p>Many who have heard the melancholy cry of the mourning dove might wonder: Do birds grieve for their loved ones? For this Saturday's Weird Animal Question of the Week Emilie Bouef commented via Facebook: "I heard that ravens do some kind of funeral when one of them dies. I’d love to know more about this."</p></article>
