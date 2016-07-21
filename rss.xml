@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 11:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 08:00:31 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The End of Microservices]]></title>
+            <description><![CDATA[<article><h1>The End of Microservices</h1><p>A post from the future, where building reliable and scalable production systems has become as easy as, well, writing any other software. Read on to see what the future looks like... Back in 2016, people wrote a lot about "microservices," sort of like how they wrote a lot about the "information superhighway" back in 1996.</p></article>]]></description>
+            <link>http://lightstep.com/blog/the-end-of-microservices/</link>
+            <guid isPermaLink="false">3f2e7662-eaa7-4bc3-969d-0f50275ccceb</guid>
+            <pubDate>Thu, 21 Jul 2016 08:00:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When a crow dies, the other crows investigate the cause of death]]></title>
@@ -70,13 +77,6 @@ How does this make sense?</p></article>]]></description>
             <link>http://www.theverge.com/2016/7/18/12208560/spacex-falcon-9-ground-landing-success</link>
             <guid isPermaLink="false">360be407-8cd8-4537-a935-ca52e5482e8b</guid>
             <pubDate>Mon, 18 Jul 2016 12:49:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Search for The Hitchhiker's Guide, as read by Stephen Moore]]></title>
-            <description><![CDATA[<article><h1>The Search for The Hitchhiker's Guide, as read by Stephen Moore</h1><p>"Garble yabble blarb bleg rrrrgurgle uurrgh yarlble gaaaarbl should have a good time" is one of my earliest memories. I was between three and seven: my brother may have existed at the time, but he didn't figure yet.</p></article>]]></description>
-            <link>https://www.stilldrinking.org/the-search-for-the-hitchhiker-s-guide-as-read-by-stephen-moore</link>
-            <guid isPermaLink="false">f394e6f9-7866-4774-a34d-577112e71a14</guid>
-            <pubDate>Mon, 18 Jul 2016 12:43:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
