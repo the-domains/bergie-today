@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 18:30:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 17:31:55 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dear Google, the future is fewer people writing code]]></title>
+            <description><![CDATA[<article><h1>Dear Google, the future is fewer people writing code</h1><p>Google recently launched Project Bloks - a "platform" that will enable developers, educators and designers to work together in order to build "physical programming experiences" for children. This actually has the potential to be a great educational tool - but not in the way Google presents it (or at least not in the way it's being written about).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/99b4aa8eb23ca5c14cb02583212c7854/noop?input=https%3A%2F%2Ftctechcrunch2011.files.wordpress.com%2F2016%2F07%2Fgettyimages-519092682.jpg%26h%3D400%26crop%3D1"></article>]]></description>
+            <link>https://techcrunch.com/2016/07/22/dear-google-the-future-is-fewer-people-writing-code/</link>
+            <guid isPermaLink="false">5fa8aafa-9035-4a1a-abc1-ca5f17c1df5c</guid>
+            <pubDate>Fri, 22 Jul 2016 17:31:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When a crow dies, the other crows investigate the cause of death]]></title>
@@ -70,13 +77,6 @@ How does this make sense?</p></article>]]></description>
             <link>http://arstechnica.co.uk/tech-policy/2016/07/tim-berners-lee-manipulative-tactics-of-telcos-net-neutrality/</link>
             <guid isPermaLink="false">68a47af7-4c00-42c7-a28d-1587bb69adfe</guid>
             <pubDate>Mon, 18 Jul 2016 19:26:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX successfully lands Falcon 9 rocket on solid ground for the second time]]></title>
-            <description><![CDATA[<article><h1>SpaceX successfully lands Falcon 9 rocket on solid ground for the second time</h1><p>SpaceX has successfully landed another Falcon 9 rocket after launching the vehicle into space this evening from Cape Canaveral, Florida. Shortly after takeoff, the vehicle touched down at SpaceX's Landing Zone 1 - a ground-based landing site that the company leases at the Cape.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/95dd910f9973d12a69e3139b75dc7b90/noop.png?input=https%3A%2F%2Fcdn0.vox-cdn.com%2Fthumbor%2Fz6V6XpRX_74vNiCxybTc7UMHUD0%3D%2F279x331%3A1491x1013%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50139979%2FScreen_Shot_2016-07-18_at_12.54.48_AM.0.0.png"></article>]]></description>
-            <link>http://www.theverge.com/2016/7/18/12208560/spacex-falcon-9-ground-landing-success</link>
-            <guid isPermaLink="false">360be407-8cd8-4537-a935-ca52e5482e8b</guid>
-            <pubDate>Mon, 18 Jul 2016 12:49:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
