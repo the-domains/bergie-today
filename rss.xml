@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 18:01:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 17:27:45 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,20 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dollar Shave Club and The Disruption of Everything]]></title>
+            <description><![CDATA[<article><h1>Dollar Shave Club and The Disruption of Everything</h1><p>Probably the most important fact when it comes to analyzing Unilever's purchase of Dollar Shave Club is the $1 billion price: in the world of consumer packaged goods (CPG) it is shockingly low. After all, only eleven years ago Procter & Gamble (P&G) bought Gillette, the market leader in shaving, for a staggering $57 billion.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/784059d2e8c64b00bd439a40bd285e8f/noop.jpg?input=https%3A%2F%2Fs0.wp.com%2Fi%2Fblank.jpg"></article>]]></description>
+            <link>https://stratechery.com/2016/dollar-shave-club-and-the-disruption-of-everything/</link>
+            <guid isPermaLink="false">beb2acce-b454-4044-bb11-01b126dacd6f</guid>
+            <pubDate>Thu, 28 Jul 2016 17:27:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How yuppies hacked the original hacker ethos]]></title>
+            <description><![CDATA[<article><h1>How yuppies hacked the original hacker ethos</h1><p>Any large and alienating infrastructure controlled by a technocratic elite is bound to provoke. In particular, it will nettle those who want to know how it works, those who like the thrill of transgressing, and those who value the principle of open access.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/94158b9a95091fcb437cff2d5b2f2bb9/croprotate.jpg?cropheight=1251&cropwidth=2000&degrees=0&input=https%3A%2F%2Fnu.aeon.co%2Fimages%2Fb2cd38e8-ddea-4d54-9aff-d53f457ef1e1%2Fheader_00192327.jpg&x=0&y=0"></article>]]></description>
+            <link>https://aeon.co/essays/how-yuppies-hacked-the-original-hacker-ethos</link>
+            <guid isPermaLink="false">e4cfe79c-32e1-4751-b9b9-34086883e1e9</guid>
+            <pubDate>Thu, 28 Jul 2016 13:37:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Web Design in 4 minutes]]></title>
@@ -61,22 +75,6 @@
             <link>http://lightstep.com/blog/the-end-of-microservices/</link>
             <guid isPermaLink="false">3f2e7662-eaa7-4bc3-969d-0f50275ccceb</guid>
             <pubDate>Thu, 21 Jul 2016 08:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exploring the Physical Web (Without Buying Beacons)]]></title>
-            <description><![CDATA[<article><h1>Exploring the Physical Web (Without Buying Beacons)</h1><p>Not convinced this is the future? Well think about this: what if you were giving a presentation, and could bring along a beacon that sent out a link to download the slides for your presentation? Or what if you owned a sandwich shop and wanted customers to easily access a link to the mobile app for online ordering you spent so much time building?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e44ee34207c537c32230f94037f1d27b/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*7xJC9sVvvYFo1y89MYfvPQ.jpeg"></article>]]></description>
-            <link>https://medium.com/@urish/exploring-the-physical-web-without-buying-beacons-efae51e36c2e#.8n83p212g</link>
-            <guid isPermaLink="false">6c8fb1e3-c500-4685-ac27-8405cb24d765</guid>
-            <pubDate>Tue, 19 Jul 2016 19:03:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Power of Mobile.]]></title>
-            <description><![CDATA[<article><h1>Power of Mobile.</h1><p>Most of us use our mobile devices to read, watch and post on the web and social media. Yet, when it comes to creating and updating our own websites, we have to use a desktop browser. In fact, almost everything related to the web today is driven from mobile devices except for creating or updating websites.
-
-How does this make sense?</p></article>]]></description>
-            <link>http://blog.thegrid.io/power-of-mobile/index.html</link>
-            <guid isPermaLink="false">74c94c16-ad33-4fe2-8135-7232ad753b42</guid>
-            <pubDate>Tue, 19 Jul 2016 18:53:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
