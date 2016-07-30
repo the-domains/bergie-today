@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 21:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2016 20:20:03 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fact Follows Fiction: Real Bridges Based on Euro Banknote Artwork]]></title>
+            <description><![CDATA[<article><h1>Fact Follows Fiction: Real Bridges Based on Euro Banknote Artwork</h1><p>Currency notes of the world often feature famous figures and monuments, contemporary or historical, from their countries of origin. This is not so in the case of the Euro, for which series of fictional structures were selected instead.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b371c3befc23dd7b8f66006f8007669c/noop.jpg?input=http%3A%2F%2F99percentinvisible.org%2Fapp%2Fuploads%2F2016%2F03%2Fbank-note-bridges-728x395.jpg"></article>]]></description>
+            <link>http://99percentinvisible.org/article/fact-follows-fiction-real-bridges-based-euro-banknote-artwork/</link>
+            <guid isPermaLink="false">91e87112-83b1-4015-8798-63d389f069ef</guid>
+            <pubDate>Sat, 30 Jul 2016 20:19:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[iPad-only is the new desktop Linux]]></title>
@@ -68,13 +75,6 @@
             <link>http://gizmodo.com/pokemon-go-is-secretly-teaching-americans-the-metric-sy-1783459191</link>
             <guid isPermaLink="false">c93a0860-f5b3-480d-8b93-ee762e2ad441</guid>
             <pubDate>Mon, 25 Jul 2016 09:55:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When a crow dies, the other crows investigate the cause of death]]></title>
-            <description><![CDATA[<article><h1>When a crow dies, the other crows investigate the cause of death</h1><p>Many who have heard the melancholy cry of the mourning dove might wonder: Do birds grieve for their loved ones? For this Saturday's Weird Animal Question of the Week Emilie Bouef commented via Facebook: "I heard that ravens do some kind of funeral when one of them dies. I’d love to know more about this."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e6038621c7a4f6f3b5e5e7d793a09fc9/noop.jpg?input=http%3A%2F%2Fnews.nationalgeographic.com%2Fcontent%2Fdam%2Fnews%2F2015%2F10%2F02%2Fcrowmourning%2F01crowmourning.ngsversion.1443879000523.jpg"></article>]]></description>
-            <link>http://news.nationalgeographic.com/2015/10/151003-animals-science-crows-birds-culture-brains/</link>
-            <guid isPermaLink="false">6df1658b-3190-4b49-80e0-6b985d2ef8d9</guid>
-            <pubDate>Thu, 21 Jul 2016 18:30:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
