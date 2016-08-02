@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Aug 2016 15:52:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 08:06:59 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Solar Shed Summary: My Off Grid Office]]></title>
+            <description><![CDATA[<article><h1>Solar Shed Summary: My Off Grid Office</h1><p>A few months ago I moved to a few acres in the country, and needed somewhere to work - so I built myself a solar powered off grid office out of a Tuff-Shed Pro Studio! On one side, I've built a great desk corner with plenty of power and more than enough AC to keep me cool when it's over 100F out.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a3a8b44c3ca27ccdcbd32426b577fce3/noop.jpg?input=https%3A%2F%2F2.bp.blogspot.com%2F-DgN0CwUusX0%2FV3w7DotiULI%2FAAAAAAAAWSs%2FgMgUN3zwvlws0rwcbiAjQBMtQuAmCfs8wCKgB%2Fw1200-h630-p-nu%2FIMG_1637.JPG"></article>]]></description>
+            <link>https://syonyk.blogspot.de/2016/07/solar-shed-summary-my-off-grid-office.html?m=1</link>
+            <guid isPermaLink="false">c963676c-6c5b-4fea-aa06-a0bf3cc4aad9</guid>
+            <pubDate>Tue, 02 Aug 2016 08:06:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prototype Fund]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.occupiedmars.com/mars/2016/02/06/what-mars-means-to-us.html</link>
             <guid isPermaLink="false">381ee544-0a03-4e5f-9696-cd51f67f9f50</guid>
             <pubDate>Fri, 29 Jul 2016 14:08:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How yuppies hacked the original hacker ethos]]></title>
-            <description><![CDATA[<article><h1>How yuppies hacked the original hacker ethos</h1><p>Any large and alienating infrastructure controlled by a technocratic elite is bound to provoke. In particular, it will nettle those who want to know how it works, those who like the thrill of transgressing, and those who value the principle of open access.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/94158b9a95091fcb437cff2d5b2f2bb9/croprotate.jpg?cropheight=1251&cropwidth=2000&degrees=0&input=https%3A%2F%2Fnu.aeon.co%2Fimages%2Fb2cd38e8-ddea-4d54-9aff-d53f457ef1e1%2Fheader_00192327.jpg&x=0&y=0"></article>]]></description>
-            <link>https://aeon.co/essays/how-yuppies-hacked-the-original-hacker-ethos</link>
-            <guid isPermaLink="false">e4cfe79c-32e1-4751-b9b9-34086883e1e9</guid>
-            <pubDate>Thu, 28 Jul 2016 13:37:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
