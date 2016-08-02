@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 10:52:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 11:20:46 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TekGear Twiddler 3 keyboard review]]></title>
+            <description><![CDATA[<article><h1>TekGear Twiddler 3 keyboard review</h1><p>Every so often, some manufacturer announces their latest attempt at "revolutionizing" or improving upon the standard input device. I'm talking about mice and keyboards. It can be a very bold and complicated gamble. In the end, basic is generally better.</p></article>]]></description>
+            <link>http://www.technologytell.com/gadgets/158138/technologytell-review-tekgear-twiddler-3-keyboard/</link>
+            <guid isPermaLink="false">ef7c5283-6fb3-43ca-8b76-34d608e12fb2</guid>
+            <pubDate>Tue, 02 Aug 2016 11:20:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Headless Web]]></title>
@@ -68,13 +75,6 @@
             <link>http://99percentinvisible.org/article/fact-follows-fiction-real-bridges-based-euro-banknote-artwork/</link>
             <guid isPermaLink="false">91e87112-83b1-4015-8798-63d389f069ef</guid>
             <pubDate>Sat, 30 Jul 2016 20:19:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[iPad-only is the new desktop Linux]]></title>
-            <description><![CDATA[<article><h1>iPad-only is the new desktop Linux</h1><p>You like the iPad because it’s simple. But if you’re using the iPad as your primary computer, you may just like it because it’s a challenge.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/38f0c99161beedf4d2b1ea4f1ecb397b/noop.jpeg?input=https%3A%2F%2Fcdn-images-2.medium.com%2Fmax%2F2000%2F1*bBswg2Wvazm0KPEYjFQEcA.jpeg"></article>]]></description>
-            <link>https://medium.com/@chipotlecoyote/ipad-only-is-the-new-desktop-linux-de88b61b6d99#.s5mgq1vsh</link>
-            <guid isPermaLink="false">b17ff526-fb24-431e-bafb-c4ecf941796c</guid>
-            <pubDate>Fri, 29 Jul 2016 21:25:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
