@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 13:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 10:28:17 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brewster Kahle's call for a decentralized web]]></title>
+            <description><![CDATA[<article><h1>Brewster Kahle's call for a decentralized web</h1><p>Brewster Kahle, the Internet's most famous librarian and an inductee of the Internet Hall of Fame, believes that the time has come to build a better Web. The problem, he says, is that the Internet is no longer either private or secure.</p></article>]]></description>
+            <link>https://techcrunch.com/2016/08/07/innovate2016-brewster-kahles-call-for-a-decentralized-web/</link>
+            <guid isPermaLink="false">06909926-4522-4a6c-bc35-78de0293bcc7</guid>
+            <pubDate>Mon, 08 Aug 2016 10:28:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Test flight held for small jet modeled after Miyazaki's manga work]]></title>
@@ -70,13 +77,6 @@ All of these developments have something in common: The technology was first pop
             <link>https://paul.kinlan.me/the-headless-web/</link>
             <guid isPermaLink="false">417caa79-1a18-4cfa-a975-ef45286f8aa0</guid>
             <pubDate>Tue, 02 Aug 2016 10:52:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Solar Shed Summary: My Off Grid Office]]></title>
-            <description><![CDATA[<article><h1>Solar Shed Summary: My Off Grid Office</h1><p>A few months ago I moved to a few acres in the country, and needed somewhere to work - so I built myself a solar powered off grid office out of a Tuff-Shed Pro Studio! On one side, I've built a great desk corner with plenty of power and more than enough AC to keep me cool when it's over 100F out.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a3a8b44c3ca27ccdcbd32426b577fce3/noop.jpg?input=https%3A%2F%2F2.bp.blogspot.com%2F-DgN0CwUusX0%2FV3w7DotiULI%2FAAAAAAAAWSs%2FgMgUN3zwvlws0rwcbiAjQBMtQuAmCfs8wCKgB%2Fw1200-h630-p-nu%2FIMG_1637.JPG"></article>]]></description>
-            <link>https://syonyk.blogspot.de/2016/07/solar-shed-summary-my-off-grid-office.html?m=1</link>
-            <guid isPermaLink="false">c963676c-6c5b-4fea-aa06-a0bf3cc4aad9</guid>
-            <pubDate>Tue, 02 Aug 2016 08:06:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
