@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 16:07:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 16:08:04 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.inc.com/bzur-haun/work-productivity-without-laptop-phone.html</link>
             <guid isPermaLink="false">b4634c54-101d-4e20-b468-cda79392ca54</guid>
             <pubDate>Tue, 09 Aug 2016 16:07:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In Less Than Two Years, a Smartphone Could Be Your Only Computer]]></title>
+            <description><![CDATA[<article><h1>In Less Than Two Years, a Smartphone Could Be Your Only Computer</h1><p>With each passing season, another wave of mobile devices is released that's more capable and more powerful than the generation preceding it. We're at the point where anyone armed with a current model smartphone or tablet is able to handle almost all of their at-home-and even at-work-tasks without needing anything else.</p><img src="http://www.wired.com/wp-content/uploads/2015/02/iphone6-inline2.jpg"></article>]]></description>
+            <link>http://www.wired.com/2015/02/smartphone-only-computer/</link>
+            <guid isPermaLink="false">78331ff9-bfd0-420f-8633-0b3bb52a59e7</guid>
+            <pubDate>Tue, 09 Aug 2016 16:07:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Andromium's $99 Superbook Converts Your Android Smartphone Into a Laptop]]></title>
@@ -68,13 +75,6 @@
             <link>http://inessential.com/2013/03/14/why_i_love_rss_and_you_do_too</link>
             <guid isPermaLink="false">6d42b51d-8d36-4b6a-864b-3d383d461c04</guid>
             <pubDate>Thu, 04 Aug 2016 11:36:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Silicon Valley helps spread the same sterile aesthetic across the world]]></title>
-            <description><![CDATA[<article><h1>How Silicon Valley helps spread the same sterile aesthetic across the world</h1><p>I gor Schwarzmann is the German co-founder of Third Wave, a strategy consultancy based in Berlin that works with small-scale industrial manufacturers. The company's clients range across Europe, the United Kingdom, and the United States, so Schwarzmann often finds himself moving between poles of the global economy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9be08467d62461db1a4a347219b0548e/croprotate.jpg?cropheight=1164&cropwidth=1987&degrees=0&input=https%3A%2F%2Fcdn2.vox-cdn.com%2Fthumbor%2F6iDRcZgfZLzWhK6RKT9jCSw4Lmw%3D%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F6881197%2Fvrg_1170_airspace_01_FINAL.0.jpg&x=28&y=26"></article>]]></description>
-            <link>http://www.theverge.com/2016/8/3/12325104/airbnb-aesthetic-global-minimalism-startup-gentrification</link>
-            <guid isPermaLink="false">ca34a587-9929-40e6-abde-3f8b8ead79d9</guid>
-            <pubDate>Wed, 03 Aug 2016 16:34:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
