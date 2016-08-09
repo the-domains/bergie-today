@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 14:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 14:30:13 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who Saved The Web?]]></title>
+            <description><![CDATA[<article><h1>Who Saved The Web?</h1><p>We are drowning in dystopian visions of the Internet with attacks of privacy, free speech and personal security that were unthinkable only a decade ago. Someday, we will look back and ask: who saved the Web? And we will remember that it took a combination of enlightened educators, hackers and innovators, global activists, and determined policy makers to protect one of the most important and promising human creations of all time.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bb32c59fc7207d3780fe1ca0718fbaeb/noop.jpg?input=https%3A%2F%2Fwebwewant.org%2Fwp-content%2Fuploads%2F2016%2F08%2Fsaveweb_lab.jpg"></article>]]></description>
+            <link>https://webwewant.org/news/who-saved-the-web/</link>
+            <guid isPermaLink="false">e37f8b0f-3d20-4eb2-83d5-3883826a3a3e</guid>
+            <pubDate>Tue, 09 Aug 2016 14:30:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[XMPP: Swiss Army Knife for Internet of Things]]></title>
@@ -70,13 +77,6 @@ All of these developments have something in common: The technology was first pop
             <link>http://mobile.nytimes.com/2016/08/03/technology/china-mobile-tech-innovation-silicon-valley.html?_r=0&amp;referer=https://news.ycombinator.com/</link>
             <guid isPermaLink="false">13e90817-dc5b-4d5c-a208-68ae78440225</guid>
             <pubDate>Wed, 03 Aug 2016 10:32:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TekGear Twiddler 3 keyboard review]]></title>
-            <description><![CDATA[<article><h1>TekGear Twiddler 3 keyboard review</h1><p>Every so often, some manufacturer announces their latest attempt at "revolutionizing" or improving upon the standard input device. I'm talking about mice and keyboards. It can be a very bold and complicated gamble. In the end, basic is generally better.</p></article>]]></description>
-            <link>http://www.technologytell.com/gadgets/158138/technologytell-review-tekgear-twiddler-3-keyboard/</link>
-            <guid isPermaLink="false">ef7c5283-6fb3-43ca-8b76-34d608e12fb2</guid>
-            <pubDate>Tue, 02 Aug 2016 11:20:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
