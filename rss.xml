@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 15:31:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 16:07:30 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Year Without a Computer]]></title>
+            <description><![CDATA[<article><h1>A Year Without a Computer</h1><p>No laptop. No desktop. No landline. Sometimes, not even a desk. Could you succeed at every aspect of your job using just a smartphone or a tablet? That's what Benjamin Robbins set out to do this year when he decided to use just one device--in his case, a Samsung Galaxy Note "phablet"--for an entire year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6f16338b4551f064e2583db151151c3d/noop.jpg?input=http%3A%2F%2Fwww.incimages.com%2Fuploaded_files%2Fimage%2F970x450%2Ftablet-pano_20185.jpg"></article>]]></description>
+            <link>http://www.inc.com/bzur-haun/work-productivity-without-laptop-phone.html</link>
+            <guid isPermaLink="false">b4634c54-101d-4e20-b468-cda79392ca54</guid>
+            <pubDate>Tue, 09 Aug 2016 16:07:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Andromium's $99 Superbook Converts Your Android Smartphone Into a Laptop]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/8/3/12325104/airbnb-aesthetic-global-minimalism-startup-gentrification</link>
             <guid isPermaLink="false">ca34a587-9929-40e6-abde-3f8b8ead79d9</guid>
             <pubDate>Wed, 03 Aug 2016 16:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Dwarf Fortress Taught Me About Startups]]></title>
-            <description><![CDATA[<article><h1>What Dwarf Fortress Taught Me About Startups</h1><p>Dwarf Fortress, ostensibly a computer game, is perhaps one of my favorite examples of weirdware. By default the game is difficult, inscrutable, and yet completely and totally addictive. The default graphics are ASCII art, the interface is all keyboard shortcuts and menus, and the gameplay is brutally difficult.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da1e0e7fa82f6243dd273537bf31d1500e423fd7.png"></article>]]></description>
-            <link>https://blog.opsee.com/what-dwarf-fortress-taught-me-about-startups-30800ea98324#.n8sq4pqte</link>
-            <guid isPermaLink="false">c41d3774-bf08-4509-8919-877c97bd6bff</guid>
-            <pubDate>Wed, 03 Aug 2016 15:46:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
