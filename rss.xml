@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 16:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 16:25:15 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The connected renter: How to make your apartment smarter]]></title>
+            <description><![CDATA[<article><h1>The connected renter: How to make your apartment smarter</h1><p>Name a home appliance or product, and there's probably a smart version of it today. But for the renters among us, it can be tricky to navigate the aisles of smart light bulbs, thermostats, air conditioners, and vacuums to pick out devices that won't jeopardize your security deposit.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/11a4bd875907f92e0cafb45086c07f45/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fsmartapartment_hero5-980x713.jpg"></article>]]></description>
+            <link>http://arstechnica.com/gadgets/2016/08/the-connected-renter-how-to-make-your-apartment-smarter/</link>
+            <guid isPermaLink="false">c06c33ea-700f-491a-8395-ac82c929046a</guid>
+            <pubDate>Wed, 10 Aug 2016 16:25:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Year Without a Computer]]></title>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[In Less Than Two Years, a Smartphone Could Be Your Only Computer]]></title>
-            <description><![CDATA[<article><h1>In Less Than Two Years, a Smartphone Could Be Your Only Computer</h1><p>With each passing season, another wave of mobile devices is released that's more capable and more powerful than the generation preceding it. We're at the point where anyone armed with a current model smartphone or tablet is able to handle almost all of their at-home-and even at-work-tasks without needing anything else.</p><img src="http://www.wired.com/wp-content/uploads/2015/02/iphone6-inline2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>In Less Than Two Years, a Smartphone Could Be Your Only Computer</h1><p>With each passing season, another wave of mobile devices is released that's more capable and more powerful than the generation preceding it. We're at the point where anyone armed with a current model smartphone or tablet is able to handle almost all of their at-home-and even at-work-tasks without needing anything else.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7216e5283fd17d9dfdc24f2001bb47aa/noop.jpg?input=http%3A%2F%2Fwww.wired.com%2Fwp-content%2Fuploads%2F2015%2F02%2Fiphone6-inline2.jpg"></article>]]></description>
             <link>http://www.wired.com/2015/02/smartphone-only-computer/</link>
             <guid isPermaLink="false">78331ff9-bfd0-420f-8633-0b3bb52a59e7</guid>
             <pubDate>Tue, 09 Aug 2016 16:07:26 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://agravem.github.io/2016/08/03/what-your-backend-could-learn-from-redux.html</link>
             <guid isPermaLink="false">fbe5f0db-454f-4d83-a372-e68f1c54e02b</guid>
             <pubDate>Thu, 04 Aug 2016 13:59:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I love RSS and You Do Too]]></title>
-            <description><![CDATA[<article><h1>Why I love RSS and You Do Too</h1><p>Even if you don't use an RSS reader, you still use RSS. If you subscribe to any podcasts, you use RSS. Flipboard and Twitter are RSS readers, even if it's not obvious and they do other things besides. Lots of apps on the various app stores use RSS in at least some way.</p></article>]]></description>
-            <link>http://inessential.com/2013/03/14/why_i_love_rss_and_you_do_too</link>
-            <guid isPermaLink="false">6d42b51d-8d36-4b6a-864b-3d383d461c04</guid>
-            <pubDate>Thu, 04 Aug 2016 11:36:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
