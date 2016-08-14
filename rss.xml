@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 13:55:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2016 13:56:38 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,13 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[iPad Unfinished Business]]></title>
+            <description><![CDATA[<article><h1>iPad Unfinished Business</h1><p>The iPad really is a strange animal, wanting to be both a dead-simple tablet, successfully so, and trying to replace PCs, less felicitously. From day one, Steve Jobs knew this to be an open question, one the newer iPad Pros attempt to answer as they "fork" the iPad line.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2e19d292cb64bc5b1be6d66ce1e5c2dd/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*kf9Bf-PvASh00yLchgmNbA.jpeg"></article>]]></description>
+            <link>https://mondaynote.com/ipad-unfinished-business-7c878a9e5122#.57utmqu8e</link>
+            <guid isPermaLink="false">d9ab69f2-45f1-4109-9beb-3c2c77b4f07a</guid>
+            <pubDate>Sun, 14 Aug 2016 13:56:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mobile Phone As Home Computer]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.xda-developers.com/andromiums-99-superbook-converts-your-android-smartphone-into-a-laptop/</link>
             <guid isPermaLink="false">08035e8b-d401-4685-9e34-59d142de36c8</guid>
             <pubDate>Tue, 09 Aug 2016 15:31:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who Saved The Web?]]></title>
-            <description><![CDATA[<article><h1>Who Saved The Web?</h1><p>We are drowning in dystopian visions of the Internet with attacks of privacy, free speech and personal security that were unthinkable only a decade ago. Someday, we will look back and ask: who saved the Web? And we will remember that it took a combination of enlightened educators, hackers and innovators, global activists, and determined policy makers to protect one of the most important and promising human creations of all time.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bb32c59fc7207d3780fe1ca0718fbaeb/noop.jpg?input=https%3A%2F%2Fwebwewant.org%2Fwp-content%2Fuploads%2F2016%2F08%2Fsaveweb_lab.jpg"></article>]]></description>
-            <link>https://webwewant.org/news/who-saved-the-web/</link>
-            <guid isPermaLink="false">e37f8b0f-3d20-4eb2-83d5-3883826a3a3e</guid>
-            <pubDate>Tue, 09 Aug 2016 14:30:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
