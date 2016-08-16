@@ -4,7 +4,7 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 13:56:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 10:29:37 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
@@ -12,6 +12,20 @@
             <link>http://the-grid-user-content.s3-us-west-2.amazonaws.com/284f8b46-708f-46c6-a83c-2d85988b096c.jpg</link>
             <guid isPermaLink="false">2b68871f-7afb-46c3-a8cd-ac5e3d68e126</guid>
             <pubDate>Tue, 05 Apr 2016 10:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We're Bullish on AMP]]></title>
+            <description><![CDATA[<article><h1>We're Bullish on AMP</h1><p>Google is now planning to show AMP links everywhere in its mobile search results — that is to say, in a place that probably drives a lot of traffic to your site. Wherever there’s an AMP page, Google will display it in the result (with an accompanying AMP lightning bolt)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/77a6e6b7d0415ad6e08ab9d00de995cd/noop.png?input=https%3A%2F%2Fd262ilb51hltx0.cloudfront.net%2Fmax%2F1200%2F1*kTGh-sxMGjr2glWS37pwpQ.png"></article>]]></description>
+            <link>https://trackchanges.postlight.com/were-bullish-on-amp-abfc6e1f10a1#.move5sf7v</link>
+            <guid isPermaLink="false">9b3f1a26-183d-40d8-ab23-5df711f87239</guid>
+            <pubDate>Tue, 16 Aug 2016 10:29:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[25 years of HyperCard-the missing link to the Web]]></title>
+            <description><![CDATA[<article><h1>25 years of HyperCard-the missing link to the Web</h1><p>Sometime around 1988, my landlady and I cut a deal. She would purchase a Macintosh computer, I would buy an external hard drive, and we would leave the system in the living room to share. She used the device most, since I did my computing on an IBM 286 and just wanted to keep up with Apple developments.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ad0b31369c0cd6b1f1f2f9e324a25608/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2F%2Fwp-content%2Fuploads%2F2012%2F05%2Fhypercard-disks.jpg"></article>]]></description>
+            <link>http://arstechnica.com/apple/2012/05/25-years-of-hypercard-the-missing-link-to-the-web/</link>
+            <guid isPermaLink="false">12e0d6d7-c7eb-480d-ac59-c1b0c32b0310</guid>
+            <pubDate>Tue, 16 Aug 2016 10:28:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[iPad Unfinished Business]]></title>
@@ -61,20 +75,6 @@
             <link>http://www.inc.com/bzur-haun/work-productivity-without-laptop-phone.html</link>
             <guid isPermaLink="false">b4634c54-101d-4e20-b468-cda79392ca54</guid>
             <pubDate>Tue, 09 Aug 2016 16:07:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Less Than Two Years, a Smartphone Could Be Your Only Computer]]></title>
-            <description><![CDATA[<article><h1>In Less Than Two Years, a Smartphone Could Be Your Only Computer</h1><p>With each passing season, another wave of mobile devices is released that's more capable and more powerful than the generation preceding it. We're at the point where anyone armed with a current model smartphone or tablet is able to handle almost all of their at-home-and even at-work-tasks without needing anything else.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7216e5283fd17d9dfdc24f2001bb47aa/noop.jpg?input=http%3A%2F%2Fwww.wired.com%2Fwp-content%2Fuploads%2F2015%2F02%2Fiphone6-inline2.jpg"></article>]]></description>
-            <link>http://www.wired.com/2015/02/smartphone-only-computer/</link>
-            <guid isPermaLink="false">78331ff9-bfd0-420f-8633-0b3bb52a59e7</guid>
-            <pubDate>Tue, 09 Aug 2016 16:07:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andromium's $99 Superbook Converts Your Android Smartphone Into a Laptop]]></title>
-            <description><![CDATA[<article><h1>Andromium's $99 Superbook Converts Your Android Smartphone Into a Laptop</h1><p>Every now and then, Kickstarter tends to give us products and ideas which are received brilliantly by the crowd. These products offer simple and practical solutions, and the audience very obviously votes them to success with their wallets. One such product is Andromium's Superbook.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c013d67b7d869ce47c691b99767bfb1b/noop.png?input=http%3A%2F%2Fwww1-lw.xda-cdn.com%2Ffiles%2F2016%2F07%2FPress-Image-1920x1080-8.-Superbook-Starts-at-99-on-Kickstarter.png"></article>]]></description>
-            <link>http://www.xda-developers.com/andromiums-99-superbook-converts-your-android-smartphone-into-a-laptop/</link>
-            <guid isPermaLink="false">08035e8b-d401-4685-9e34-59d142de36c8</guid>
-            <pubDate>Tue, 09 Aug 2016 15:31:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
