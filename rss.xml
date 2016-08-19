@@ -4,8 +4,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 19:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 20:30:15 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We Need to Literally Declare War on Climate Change]]></title>
+            <description><![CDATA[<article><h1>We Need to Literally Declare War on Climate Change</h1><p>We're under attack from climate change-and our only hope is to mobilize like we did in WWII. Illustrations by Andrew Colin Beck In the North this summer, a devastating offensive is underway. Enemy forces have seized huge swaths of territory; with each passing week, another 22,000 square miles of Arctic ice disappears.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ffe5e448d9a265998aac42537434c276/noop.jpeg?input=https%3A%2F%2Fimages.newrepublic.com%2Ffe023898e7f65b65e8a3c685d65e3f48e96d8356.jpeg%3Fw%3D1109%26h%3D577%26crop%3Dfaces%26fit%3Dcrop%26fm%3Djpg"></article>]]></description>
+            <link>https://newrepublic.com/article/135684/declare-war-climate-change-mobilize-wwii</link>
+            <guid isPermaLink="false">e6ee1c29-05f1-4d96-b2f8-29eeac568a29</guid>
+            <pubDate>Fri, 19 Aug 2016 20:30:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DNA revelations from Ötzi the Iceman's leather and furs]]></title>
             <description><![CDATA[<article><h1>DNA revelations from Ötzi the Iceman's leather and furs</h1><p>For the past two decades, scientists have analyzed every minute detail of Ötzi, a 5,300-year-old natural mummy found in the ice of the Italian Ötztal Alps. But one remaining mystery was the provenance of his clothing, made from leather and fur.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0a7780d02cb96019d2a5c99e8c39c5ed/noop.png?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2FPicture1-1024x683-640x427.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://trackchanges.postlight.com/were-bullish-on-amp-abfc6e1f10a1#.move5sf7v</link>
             <guid isPermaLink="false">9b3f1a26-183d-40d8-ab23-5df711f87239</guid>
             <pubDate>Tue, 16 Aug 2016 10:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[25 years of HyperCard-the missing link to the Web]]></title>
-            <description><![CDATA[<article><h1>25 years of HyperCard-the missing link to the Web</h1><p>Sometime around 1988, my landlady and I cut a deal. She would purchase a Macintosh computer, I would buy an external hard drive, and we would leave the system in the living room to share. She used the device most, since I did my computing on an IBM 286 and just wanted to keep up with Apple developments.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ad0b31369c0cd6b1f1f2f9e324a25608/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2F%2Fwp-content%2Fuploads%2F2012%2F05%2Fhypercard-disks.jpg"></article>]]></description>
-            <link>http://arstechnica.com/apple/2012/05/25-years-of-hypercard-the-missing-link-to-the-web/</link>
-            <guid isPermaLink="false">12e0d6d7-c7eb-480d-ac59-c1b0c32b0310</guid>
-            <pubDate>Tue, 16 Aug 2016 10:28:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
