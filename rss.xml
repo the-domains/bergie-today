@@ -4,8 +4,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 15:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 19:11:14 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DNA revelations from Ötzi the Iceman's leather and furs]]></title>
+            <description><![CDATA[<article><h1>DNA revelations from Ötzi the Iceman's leather and furs</h1><p>For the past two decades, scientists have analyzed every minute detail of Ötzi, a 5,300-year-old natural mummy found in the ice of the Italian Ötztal Alps. But one remaining mystery was the provenance of his clothing, made from leather and fur.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0a7780d02cb96019d2a5c99e8c39c5ed/noop.png?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2FPicture1-1024x683-640x427.png"></article>]]></description>
+            <link>http://arstechnica.com/science/2016/08/dna-revelations-from-otze-the-icemans-leather-and-furs/</link>
+            <guid isPermaLink="false">9ba2a24f-1169-4c73-bbe6-defe431e2ee3</guid>
+            <pubDate>Fri, 19 Aug 2016 19:11:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Selecting A Boat for Offshore Cruising]]></title>
             <description><![CDATA[<article><h1>Selecting A Boat for Offshore Cruising</h1><p>Before starting the boat selection process, it is imperative to find out if you really like sailing and are comfortable living aboard. If you aren't yet an accomplished sailor, consider a live-aboard cruising instruction course such as Offshore Sailing School's Fast Track to Cruising. As many coastal sailors do not enjoy oceans passages complete an offshore passage to ensure you do. Time spent offshore will quickly clarify your priorities for boat selection and equipment plus generally satisfies the prerequisite for obtaining offshore insurance for your future boat.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8616d6528122d64fb71495e6010a568a/noop.jpg?input=http%3A%2F%2Fwww.mahina.com%2Fgraphics%2Fclip_image007.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/apple/2012/05/25-years-of-hypercard-the-missing-link-to-the-web/</link>
             <guid isPermaLink="false">12e0d6d7-c7eb-480d-ac59-c1b0c32b0310</guid>
             <pubDate>Tue, 16 Aug 2016 10:28:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[iPad Unfinished Business]]></title>
-            <description><![CDATA[<article><h1>iPad Unfinished Business</h1><p>The iPad really is a strange animal, wanting to be both a dead-simple tablet, successfully so, and trying to replace PCs, less felicitously. From day one, Steve Jobs knew this to be an open question, one the newer iPad Pros attempt to answer as they "fork" the iPad line.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2e19d292cb64bc5b1be6d66ce1e5c2dd/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*kf9Bf-PvASh00yLchgmNbA.jpeg"></article>]]></description>
-            <link>https://mondaynote.com/ipad-unfinished-business-7c878a9e5122#.57utmqu8e</link>
-            <guid isPermaLink="false">d9ab69f2-45f1-4109-9beb-3c2c77b4f07a</guid>
-            <pubDate>Sun, 14 Aug 2016 13:56:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
