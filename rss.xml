@@ -4,8 +4,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 14:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 19:15:55 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Cuban CDN]]></title>
+            <description><![CDATA[<article><h1>The Cuban CDN</h1><p>On a recent trip to Cuba I brought with me a smartphone and hoped to get Internet access either via WiFi or 3G. I managed that (at a price) but also saw for myself how Cubans get access to an alternate Internet delivered by sneakernet. Cuba is currently poorly served</p></article>]]></description>
+            <link>https://blog.cloudflare.com/the-cuban-cdn/</link>
+            <guid isPermaLink="false">dff88ab1-5b2f-41bd-8a08-53ceadddc869</guid>
+            <pubDate>Mon, 22 Aug 2016 19:15:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Internet of Poorly Working Things]]></title>
             <description><![CDATA[<article><h1>The Internet of Poorly Working Things</h1><p>It was twenty years ago this month that the cover of the adorably geeky Boardwatch Magazine, a journal dedicated to the world of Bulletin Board Systems ( BBS, remember them?), featured bearded professor Vint Cerf, the grandfather of the Internet: Cerf's pithy IP On Everything prophecy was simple, resonant, and inexorable: All objects in our lives will someday feature an IP Stack.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/987bb2e520e94a539970dffc01035854/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F800%2F1*ImPDKdHGgW9txFyyR77FQg.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://motherboard.vice.com/read/july-hottest-noaa-nasa-climate-environment-global</link>
             <guid isPermaLink="false">78a85a61-a9db-4fa9-b363-97f861f4d01e</guid>
             <pubDate>Thu, 18 Aug 2016 19:12:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The glorious Galaxy Note 7 is what happens when a company isn't afraid to go crazy]]></title>
-            <description><![CDATA[<article><h1>The glorious Galaxy Note 7 is what happens when a company isn't afraid to go crazy</h1><p>Galaxy Note 7 reviews have hit the internet this week and the consensus among them is that it might be the best designed smartphone ever. Today I got my hands on this precious new device, and my skepticism has quickly morphed into geeky reverence for the sheer brilliance, unfailing symmetry, and outrageous efficiency of the Note 7's design.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b0811a2f97772cacdb7e50d402531e84/noop.jpg?input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fthumbor%2FqrVRiDCbKt_CGAEufqENUAmg77c%3D%2F0x107%3A2039x1254%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50421489%2Fjbareham_160811_1180_B_0045.0.0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/8/17/12516708/samsung-galaxy-note-7-design-curved-display</link>
-            <guid isPermaLink="false">8b8ef817-04e1-4793-8cda-2a9ef33a8543</guid>
-            <pubDate>Thu, 18 Aug 2016 09:39:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
