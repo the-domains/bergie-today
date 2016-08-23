@@ -4,8 +4,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 19:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 10:22:21 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The First and Last 'One-to-One' Device]]></title>
+            <description><![CDATA[<article><h1>The First and Last 'One-to-One' Device</h1><p>Will nothing ever touch the scale of the smartphone? To me, the most interesting part of Apple's recent press blitz was how in sync everyone was about one point in particular: that the company is unlikely to find another iPhone. Both Tim Cook and Eddy Cue stated this pretty directly in their respective interviews.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e33e7e8c724fb978a44ca5baa861ca24/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*00wuadtJ4eQCCVvVXZzMVw.jpeg"></article>]]></description>
+            <link>https://500ish.com/the-first-and-last-one-to-one-device-ea4487dcdef2#.b6thrz75w</link>
+            <guid isPermaLink="false">d531f6b1-2cf5-4845-9dfe-569d6764ca0a</guid>
+            <pubDate>Tue, 23 Aug 2016 10:22:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Cuban CDN]]></title>
             <description><![CDATA[<article><h1>The Cuban CDN</h1><p>On a recent trip to Cuba I brought with me a smartphone and hoped to get Internet access either via WiFi or 3G. I managed that (at a price) but also saw for myself how Cubans get access to an alternate Internet delivered by sneakernet. Cuba is currently poorly served</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/</link>
             <guid isPermaLink="false">e6cdc12b-a5c5-4f09-94f6-fd69e0a8bff6</guid>
             <pubDate>Thu, 18 Aug 2016 19:14:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Every Month This Year Has Been the Hottest in Recorded History]]></title>
-            <description><![CDATA[<article><h1>Every Month This Year Has Been the Hottest in Recorded History</h1><p>Despite the cruise ship that's now plowing through a melting Arctic, or the wildfires that have consumed parts of North America, and devastating drought that's stricken in East Africa, it can still be easy to ignore sometimes that our climate is rapidly changing.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c73bfb30970f4c2fbd034494ad6c8805/noop.png?input=http%3A%2F%2Fmotherboard-images.vice.com%2Fcontent-images%2Farticle%2Fno-id%2F1471455855970298.png"></article>]]></description>
-            <link>http://motherboard.vice.com/read/july-hottest-noaa-nasa-climate-environment-global</link>
-            <guid isPermaLink="false">78a85a61-a9db-4fa9-b363-97f861f4d01e</guid>
-            <pubDate>Thu, 18 Aug 2016 19:12:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
