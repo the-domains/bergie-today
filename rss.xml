@@ -4,8 +4,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 10:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 11:41:37 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SpaceX's Elon Musk Set to Unveil Master Plan for Mars in September]]></title>
+            <description><![CDATA[<article><h1>SpaceX's Elon Musk Set to Unveil Master Plan for Mars in September</h1><p>SpaceX founder, CEO and lead designer Elon Musk is unveiling his humans-to-Mars plan at next month's 67th International Astronautical Congress (IAC), to be held in Guadalajara, Mexico. The world space meeting runs from Sept. 26-30.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4c4069010513234cf1784b3995f4c36f/noop.jpg?input=http%3A%2F%2Fwww.space.com%2Fimages%2Fi%2F000%2F057%2F682%2Foriginal%2Fspacex-1.jpg%3Finterpolation%3Dlanczos-none%26downsize%3D*%3A1000"></article>]]></description>
+            <link>http://www.space.com/33811-spacex-elon-musk-mars-master-plan-soon.html</link>
+            <guid isPermaLink="false">29e83d27-1fb1-48eb-94e6-d0ac1faff393</guid>
+            <pubDate>Tue, 23 Aug 2016 11:41:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The First and Last 'One-to-One' Device]]></title>
             <description><![CDATA[<article><h1>The First and Last 'One-to-One' Device</h1><p>Will nothing ever touch the scale of the smartphone? To me, the most interesting part of Apple's recent press blitz was how in sync everyone was about one point in particular: that the company is unlikely to find another iPhone. Both Tim Cook and Eddy Cue stated this pretty directly in their respective interviews.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e33e7e8c724fb978a44ca5baa861ca24/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*00wuadtJ4eQCCVvVXZzMVw.jpeg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://support.thegrid.io/beta-update/index.html</link>
             <guid isPermaLink="false">66953b83-c3a0-40d1-816c-758d1e648657</guid>
             <pubDate>Fri, 19 Aug 2016 13:58:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reimagining Single-Page Applications With Progressive Enhancement]]></title>
-            <description><![CDATA[<article><h1>Reimagining Single-Page Applications With Progressive Enhancement</h1><p>What is the difference between a web page and a web application? Though we tend to identify documents with reading and applications with interaction, most web-based applications are of the blended variety: Users can consume information and perform tasks in the same place.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/127a2608eb7ed015ae47bd825c234337/noop.png?input=https%3A%2F%2Fwww.smashingmagazine.com%2Fwp-content%2Fuploads%2F2015%2F12%2Fhashtag-opt.png"></article>]]></description>
-            <link>https://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/</link>
-            <guid isPermaLink="false">e6cdc12b-a5c5-4f09-94f6-fd69e0a8bff6</guid>
-            <pubDate>Thu, 18 Aug 2016 19:14:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
