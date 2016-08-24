@@ -4,8 +4,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 13:47:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 13:48:37 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google will punish sites that use annoying pop-up ads]]></title>
+            <description><![CDATA[<article><h1>Google will punish sites that use annoying pop-up ads</h1><p>Google is about to deal a small blow to some of the most annoying ads on mobile: pop-ups and interstitials. It's not a stretch to argue that readers don't like these ads. So Google is making a call that websites that use pop-ups and interstitials are worse search results and may rank them lower because of it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8c3bc805b695e183748711526ea2b820/noop.png?input=https%3A%2F%2Fcdn0.vox-cdn.com%2Fthumbor%2FGqBBlq4t1x05Yn-oSAtwxHEwO5Y%3D%2F21x0%3A1379x764%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50497191%2Fg.0.png"></article>]]></description>
+            <link>http://www.theverge.com/2016/8/23/12610890/google-search-punish-pop-ups-interstitial-ads</link>
+            <guid isPermaLink="false">f970ac06-52c5-48e7-b6bb-8345d407a47c</guid>
+            <pubDate>Wed, 24 Aug 2016 13:48:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chromebooks outsell Macs for the first time]]></title>
             <description><![CDATA[<article><h1>Chromebooks outsell Macs for the first time</h1><p>More Google Chromebooks are sold in the US than Apple Macs, according to the latest figures from analyst firm IDC. While few think of the company, famous more for its mobile and internet software, as a major creator of PC operating systems, the slimmed-down Chrome OS has powered almost 2m laptops sold to Americans in the first quarter of 2016, IDC told the Verge.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1660320910404e258adc652e75e4aff4/noop.jpg?input=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F80e786d113fefe9f095731334846dda2acfccab7%2F0_191_4368_2621%2F4368.jpg%3Fw%3D1200%26h%3D630%26q%3D55%26auto%3Dformat%26usm%3D12%26fit%3Dcrop%26bm%3Dnormal%26ba%3Dbottom%252Cleft%26blend64%3DaHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n%26s%3D6dc7a2e43035d41f87e55502b9700b4d"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://mondaynote.com/the-internet-of-poorly-working-things-cda7a147af#.pg8tgbml5</link>
             <guid isPermaLink="false">bff13626-ec83-4241-95f8-76c01cf6d9a7</guid>
             <pubDate>Mon, 22 Aug 2016 14:02:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Page-Based CMS is a Natural Byproduct of the Web]]></title>
-            <description><![CDATA[<article><h1>The Page-Based CMS is a Natural Byproduct of the Web</h1><p>The "page-based CMS" is not a bad thing. We try to pretend we don't need to think about pages anymore, but most of the time, attempts to liberate ourselves from the notion of a page is just impractical idealism. Furthermore, the page-based model doesn't really matter that much, in the big picture.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/acfd4ce11f0c2e0f62d49d1a7f12ba86/noop.png?input=http%3A%2F%2Fgadgetopia.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fgadgetopia_opengraph.png"></article>]]></description>
-            <link>http://gadgetopia.com/post/9429</link>
-            <guid isPermaLink="false">9e90c358-b041-40b6-a775-3e2ad76b1323</guid>
-            <pubDate>Mon, 22 Aug 2016 14:00:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
