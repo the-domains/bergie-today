@@ -4,8 +4,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 13:48:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 18:59:52 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Planet Found in Habitable Zone Around Nearest Star]]></title>
+            <description><![CDATA[<article><h1>Planet Found in Habitable Zone Around Nearest Star</h1><p>Astronomers using ESO telescopes and other facilities have found clear evidence of a planet orbiting the closest star to Earth, Proxima Centauri. The long-sought world, designated Proxima b, orbits its cool red parent star every 11 days and has a temperature suitable for liquid water to exist on its surface.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fce37f84771cd14506a1aa1adfab61a7/noop.jpg?input=http%3A%2F%2Fcdn.eso.org%2Fimages%2Fscreen%2Feso1629a.jpg"></article>]]></description>
+            <link>https://www.eso.org/public/news/eso1629/</link>
+            <guid isPermaLink="false">a7efd037-5d4d-49de-8055-aa9dbfd9725e</guid>
+            <pubDate>Wed, 24 Aug 2016 18:59:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google will punish sites that use annoying pop-up ads]]></title>
             <description><![CDATA[<article><h1>Google will punish sites that use annoying pop-up ads</h1><p>Google is about to deal a small blow to some of the most annoying ads on mobile: pop-ups and interstitials. It's not a stretch to argue that readers don't like these ads. So Google is making a call that websites that use pop-ups and interstitials are worse search results and may rank them lower because of it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8c3bc805b695e183748711526ea2b820/noop.png?input=https%3A%2F%2Fcdn0.vox-cdn.com%2Fthumbor%2FGqBBlq4t1x05Yn-oSAtwxHEwO5Y%3D%2F21x0%3A1379x764%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50497191%2Fg.0.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://blog.cloudflare.com/the-cuban-cdn/</link>
             <guid isPermaLink="false">dff88ab1-5b2f-41bd-8a08-53ceadddc869</guid>
             <pubDate>Mon, 22 Aug 2016 19:15:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Internet of Poorly Working Things]]></title>
-            <description><![CDATA[<article><h1>The Internet of Poorly Working Things</h1><p>It was twenty years ago this month that the cover of the adorably geeky Boardwatch Magazine, a journal dedicated to the world of Bulletin Board Systems ( BBS, remember them?), featured bearded professor Vint Cerf, the grandfather of the Internet: Cerf's pithy IP On Everything prophecy was simple, resonant, and inexorable: All objects in our lives will someday feature an IP Stack.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/987bb2e520e94a539970dffc01035854/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F800%2F1*ImPDKdHGgW9txFyyR77FQg.png"></article>]]></description>
-            <link>https://mondaynote.com/the-internet-of-poorly-working-things-cda7a147af#.pg8tgbml5</link>
-            <guid isPermaLink="false">bff13626-ec83-4241-95f8-76c01cf6d9a7</guid>
-            <pubDate>Mon, 22 Aug 2016 14:02:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
