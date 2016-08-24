@@ -4,8 +4,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 19:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 08:35:57 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Indie App Reliance]]></title>
+            <description><![CDATA[<article><h1>Indie App Reliance</h1><p>Today, with a single tweet, the note-taking app Vesper has officially been shuttered. At its release, Vesper was widely promoted by the Apple indie developer communtiy as the hot new thing to try. More than anything else, it had an excellent pedigree, with influential blogger John Gruber of Daring Fireball at the helm. Many hopeful users switched to it for their primary note-taking needs, expecting that features like Mac support would arrive in short order. If any app from this circle was destined to be a breakaway hit, it was this one. And now, with barely a mention, it’s all but swept away, years after langishing with barely an update.</p></article>]]></description>
+            <link>http://beta-blog.archagon.net/2016/08/21/tool-reliance/</link>
+            <guid isPermaLink="false">505488d7-7c4b-411c-8917-4d1ed58f7335</guid>
+            <pubDate>Wed, 24 Aug 2016 08:35:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Minimalism vs Upgradeism]]></title>
             <description><![CDATA[<article><h1>Minimalism vs Upgradeism</h1><p>I am the zen minimalist monk. The gods of capitalism look upon my few possessions and weep. There's a place for everything, and everything's in its place. Crucially; there's no room for anything else. I've won. The neoliberal hegemony has lost. Hah! ...oh but I would love to upgrade my headphone amp.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://newrepublic.com/article/135684/declare-war-climate-change-mobilize-wwii</link>
             <guid isPermaLink="false">e6ee1c29-05f1-4d96-b2f8-29eeac568a29</guid>
             <pubDate>Fri, 19 Aug 2016 20:30:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DNA revelations from Ötzi the Iceman's leather and furs]]></title>
-            <description><![CDATA[<article><h1>DNA revelations from Ötzi the Iceman's leather and furs</h1><p>For the past two decades, scientists have analyzed every minute detail of Ötzi, a 5,300-year-old natural mummy found in the ice of the Italian Ötztal Alps. But one remaining mystery was the provenance of his clothing, made from leather and fur.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0a7780d02cb96019d2a5c99e8c39c5ed/noop.png?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2FPicture1-1024x683-640x427.png"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/08/dna-revelations-from-otze-the-icemans-leather-and-furs/</link>
-            <guid isPermaLink="false">9ba2a24f-1169-4c73-bbe6-defe431e2ee3</guid>
-            <pubDate>Fri, 19 Aug 2016 19:11:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
