@@ -1,21 +1,14 @@
 name: Bergie Today
-style: the-composer
-favicon: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dc0c9fe-61bd-4213-bd6a-513b80e78904.png
 layout_spectrum: 0.44815
 typography_spectrum: 0.78264
-title: Henri Bergius
-cta:
-  domain: null
-  bucket: null
-  version: null
+cta: {}
 analytics:
   google: UA-75936-17
-  facebook: null
-  twitter: null
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#080000'
@@ -28,7 +21,10 @@ color:
   saturation: 0.375
   rhythmicContrast: 0.5
 purpose: []
+title: Henri Bergius
 author:
   name: Henri Bergius
-  email: "henri.bergius@iki.fi"
-  url: "http://bergie.iki.fi"
+  url: 'http://bergie.iki.fi'
+  email: henri.bergius@iki.fi
+content_rating:
+  adult: false
