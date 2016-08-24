@@ -4,8 +4,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 08:35:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 13:47:17 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chromebooks outsell Macs for the first time]]></title>
+            <description><![CDATA[<article><h1>Chromebooks outsell Macs for the first time</h1><p>More Google Chromebooks are sold in the US than Apple Macs, according to the latest figures from analyst firm IDC. While few think of the company, famous more for its mobile and internet software, as a major creator of PC operating systems, the slimmed-down Chrome OS has powered almost 2m laptops sold to Americans in the first quarter of 2016, IDC told the Verge.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1660320910404e258adc652e75e4aff4/noop.jpg?input=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F80e786d113fefe9f095731334846dda2acfccab7%2F0_191_4368_2621%2F4368.jpg%3Fw%3D1200%26h%3D630%26q%3D55%26auto%3Dformat%26usm%3D12%26fit%3Dcrop%26bm%3Dnormal%26ba%3Dbottom%252Cleft%26blend64%3DaHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n%26s%3D6dc7a2e43035d41f87e55502b9700b4d"></article>]]></description>
+            <link>https://www.theguardian.com/technology/2016/may/23/chromebook-mac-google-pc-sales</link>
+            <guid isPermaLink="false">eb011bf2-bb8f-43a2-ae08-023161ff1022</guid>
+            <pubDate>Wed, 24 Aug 2016 13:47:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Indie App Reliance]]></title>
             <description><![CDATA[<article><h1>Indie App Reliance</h1><p>Today, with a single tweet, the note-taking app Vesper has officially been shuttered. At its release, Vesper was widely promoted by the Apple indie developer communtiy as the hot new thing to try. More than anything else, it had an excellent pedigree, with influential blogger John Gruber of Daring Fireball at the helm. Many hopeful users switched to it for their primary note-taking needs, expecting that features like Mac support would arrive in short order. If any app from this circle was destined to be a breakaway hit, it was this one. And now, with barely a mention, it’s all but swept away, years after langishing with barely an update.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://gadgetopia.com/post/9429</link>
             <guid isPermaLink="false">9e90c358-b041-40b6-a775-3e2ad76b1323</guid>
             <pubDate>Mon, 22 Aug 2016 14:00:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We Need to Literally Declare War on Climate Change]]></title>
-            <description><![CDATA[<article><h1>We Need to Literally Declare War on Climate Change</h1><p>We're under attack from climate change-and our only hope is to mobilize like we did in WWII. Illustrations by Andrew Colin Beck In the North this summer, a devastating offensive is underway. Enemy forces have seized huge swaths of territory; with each passing week, another 22,000 square miles of Arctic ice disappears.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ffe5e448d9a265998aac42537434c276/noop.jpeg?input=https%3A%2F%2Fimages.newrepublic.com%2Ffe023898e7f65b65e8a3c685d65e3f48e96d8356.jpeg%3Fw%3D1109%26h%3D577%26crop%3Dfaces%26fit%3Dcrop%26fm%3Djpg"></article>]]></description>
-            <link>https://newrepublic.com/article/135684/declare-war-climate-change-mobilize-wwii</link>
-            <guid isPermaLink="false">e6ee1c29-05f1-4d96-b2f8-29eeac568a29</guid>
-            <pubDate>Fri, 19 Aug 2016 20:30:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
