@@ -4,8 +4,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 18:59:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 15:31:47 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Giant 'Arrows' Seen From Space Point to a Vanished World]]></title>
+            <description><![CDATA[<article><h1>Giant 'Arrows' Seen From Space Point to a Vanished World</h1><p>In the remote heart of Asia, ancient hunting traps hint at ghostly animal herds and boundless human appetites.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/94a0ac366a4cd574da61d1e60f32a0f8/noop.jpg?input=http%3A%2F%2Fnews.nationalgeographic.com%2Fcontent%2Fdam%2Fnews%2F2016%2F08%2F03%2Fdesert_kite%2F02_desert_kite.ngsversion.1470947404646.jpg"></article>]]></description>
+            <link>http://news.nationalgeographic.com/2016/08/desert-kites-out-of-eden-walk-uzbekistan-iron-age-saiga/</link>
+            <guid isPermaLink="false">bf7180a2-5b90-4672-a294-3586a234d5e2</guid>
+            <pubDate>Thu, 25 Aug 2016 15:31:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Planet Found in Habitable Zone Around Nearest Star]]></title>
             <description><![CDATA[<article><h1>Planet Found in Habitable Zone Around Nearest Star</h1><p>Astronomers using ESO telescopes and other facilities have found clear evidence of a planet orbiting the closest star to Earth, Proxima Centauri. The long-sought world, designated Proxima b, orbits its cool red parent star every 11 days and has a temperature suitable for liquid water to exist on its surface.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fce37f84771cd14506a1aa1adfab61a7/noop.jpg?input=http%3A%2F%2Fcdn.eso.org%2Fimages%2Fscreen%2Feso1629a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://500ish.com/the-first-and-last-one-to-one-device-ea4487dcdef2#.b6thrz75w</link>
             <guid isPermaLink="false">d531f6b1-2cf5-4845-9dfe-569d6764ca0a</guid>
             <pubDate>Tue, 23 Aug 2016 10:22:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Cuban CDN]]></title>
-            <description><![CDATA[<article><h1>The Cuban CDN</h1><p>On a recent trip to Cuba I brought with me a smartphone and hoped to get Internet access either via WiFi or 3G. I managed that (at a price) but also saw for myself how Cubans get access to an alternate Internet delivered by sneakernet. Cuba is currently poorly served</p></article>]]></description>
-            <link>https://blog.cloudflare.com/the-cuban-cdn/</link>
-            <guid isPermaLink="false">dff88ab1-5b2f-41bd-8a08-53ceadddc869</guid>
-            <pubDate>Mon, 22 Aug 2016 19:15:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
