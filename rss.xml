@@ -4,8 +4,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 15:31:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 15:33:00 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Worst Mistake in the History of the Human Race]]></title>
+            <description><![CDATA[<article><h1>The Worst Mistake in the History of the Human Race</h1><p>So the lives of at least the surviving hunter-gatherers aren't nasty and brutish, even though farmes have pushed them into some of the world's worst real estate. But modern hunter-gatherer societies that have rubbed shoulders with farming societies for thousands of years don't tell us about conditions before the agricultural revolution.</p></article>]]></description>
+            <link>http://discovermagazine.com/1987/may/02-the-worst-mistake-in-the-history-of-the-human-race</link>
+            <guid isPermaLink="false">3e24efd3-8f2a-4d6a-bb3d-6bc5bb971226</guid>
+            <pubDate>Thu, 25 Aug 2016 15:32:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Giant 'Arrows' Seen From Space Point to a Vanished World]]></title>
             <description><![CDATA[<article><h1>Giant 'Arrows' Seen From Space Point to a Vanished World</h1><p>In the remote heart of Asia, ancient hunting traps hint at ghostly animal herds and boundless human appetites.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/94a0ac366a4cd574da61d1e60f32a0f8/noop.jpg?input=http%3A%2F%2Fnews.nationalgeographic.com%2Fcontent%2Fdam%2Fnews%2F2016%2F08%2F03%2Fdesert_kite%2F02_desert_kite.ngsversion.1470947404646.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.space.com/33811-spacex-elon-musk-mars-master-plan-soon.html</link>
             <guid isPermaLink="false">29e83d27-1fb1-48eb-94e6-d0ac1faff393</guid>
             <pubDate>Tue, 23 Aug 2016 11:41:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The First and Last 'One-to-One' Device]]></title>
-            <description><![CDATA[<article><h1>The First and Last 'One-to-One' Device</h1><p>Will nothing ever touch the scale of the smartphone? To me, the most interesting part of Apple's recent press blitz was how in sync everyone was about one point in particular: that the company is unlikely to find another iPhone. Both Tim Cook and Eddy Cue stated this pretty directly in their respective interviews.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e33e7e8c724fb978a44ca5baa861ca24/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*00wuadtJ4eQCCVvVXZzMVw.jpeg"></article>]]></description>
-            <link>https://500ish.com/the-first-and-last-one-to-one-device-ea4487dcdef2#.b6thrz75w</link>
-            <guid isPermaLink="false">d531f6b1-2cf5-4845-9dfe-569d6764ca0a</guid>
-            <pubDate>Tue, 23 Aug 2016 10:22:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
