@@ -4,8 +4,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 15:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 16:43:56 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blockchain Could Change Companies as We Know Them]]></title>
+            <description><![CDATA[<article><h1>Blockchain Could Change Companies as We Know Them</h1><p>You don't have to be an expert on digital currencies like bitcoin to be intrigued by the potential of the technology underlying them. Blockchain, as it's called, is something new in computing. It mashes up cryptography and peer-to-peer networking to create what amounts to a shared database of transactions and other information-which can be open to all, controlled by no one.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9f9f254ba123373488154b1829f1bfd6/noop.jpg?input=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiRwBOga.E3oU%2Fv0%2F-1x-1.jpg"></article>]]></description>
+            <link>http://www.bloomberg.com/news/articles/2016-08-25/this-is-your-company-on-blockchain</link>
+            <guid isPermaLink="false">7644489e-7143-47de-b63b-2f487c3508dd</guid>
+            <pubDate>Thu, 25 Aug 2016 16:42:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Worst Mistake in the History of the Human Race]]></title>
             <description><![CDATA[<article><h1>The Worst Mistake in the History of the Human Race</h1><p>So the lives of at least the surviving hunter-gatherers aren't nasty and brutish, even though farmes have pushed them into some of the world's worst real estate. But modern hunter-gatherer societies that have rubbed shoulders with farming societies for thousands of years don't tell us about conditions before the agricultural revolution.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/information-technology/2016/08/on-linuxs-25th-anniversary-development-has-gone-corporate/</link>
             <guid isPermaLink="false">3fe564d1-0db4-4267-b8c0-b96b22adde4f</guid>
             <pubDate>Tue, 23 Aug 2016 11:42:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX's Elon Musk Set to Unveil Master Plan for Mars in September]]></title>
-            <description><![CDATA[<article><h1>SpaceX's Elon Musk Set to Unveil Master Plan for Mars in September</h1><p>SpaceX founder, CEO and lead designer Elon Musk is unveiling his humans-to-Mars plan at next month's 67th International Astronautical Congress (IAC), to be held in Guadalajara, Mexico. The world space meeting runs from Sept. 26-30.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4c4069010513234cf1784b3995f4c36f/noop.jpg?input=http%3A%2F%2Fwww.space.com%2Fimages%2Fi%2F000%2F057%2F682%2Foriginal%2Fspacex-1.jpg%3Finterpolation%3Dlanczos-none%26downsize%3D*%3A1000"></article>]]></description>
-            <link>http://www.space.com/33811-spacex-elon-musk-mars-master-plan-soon.html</link>
-            <guid isPermaLink="false">29e83d27-1fb1-48eb-94e6-d0ac1faff393</guid>
-            <pubDate>Tue, 23 Aug 2016 11:41:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
