@@ -4,8 +4,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 14:39:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 14:41:32 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Richard Feynman and The Connection Machine]]></title>
+            <description><![CDATA[<article><h1>Richard Feynman and The Connection Machine</h1><p>Feynman worked out the program for computing Hopfield's network on the Connection Machine in some detail. The part that he was proudest of was the subroutine for computing logarithms. I mention it here not only because it is a clever algorithm, but also because it is a specific contribution Richard made to the mainstream of computer science.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/917a3798119b2e9b953c41c946311642/noop.jpg?input=http%3A%2F%2Fi3.ytimg.com%2Fvi%2F8CKW4A6jnJA%2Fhqdefault.jpg"></article>]]></description>
+            <link>http://longnow.org/essays/richard-feynman-connection-machine/</link>
+            <guid isPermaLink="false">c1d81f3d-da5d-491f-9f32-7c547dac3900</guid>
+            <pubDate>Mon, 29 Aug 2016 14:41:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Space: A sudden light]]></title>
             <description><![CDATA[<article><h1>Space: A sudden light</h1><p>New capabilities, new entrepreneurialism and rekindled dreams are making space exciting again, says Oliver Morton</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/26a81b12cc0b4852dee7067f99b9d76a/noop.jpg?input=http%3A%2F%2Fcdn.static-economist.com%2Fsites%2Fdefault%2Ffiles%2F20160827.jpg%3F1472047111"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://medium.com/@hot_leaf_juice/minimalism-vs-upgradeism-d38f5072bc89#.dieo0but6</link>
             <guid isPermaLink="false">01e5d8de-9e08-4a16-9760-37125c7bcd1e</guid>
             <pubDate>Tue, 23 Aug 2016 19:16:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Munich to Venice - the 'Dream Way' - a Review]]></title>
-            <description><![CDATA[<article><h1>Munich to Venice - the 'Dream Way' - a Review</h1><p>Known as the Traumpfad (Dream Way), the Munich to Venice trek enjoys a huge reputation in Germany. Does it deserve it? Having done it and despite walking 550 km and climbing 22,000m, during the worst Alpine summer in living memory, I can emphatically say that it does.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9b8643e135f9fef94c9e5422d2df30d2/noop.jpg?input=https%3A%2F%2F1.bp.blogspot.com%2F-_fpW2Z09D5I%2FVB_ccDvYOWI%2FAAAAAAAAkbM%2FpE_sCP-qa1I%2Fw1200-h630-p-nu%2FP1030419.jpg"></article>]]></description>
-            <link>http://www.johnhayeswalks.com/2014/09/munich-to-venice-dream-way-review.html</link>
-            <guid isPermaLink="false">4ef91c7a-3654-4a4b-955d-63c4be91f929</guid>
-            <pubDate>Tue, 23 Aug 2016 13:42:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
