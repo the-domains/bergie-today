@@ -16,13 +16,13 @@ color:
     - '#bf956d'
     - '#411d0d'
     - '#926b4a'
-  brandStrength: 0.47
+  brandStrength: 0.46
   lightness: 0.5725
   saturation: 0.375
   rhythmicContrast: 0.5
 purpose: []
 title: Henri Bergius
-description: Daily Linklog. Technology, Space, History, Adventure.
+description: "Daily Linklog. Technology, Space, History, Adventure."
 author:
   name: Henri Bergius
   url: 'http://bergie.iki.fi'
