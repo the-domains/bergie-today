@@ -4,8 +4,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 14:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 08:08:26 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Explain Like I'm Five: The Berlin Elections of 2016]]></title>
+            <description><![CDATA[<article><h1>Explain Like I'm Five: The Berlin Elections of 2016</h1><p>There are elections on the 18th of September in Berlin, but what are they for? Who can vote? Why should you vote? What's at stake? Here's the Explain Like I'm 5 version of the Berlin elections 2016.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6ecfb92439795017484fa66b933162db/noop.jpg?input=http%3A%2F%2Fi1.wp.com%2Fwww.findingberlin.com%2Fwp-content%2Fuploads%2Fberlinkisses-graffiti-9259.jpg%3Ffit%3D1500%252C1125"></article>]]></description>
+            <link>http://www.findingberlin.com/eli5-berlin-elections-2016/</link>
+            <guid isPermaLink="false">a698afd2-2ebc-45b1-bbf8-60cdf18f5784</guid>
+            <pubDate>Tue, 30 Aug 2016 08:08:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Richard Feynman and The Connection Machine]]></title>
             <description><![CDATA[<article><h1>Richard Feynman and The Connection Machine</h1><p>Feynman worked out the program for computing Hopfield's network on the Connection Machine in some detail. The part that he was proudest of was the subroutine for computing logarithms. I mention it here not only because it is a clever algorithm, but also because it is a specific contribution Richard made to the mainstream of computer science.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/917a3798119b2e9b953c41c946311642/noop.jpg?input=http%3A%2F%2Fi3.ytimg.com%2Fvi%2F8CKW4A6jnJA%2Fhqdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://beta-blog.archagon.net/2016/08/21/tool-reliance/</link>
             <guid isPermaLink="false">505488d7-7c4b-411c-8917-4d1ed58f7335</guid>
             <pubDate>Wed, 24 Aug 2016 08:35:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Minimalism vs Upgradeism]]></title>
-            <description><![CDATA[<article><h1>Minimalism vs Upgradeism</h1><p>I am the zen minimalist monk. The gods of capitalism look upon my few possessions and weep. There's a place for everything, and everything's in its place. Crucially; there's no room for anything else. I've won. The neoliberal hegemony has lost. Hah! ...oh but I would love to upgrade my headphone amp.</p></article>]]></description>
-            <link>https://medium.com/@hot_leaf_juice/minimalism-vs-upgradeism-d38f5072bc89#.dieo0but6</link>
-            <guid isPermaLink="false">01e5d8de-9e08-4a16-9760-37125c7bcd1e</guid>
-            <pubDate>Tue, 23 Aug 2016 19:16:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
