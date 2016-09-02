@@ -4,8 +4,17 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 08:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 15:21:15 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Victory for Net Neutrality in Europe]]></title>
+            <description><![CDATA[<article><h1>Victory for Net Neutrality in Europe</h1><p>Today, the Body of European Regulators for Electronic Communications (BEREC) published its guidelines on net neutrality.
+
+This is a victory for civil society, whose relentless involvement secured the principles of a free and open internet in Europe.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89d9d42a-bbd6-4c71-b53c-1dfe469f2386.png"></article>]]></description>
+            <link>https://juliareda.eu/2016/08/victory-for-net-neutrality/</link>
+            <guid isPermaLink="false">09f9e315-983e-481f-b745-56b295159c6b</guid>
+            <pubDate>Tue, 30 Aug 2016 15:21:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Explain Like I'm Five: The Berlin Elections of 2016]]></title>
             <description><![CDATA[<article><h1>Explain Like I'm Five: The Berlin Elections of 2016</h1><p>There are elections on the 18th of September in Berlin, but what are they for? Who can vote? Why should you vote? What's at stake? Here's the Explain Like I'm 5 version of the Berlin elections 2016.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6ecfb92439795017484fa66b933162db/noop.jpg?input=http%3A%2F%2Fi1.wp.com%2Fwww.findingberlin.com%2Fwp-content%2Fuploads%2Fberlinkisses-graffiti-9259.jpg%3Ffit%3D1500%252C1125"></article>]]></description>
@@ -68,13 +77,6 @@
             <link>https://www.theguardian.com/technology/2016/may/23/chromebook-mac-google-pc-sales</link>
             <guid isPermaLink="false">eb011bf2-bb8f-43a2-ae08-023161ff1022</guid>
             <pubDate>Wed, 24 Aug 2016 13:47:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indie App Reliance]]></title>
-            <description><![CDATA[<article><h1>Indie App Reliance</h1><p>Today, with a single tweet, the note-taking app Vesper has officially been shuttered. At its release, Vesper was widely promoted by the Apple indie developer communtiy as the hot new thing to try. More than anything else, it had an excellent pedigree, with influential blogger John Gruber of Daring Fireball at the helm. Many hopeful users switched to it for their primary note-taking needs, expecting that features like Mac support would arrive in short order. If any app from this circle was destined to be a breakaway hit, it was this one. And now, with barely a mention, it’s all but swept away, years after langishing with barely an update.</p></article>]]></description>
-            <link>http://beta-blog.archagon.net/2016/08/21/tool-reliance/</link>
-            <guid isPermaLink="false">505488d7-7c4b-411c-8917-4d1ed58f7335</guid>
-            <pubDate>Wed, 24 Aug 2016 08:35:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
