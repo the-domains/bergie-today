@@ -4,8 +4,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 17:39:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 21:38:16 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Keep a Zibaldone, the 14th Century's Answer to Tumblr]]></title>
+            <description><![CDATA[<article><h1>How to Keep a Zibaldone, the 14th Century's Answer to Tumblr</h1><p>One day in Venice, sometime near the end of the 14th century, a busy merchant found himself with a few spare moments. Maybe it was a slow day at the docks, or he arrived home too early for dinner.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/57695cef3ecb676fd055c07539680ebe/noop.jpg?input=http%3A%2F%2Fassets.atlasobscura.com%2Farticle_images%2F33955%2Fimage.jpg"></article>]]></description>
+            <link>http://www.atlasobscura.com/articles/how-to-keep-a-zibaldone-a-13thcentury-answer-to-tumblr</link>
+            <guid isPermaLink="false">4ba099ec-8d75-45af-9962-9eab8c85b6f0</guid>
+            <pubDate>Thu, 01 Sep 2016 21:38:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SpaceX - Static Fire Anomaly - AMOS-6]]></title>
             <description><![CDATA[<article><h1>SpaceX - Static Fire Anomaly - AMOS-6</h1><p>Several minutes have been cut from about 10 minutes. We hope for SpaceX to have a quick recovery to flight.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/eef635ab95c3ce4121aa87d6669abf41/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F_BgJEXQkjNQ%2Fmaxresdefault.jpg"></article>]]></description>
@@ -70,13 +77,6 @@ This is a victory for civil society, whose relentless involvement secured the pr
             <link>http://discovermagazine.com/1987/may/02-the-worst-mistake-in-the-history-of-the-human-race</link>
             <guid isPermaLink="false">3e24efd3-8f2a-4d6a-bb3d-6bc5bb971226</guid>
             <pubDate>Thu, 25 Aug 2016 15:32:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Giant 'Arrows' Seen From Space Point to a Vanished World]]></title>
-            <description><![CDATA[<article><h1>Giant 'Arrows' Seen From Space Point to a Vanished World</h1><p>In the remote heart of Asia, ancient hunting traps hint at ghostly animal herds and boundless human appetites.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/94a0ac366a4cd574da61d1e60f32a0f8/noop.jpg?input=http%3A%2F%2Fnews.nationalgeographic.com%2Fcontent%2Fdam%2Fnews%2F2016%2F08%2F03%2Fdesert_kite%2F02_desert_kite.ngsversion.1470947404646.jpg"></article>]]></description>
-            <link>http://news.nationalgeographic.com/2016/08/desert-kites-out-of-eden-walk-uzbekistan-iron-age-saiga/</link>
-            <guid isPermaLink="false">bf7180a2-5b90-4672-a294-3586a234d5e2</guid>
-            <pubDate>Thu, 25 Aug 2016 15:31:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
