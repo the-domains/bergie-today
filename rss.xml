@@ -4,11 +4,18 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 23:49:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 16:06:34 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[SpaceX's Falcon 9 rocket apparently blew up during a test firing Thursday]]></title>
+            <description><![CDATA[<article><h1>SpaceX's Falcon 9 rocket apparently blew up during a test firing Thursday</h1><p>Although no detailed information is available, it appears that SpaceX had a major problem with its Falcon 9 rocket during a static fire test on Thursday morning at Cape Canaveral Air Force Station in Florida.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b08d3e6788e9b9f109999b828bfe78b7/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F09%2F27661317636_4c5058a919_k-800x586.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2016/09/spacexs-falcon-9-rocket-apparently-blew-up-during-a-test-firing-thursday/</link>
+            <guid isPermaLink="false">fa304b8a-a824-4313-bc98-ff6886d71b33</guid>
+            <pubDate>Thu, 01 Sep 2016 16:06:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rewriting the Tablet: How Lenovo brought a dream design to life]]></title>
-            <description><![CDATA[<article><h1>Rewriting the Tablet: How Lenovo brought a dream design to life</h1><p>Tablets were supposed to be the future. They were supposed to get us off the desk and away from the laptop, and usher us into a touch-enabled world of productivity and entertainment. A dream of computing where our devices seamlessly blend between activities and go wherever we need them to. But the tablets we know, the iPads and Surfaces of the world, haven’t really lived up to that dream, whether it’s because doing actual work on them is harder than it should be, or because they are barely different than the PCs we’ve used for years.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1c73c299069c6c90f959b4a2571e7543/noop.jpg?input=https%3A%2F%2Fcdn3.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F7019939%2Fsokane_160812_1184_yoga_book-0787.0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Rewriting the Tablet: How Lenovo brought a dream design to life</h1><p>Tablets were supposed to be the future. They were supposed to get us off the desk and away from the laptop, and usher us into a touch-enabled world of productivity and entertainment. A dream of computing where our devices seamlessly blend between activities and go wherever we need them to. But the tablets we know, the iPads and Surfaces of the world, haven’t really lived up to that dream, whether it’s because doing actual work on them is harder than it should be, or because they are barely different than the PCs we’ve used for years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e025f8dc55a247d1f6082595351f857e6902737.jpg"></article>]]></description>
             <link>http://www.theverge.com/2016/8/31/12713442/lenovo-yoga-book-tablet-design-interview-android-windows</link>
             <guid isPermaLink="false">a1e21f04-66b0-4765-adcc-55b78eeb26ae</guid>
             <pubDate>Wed, 31 Aug 2016 23:38:49 GMT</pubDate>
