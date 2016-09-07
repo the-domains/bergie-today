@@ -22,10 +22,16 @@ color:
   rhythmicContrast: 0.5
 purpose: []
 title: Henri Bergius
-description: "Daily Linklog. Technology, Space, History, Adventure."
 author:
   name: Henri Bergius
   url: 'http://bergie.iki.fi'
   email: henri.bergius@iki.fi
 content_rating:
   adult: false
+navigation:
+  - name: Blog
+    url: 'http://bergie.iki.fi'
+    type: external
+  - name: GitHub
+    url: 'https://github.com/bergie'
+    type: external
