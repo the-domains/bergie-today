@@ -4,8 +4,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 05 Sep 2016 21:53:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2016 09:06:16 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Choose Boring Technology]]></title>
+            <description><![CDATA[<article><h1>Choose Boring Technology</h1><p>Probably the single best thing to happen to me in my career was having had Kellan placed in charge of me. I stuck around long enough to see Kellan's technical decisionmaking start to bear fruit. I learned a great deal from this, but I also learned a great deal as a result of this.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6e0dc0f52c0ac788394fbabe77c6513c/noop.jpg?input=http%3A%2F%2Fi.imgur.com%2Fn8ElWr3.jpg"></article>]]></description>
+            <link>http://mcfunley.com/choose-boring-technology</link>
+            <guid isPermaLink="false">9d4a61bf-2cb5-4afb-bd47-481da88a7fe9</guid>
+            <pubDate>Tue, 06 Sep 2016 09:06:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rocket Launches Are Actually Surprisingly Successful]]></title>
             <description><![CDATA[<article><h1>Rocket Launches Are Actually Surprisingly Successful</h1><p>Every time that a rocket launch goes awry one can only feel for the hundreds, if not thousands, of people who have poured their technical prowess into making these attempts. From the engineers and machinists, to the investors and spacecraft technicians, and often the scientists and researchers.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3c2b3027deaf0b266562f997c5adc066/noop.jpg?input=http%3A%2F%2Fblogs.scientificamerican.com%2Fblogs%2Fcache%2Ffile%2FEC5A212D-1A08-477E-B01F159931475168_agenda.jpg%3Fw%3D600%26h%3D335"></article>]]></description>
@@ -70,13 +77,6 @@ This is a victory for civil society, whose relentless involvement secured the pr
             <link>http://www.findingberlin.com/eli5-berlin-elections-2016/</link>
             <guid isPermaLink="false">a698afd2-2ebc-45b1-bbf8-60cdf18f5784</guid>
             <pubDate>Tue, 30 Aug 2016 08:08:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Richard Feynman and The Connection Machine]]></title>
-            <description><![CDATA[<article><h1>Richard Feynman and The Connection Machine</h1><p>Feynman worked out the program for computing Hopfield's network on the Connection Machine in some detail. The part that he was proudest of was the subroutine for computing logarithms. I mention it here not only because it is a clever algorithm, but also because it is a specific contribution Richard made to the mainstream of computer science.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/917a3798119b2e9b953c41c946311642/noop.jpg?input=http%3A%2F%2Fi3.ytimg.com%2Fvi%2F8CKW4A6jnJA%2Fhqdefault.jpg"></article>]]></description>
-            <link>http://longnow.org/essays/richard-feynman-connection-machine/</link>
-            <guid isPermaLink="false">c1d81f3d-da5d-491f-9f32-7c547dac3900</guid>
-            <pubDate>Mon, 29 Aug 2016 14:41:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
