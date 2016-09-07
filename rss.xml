@@ -4,8 +4,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 21:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2016 14:36:53 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Philae found!]]></title>
+            <description><![CDATA[<article><h1>Philae found!</h1><p>Less than a month before the end of the mission, Rosetta's high-resolution camera has revealed the Philae lander wedged into a dark crack on Comet 67P/Churyumov-Gerasimenko. The images were taken on 2 September by the OSIRIS narrow-angle camera as the orbiter came within 2.7 km of the surface and clearly show the main body of the lander, along with two of its three legs.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/054e9053533c19a1bfaf881de7d262ee/noop.jpg?input=http%3A%2F%2Fwww.esa.int%2Fvar%2Fesa%2Fstorage%2Fimages%2Fesa_multimedia%2Fimages%2F2016%2F09%2Fphilae_found%2F16114811-1-eng-GB%2FPhilae_found_large.jpg"></article>]]></description>
+            <link>http://www.esa.int/Our_Activities/Space_Science/Rosetta/Philae_found</link>
+            <guid isPermaLink="false">9b7d4ffb-8130-4ebe-a061-ee5750ca3e12</guid>
+            <pubDate>Mon, 05 Sep 2016 14:36:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to Keep a Zibaldone, the 14th Century's Answer to Tumblr]]></title>
             <description><![CDATA[<article><h1>How to Keep a Zibaldone, the 14th Century's Answer to Tumblr</h1><p>One day in Venice, sometime near the end of the 14th century, a busy merchant found himself with a few spare moments. Maybe it was a slow day at the docks, or he arrived home too early for dinner.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/57695cef3ecb676fd055c07539680ebe/noop.jpg?input=http%3A%2F%2Fassets.atlasobscura.com%2Farticle_images%2F33955%2Fimage.jpg"></article>]]></description>
@@ -70,13 +77,6 @@ This is a victory for civil society, whose relentless involvement secured the pr
             <link>http://www.bloomberg.com/news/articles/2016-08-25/this-is-your-company-on-blockchain</link>
             <guid isPermaLink="false">7644489e-7143-47de-b63b-2f487c3508dd</guid>
             <pubDate>Thu, 25 Aug 2016 16:42:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Worst Mistake in the History of the Human Race]]></title>
-            <description><![CDATA[<article><h1>The Worst Mistake in the History of the Human Race</h1><p>So the lives of at least the surviving hunter-gatherers aren't nasty and brutish, even though farmes have pushed them into some of the world's worst real estate. But modern hunter-gatherer societies that have rubbed shoulders with farming societies for thousands of years don't tell us about conditions before the agricultural revolution.</p></article>]]></description>
-            <link>http://discovermagazine.com/1987/may/02-the-worst-mistake-in-the-history-of-the-human-race</link>
-            <guid isPermaLink="false">3e24efd3-8f2a-4d6a-bb3d-6bc5bb971226</guid>
-            <pubDate>Thu, 25 Aug 2016 15:32:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
