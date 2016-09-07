@@ -4,8 +4,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 05 Sep 2016 14:36:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2016 16:51:06 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No Sailors Needed: Robot Sailboats Scour the Oceans for Data]]></title>
+            <description><![CDATA[<article><h1>No Sailors Needed: Robot Sailboats Scour the Oceans for Data</h1><p>The Saildrone's carbon fiber sail acts like an aircraft wing. When air passes over it, thrust is created. The sail is stabilized by a counterweight that is placed in front of it and a tab trailing behind it that can automatically make small corrections to make sure it maintains an efficient angle to the wind.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/61ac24ba5e6499ba02329648dabd2e7a/noop.jpg?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2016%2F08%2F31%2Fbusiness%2F00saildrone-1%2F00saildrone-1-facebookJumbo.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2016/09/05/technology/no-sailors-needed-robot-sailboats-scour-the-oceans-for-data.html?ref=technology&amp;_r=1</link>
+            <guid isPermaLink="false">670f49c1-4f0f-4ed7-8802-a729887c5a06</guid>
+            <pubDate>Mon, 05 Sep 2016 16:51:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Philae found!]]></title>
             <description><![CDATA[<article><h1>Philae found!</h1><p>Less than a month before the end of the mission, Rosetta's high-resolution camera has revealed the Philae lander wedged into a dark crack on Comet 67P/Churyumov-Gerasimenko. The images were taken on 2 September by the OSIRIS narrow-angle camera as the orbiter came within 2.7 km of the surface and clearly show the main body of the lander, along with two of its three legs.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/054e9053533c19a1bfaf881de7d262ee/noop.jpg?input=http%3A%2F%2Fwww.esa.int%2Fvar%2Fesa%2Fstorage%2Fimages%2Fesa_multimedia%2Fimages%2F2016%2F09%2Fphilae_found%2F16114811-1-eng-GB%2FPhilae_found_large.jpg"></article>]]></description>
@@ -70,13 +77,6 @@ This is a victory for civil society, whose relentless involvement secured the pr
             <link>http://www.economist.com/technology-quarterly/2016-25-08/space-2016?fsrc=scn/fb/te/bl/ed/asuddenlight</link>
             <guid isPermaLink="false">2a83cb97-d65f-49d1-a44c-931dd7b7da5a</guid>
             <pubDate>Mon, 29 Aug 2016 14:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain Could Change Companies as We Know Them]]></title>
-            <description><![CDATA[<article><h1>Blockchain Could Change Companies as We Know Them</h1><p>You don't have to be an expert on digital currencies like bitcoin to be intrigued by the potential of the technology underlying them. Blockchain, as it's called, is something new in computing. It mashes up cryptography and peer-to-peer networking to create what amounts to a shared database of transactions and other information-which can be open to all, controlled by no one.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9f9f254ba123373488154b1829f1bfd6/noop.jpg?input=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiRwBOga.E3oU%2Fv0%2F-1x-1.jpg"></article>]]></description>
-            <link>http://www.bloomberg.com/news/articles/2016-08-25/this-is-your-company-on-blockchain</link>
-            <guid isPermaLink="false">7644489e-7143-47de-b63b-2f487c3508dd</guid>
-            <pubDate>Thu, 25 Aug 2016 16:42:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
