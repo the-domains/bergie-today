@@ -4,8 +4,15 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 05 Sep 2016 16:51:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2016 21:53:41 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rocket Launches Are Actually Surprisingly Successful]]></title>
+            <description><![CDATA[<article><h1>Rocket Launches Are Actually Surprisingly Successful</h1><p>Every time that a rocket launch goes awry one can only feel for the hundreds, if not thousands, of people who have poured their technical prowess into making these attempts. From the engineers and machinists, to the investors and spacecraft technicians, and often the scientists and researchers.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3c2b3027deaf0b266562f997c5adc066/noop.jpg?input=http%3A%2F%2Fblogs.scientificamerican.com%2Fblogs%2Fcache%2Ffile%2FEC5A212D-1A08-477E-B01F159931475168_agenda.jpg%3Fw%3D600%26h%3D335"></article>]]></description>
+            <link>http://blogs.scientificamerican.com/life-unbounded/rocket-launches-are-surprisingly-successful/#</link>
+            <guid isPermaLink="false">72560dbf-4b7a-41d4-981e-223f5c6d5d57</guid>
+            <pubDate>Mon, 05 Sep 2016 21:53:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No Sailors Needed: Robot Sailboats Scour the Oceans for Data]]></title>
             <description><![CDATA[<article><h1>No Sailors Needed: Robot Sailboats Scour the Oceans for Data</h1><p>The Saildrone's carbon fiber sail acts like an aircraft wing. When air passes over it, thrust is created. The sail is stabilized by a counterweight that is placed in front of it and a tab trailing behind it that can automatically make small corrections to make sure it maintains an efficient angle to the wind.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/61ac24ba5e6499ba02329648dabd2e7a/noop.jpg?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2016%2F08%2F31%2Fbusiness%2F00saildrone-1%2F00saildrone-1-facebookJumbo.jpg"></article>]]></description>
@@ -70,13 +77,6 @@ This is a victory for civil society, whose relentless involvement secured the pr
             <link>http://longnow.org/essays/richard-feynman-connection-machine/</link>
             <guid isPermaLink="false">c1d81f3d-da5d-491f-9f32-7c547dac3900</guid>
             <pubDate>Mon, 29 Aug 2016 14:41:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Space: A sudden light]]></title>
-            <description><![CDATA[<article><h1>Space: A sudden light</h1><p>New capabilities, new entrepreneurialism and rekindled dreams are making space exciting again, says Oliver Morton</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/26a81b12cc0b4852dee7067f99b9d76a/noop.jpg?input=http%3A%2F%2Fcdn.static-economist.com%2Fsites%2Fdefault%2Ffiles%2F20160827.jpg%3F1472047111"></article>]]></description>
-            <link>http://www.economist.com/technology-quarterly/2016-25-08/space-2016?fsrc=scn/fb/te/bl/ed/asuddenlight</link>
-            <guid isPermaLink="false">2a83cb97-d65f-49d1-a44c-931dd7b7da5a</guid>
-            <pubDate>Mon, 29 Aug 2016 14:39:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
