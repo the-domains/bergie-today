@@ -2,7 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: Flying pig
-dateModified: '2016-09-05T14:36:10.650Z'
+datePublished: '2016-09-05T14:51:02.601Z'
+dateModified: '2016-09-05T14:50:51.782Z'
 publisher: {}
 author: []
 inFeed: true
@@ -10,7 +11,6 @@ description: >-
   Laser-engraved logo on my Midori Traveler’s Notebook, made at the Bitraf
   hackerspace in Oslo.
 via: {}
-datePublished: '2016-09-05T14:38:32.845Z'
 starred: false
 sourcePath: _posts/2016-09-05-flying-pig.md
 _type: Blurb
