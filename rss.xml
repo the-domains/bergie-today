@@ -4,9 +4,23 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 07 Sep 2016 11:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2016 14:18:32 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 07 Sep 2016 11:20:37 GMT</pubDate>
+        <pubDate>Thu, 08 Sep 2016 14:18:24 GMT</pubDate>
+        <item>
+            <title><![CDATA[Beyond the iPhone]]></title>
+            <description><![CDATA[<article><h1>Beyond the iPhone</h1><p>I enjoy the writing of Farhad Manjoo, tech columnist at The New York Times, but I was prepared for the hottest of hot takes when I saw his latest column, penned just hours after Apple's latest product unveiling, was titled What's Really Missing From the New iPhone: Dazzle.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b6f23fc61b5b68800a8bd55b7f4a5255/noop.jpg?input=https%3A%2F%2Fstratechery.com%2Fwp-content%2Fuploads%2F2015%2F05%2Fher-movie-poster.jpg"></article>]]></description>
+            <link>https://stratechery.com/2016/beyond-the-iphone/</link>
+            <guid isPermaLink="false">1530ebef-64b6-401c-880e-89e2e9864290</guid>
+            <pubDate>Thu, 08 Sep 2016 14:18:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snow Crash Revisited: Grokking a Satire of Mimesis]]></title>
+            <description><![CDATA[<article><h1>Snow Crash Revisited: Grokking a Satire of Mimesis</h1><p>The other day, I found myself in an intense conversation about the potential of shared virtual reality with a senior engineer at one of the largest tech companies in Silicon Valley. I say a "conversation," but if I were to be more frank, I would have to admit that for long stretches I was on the receiving end of a rant.</p></article>]]></description>
+            <link>https://hackernoon.com/snow-crash-revisited-grokking-a-satire-of-mimesis-23de3ac05f47#.vkl6dyjin</link>
+            <guid isPermaLink="false">7f6fe5b3-7508-4c65-8d2f-0fc10ff5e491</guid>
+            <pubDate>Thu, 08 Sep 2016 08:55:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chrome plans to start highlighting Not Secure websites]]></title>
             <description><![CDATA[<article><h1>Chrome plans to start highlighting Not Secure websites</h1><p>Chrome 55 (latest beta build available via Chrome Canary) is introducing the ability to specifically flag a HTTP website as non secure.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a38fe054d52df6f346b2f78dbcdf9192/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*Jc2NAFNeS5Ss0D_E0pqwqg.png"></article>]]></description>
@@ -62,20 +76,6 @@
             <link>https://youtu.be/_BgJEXQkjNQ</link>
             <guid isPermaLink="false">f5ee95eb-ede1-47ba-b31a-0ab9f1248309</guid>
             <pubDate>Thu, 01 Sep 2016 17:39:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rewriting the Tablet: How Lenovo brought a dream design to life]]></title>
-            <description><![CDATA[<article><h1>Rewriting the Tablet: How Lenovo brought a dream design to life</h1><p>Tablets were supposed to be the future. They were supposed to get us off the desk and away from the laptop, and usher us into a touch-enabled world of productivity and entertainment. A dream of computing where our devices seamlessly blend between activities and go wherever we need them to. But the tablets we know, the iPads and Surfaces of the world, haven’t really lived up to that dream, whether it’s because doing actual work on them is harder than it should be, or because they are barely different than the PCs we’ve used for years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e025f8dc55a247d1f6082595351f857e6902737.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/8/31/12713442/lenovo-yoga-book-tablet-design-interview-android-windows</link>
-            <guid isPermaLink="false">a1e21f04-66b0-4765-adcc-55b78eeb26ae</guid>
-            <pubDate>Wed, 31 Aug 2016 23:38:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX finds a customer for its first reused rocket, satellite operator SES]]></title>
-            <description><![CDATA[<article><h1>SpaceX finds a customer for its first reused rocket, satellite operator SES</h1><p>SpaceX has been running out of room in its facilities in Florida as it lands rockets by sea and air, so it would like to begin reusing some of these first-stage Falcon boosters as soon as possible. The first step was finding a customer, and now SpaceX has done that.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e40eea44efad7070076545d5262f52d3/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2F28965674072_e707626453_k-800x533.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/08/spacex-finds-a-customer-for-its-first-reused-rocket-satellite-operator-ses/</link>
-            <guid isPermaLink="false">313450d0-bf94-40f1-a6fa-2e1c27c26d8f</guid>
-            <pubDate>Tue, 30 Aug 2016 17:43:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
