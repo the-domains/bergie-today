@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Sep 2016 17:38:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2016 18:58:11 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Sep 2016 17:37:49 GMT</pubDate>
+        <pubDate>Fri, 09 Sep 2016 18:57:57 GMT</pubDate>
+        <item>
+            <title><![CDATA[How the Chromebook quietly grew into the machine that's about to change the computer industry]]></title>
+            <description><![CDATA[<article><h1>How the Chromebook quietly grew into the machine that's about to change the computer industry</h1><p>Google's first Chromebook was the kind of laptop you'd design if you didn't give a damn about laptop design. It was thick, heavy, rubbery, boring, and black. Black keys, black body, black trackpad, black everything. Everything about the Cr-48 was designed to communicate that this device was still an experiment.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/be80e783fecb286d622b6ce772c034f6/noop.jpg?input=https%3A%2F%2Fwww.wired.com%2Fwp-content%2Fuploads%2F2016%2F09%2FChromeBookHP-1198x630-e1473380363289.jpg"></article>]]></description>
+            <link>https://www.wired.com/2016/09/chromebooks-totally-transform-laptop-design/</link>
+            <guid isPermaLink="false">823656d3-f0ad-4a14-9a60-891aaedc2bee</guid>
+            <pubDate>Fri, 09 Sep 2016 18:57:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Raspberry Pi sells over 10 million computers]]></title>
             <description><![CDATA[<article><h1>Raspberry Pi sells over 10 million computers</h1><p>Four years since it first went on sale to eager developers, the credit card-sized Raspberry Pi computer has sold an impressive 10 million units. It remains the UK's best-selling computer ever-and a reminder that you don't have to be a Silicon Valley heavyweight to create a successful slice of tech.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e0edc3a12b9f5aef27d0d9e9483efc84/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2015%2F11%2Frasp6-640x215.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://blogs.scientificamerican.com/life-unbounded/rocket-launches-are-surprisingly-successful/#</link>
             <guid isPermaLink="false">72560dbf-4b7a-41d4-981e-223f5c6d5d57</guid>
             <pubDate>Mon, 05 Sep 2016 21:53:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No Sailors Needed: Robot Sailboats Scour the Oceans for Data]]></title>
-            <description><![CDATA[<article><h1>No Sailors Needed: Robot Sailboats Scour the Oceans for Data</h1><p>The Saildrone's carbon fiber sail acts like an aircraft wing. When air passes over it, thrust is created. The sail is stabilized by a counterweight that is placed in front of it and a tab trailing behind it that can automatically make small corrections to make sure it maintains an efficient angle to the wind.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/61ac24ba5e6499ba02329648dabd2e7a/noop.jpg?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2016%2F08%2F31%2Fbusiness%2F00saildrone-1%2F00saildrone-1-facebookJumbo.jpg"></article>]]></description>
-            <link>http://www.nytimes.com/2016/09/05/technology/no-sailors-needed-robot-sailboats-scour-the-oceans-for-data.html?ref=technology&amp;_r=1</link>
-            <guid isPermaLink="false">670f49c1-4f0f-4ed7-8802-a729887c5a06</guid>
-            <pubDate>Mon, 05 Sep 2016 16:51:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
