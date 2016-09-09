@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 08 Sep 2016 14:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2016 06:38:44 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Sep 2016 14:18:24 GMT</pubDate>
+        <pubDate>Fri, 09 Sep 2016 06:38:43 GMT</pubDate>
+        <item>
+            <title><![CDATA[OSIRIS-REx probe launched to asteroid in compelling search for the origins of life]]></title>
+            <description><![CDATA[<article><h1>OSIRIS-REx probe launched to asteroid in compelling search for the origins of life</h1><p>Like reaching back in time to examine the conditions that existed in the ancient solar system, NASA today launched a robotic probe to visit Asteroid Bennu and return an unspoiled sample of the primitive body that may hold the seeds of life.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/dd26445b989723400ef46d92a90d557c/noop.jpg?input=http%3A%2F%2Fspaceflightnow.com%2Fwp-content%2Fuploads%2F2016%2F09%2Fav_orex_l8-1024x761.jpg"></article>]]></description>
+            <link>https://spaceflightnow.com/2016/09/09/osiris-rex-probe-launched-to-asteroid-in-compelling-search-for-the-origins-of-life/</link>
+            <guid isPermaLink="false">2a18a8c5-a77b-42f9-aa01-2ed60e8bc281</guid>
+            <pubDate>Fri, 09 Sep 2016 06:38:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Beyond the iPhone]]></title>
             <description><![CDATA[<article><h1>Beyond the iPhone</h1><p>I enjoy the writing of Farhad Manjoo, tech columnist at The New York Times, but I was prepared for the hottest of hot takes when I saw his latest column, penned just hours after Apple's latest product unveiling, was titled What's Really Missing From the New iPhone: Dazzle.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b6f23fc61b5b68800a8bd55b7f4a5255/noop.jpg?input=https%3A%2F%2Fstratechery.com%2Fwp-content%2Fuploads%2F2015%2F05%2Fher-movie-poster.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.atlasobscura.com/articles/how-to-keep-a-zibaldone-a-13thcentury-answer-to-tumblr</link>
             <guid isPermaLink="false">4ba099ec-8d75-45af-9962-9eab8c85b6f0</guid>
             <pubDate>Thu, 01 Sep 2016 21:38:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX - Static Fire Anomaly - AMOS-6]]></title>
-            <description><![CDATA[<article><h1>SpaceX - Static Fire Anomaly - AMOS-6</h1><p>Several minutes have been cut from about 10 minutes. We hope for SpaceX to have a quick recovery to flight.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/eef635ab95c3ce4121aa87d6669abf41/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F_BgJEXQkjNQ%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/_BgJEXQkjNQ</link>
-            <guid isPermaLink="false">f5ee95eb-ede1-47ba-b31a-0ab9f1248309</guid>
-            <pubDate>Thu, 01 Sep 2016 17:39:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
