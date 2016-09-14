@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 13 Sep 2016 16:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2016 19:49:57 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 13 Sep 2016 16:12:03 GMT</pubDate>
+        <pubDate>Wed, 14 Sep 2016 19:49:55 GMT</pubDate>
+        <item>
+            <title><![CDATA[AI-designed websites have arrived, so what now for WordPress?]]></title>
+            <description><![CDATA[<article><h1>AI-designed websites have arrived, so what now for WordPress?</h1><p>It still takes hours, days,and weeks to create a well-designed website – and even then, they require far more maintenance than one might expect. In the age of machine learning, space microphones that can hear gravity, and cars that can drive themselves, the process of building a website still seems so unnecessarily clunky, even some 27 years since their invention.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/31e2c98811c4268076e9430a74fd44bc/noop.jpg?input=https%3A%2F%2Fwpmastery.xyz%2Fwp-content%2Fuploads%2Fsites%2F3%2F2016%2F09%2FUsain_Bolt_winning-cropped-1024x476.jpg"></article>]]></description>
+            <link>http://wpmastery.xyz/ai-designed-websites-vs-wordpress/?utm_content=buffer26d9a&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">e21bf3f8-30dc-4e4d-be8c-93e7423198b0</guid>
+            <pubDate>Wed, 14 Sep 2016 19:49:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>SpaceX President Shotwell: We anticipate return to flight in November, meaning down for three months. Next flight from CCAFS, then to VAFB.</p>]]></description>
@@ -69,13 +76,6 @@
             <link>https://hackernoon.com/snow-crash-revisited-grokking-a-satire-of-mimesis-23de3ac05f47#.vkl6dyjin</link>
             <guid isPermaLink="false">7f6fe5b3-7508-4c65-8d2f-0fc10ff5e491</guid>
             <pubDate>Thu, 08 Sep 2016 08:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chrome plans to start highlighting Not Secure websites]]></title>
-            <description><![CDATA[<article><h1>Chrome plans to start highlighting Not Secure websites</h1><p>Chrome 55 (latest beta build available via Chrome Canary) is introducing the ability to specifically flag a HTTP website as non secure.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a38fe054d52df6f346b2f78dbcdf9192/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*Jc2NAFNeS5Ss0D_E0pqwqg.png"></article>]]></description>
-            <link>https://medium.servertastic.com/chrome-plans-to-start-highlighting-not-secure-websites-2babf35b46e6#.i5cv5yyik</link>
-            <guid isPermaLink="false">0f7a6b90-fc66-4876-ab97-0ff889feea5c</guid>
-            <pubDate>Wed, 07 Sep 2016 11:20:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
