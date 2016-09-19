@@ -4,9 +4,23 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Sep 2016 00:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2016 17:43:50 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Sep 2016 00:21:37 GMT</pubDate>
+        <pubDate>Mon, 19 Sep 2016 17:43:46 GMT</pubDate>
+        <item>
+            <title><![CDATA[I quit my job, bought an army truck, and spent 19 months circumnavigating Africa]]></title>
+            <description><![CDATA[<article><h1>I quit my job, bought an army truck, and spent 19 months circumnavigating Africa</h1><p>We decided to go with an ex-military 4x4 truck which we could convert into an off-road campervan. </p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/59e7f40fadaf9fed2916b957adc8b050/noop.jpg?input=http%3A%2F%2Fi.imgur.com%2FU0tV8cb.jpg%3Ffb"></article>]]></description>
+            <link>http://m.imgur.com/gallery/bSOKf</link>
+            <guid isPermaLink="false">d5bf085b-8aba-4dad-a5ab-eff416a64c27</guid>
+            <pubDate>Mon, 19 Sep 2016 17:43:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Snow Crash' author Neal Stephenson is hoping for weird, indie VR]]></title>
+            <description><![CDATA[<article><h1>'Snow Crash' author Neal Stephenson is hoping for weird, indie VR</h1><p>Neal Stephenson, who inspired much of the current VR industry with his novel Snow Crash, explained why he's excited about virtual reality and augmented reality - and it's for less technical reasons than you might think.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9d011dafe82da236fd94cca80056368c/noop?input=https%3A%2F%2Ftctechcrunch2011.files.wordpress.com%2F2016%2F09%2Fdisrupt_sf16_neal_stephenson-3602.jpg%26h%3D400%26crop%3D1"></article>]]></description>
+            <link>https://techcrunch.com/2016/09/13/neal-stephenson-disrupt/</link>
+            <guid isPermaLink="false">773d7635-67bf-478f-b66b-750b970ac327</guid>
+            <pubDate>Fri, 16 Sep 2016 18:32:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Theoretical design, experimental humans and pragmatic robots.]]></title>
             <description><![CDATA[<article><h1>Theoretical design, experimental humans and pragmatic robots.</h1><p>From 2013-2016 I have had somewhat of a unique opportunity as a designer. What evolved into a massive R&D project into design itself in order to help create a web builder that allows anyone to build and design a website in three minutes.</p></article>]]></description>
@@ -62,20 +76,6 @@
             <link>http://arstechnica.com/gadgets/2016/09/raspberry-pi-sales-10-million/</link>
             <guid isPermaLink="false">ace7275e-a172-4277-bf4b-7c4c23e4eb2a</guid>
             <pubDate>Fri, 09 Sep 2016 17:37:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Next Industrial Revolution Is Coming and It Could Destroy Millions of Jobs]]></title>
-            <description><![CDATA[<article><h1>The Next Industrial Revolution Is Coming and It Could Destroy Millions of Jobs</h1><p>An interview with the Economist columnist Ryan Avent on his new book about how technology will change the labor force.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ba348d4efa26d72d85c2f94d04a99acb/noop.jpg?input=https%3A%2F%2Fcdn.theatlantic.com%2Fassets%2Fmedia%2Fimg%2Fmt%2F2016%2F09%2FRTS7H6M%2Flead_960.jpg%3F1473177176"></article>]]></description>
-            <link>http://www.theatlantic.com/business/archive/2016/09/the-next-industrial-revolution/498779/</link>
-            <guid isPermaLink="false">b020edd0-7bea-49b5-b278-6086404ce7b6</guid>
-            <pubDate>Fri, 09 Sep 2016 14:08:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OSIRIS-REx probe launched to asteroid in compelling search for the origins of life]]></title>
-            <description><![CDATA[<article><h1>OSIRIS-REx probe launched to asteroid in compelling search for the origins of life</h1><p>Like reaching back in time to examine the conditions that existed in the ancient solar system, NASA today launched a robotic probe to visit Asteroid Bennu and return an unspoiled sample of the primitive body that may hold the seeds of life.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/dd26445b989723400ef46d92a90d557c/noop.jpg?input=http%3A%2F%2Fspaceflightnow.com%2Fwp-content%2Fuploads%2F2016%2F09%2Fav_orex_l8-1024x761.jpg"></article>]]></description>
-            <link>https://spaceflightnow.com/2016/09/09/osiris-rex-probe-launched-to-asteroid-in-compelling-search-for-the-origins-of-life/</link>
-            <guid isPermaLink="false">2a18a8c5-a77b-42f9-aa01-2ed60e8bc281</guid>
-            <pubDate>Fri, 09 Sep 2016 06:38:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
