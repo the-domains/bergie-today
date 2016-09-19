@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Sep 2016 17:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2016 22:02:23 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Sep 2016 17:49:23 GMT</pubDate>
+        <pubDate>Mon, 19 Sep 2016 22:02:22 GMT</pubDate>
+        <item>
+            <title><![CDATA[Live asynchronously.]]></title>
+            <description><![CDATA[<article><h1>Live asynchronously.</h1><p>We'll start by talking about how interruptions - even scheduled ones - can destroy your productivity. But first, a web comic: Did you see what happened? The boss came by and totally wrecked the developer's train of thought. And for what? To notify him that the next time he checked his email, a message would be there for him?</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7354127a0fb95f418ed4db5dee2263d8/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*7n2ErCRJKj7UOlV4_qljEw.jpeg"></article>]]></description>
+            <link>https://medium.freecodecamp.com/live-asynchronously-c8e7172fe7ea#.ifwwk54sg</link>
+            <guid isPermaLink="false">8f50f6ce-ff28-4487-b2d6-4afe2f508c33</guid>
+            <pubDate>Mon, 19 Sep 2016 22:02:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['Snow Crash' author Neal Stephenson is hoping for weird, indie VR]]></title>
             <description><![CDATA[<article><h1>'Snow Crash' author Neal Stephenson is hoping for weird, indie VR</h1><p>Neal Stephenson, who inspired much of the current VR industry with his novel Snow Crash, explained why he's excited about virtual reality and augmented reality - and it's for less technical reasons than you might think.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.wired.com/2016/09/chromebooks-totally-transform-laptop-design/</link>
             <guid isPermaLink="false">823656d3-f0ad-4a14-9a60-891aaedc2bee</guid>
             <pubDate>Fri, 09 Sep 2016 18:57:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raspberry Pi sells over 10 million computers]]></title>
-            <description><![CDATA[<article><h1>Raspberry Pi sells over 10 million computers</h1><p>Four years since it first went on sale to eager developers, the credit card-sized Raspberry Pi computer has sold an impressive 10 million units. It remains the UK's best-selling computer ever-and a reminder that you don't have to be a Silicon Valley heavyweight to create a successful slice of tech.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e0edc3a12b9f5aef27d0d9e9483efc84/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2015%2F11%2Frasp6-640x215.jpg"></article>]]></description>
-            <link>http://arstechnica.com/gadgets/2016/09/raspberry-pi-sales-10-million/</link>
-            <guid isPermaLink="false">ace7275e-a172-4277-bf4b-7c4c23e4eb2a</guid>
-            <pubDate>Fri, 09 Sep 2016 17:37:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
