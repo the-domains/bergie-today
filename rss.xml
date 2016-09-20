@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Sep 2016 22:02:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2016 07:37:14 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Sep 2016 22:02:22 GMT</pubDate>
+        <pubDate>Tue, 20 Sep 2016 07:37:13 GMT</pubDate>
+        <item>
+            <title><![CDATA[U.S. Signals Backing for Self-Driving Cars]]></title>
+            <description><![CDATA[<article><h1>U.S. Signals Backing for Self-Driving Cars</h1><p>Federal auto safety regulators on Monday made it official: They are betting the nation's highways will be safer with more cars driven by machines and not people. In long-awaited guidelines for the booming industry of automated vehicles, the Obama administration promised strong safety oversight, but sent a clear signal to automakers that the door was wide open for driverless cars.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/dc4e44b444a21f96740048d91e14c378/noop.jpg?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2016%2F09%2F20%2Fbusiness%2F20DRIVE%2F20DRIVE-facebookJumbo.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2016/09/20/technology/self-driving-cars-guidelines.html?action=Click&amp;contentCollection=BreakingNews&amp;contentID=64336911&amp;pgtype=Homepage&amp;_r=1</link>
+            <guid isPermaLink="false">04ebac3d-c646-47ed-a9bc-f45006d10a48</guid>
+            <pubDate>Tue, 20 Sep 2016 07:37:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Live asynchronously.]]></title>
             <description><![CDATA[<article><h1>Live asynchronously.</h1><p>We'll start by talking about how interruptions - even scheduled ones - can destroy your productivity. But first, a web comic: Did you see what happened? The boss came by and totally wrecked the developer's train of thought. And for what? To notify him that the next time he checked his email, a message would be there for him?</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7354127a0fb95f418ed4db5dee2263d8/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*7n2ErCRJKj7UOlV4_qljEw.jpeg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://arstechnica.com/science/2016/09/ants-are-destroying-your-plants-by-nurturing-perfect-aphid-colonies/</link>
             <guid isPermaLink="false">252c479c-ea10-4248-9518-61623b2451f4</guid>
             <pubDate>Sun, 11 Sep 2016 20:53:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the Chromebook quietly grew into the machine that's about to change the computer industry]]></title>
-            <description><![CDATA[<article><h1>How the Chromebook quietly grew into the machine that's about to change the computer industry</h1><p>Google's first Chromebook was the kind of laptop you'd design if you didn't give a damn about laptop design. It was thick, heavy, rubbery, boring, and black. Black keys, black body, black trackpad, black everything. Everything about the Cr-48 was designed to communicate that this device was still an experiment.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/be80e783fecb286d622b6ce772c034f6/noop.jpg?input=https%3A%2F%2Fwww.wired.com%2Fwp-content%2Fuploads%2F2016%2F09%2FChromeBookHP-1198x630-e1473380363289.jpg"></article>]]></description>
-            <link>https://www.wired.com/2016/09/chromebooks-totally-transform-laptop-design/</link>
-            <guid isPermaLink="false">823656d3-f0ad-4a14-9a60-891aaedc2bee</guid>
-            <pubDate>Fri, 09 Sep 2016 18:57:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
