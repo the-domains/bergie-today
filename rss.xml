@@ -4,9 +4,23 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Sep 2016 17:38:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Sep 2016 15:23:29 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Sep 2016 17:38:48 GMT</pubDate>
+        <pubDate>Thu, 22 Sep 2016 15:23:28 GMT</pubDate>
+        <item>
+            <title><![CDATA[Elon Musk's Mars colonization plans: what we know so far]]></title>
+            <description><![CDATA[<article><h1>Elon Musk's Mars colonization plans: what we know so far</h1><p>In less than a week, SpaceX's CEO Elon Musk will finally explain how he plans to colonize Mars within the next few decades. It's a goal that he has adamantly championed for years, though he hasn't given many specifics about it.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8b8b3e987f13cce1fa5146c4cbbec31a/noop.jpg?input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F7135877%2F26405462060_6ca2e18041_o.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/9/21/12891322/elon-musk-spacex-mars-colonization-mission-rocket</link>
+            <guid isPermaLink="false">4bfab5c2-c03c-450c-9257-cef14c98e9bf</guid>
+            <pubDate>Thu, 22 Sep 2016 15:23:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How We Got Here: DNA Points to a Single Migration From Africa]]></title>
+            <description><![CDATA[<article><h1>How We Got Here: DNA Points to a Single Migration From Africa</h1><p>Each team of researchers tackled different questions about our origins, such as how people spread across Africa and how others populated Australia. But all aimed to settle the controversial question of human expansion from Africa. In the 1980s, a group of paleoanthropologists and geneticists began championing a hypothesis that modern humans emerged only once from Africa, roughly 50,000 years ago.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7c2aa85c3a86f1332458327f112f71a3/noop.jpg?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2016%2F09%2F22%2Fscience%2F22ZIMMER1%2F22ZIMMER1-facebookJumbo.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2016/09/22/science/ancient-dna-human-history.html</link>
+            <guid isPermaLink="false">af2397d5-0728-4e6b-b84f-2b6b7ef25de4</guid>
+            <pubDate>Thu, 22 Sep 2016 13:49:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Search for Curves in a Rectangle World.]]></title>
             <description><![CDATA[<article><h1>The Search for Curves in a Rectangle World.</h1><p>Herein begins a small homage of the time pragmatic robots and experimental humans danced in design. A collection of posts sharing approaches, learnings and sledge hammer solutions to developing a framework of design. All in order to create the building blocks of an A.I. Designer we lovingly referred to as "Alan".</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8500ff135a3975614a71f550a208f9ac/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*puNqlQfAr5m3ppeMoOm-0g.jpeg"></article>]]></description>
@@ -62,20 +76,6 @@
             <link>http://m.imgur.com/gallery/bSOKf</link>
             <guid isPermaLink="false">d5bf085b-8aba-4dad-a5ab-eff416a64c27</guid>
             <pubDate>Mon, 19 Sep 2016 17:43:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Theoretical design, experimental humans and pragmatic robots.]]></title>
-            <description><![CDATA[<article><h1>Theoretical design, experimental humans and pragmatic robots.</h1><p>From 2013-2016 I have had somewhat of a unique opportunity as a designer. What evolved into a massive R&D project into design itself in order to help create a web builder that allows anyone to build and design a website in three minutes.</p></article>]]></description>
-            <link>https://medium.com/@lat/theoretical-design-experimental-humans-and-pragmatic-robots-9e530f08c66f#.ki6fg1x9s</link>
-            <guid isPermaLink="false">87f4d308-c5f6-4450-8db3-04d6635e34b2</guid>
-            <pubDate>Fri, 16 Sep 2016 00:21:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Elon Musk: How to Build the Future]]></title>
-            <description><![CDATA[<article><h1>Elon Musk: How to Build the Future</h1><p>This interview with Elon Musk is from Y Combinator's How to Build the Future series</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/71cadf29ad206c61e871cf6d8d423c42/noop.jpg?input=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtnBQmEqBCY0%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/shared?ci=Zw1zbKl5oG4</link>
-            <guid isPermaLink="false">9a8407bf-85f3-4af4-bf71-7d2e40e74a9a</guid>
-            <pubDate>Thu, 15 Sep 2016 23:58:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
