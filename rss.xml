@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Sep 2016 14:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2016 14:41:49 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 23 Sep 2016 14:39:49 GMT</pubDate>
+        <pubDate>Fri, 23 Sep 2016 14:41:46 GMT</pubDate>
+        <item>
+            <title><![CDATA[When a Magician Wants a Website]]></title>
+            <description><![CDATA[<article><h1>When a Magician Wants a Website</h1><p>A.I. Web Design Explained Like You're Six Years Old. When a magician wants a website, she'll have to create some content. So she'll shoot some photos and videos, gather testimonials and write a little about herself and her act.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/697b6dfb1c4c10fd7837a4700ab6aea5/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*dOPYcAgInYxv4CJ38rRLoA.png"></article>]]></description>
+            <link>https://medium.com/@narrowd/when-a-magician-wants-a-website-b996e5a765ef#.9kjao13ew</link>
+            <guid isPermaLink="false">0081f118-1c1a-4cc6-bf07-b542180494f3</guid>
+            <pubDate>Fri, 23 Sep 2016 14:41:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Distributed Apps with IPFS (Juan Benet)]]></title>
             <description><![CDATA[<article><h1>Distributed Apps with IPFS (Juan Benet)</h1><p>The InterPlanetary File System (IPFS) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open. IPFS enables completely decentralized and distributed apps. And it now supports fully dynamic apps, like real-time chat!</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/85fe0ed2301fed8e8fac556519a2be56/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FjONZtXMu03w%2Fmaxresdefault.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.nytimes.com/2016/09/20/technology/self-driving-cars-guidelines.html?action=Click&amp;contentCollection=BreakingNews&amp;contentID=64336911&amp;pgtype=Homepage&amp;_r=1</link>
             <guid isPermaLink="false">04ebac3d-c646-47ed-a9bc-f45006d10a48</guid>
             <pubDate>Tue, 20 Sep 2016 07:37:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live asynchronously.]]></title>
-            <description><![CDATA[<article><h1>Live asynchronously.</h1><p>We'll start by talking about how interruptions - even scheduled ones - can destroy your productivity. But first, a web comic: Did you see what happened? The boss came by and totally wrecked the developer's train of thought. And for what? To notify him that the next time he checked his email, a message would be there for him?</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7354127a0fb95f418ed4db5dee2263d8/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*7n2ErCRJKj7UOlV4_qljEw.jpeg"></article>]]></description>
-            <link>https://medium.freecodecamp.com/live-asynchronously-c8e7172fe7ea#.ifwwk54sg</link>
-            <guid isPermaLink="false">8f50f6ce-ff28-4487-b2d6-4afe2f508c33</guid>
-            <pubDate>Mon, 19 Sep 2016 22:02:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
