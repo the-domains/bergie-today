@@ -4,9 +4,23 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Sep 2016 15:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2016 14:39:51 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Sep 2016 15:23:28 GMT</pubDate>
+        <pubDate>Fri, 23 Sep 2016 14:39:49 GMT</pubDate>
+        <item>
+            <title><![CDATA[Distributed Apps with IPFS (Juan Benet)]]></title>
+            <description><![CDATA[<article><h1>Distributed Apps with IPFS (Juan Benet)</h1><p>The InterPlanetary File System (IPFS) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open. IPFS enables completely decentralized and distributed apps. And it now supports fully dynamic apps, like real-time chat!</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/85fe0ed2301fed8e8fac556519a2be56/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FjONZtXMu03w%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/jONZtXMu03w</link>
+            <guid isPermaLink="false">0f949e42-02bb-49c6-9fe3-3a11d326ff8d</guid>
+            <pubDate>Fri, 23 Sep 2016 14:39:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The MIT License, Line by Line]]></title>
+            <description><![CDATA[<article><h1>The MIT License, Line by Line</h1><p>The MIT License is the most popular open-source software license. Here's one read of it, line by line. If you're involved in open-source software and haven't taken the time to read the license from top to bottom-it's only 171 words-you need to do so now. Especially if licenses aren't your day-to-day.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/efa328df35891211ce76d677b99c658a/noop.png?input=https%3A%2F%2Fwriting.kemitchell.com%2Fplaceholder.png"></article>]]></description>
+            <link>https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html</link>
+            <guid isPermaLink="false">880d9181-2524-4011-b2b8-d1f0443cb67c</guid>
+            <pubDate>Fri, 23 Sep 2016 10:10:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Elon Musk's Mars colonization plans: what we know so far]]></title>
             <description><![CDATA[<article><h1>Elon Musk's Mars colonization plans: what we know so far</h1><p>In less than a week, SpaceX's CEO Elon Musk will finally explain how he plans to colonize Mars within the next few decades. It's a goal that he has adamantly championed for years, though he hasn't given many specifics about it.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8b8b3e987f13cce1fa5146c4cbbec31a/noop.jpg?input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F7135877%2F26405462060_6ca2e18041_o.0.jpg"></article>]]></description>
@@ -62,20 +76,6 @@
             <link>https://medium.freecodecamp.com/live-asynchronously-c8e7172fe7ea#.ifwwk54sg</link>
             <guid isPermaLink="false">8f50f6ce-ff28-4487-b2d6-4afe2f508c33</guid>
             <pubDate>Mon, 19 Sep 2016 22:02:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Snow Crash' author Neal Stephenson is hoping for weird, indie VR]]></title>
-            <description><![CDATA[<article><h1>'Snow Crash' author Neal Stephenson is hoping for weird, indie VR</h1><p>Neal Stephenson, who inspired much of the current VR industry with his novel Snow Crash, explained why he's excited about virtual reality and augmented reality - and it's for less technical reasons than you might think.</p></article>]]></description>
-            <link>https://techcrunch.com/2016/09/13/neal-stephenson-disrupt/</link>
-            <guid isPermaLink="false">773d7635-67bf-478f-b66b-750b970ac327</guid>
-            <pubDate>Mon, 19 Sep 2016 17:49:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I quit my job, bought an army truck, and spent 19 months circumnavigating Africa]]></title>
-            <description><![CDATA[<article><h1>I quit my job, bought an army truck, and spent 19 months circumnavigating Africa</h1><p>We decided to go with an ex-military 4x4 truck which we could convert into an off-road campervan. </p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/59e7f40fadaf9fed2916b957adc8b050/noop.jpg?input=http%3A%2F%2Fi.imgur.com%2FU0tV8cb.jpg%3Ffb"></article>]]></description>
-            <link>http://m.imgur.com/gallery/bSOKf</link>
-            <guid isPermaLink="false">d5bf085b-8aba-4dad-a5ab-eff416a64c27</guid>
-            <pubDate>Mon, 19 Sep 2016 17:43:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
