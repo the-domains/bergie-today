@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Sep 2016 14:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Sep 2016 13:53:58 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 23 Sep 2016 14:41:46 GMT</pubDate>
+        <pubDate>Sat, 24 Sep 2016 13:53:57 GMT</pubDate>
+        <item>
+            <title><![CDATA[How an Imaginary Island Stayed on Maps for Five Centuries]]></title>
+            <description><![CDATA[<article><h1>How an Imaginary Island Stayed on Maps for Five Centuries</h1><p>A tiny blot of a landmass off the western coast of Ireland is curiously labeled "Imaginary Isle of O Brazil" on cartographer Thomas Jefferys's 1768 "Chart of the Atlantic Ocean." A 21st-century viewer might wonder: why include a fictional island on a map</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6bed2f1dff37e596a5edb814449e04a1/noop.jpg?input=http%3A%2F%2Fhyperallergic.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fhybrasilinstallation.jpg"></article>]]></description>
+            <link>http://hyperallergic.com/316836/how-an-imaginary-island-stayed-on-maps-for-five-centuries/</link>
+            <guid isPermaLink="false">3764e553-729a-4d8b-9669-94b58da1ce8c</guid>
+            <pubDate>Sat, 24 Sep 2016 13:53:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[When a Magician Wants a Website]]></title>
             <description><![CDATA[<article><h1>When a Magician Wants a Website</h1><p>A.I. Web Design Explained Like You're Six Years Old. When a magician wants a website, she'll have to create some content. So she'll shoot some photos and videos, gather testimonials and write a little about herself and her act.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/697b6dfb1c4c10fd7837a4700ab6aea5/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*dOPYcAgInYxv4CJ38rRLoA.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://vimeo.com/74338272</link>
             <guid isPermaLink="false">e8c26346-a14c-47c9-90e3-e471727aa698</guid>
             <pubDate>Tue, 20 Sep 2016 14:22:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Signals Backing for Self-Driving Cars]]></title>
-            <description><![CDATA[<article><h1>U.S. Signals Backing for Self-Driving Cars</h1><p>Federal auto safety regulators on Monday made it official: They are betting the nation's highways will be safer with more cars driven by machines and not people. In long-awaited guidelines for the booming industry of automated vehicles, the Obama administration promised strong safety oversight, but sent a clear signal to automakers that the door was wide open for driverless cars.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/dc4e44b444a21f96740048d91e14c378/noop.jpg?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2016%2F09%2F20%2Fbusiness%2F20DRIVE%2F20DRIVE-facebookJumbo.jpg"></article>]]></description>
-            <link>http://www.nytimes.com/2016/09/20/technology/self-driving-cars-guidelines.html?action=Click&amp;contentCollection=BreakingNews&amp;contentID=64336911&amp;pgtype=Homepage&amp;_r=1</link>
-            <guid isPermaLink="false">04ebac3d-c646-47ed-a9bc-f45006d10a48</guid>
-            <pubDate>Tue, 20 Sep 2016 07:37:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
