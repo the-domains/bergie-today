@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 24 Sep 2016 13:53:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Sep 2016 22:42:27 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 24 Sep 2016 13:53:57 GMT</pubDate>
+        <pubDate>Sat, 24 Sep 2016 22:42:26 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Exact Moment When People Stopped Talking on the Phone]]></title>
+            <description><![CDATA[<article><h1>The Exact Moment When People Stopped Talking on the Phone</h1><p>When Slate was founded in 1996, people all over the world spent much of their day speaking into telephones. In 2016, as celebrates its 20th birthday, the phone call is a thing of the past. Not entirely of the past, of course; phone conversation lives on in roughly the same way that swing dancing lives on, or Latin declension, or manual transmission.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e91482a050b56cb2883f17c21ade85ce/noop.png?input=http%3A%2F%2Fwww.slate.com%2Fcontent%2Fdam%2Fslate%2Farticles%2Farts%2Fthe_next_20%2F2016%2F09%2F160919_NEXT20_TextMsgs.png.CROP.cq5dam_web_1280_1280_png.png"></article>]]></description>
+            <link>http://www.slate.com/articles/life/the_next_20/2016/09/what_s_lost_when_telephone_calls_disappear.html</link>
+            <guid isPermaLink="false">4c31d564-a780-4112-96ca-ffacff0a2002</guid>
+            <pubDate>Sat, 24 Sep 2016 22:42:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How an Imaginary Island Stayed on Maps for Five Centuries]]></title>
             <description><![CDATA[<article><h1>How an Imaginary Island Stayed on Maps for Five Centuries</h1><p>A tiny blot of a landmass off the western coast of Ireland is curiously labeled "Imaginary Isle of O Brazil" on cartographer Thomas Jefferys's 1768 "Chart of the Atlantic Ocean." A 21st-century viewer might wonder: why include a fictional island on a map</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6bed2f1dff37e596a5edb814449e04a1/noop.jpg?input=http%3A%2F%2Fhyperallergic.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fhybrasilinstallation.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.spacex.com/mars</link>
             <guid isPermaLink="false">c77a2e63-38f5-489d-a6d7-0549960ffb08</guid>
             <pubDate>Wed, 21 Sep 2016 08:57:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jason Cohen - Designing the Ideal Bootstrapped Business]]></title>
-            <description><![CDATA[<article><h1>Jason Cohen - Designing the Ideal Bootstrapped Business</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/97940f236f1bc7333edfdd502dc11d8b/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F461212317_1280x720.jpg"></article>]]></description>
-            <link>https://vimeo.com/74338272</link>
-            <guid isPermaLink="false">e8c26346-a14c-47c9-90e3-e471727aa698</guid>
-            <pubDate>Tue, 20 Sep 2016 14:22:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
