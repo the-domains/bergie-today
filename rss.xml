@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 24 Sep 2016 22:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Sep 2016 13:51:03 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 24 Sep 2016 22:42:26 GMT</pubDate>
+        <pubDate>Sun, 25 Sep 2016 13:51:01 GMT</pubDate>
+        <item>
+            <title><![CDATA[Pitch: "Berlin as a Startup City"]]></title>
+            <description><![CDATA[<article><h1>Pitch: "Berlin as a Startup City"</h1><p>Join our pitch competition and reply with a pitch for your own city: www.startupcitypitch.com! At 4YFN startup conference in Barcelona (Feb 2016), 10 cities pitched in front of a startup audience, trying to answer the question: Which European city should you found your startup in?</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/08f9865af138273062603b237e21a9a3/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fe22vY4CWpEI%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/e22vY4CWpEI</link>
+            <guid isPermaLink="false">c3986832-327d-4ec2-9ed3-5bb682472b4f</guid>
+            <pubDate>Sun, 25 Sep 2016 13:51:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Exact Moment When People Stopped Talking on the Phone]]></title>
             <description><![CDATA[<article><h1>The Exact Moment When People Stopped Talking on the Phone</h1><p>When Slate was founded in 1996, people all over the world spent much of their day speaking into telephones. In 2016, as celebrates its 20th birthday, the phone call is a thing of the past. Not entirely of the past, of course; phone conversation lives on in roughly the same way that swing dancing lives on, or Latin declension, or manual transmission.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e91482a050b56cb2883f17c21ade85ce/noop.png?input=http%3A%2F%2Fwww.slate.com%2Fcontent%2Fdam%2Fslate%2Farticles%2Farts%2Fthe_next_20%2F2016%2F09%2F160919_NEXT20_TextMsgs.png.CROP.cq5dam_web_1280_1280_png.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://research.googleblog.com/2016/09/the-280-year-old-algorithm-inside.html</link>
             <guid isPermaLink="false">36b07398-044c-44d1-b834-65d412b19746</guid>
             <pubDate>Wed, 21 Sep 2016 15:50:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mars]]></title>
-            <description><![CDATA[<article><h1>Mars</h1><p>Making humans an interplanetary species. Livestream on September 27th</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7283b7687ad76c8707b19258bde6d2312ac25d3a.jpg"></article>]]></description>
-            <link>http://www.spacex.com/mars</link>
-            <guid isPermaLink="false">c77a2e63-38f5-489d-a6d7-0549960ffb08</guid>
-            <pubDate>Wed, 21 Sep 2016 08:57:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
