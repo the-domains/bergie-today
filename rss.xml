@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 25 Sep 2016 13:51:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Sep 2016 09:33:15 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 25 Sep 2016 13:51:01 GMT</pubDate>
+        <pubDate>Mon, 26 Sep 2016 09:33:14 GMT</pubDate>
+        <item>
+            <title><![CDATA[Sweden Wants To Fight Our Disposable Culture With Tax Breaks For Repairing Old Stuff]]></title>
+            <description><![CDATA[<article><h1>Sweden Wants To Fight Our Disposable Culture With Tax Breaks For Repairing Old Stuff</h1><p>How often have you taken a gadget or a pair of shoes in for repair and found out that fixing it will cost more than buying a new version? Too often, that's how often.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0b8a8513c2c336d643b4f9860ccb4e72/noop.jpg?input=https%3A%2F%2Fa.fastcompany.net%2Fmultisite_files%2Ffastcompany%2Fimagecache%2Finline-large%2Finline%2F2016%2F09%2F3063935-inline-i-1-sweden-will-give-tax-breaks-for-repairing-your-old-stuff.jpg"></article>]]></description>
+            <link>https://www.fastcoexist.com/3063935/sweden-wants-to-fight-our-disposable-culture-with-tax-breaks-for-repairing-old-stuff</link>
+            <guid isPermaLink="false">c8defd59-cc7d-49d3-a5ff-8bb99a93a96e</guid>
+            <pubDate>Mon, 26 Sep 2016 09:33:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pitch: "Berlin as a Startup City"]]></title>
             <description><![CDATA[<article><h1>Pitch: "Berlin as a Startup City"</h1><p>Join our pitch competition and reply with a pitch for your own city: www.startupcitypitch.com! At 4YFN startup conference in Barcelona (Feb 2016), 10 cities pitched in front of a startup audience, trying to answer the question: Which European city should you found your startup in?</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/08f9865af138273062603b237e21a9a3/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fe22vY4CWpEI%2Fmaxresdefault.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://medium.com/@lat/the-search-for-curves-in-a-rectangle-world-a633f00509a4#.ru8wk5xsk</link>
             <guid isPermaLink="false">6e95f5eb-e0f4-49e1-b88a-0af302cd3f55</guid>
             <pubDate>Wed, 21 Sep 2016 17:38:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 280-Year-Old Algorithm Inside Google Trips]]></title>
-            <description><![CDATA[<article><h1>The 280-Year-Old Algorithm Inside Google Trips</h1><p>Algorithms Engineering is a lot of fun because algorithms do not go out of fashion: one never knows when an oldie-but-goodie might come in handy. Case in point: Yesterday, Google announced Google Trips, a new app to assist you in your travels by helping you create your own "perfect day" in a city.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8319af50b8c2e22b6b2ef10583a90a8b/croprotate.png?cropheight=263&cropwidth=640&degrees=0&input=https%3A%2F%2F3.bp.blogspot.com%2F-y_t6IG5RMuE%2FV-Flb6RQktI%2FAAAAAAAABN4%2F91je5cQumFcOI5bgJIliDkk3tX3MoPoAgCLcB%2Fs640%2Fimage01.png&x=0&y=7"></article>]]></description>
-            <link>https://research.googleblog.com/2016/09/the-280-year-old-algorithm-inside.html</link>
-            <guid isPermaLink="false">36b07398-044c-44d1-b834-65d412b19746</guid>
-            <pubDate>Wed, 21 Sep 2016 15:50:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
