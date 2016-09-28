@@ -4,9 +4,30 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Sep 2016 09:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2016 14:51:24 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 Sep 2016 09:42:25 GMT</pubDate>
+        <pubDate>Wed, 28 Sep 2016 14:50:42 GMT</pubDate>
+        <item>
+            <title><![CDATA[Musk's Mars moment: Audacity, madness, brilliance-or maybe all three]]></title>
+            <description><![CDATA[<article><h1>Musk's Mars moment: Audacity, madness, brilliance-or maybe all three</h1><p>Elon Musk finally did it. Fourteen years after founding SpaceX, and nine months after promising to reveal details about his plans to colonize Mars, the tech mogul made good on that promise Tuesday afternoon in Guadalajara, Mexico.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6762153860b4a97d74ea86742f4d3253/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F09%2Fmars11-760x380.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2016/09/musks-mars-moment-audacity-madness-brilliance-or-maybe-all-three/</link>
+            <guid isPermaLink="false">f2fc2e2b-84d6-46dc-a6b8-d862aa6d776d</guid>
+            <pubDate>Wed, 28 Sep 2016 14:50:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Making Humans a Multiplanetary Species]]></title>
+            <description><![CDATA[<article><h1>Making Humans a Multiplanetary Species</h1><p>SpaceX Founder, CEO, and Lead Designer Elon Musk will discuss the long-term technical challenges that need to be solved to support the creation of a permanent, self-sustaining human presence on Mars. The technical presentation will focus on potential architectures for sustaining humans on the Red Planet that industry, government and the scientific community can collaborate on in the years ahead.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c551558f2863b625b5354f76d49643c1/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FA1YxNYiyALg%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/A1YxNYiyALg</link>
+            <guid isPermaLink="false">abb25163-9b08-4e5d-82f2-118befc7c1a2</guid>
+            <pubDate>Tue, 27 Sep 2016 21:48:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hubble finds additional evidence of water vapor plumes on Europa]]></title>
+            <description><![CDATA[<article><h1>Hubble finds additional evidence of water vapor plumes on Europa</h1><p>In the seminal science fiction series Space Odyssey, novelist Arthur C. Clarke called attention to the Jovian moon Europa's special place in the Solar System. At the end of the series' second novel, 2010: Odyssey Two, a spaceship sent to the Jupiter system receives a message from aliens: "All these worlds are yours except Europa. Attempt no landing there."</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3e345235fecaddf3de3eab13f8e9f9fd/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F09%2Feuropa10a-art-926x1200-160922-800x705.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2016/09/hubble-finds-additional-evidence-of-water-vapor-plumes-on-europa/</link>
+            <guid isPermaLink="false">3e7dd46e-2011-4d08-affb-6de325065b1e</guid>
+            <pubDate>Tue, 27 Sep 2016 14:41:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Software That Writes And Evolves Software]]></title>
             <description><![CDATA[<article><h1>Software That Writes And Evolves Software</h1><p>I've been quiet lately, largely because I've been writing a lot of code. Today, I'm delighted to start talking about some of what we've been working on at Atomist. You may have seen Jessica Kerr's excellent elm-conf presentation on creating and editing Elm projects with Atomist.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6a471fea1dde77e0a63db3fd9766e959/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*h-PYRwBgkUd5NL-OU4DwpQ.png"></article>]]></description>
@@ -55,27 +76,6 @@
             <link>https://youtu.be/jONZtXMu03w</link>
             <guid isPermaLink="false">0f949e42-02bb-49c6-9fe3-3a11d326ff8d</guid>
             <pubDate>Fri, 23 Sep 2016 14:39:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The MIT License, Line by Line]]></title>
-            <description><![CDATA[<article><h1>The MIT License, Line by Line</h1><p>The MIT License is the most popular open-source software license. Here's one read of it, line by line. If you're involved in open-source software and haven't taken the time to read the license from top to bottom-it's only 171 words-you need to do so now. Especially if licenses aren't your day-to-day.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/efa328df35891211ce76d677b99c658a/noop.png?input=https%3A%2F%2Fwriting.kemitchell.com%2Fplaceholder.png"></article>]]></description>
-            <link>https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html</link>
-            <guid isPermaLink="false">880d9181-2524-4011-b2b8-d1f0443cb67c</guid>
-            <pubDate>Fri, 23 Sep 2016 10:10:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Elon Musk's Mars colonization plans: what we know so far]]></title>
-            <description><![CDATA[<article><h1>Elon Musk's Mars colonization plans: what we know so far</h1><p>In less than a week, SpaceX's CEO Elon Musk will finally explain how he plans to colonize Mars within the next few decades. It's a goal that he has adamantly championed for years, though he hasn't given many specifics about it.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8b8b3e987f13cce1fa5146c4cbbec31a/noop.jpg?input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F7135877%2F26405462060_6ca2e18041_o.0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/9/21/12891322/elon-musk-spacex-mars-colonization-mission-rocket</link>
-            <guid isPermaLink="false">4bfab5c2-c03c-450c-9257-cef14c98e9bf</guid>
-            <pubDate>Thu, 22 Sep 2016 15:23:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How We Got Here: DNA Points to a Single Migration From Africa]]></title>
-            <description><![CDATA[<article><h1>How We Got Here: DNA Points to a Single Migration From Africa</h1><p>Each team of researchers tackled different questions about our origins, such as how people spread across Africa and how others populated Australia. But all aimed to settle the controversial question of human expansion from Africa. In the 1980s, a group of paleoanthropologists and geneticists began championing a hypothesis that modern humans emerged only once from Africa, roughly 50,000 years ago.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7c2aa85c3a86f1332458327f112f71a3/noop.jpg?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2016%2F09%2F22%2Fscience%2F22ZIMMER1%2F22ZIMMER1-facebookJumbo.jpg"></article>]]></description>
-            <link>http://www.nytimes.com/2016/09/22/science/ancient-dna-human-history.html</link>
-            <guid isPermaLink="false">af2397d5-0728-4e6b-b84f-2b6b7ef25de4</guid>
-            <pubDate>Thu, 22 Sep 2016 13:49:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
