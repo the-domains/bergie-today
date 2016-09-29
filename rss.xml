@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 28 Sep 2016 21:00:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2016 10:55:30 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Sep 2016 21:00:08 GMT</pubDate>
+        <pubDate>Thu, 29 Sep 2016 10:55:21 GMT</pubDate>
+        <item>
+            <title><![CDATA[Facebook, Amazon, Google, IBM, and Microsoft come together to create historic Partnership on AI]]></title>
+            <description><![CDATA[<article><h1>Facebook, Amazon, Google, IBM, and Microsoft come together to create historic Partnership on AI</h1><p>The world's largest technology companies hold the keys to some of the largest databases on our planet. Much like goods and coins before it, data is becoming an important currency for the modern world. The data's value is rooted in its applications to artificial intelligence. Whomever owns the data, effectively owns AI.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f43370793058189d07fa1256fa2238a3/noop?input=https%3A%2F%2Ftctechcrunch2011.files.wordpress.com%2F2016%2F09%2Fai-competitors.jpg%26h%3D400%26crop%3D1"></article>]]></description>
+            <link>https://techcrunch.com/2016/09/28/facebook-amazon-google-ibm-and-microsoft-come-together-to-create-historic-partnership-on-ai/</link>
+            <guid isPermaLink="false">87179e89-c3eb-4615-826a-00c6a68634b8</guid>
+            <pubDate>Thu, 29 Sep 2016 10:55:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SpaceX's Big Fucking Rocket - The Full Story]]></title>
             <description><![CDATA[<article><h1>SpaceX's Big Fucking Rocket - The Full Story</h1><p>Yesterday, Elon Musk got on stage at the 2016 International Astronautical Congress and unveiled the first real details about the big fucking rocket they're making.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4e30044bc3866d8c8094e617d21848b7/croprotate.jpg?cropheight=3084&cropwidth=5245&degrees=0&input=http%3A%2F%2F28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com%2Fwp-content%2Fuploads%2F2016%2F09%2FBFR-field-2-1.jpg&x=0&y=0"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.slate.com/articles/life/the_next_20/2016/09/what_s_lost_when_telephone_calls_disappear.html</link>
             <guid isPermaLink="false">4c31d564-a780-4112-96ca-ffacff0a2002</guid>
             <pubDate>Sat, 24 Sep 2016 22:42:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How an Imaginary Island Stayed on Maps for Five Centuries]]></title>
-            <description><![CDATA[<article><h1>How an Imaginary Island Stayed on Maps for Five Centuries</h1><p>A tiny blot of a landmass off the western coast of Ireland is curiously labeled "Imaginary Isle of O Brazil" on cartographer Thomas Jefferys's 1768 "Chart of the Atlantic Ocean." A 21st-century viewer might wonder: why include a fictional island on a map</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6bed2f1dff37e596a5edb814449e04a1/noop.jpg?input=http%3A%2F%2Fhyperallergic.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fhybrasilinstallation.jpg"></article>]]></description>
-            <link>http://hyperallergic.com/316836/how-an-imaginary-island-stayed-on-maps-for-five-centuries/</link>
-            <guid isPermaLink="false">3764e553-729a-4d8b-9669-94b58da1ce8c</guid>
-            <pubDate>Sat, 24 Sep 2016 13:53:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
