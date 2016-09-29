@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Sep 2016 10:55:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2016 10:56:08 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Sep 2016 10:55:21 GMT</pubDate>
+        <pubDate>Thu, 29 Sep 2016 10:56:07 GMT</pubDate>
+        <item>
+            <title><![CDATA[14,000-year-old campsite in Argentina adds to an archaeological mystery]]></title>
+            <description><![CDATA[<article><h1>14,000-year-old campsite in Argentina adds to an archaeological mystery</h1><p>For over a decade, evidence has been piling up that humans colonized the Americas thousands of years before the Clovis people. The Clovis, who are the early ancestors of today's Native Americans, left abundant evidence of their lives behind in the form of tools and graves.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1c1bf6a70647adf8c862afc567d538e6/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F09%2FCcQnEwzWIAA7a8T-653x380.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2016/09/14000-year-old-campsite-in-argentina-adds-to-an-archaeological-mystery/</link>
+            <guid isPermaLink="false">e5544f1d-0748-4a48-96a0-b07fbc3178fd</guid>
+            <pubDate>Thu, 29 Sep 2016 10:56:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Facebook, Amazon, Google, IBM, and Microsoft come together to create historic Partnership on AI]]></title>
             <description><![CDATA[<article><h1>Facebook, Amazon, Google, IBM, and Microsoft come together to create historic Partnership on AI</h1><p>The world's largest technology companies hold the keys to some of the largest databases on our planet. Much like goods and coins before it, data is becoming an important currency for the modern world. The data's value is rooted in its applications to artificial intelligence. Whomever owns the data, effectively owns AI.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f43370793058189d07fa1256fa2238a3/noop?input=https%3A%2F%2Ftctechcrunch2011.files.wordpress.com%2F2016%2F09%2Fai-competitors.jpg%26h%3D400%26crop%3D1"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/e22vY4CWpEI</link>
             <guid isPermaLink="false">c3986832-327d-4ec2-9ed3-5bb682472b4f</guid>
             <pubDate>Sun, 25 Sep 2016 13:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Exact Moment When People Stopped Talking on the Phone]]></title>
-            <description><![CDATA[<article><h1>The Exact Moment When People Stopped Talking on the Phone</h1><p>When Slate was founded in 1996, people all over the world spent much of their day speaking into telephones. In 2016, as celebrates its 20th birthday, the phone call is a thing of the past. Not entirely of the past, of course; phone conversation lives on in roughly the same way that swing dancing lives on, or Latin declension, or manual transmission.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e91482a050b56cb2883f17c21ade85ce/noop.png?input=http%3A%2F%2Fwww.slate.com%2Fcontent%2Fdam%2Fslate%2Farticles%2Farts%2Fthe_next_20%2F2016%2F09%2F160919_NEXT20_TextMsgs.png.CROP.cq5dam_web_1280_1280_png.png"></article>]]></description>
-            <link>http://www.slate.com/articles/life/the_next_20/2016/09/what_s_lost_when_telephone_calls_disappear.html</link>
-            <guid isPermaLink="false">4c31d564-a780-4112-96ca-ffacff0a2002</guid>
-            <pubDate>Sat, 24 Sep 2016 22:42:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
