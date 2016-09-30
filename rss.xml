@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Sep 2016 22:01:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2016 09:18:07 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Sep 2016 22:00:02 GMT</pubDate>
+        <pubDate>Fri, 30 Sep 2016 09:18:06 GMT</pubDate>
+        <item>
+            <title><![CDATA[Going to Mars is (relatively) easy; coming back is where it gets tricky]]></title>
+            <description><![CDATA[<article><h1>Going to Mars is (relatively) easy; coming back is where it gets tricky</h1><p>Elon Musk is proposing a ton of audacious things to get to Mars before the 2020s are over. But perhaps the most striking feature of his plan is the simplest. He's not just sending people to Mars; he's planning on bringing them back. At this point, every journey to Mars has been a one-way trip.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8e2ba8455f26db2a27d711f06cffb904/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F09%2FTwnPks_RkGdn_rite_full-760x380.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2016/09/going-to-mars-is-relatively-easy-coming-back-is-where-it-gets-tricky/</link>
+            <guid isPermaLink="false">20d8e0c0-f6e4-4894-b3e8-e8979becbd46</guid>
+            <pubDate>Fri, 30 Sep 2016 09:18:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The World Passes 400 PPM Threshold. Permanently]]></title>
             <description><![CDATA[<article><h1>The World Passes 400 PPM Threshold. Permanently</h1><p>In the centuries to come, history books will likely look back on September 2016 as a major milestone for the world's climate. At a time when atmospheric carbon dioxide is usually at its minimum, the monthly value failed to drop below 400 parts per million.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5a302a3a958129f5744aa9cad40f2546/noop.jpg?input=http%3A%2F%2Fassets.climatecentral.org%2Fimages%2Fmade%2F9_27_16_Brian_400PMM4Eva_720_492_s_c1_c_c.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.fastcoexist.com/3063935/sweden-wants-to-fight-our-disposable-culture-with-tax-breaks-for-repairing-old-stuff</link>
             <guid isPermaLink="false">c8defd59-cc7d-49d3-a5ff-8bb99a93a96e</guid>
             <pubDate>Mon, 26 Sep 2016 09:33:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pitch: "Berlin as a Startup City"]]></title>
-            <description><![CDATA[<article><h1>Pitch: "Berlin as a Startup City"</h1><p>Join our pitch competition and reply with a pitch for your own city: www.startupcitypitch.com! At 4YFN startup conference in Barcelona (Feb 2016), 10 cities pitched in front of a startup audience, trying to answer the question: Which European city should you found your startup in?</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/08f9865af138273062603b237e21a9a3/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fe22vY4CWpEI%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/e22vY4CWpEI</link>
-            <guid isPermaLink="false">c3986832-327d-4ec2-9ed3-5bb682472b4f</guid>
-            <pubDate>Sun, 25 Sep 2016 13:51:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
