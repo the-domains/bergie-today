@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 02 Oct 2016 10:31:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Oct 2016 10:33:06 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Oct 2016 10:31:42 GMT</pubDate>
+        <pubDate>Sun, 02 Oct 2016 10:33:05 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Martian's Andy Weir talks to Ars about the science of Musk's Mars vision]]></title>
+            <description><![CDATA[<article><h1>The Martian's Andy Weir talks to Ars about the science of Musk's Mars vision</h1><p>If Elon Musk has his way, humans will be going to the red planet-and soon. Over the past few days, our senior space-master Eric Berger has analyzed Musk's Interplanetary Transport System plans in detail, and our chief scientist Dr. John Timmer has examined the science of how to generate resources on Mars.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1eb7b0e6ee46ccc43cf93303db70f326/croprotate.jpg?cropheight=380&cropwidth=424&degrees=0&input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F09%2Fmars_2-760x380.jpg&x=168&y=0"></article>]]></description>
+            <link>http://arstechnica.com/the-multiverse/2016/10/the-martians-andy-weir-talks-to-ars-about-the-science-of-musks-mars-vision/</link>
+            <guid isPermaLink="false">d1aadf43-abbc-4ff3-82c0-e1f335a74709</guid>
+            <pubDate>Sun, 02 Oct 2016 10:33:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>Since Tuesday the @SpaceX comms team has been receiving hundreds of emails from people volunteering to go to Mars. So awesome.</blockquote>]]></description>
@@ -69,13 +76,6 @@
             <link>http://arstechnica.com/science/2016/09/hubble-finds-additional-evidence-of-water-vapor-plumes-on-europa/</link>
             <guid isPermaLink="false">3e7dd46e-2011-4d08-affb-6de325065b1e</guid>
             <pubDate>Tue, 27 Sep 2016 14:41:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Software That Writes And Evolves Software]]></title>
-            <description><![CDATA[<article><h1>Software That Writes And Evolves Software</h1><p>I've been quiet lately, largely because I've been writing a lot of code. Today, I'm delighted to start talking about some of what we've been working on at Atomist. You may have seen Jessica Kerr's excellent elm-conf presentation on creating and editing Elm projects with Atomist.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6a471fea1dde77e0a63db3fd9766e959/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*h-PYRwBgkUd5NL-OU4DwpQ.png"></article>]]></description>
-            <link>https://medium.com/the-composition/software-that-writes-and-evolves-software-953578a6fc36#.1j7ax8gb7</link>
-            <guid isPermaLink="false">4816a2f1-6376-44ff-bd96-95dd26c0eaa7</guid>
-            <pubDate>Mon, 26 Sep 2016 09:42:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
