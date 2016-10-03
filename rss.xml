@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 03 Oct 2016 15:59:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2016 16:02:17 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Oct 2016 15:59:56 GMT</pubDate>
+        <pubDate>Mon, 03 Oct 2016 16:02:16 GMT</pubDate>
+        <item>
+            <title><![CDATA[Eventsourcing: Why Are People Into That?]]></title>
+            <description><![CDATA[<article><h1>Eventsourcing: Why Are People Into That?</h1><p>Maybe you have come across eventsourcing fans and heard talk about “event streams”, “lossless data capture”, “Domain Driven Design” and “CQRS”. Perhaps you have developers in your organization who are trying to work that way, enthusing about the patterns and the rather elegant plumbing that sometimes goes with eventsourced solutions.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/14ec4b90237c726dd2c12c2c962b7bc7/noop.png?input=http%3A%2F%2Fadaptechsolutions.net%2Fwp-content%2Fuploads%2FCqrsEsArchitectureExample-1024x576.png"></article>]]></description>
+            <link>http://adaptechsolutions.net/eventsourcing-why-are-people-into-that/</link>
+            <guid isPermaLink="false">66ff69bc-9921-4275-9c3a-6ee7db21807f</guid>
+            <pubDate>Mon, 03 Oct 2016 16:02:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Martian's Andy Weir talks to Ars about the science of Musk's Mars vision]]></title>
             <description><![CDATA[<article><h1>The Martian's Andy Weir talks to Ars about the science of Musk's Mars vision</h1><p>If Elon Musk has his way, humans will be going to the red planet-and soon. Over the past few days, our senior space-master Eric Berger has analyzed Musk's Interplanetary Transport System plans in detail, and our chief scientist Dr. John Timmer has examined the science of how to generate resources on Mars.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1eb7b0e6ee46ccc43cf93303db70f326/croprotate.jpg?cropheight=380&cropwidth=424&degrees=0&input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F09%2Fmars_2-760x380.jpg&x=168&y=0"></article>]]></description>
