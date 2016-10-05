@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 05 Oct 2016 10:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2016 16:54:16 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Oct 2016 10:28:26 GMT</pubDate>
+        <pubDate>Wed, 05 Oct 2016 16:54:15 GMT</pubDate>
+        <item>
+            <title><![CDATA[New Shepard In-flight Escape Test]]></title>
+            <description><![CDATA[<article><h1>New Shepard In-flight Escape Test</h1><p>Live webcast of New Shepard in-flight escape test.</p></article>]]></description>
+            <link>https://youtu.be/bqUIX3Z4r3k</link>
+            <guid isPermaLink="false">187d9040-9e44-43b2-be84-5b156af386df</guid>
+            <pubDate>Wed, 05 Oct 2016 16:54:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DRAKON Editor]]></title>
             <description><![CDATA[<article><h1>DRAKON Editor</h1><p>DRAKON is a visual language for specifications from the Russian space program. DRAKON is used for capturing requirements and building software that controls spacecraft.
@@ -70,13 +77,6 @@ The rules of DRAKON are optimized to ensure easy understanding by human beings.<
             <link>http://arstechnica.com/science/2016/09/going-to-mars-is-relatively-easy-coming-back-is-where-it-gets-tricky/</link>
             <guid isPermaLink="false">20d8e0c0-f6e4-4894-b3e8-e8979becbd46</guid>
             <pubDate>Fri, 30 Sep 2016 09:18:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The World Passes 400 PPM Threshold. Permanently]]></title>
-            <description><![CDATA[<article><h1>The World Passes 400 PPM Threshold. Permanently</h1><p>In the centuries to come, history books will likely look back on September 2016 as a major milestone for the world's climate. At a time when atmospheric carbon dioxide is usually at its minimum, the monthly value failed to drop below 400 parts per million.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5a302a3a958129f5744aa9cad40f2546/noop.jpg?input=http%3A%2F%2Fassets.climatecentral.org%2Fimages%2Fmade%2F9_27_16_Brian_400PMM4Eva_720_492_s_c1_c_c.jpg"></article>]]></description>
-            <link>http://www.climatecentral.org/news/world-passes-400-ppm-threshold-permanently-20738</link>
-            <guid isPermaLink="false">baf1055c-ccec-4c92-8c90-0a891f0a95d6</guid>
-            <pubDate>Thu, 29 Sep 2016 21:59:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
