@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 05 Oct 2016 17:01:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2016 21:31:19 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Oct 2016 17:00:15 GMT</pubDate>
+        <pubDate>Thu, 06 Oct 2016 21:31:13 GMT</pubDate>
+        <item>
+            <title><![CDATA[What it's like buying a $128k side project]]></title>
+            <description><![CDATA[<article><h1>What it's like buying a $128k side project</h1><p>What's it like buying a small software business? In this post we’ll walk you through the process of buying Codetree - a side project that we believe can be a big business. We'll also describe some of the mistakes we made, and unpack our thinking during the negotiation.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6a696fad14bfc75096e738366678b010/noop.png?input=http%3A%2F%2Fblog.codetree.com%2Fimages%2Fdue-diligence-helps-find-where-the-bodies-are-buried-fb-600x315.png"></article>]]></description>
+            <link>http://blog.codetree.com/articles/what-its-like-buying-a-128k-side-project.html</link>
+            <guid isPermaLink="false">5f5f0d21-d4b0-450a-a87d-bf76015b8319</guid>
+            <pubDate>Thu, 06 Oct 2016 21:31:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Google's bold moves shake up the tech industry]]></title>
             <description><![CDATA[<article><h1>How Google's bold moves shake up the tech industry</h1><p>Intelligent, integrated hardware and software are powerful weapons.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/91f216a3c1d89b3e73b23db031fdcf02/croprotate.jpg?cropheight=4910&cropwidth=6146&degrees=0&input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F51192487%2Fapp_20bloat_Stokkete.0.jpg&x=0&y=0"></article>]]></description>
@@ -70,13 +77,6 @@ The rules of DRAKON are optimized to ensure easy understanding by human beings.<
             <link>http://arstechnica.com/the-multiverse/2016/10/the-martians-andy-weir-talks-to-ars-about-the-science-of-musks-mars-vision/</link>
             <guid isPermaLink="false">d1aadf43-abbc-4ff3-82c0-e1f335a74709</guid>
             <pubDate>Sun, 02 Oct 2016 10:33:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>Since Tuesday the @SpaceX comms team has been receiving hundreds of emails from people volunteering to go to Mars. So awesome.</blockquote>]]></description>
-            <link>https://twitter.com/DexBarton/status/781900552149999618</link>
-            <guid isPermaLink="false">046f1f5e-9c39-47e4-a638-5c5f382c8fba</guid>
-            <pubDate>Sun, 02 Oct 2016 10:31:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
