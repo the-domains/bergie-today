@@ -1,14 +1,5 @@
-name: Bergie Today
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dc0c9fe-61bd-4213-bd6a-513b80e78904.png
-layout_spectrum: 0.44813
-typography_spectrum: 0.78264
-cta: {}
-analytics:
-  google: UA-75936-17
-opengraph:
-  type: ''
-  appId: ''
+layout_spectrum: 0.4042803988925707
+typography_spectrum: 0.7246885599506705
 color:
   brandColors:
     - '#080000'
@@ -16,13 +7,22 @@ color:
     - '#bf956d'
     - '#411d0d'
     - '#926b4a'
-  brandStrength: 0.45
-  lightness: 0.5725
-  saturation: 0.375
-  rhythmicContrast: 0.5
+  brandStrength: 0.13042216264006526
+  lightness: 0.724606388921914
+  saturation: 0.4853832106186206
+  rhythmicContrast: 0.05833878976680191
+name: Bergie Today
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dc0c9fe-61bd-4213-bd6a-513b80e78904.png
+cta: {}
+analytics:
+  google: UA-75936-17
+opengraph:
+  type: ''
+  appId: ''
 purpose: []
 title: Henri Bergius
-description: "Daily Linklog. Technology, Space, History, Adventure."
+description: 'Daily Linklog. Technology, Space, History, Adventure.'
 author:
   name: Henri Bergius
   url: 'http://bergie.iki.fi'
