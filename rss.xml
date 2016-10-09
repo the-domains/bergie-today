@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 08 Oct 2016 10:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Oct 2016 14:48:24 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Oct 2016 10:13:57 GMT</pubDate>
+        <pubDate>Sun, 09 Oct 2016 14:48:22 GMT</pubDate>
+        <item>
+            <title><![CDATA[Around Alone]]></title>
+            <description><![CDATA[<article><h1>Around Alone</h1><p>On December 24, 1968, astronaut Bill Anders, lunar module pilot on the Apollo 8 mission-his first and only space flight-took a photograph. In it, the distant blue earth, half in shadow, rises above the gray curve of the moon’s surface. Anders and the other crew members, Frank Borman and Jim Lovell, were the first humans to orbit the moon. They were also the first to travel far away enough from our planet that they could look back and see it whole, a blue sphere against a void.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/22033190-0995-4b23-8d48-b696f124d265.jpg"></article>]]></description>
+            <link>http://www.laphamsquarterly.org/sea/around-alone</link>
+            <guid isPermaLink="false">c0d7b788-dfba-432c-8610-e7b4925c3e34</guid>
+            <pubDate>Sun, 09 Oct 2016 14:48:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Redesigns: Learning with You]]></title>
             <description><![CDATA[<article><h1>Redesigns: Learning with You</h1><p>One important part of working with a web designer — whether AI or human — is to be able to try different designs of your site and be able to give feedback on them. With The Grid, this works by giving your friendly AI designer Molly some guidance through reviewing the designs you’ve received and rating various aspects of them.
@@ -71,13 +78,6 @@ The rules of DRAKON are optimized to ensure easy understanding by human beings.<
             <link>http://www.wsj.com/articles/are-shipping-containers-the-future-of-farming-1465393797</link>
             <guid isPermaLink="false">f5ec1c1b-c894-4599-9a4a-63980113251c</guid>
             <pubDate>Tue, 04 Oct 2016 09:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eventsourcing: Why Are People Into That?]]></title>
-            <description><![CDATA[<article><h1>Eventsourcing: Why Are People Into That?</h1><p>Maybe you have come across eventsourcing fans and heard talk about “event streams”, “lossless data capture”, “Domain Driven Design” and “CQRS”. Perhaps you have developers in your organization who are trying to work that way, enthusing about the patterns and the rather elegant plumbing that sometimes goes with eventsourced solutions.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/14ec4b90237c726dd2c12c2c962b7bc7/noop.png?input=http%3A%2F%2Fadaptechsolutions.net%2Fwp-content%2Fuploads%2FCqrsEsArchitectureExample-1024x576.png"></article>]]></description>
-            <link>http://adaptechsolutions.net/eventsourcing-why-are-people-into-that/</link>
-            <guid isPermaLink="false">66ff69bc-9921-4275-9c3a-6ee7db21807f</guid>
-            <pubDate>Mon, 03 Oct 2016 16:02:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
