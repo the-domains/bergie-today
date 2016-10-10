@@ -14,8 +14,8 @@ keywords:
   - entirely
   - providing
 title: A decentralized web would give power back to the people online
-datePublished: '2016-10-10T10:02:58.045Z'
-dateModified: '2016-10-10T10:02:14.707Z'
+datePublished: '2016-10-10T10:06:33.510Z'
+dateModified: '2016-10-10T10:05:54.806Z'
 publisher:
   name: TechCrunch
   domain: techcrunch.com
@@ -40,4 +40,4 @@ _type: MediaObject
 _context: 'http://schema.org'
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d5fc56c-60b4-4d2f-b5e2-cdc7f8692192.jpg" /><h1>A decentralized web would give power back to the people online</h1><p>Recently, Google launched a video calling tool (yes, another one). Google Hangouts has been sidelined to Enterprise, and Google Duo is supposed to be the next big thing in video calling. So now we have Skype from Microsoft, Facetime from Apple, and Google with Duo.</p></article>
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b06b852d-d064-45be-b91a-bf854c299593.jpg" /><h1>A decentralized web would give power back to the people online</h1><p>Recently, Google launched a video calling tool (yes, another one). Google Hangouts has been sidelined to Enterprise, and Google Duo is supposed to be the next big thing in video calling. So now we have Skype from Microsoft, Facetime from Apple, and Google with Duo.</p></article>
