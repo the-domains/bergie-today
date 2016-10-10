@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 09 Oct 2016 14:48:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Oct 2016 09:12:13 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Oct 2016 14:48:22 GMT</pubDate>
+        <pubDate>Mon, 10 Oct 2016 09:12:12 GMT</pubDate>
+        <item>
+            <title><![CDATA[This is what an A.I.-powered future looks like]]></title>
+            <description><![CDATA[<article><h1>This is what an A.I.-powered future looks like</h1><p>Today, we are just beginning to scratch the surface of what is possible with artificial intelligence (A.I.) and how individuals will interact with its various forms. Every single aspect of our society -- from cars to houses to products to services -- will be reimagined and redesigned to incorporate A.I.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/22f35c8b28a8191a240cd5a8869e4d82/noop.jpg?input=http%3A%2F%2F1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com%2Fwp-content%2Fuploads%2F2016%2F09%2Fshutterstock_335493701-780x520.jpg"></article>]]></description>
+            <link>http://venturebeat.com/2016/10/07/this-is-what-an-a-i-powered-future-looks-like/</link>
+            <guid isPermaLink="false">67b31597-959d-40cc-b448-d6e45e701326</guid>
+            <pubDate>Mon, 10 Oct 2016 09:12:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Around Alone]]></title>
             <description><![CDATA[<article><h1>Around Alone</h1><p>On December 24, 1968, astronaut Bill Anders, lunar module pilot on the Apollo 8 mission-his first and only space flight-took a photograph. In it, the distant blue earth, half in shadow, rises above the gray curve of the moon’s surface. Anders and the other crew members, Frank Borman and Jim Lovell, were the first humans to orbit the moon. They were also the first to travel far away enough from our planet that they could look back and see it whole, a blue sphere against a void.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/22033190-0995-4b23-8d48-b696f124d265.jpg"></article>]]></description>
@@ -71,13 +78,6 @@ The rules of DRAKON are optimized to ensure easy understanding by human beings.<
             <link>http://www.xda-developers.com/exploring-andromeda-a-look-at-the-challenges-awaiting-googles-next-voyage/</link>
             <guid isPermaLink="false">e3a3fb96-ec1b-44c9-ae61-54b2f1cd23ce</guid>
             <pubDate>Tue, 04 Oct 2016 13:27:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are Shipping Containers the Future of Farming?]]></title>
-            <description><![CDATA[<article><h1>Are Shipping Containers the Future of Farming?</h1><p>Inside the cavernous interior of a former Boston-area taxi depot-walls covered in graffiti, pools of water on the concrete floors-three gleaming green-and-white containers sit side by side. The steel boxes are former "reefers"-refrigerated shipping containers used to transport cold goods.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2f2789b3ccd1510d5e891d0e0c00f732/noop.jpg?input=https%3A%2F%2Fsi.wsj.net%2Fpublic%2Fresources%2Fimages%2FBN-OH627_freigh_G_20160602170424.jpg"></article>]]></description>
-            <link>http://www.wsj.com/articles/are-shipping-containers-the-future-of-farming-1465393797</link>
-            <guid isPermaLink="false">f5ec1c1b-c894-4599-9a4a-63980113251c</guid>
-            <pubDate>Tue, 04 Oct 2016 09:29:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
