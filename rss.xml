@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 10 Oct 2016 09:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Oct 2016 09:33:11 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Oct 2016 09:12:12 GMT</pubDate>
+        <pubDate>Mon, 10 Oct 2016 09:33:10 GMT</pubDate>
+        <item>
+            <title><![CDATA[A decentralized web would give power back to the people online]]></title>
+            <description><![CDATA[<article><h1>A decentralized web would give power back to the people online</h1><p>Recently, Google launched a video calling tool (yes, another one). Google Hangouts has been sidelined to Enterprise, and Google Duo is supposed to be the next big thing in video calling. So now we have Skype from Microsoft, Facetime from Apple, and Google with Duo.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2c60cce85df522452067ab0907b191af/noop?input=https%3A%2F%2Ftctechcrunch2011.files.wordpress.com%2F2016%2F08%2Fgettyimages-588616024.jpg%26h%3D400%26crop%3D1"></article>]]></description>
+            <link>https://techcrunch.com/2016/10/09/a-decentralized-web-would-give-power-back-to-the-people-online/</link>
+            <guid isPermaLink="false">f2406c97-34d7-4909-a537-e529a9dab473</guid>
+            <pubDate>Mon, 10 Oct 2016 09:33:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is what an A.I.-powered future looks like]]></title>
             <description><![CDATA[<article><h1>This is what an A.I.-powered future looks like</h1><p>Today, we are just beginning to scratch the surface of what is possible with artificial intelligence (A.I.) and how individuals will interact with its various forms. Every single aspect of our society -- from cars to houses to products to services -- will be reimagined and redesigned to incorporate A.I.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/22f35c8b28a8191a240cd5a8869e4d82/noop.jpg?input=http%3A%2F%2F1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com%2Fwp-content%2Fuploads%2F2016%2F09%2Fshutterstock_335493701-780x520.jpg"></article>]]></description>
@@ -71,13 +78,6 @@ The rules of DRAKON are optimized to ensure easy understanding by human beings.<
             <link>https://medium.com/@writingben/when-roman-barbarians-met-the-asian-enlightenment-2be064d7af9b#.bfu34uwy8</link>
             <guid isPermaLink="false">339d96fe-e472-4b08-b01b-b7ed2899701c</guid>
             <pubDate>Wed, 05 Oct 2016 07:26:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exploring Andromeda: A Look at the Challenges Awaiting Google's Next Voyage]]></title>
-            <description><![CDATA[<article><h1>Exploring Andromeda: A Look at the Challenges Awaiting Google's Next Voyage</h1><p>With the of the and phones coming up, rumors abound that Google will be announcing a new platform based on Android enhanced by Chrome OS features, called . Google has already started bringing features from one to the other ( Android apps in Chrome OS, seamless updates in Android, etc.), but questions remain about how Google intends to gain market share in the laptop and convertible market.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2ee097241c4590fc4ec9b3f4ebafae93/noop.jpg?input=http%3A%2F%2Fwww1-lw.xda-cdn.com%2Ffiles%2F2016%2F09%2FAndromeda-Feature-Image.jpg"></article>]]></description>
-            <link>http://www.xda-developers.com/exploring-andromeda-a-look-at-the-challenges-awaiting-googles-next-voyage/</link>
-            <guid isPermaLink="false">e3a3fb96-ec1b-44c9-ae61-54b2f1cd23ce</guid>
-            <pubDate>Tue, 04 Oct 2016 13:27:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
