@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 10 Oct 2016 10:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Oct 2016 15:02:55 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Oct 2016 10:06:36 GMT</pubDate>
+        <pubDate>Mon, 10 Oct 2016 15:02:52 GMT</pubDate>
+        <item>
+            <title><![CDATA[Germany's Bundesrat votes to ban the internal combustion engine by 2030]]></title>
+            <description><![CDATA[<article><h1>Germany's Bundesrat votes to ban the internal combustion engine by 2030</h1><p>Is the tide turning for the internal combustion engine? Over in Germany things are starting to look that way. This is the country that invented the technology, yet late last week the Bundesrat (the federal council of all 16 German states) voted to ban gasoline- and diesel-powered vehicles by 2030.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0a799d2b7f129ceac61864cc8f7c197a/noop.jpg?input=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F10%2F8016173618_41f160956b_z-640x380.jpg"></article>]]></description>
+            <link>http://arstechnica.com/cars/2016/10/germanys-bundesrat-votes-to-ban-the-internal-combustion-engine-by-2030/</link>
+            <guid isPermaLink="false">3bf8fb12-1d84-4a1b-ad66-e04fd4c2ecef</guid>
+            <pubDate>Mon, 10 Oct 2016 15:02:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A decentralized web would give power back to the people online]]></title>
             <description><![CDATA[<article><h1>A decentralized web would give power back to the people online</h1><p>Recently, Google launched a video calling tool (yes, another one). Google Hangouts has been sidelined to Enterprise, and Google Duo is supposed to be the next big thing in video calling. So now we have Skype from Microsoft, Facetime from Apple, and Google with Duo.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b06b852d-d064-45be-b91a-bf854c299593.jpg"></article>]]></description>
@@ -71,13 +78,6 @@ The rules of DRAKON are optimized to ensure easy understanding by human beings.<
             <link>https://github.audio/</link>
             <guid isPermaLink="false">4c34cf47-6976-4de0-b741-986c17eb5121</guid>
             <pubDate>Wed, 05 Oct 2016 07:34:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When Roman "Barbarians" Met the Asian Enlightenment]]></title>
-            <description><![CDATA[<article><h1>When Roman "Barbarians" Met the Asian Enlightenment</h1><p>This week, the BBC announced the discovery of two "ethnically Chinese" skeletons at an ancient Roman burial site in England. Who were they? What drove them to the far end of the world? We don't know, yet. But for once, an article's clickbait headline may not be exaggerating.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c6f11d75e6d17dc713af532e8d58a362/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*nEvs_m4H_NM3_Km5_73Tiw.jpeg"></article>]]></description>
-            <link>https://medium.com/@writingben/when-roman-barbarians-met-the-asian-enlightenment-2be064d7af9b#.bfu34uwy8</link>
-            <guid isPermaLink="false">339d96fe-e472-4b08-b01b-b7ed2899701c</guid>
-            <pubDate>Wed, 05 Oct 2016 07:26:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
