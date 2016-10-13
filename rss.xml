@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 12 Oct 2016 09:39:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Oct 2016 08:39:35 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Oct 2016 09:38:42 GMT</pubDate>
+        <pubDate>Thu, 13 Oct 2016 08:39:34 GMT</pubDate>
+        <item>
+            <title><![CDATA[VR started with gaming-but it will take over every other industry]]></title>
+            <description><![CDATA[<article><h1>VR started with gaming-but it will take over every other industry</h1><p>View more stories "We are looking at sensory immersion. The ideal scenario with virtual reality is to get it as near to real as possible for you to maximise that environment. "From the autonomous driving point of view, it's a big thing."</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e318152c7cffc05f1f5cfd8996af7a83/noop.jpg?input=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F09%2FGettyImages-603110160-760x380.jpg"></article>]]></description>
+            <link>http://arstechnica.com/business/2016/10/vr-ar-in-business-and-industry-2/</link>
+            <guid isPermaLink="false">70ee55c5-24c2-458e-8f1a-bddbb1437e9f</guid>
+            <pubDate>Thu, 13 Oct 2016 08:39:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Going Serverless: Migrating an Express Application to Amazon API Gateway and AWS Lambda]]></title>
             <description><![CDATA[<article><h1>Going Serverless: Migrating an Express Application to Amazon API Gateway and AWS Lambda</h1><p>Amazon API Gateway recently released three new features that simplify the process of forwarding HTTP requests to your integration endpoint: greedy path variables, the ANY method, and proxy integration types. With this new functionality, it becomes incredibly easy to run HTTP applications in a serverless environment by leveraging the aws-serverless-express library.</p></article>]]></description>
@@ -70,13 +77,6 @@ Today we rolled out a feature that makes these redesigns smarter.</p><img src="h
             <link>http://www.recode.net/2016/10/5/13170890/mossberg-google-hardware-software-pixel-home-daydream-ai-phone</link>
             <guid isPermaLink="false">3f1e0bfc-9552-418c-a1f2-ee8c75de0dec</guid>
             <pubDate>Wed, 05 Oct 2016 17:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Shepard In-flight Escape Test]]></title>
-            <description><![CDATA[<article><h1>New Shepard In-flight Escape Test</h1><p>Live webcast of New Shepard in-flight escape test.</p></article>]]></description>
-            <link>https://youtu.be/bqUIX3Z4r3k</link>
-            <guid isPermaLink="false">187d9040-9e44-43b2-be84-5b156af386df</guid>
-            <pubDate>Wed, 05 Oct 2016 16:54:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
