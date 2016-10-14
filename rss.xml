@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 13 Oct 2016 08:39:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2016 16:24:50 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Oct 2016 08:39:34 GMT</pubDate>
+        <pubDate>Fri, 14 Oct 2016 16:24:46 GMT</pubDate>
+        <item>
+            <title><![CDATA[Hold Fast]]></title>
+            <description><![CDATA[<article><h1>Hold Fast</h1><p>Stories of maniac sailors, anarchist castaways, and the voyage of the S/V Pestilence.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6c87aee68092a9851d10c17616305090/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F92257337_640x360.jpg"></article>]]></description>
+            <link>https://vimeo.com/15351476</link>
+            <guid isPermaLink="false">7913b0c3-1b50-403e-87ad-da322acd4606</guid>
+            <pubDate>Fri, 14 Oct 2016 16:24:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[VR started with gaming-but it will take over every other industry]]></title>
             <description><![CDATA[<article><h1>VR started with gaming-but it will take over every other industry</h1><p>View more stories "We are looking at sensory immersion. The ideal scenario with virtual reality is to get it as near to real as possible for you to maximise that environment. "From the autonomous driving point of view, it's a big thing."</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e318152c7cffc05f1f5cfd8996af7a83/noop.jpg?input=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F09%2FGettyImages-603110160-760x380.jpg"></article>]]></description>
@@ -70,13 +77,6 @@ Today we rolled out a feature that makes these redesigns smarter.</p><img src="h
             <link>http://blog.codetree.com/articles/what-its-like-buying-a-128k-side-project.html</link>
             <guid isPermaLink="false">5f5f0d21-d4b0-450a-a87d-bf76015b8319</guid>
             <pubDate>Thu, 06 Oct 2016 21:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Google's bold moves shake up the tech industry]]></title>
-            <description><![CDATA[<article><h1>How Google's bold moves shake up the tech industry</h1><p>Intelligent, integrated hardware and software are powerful weapons.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/91f216a3c1d89b3e73b23db031fdcf02/croprotate.jpg?cropheight=4910&cropwidth=6146&degrees=0&input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F51192487%2Fapp_20bloat_Stokkete.0.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.recode.net/2016/10/5/13170890/mossberg-google-hardware-software-pixel-home-daydream-ai-phone</link>
-            <guid isPermaLink="false">3f1e0bfc-9552-418c-a1f2-ee8c75de0dec</guid>
-            <pubDate>Wed, 05 Oct 2016 17:00:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
