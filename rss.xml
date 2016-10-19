@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 19 Oct 2016 07:03:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Oct 2016 07:34:40 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Oct 2016 07:03:52 GMT</pubDate>
+        <pubDate>Wed, 19 Oct 2016 07:34:21 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Evolution of Digital Nomadics]]></title>
+            <description><![CDATA[<article><h1>The Evolution of Digital Nomadics</h1><p>In the Autumn of 1983, Steven K. Roberts pedaled off on a recumbent bicycle and pioneered a new revolution in the way people worked.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0790b8fe-d66a-4d40-bb27-dacb954027b7.png"></article>]]></description>
+            <link>http://n-o-d-e.net/post/151991252196/the-evolution-of-digital-nomadics</link>
+            <guid isPermaLink="false">a81a01df-ebbf-493f-80a1-42654ccfe776</guid>
+            <pubDate>Wed, 19 Oct 2016 07:34:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How the ExoMars spacecraft will make its way to the surface of Mars]]></title>
             <description><![CDATA[<article><h1>How the ExoMars spacecraft will make its way to the surface of Mars</h1><p>Tomorrow, two spacecraft will reach Mars after nearly seven months of traveling together through space — and they’ll both attempt to pull off two separate and incredible feats. One will put itself into orbit around the Red Planet, while the other will land on the surface, hopefully in one piece.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08ab44df-0580-4198-9ec4-74c6e365a019.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://arstechnica.com/cars/2016/10/germanys-bundesrat-votes-to-ban-the-internal-combustion-engine-by-2030/</link>
             <guid isPermaLink="false">3bf8fb12-1d84-4a1b-ad66-e04fd4c2ecef</guid>
             <pubDate>Mon, 10 Oct 2016 15:02:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A decentralized web would give power back to the people online]]></title>
-            <description><![CDATA[<article><h1>A decentralized web would give power back to the people online</h1><p>Recently, Google launched a video calling tool (yes, another one). Google Hangouts has been sidelined to Enterprise, and Google Duo is supposed to be the next big thing in video calling. So now we have Skype from Microsoft, Facetime from Apple, and Google with Duo.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b06b852d-d064-45be-b91a-bf854c299593.jpg"></article>]]></description>
-            <link>https://techcrunch.com/2016/10/09/a-decentralized-web-would-give-power-back-to-the-people-online/</link>
-            <guid isPermaLink="false">f2406c97-34d7-4909-a537-e529a9dab473</guid>
-            <pubDate>Mon, 10 Oct 2016 10:06:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
