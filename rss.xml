@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 20 Oct 2016 11:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Oct 2016 15:08:47 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Oct 2016 11:01:33 GMT</pubDate>
+        <pubDate>Thu, 20 Oct 2016 15:08:46 GMT</pubDate>
+        <item>
+            <title><![CDATA[Four Great African Empires That Astonished the World]]></title>
+            <description><![CDATA[<article><h1>Four Great African Empires That Astonished the World</h1><p>A quick scan of online message boards will tell you that worldwide awareness of African history - aside from ancient Egypt - is seriously limited, to say the least. But this knowledge gap is a fairly new phenomenon. The Pharaohs of ancient Egypt actively exchanged goods and ideas with the southern kings of Kush, who were " proud of their black faces."</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/91475b7248ef0f4f94ffee11f06ad9fb/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*x5ASCTTeigGZK9sb0VleeA.jpeg"></article>]]></description>
+            <link>https://medium.com/@writingben/four-great-african-empires-that-astonished-the-world-fd374a79f89b#.qib9b2xqo</link>
+            <guid isPermaLink="false">8dbe63b5-91b8-43f7-b638-663355cf78d3</guid>
+            <pubDate>Thu, 20 Oct 2016 15:08:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[80 Years Later, Polar Explorer's Sunken Ship Floats Again]]></title>
             <description><![CDATA[<article><h1>80 Years Later, Polar Explorer's Sunken Ship Floats Again</h1><p>For the first time in more than 80 years, the Maud is floating above the sea surface. The sturdy oak ship, made to withstand Arctic winters stuck in pack ice, was originally built for the Norwegian polar explorer Roald Amundsen, the first human to arrive at the South Pole.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/27426a8f8bf1e95f4593d1a7c72b046b/noop.jpg?input=https%3A%2F%2Fwww.scientificamerican.com%2Fsciam%2Fcache%2Ffile%2F2BF55ADC-41FB-4F6A-AFB97C29D7780C8E_agenda.jpg%3Fw%3D600%26h%3D335"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://arstechnica.com/business/2016/10/vr-ar-in-business-and-industry-2/</link>
             <guid isPermaLink="false">70ee55c5-24c2-458e-8f1a-bddbb1437e9f</guid>
             <pubDate>Thu, 13 Oct 2016 08:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Going Serverless: Migrating an Express Application to Amazon API Gateway and AWS Lambda]]></title>
-            <description><![CDATA[<article><h1>Going Serverless: Migrating an Express Application to Amazon API Gateway and AWS Lambda</h1><p>Amazon API Gateway recently released three new features that simplify the process of forwarding HTTP requests to your integration endpoint: greedy path variables, the ANY method, and proxy integration types. With this new functionality, it becomes incredibly easy to run HTTP applications in a serverless environment by leveraging the aws-serverless-express library.</p></article>]]></description>
-            <link>https://aws.amazon.com/blogs/compute/going-serverless-migrating-an-express-application-to-amazon-api-gateway-and-aws-lambda/</link>
-            <guid isPermaLink="false">633e6792-1b44-4e47-bfda-7a6ae1f36368</guid>
-            <pubDate>Wed, 12 Oct 2016 09:38:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
