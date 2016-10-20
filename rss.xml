@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 19 Oct 2016 17:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Oct 2016 11:01:35 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Oct 2016 17:35:36 GMT</pubDate>
+        <pubDate>Thu, 20 Oct 2016 11:01:33 GMT</pubDate>
+        <item>
+            <title><![CDATA[80 Years Later, Polar Explorer's Sunken Ship Floats Again]]></title>
+            <description><![CDATA[<article><h1>80 Years Later, Polar Explorer's Sunken Ship Floats Again</h1><p>For the first time in more than 80 years, the Maud is floating above the sea surface. The sturdy oak ship, made to withstand Arctic winters stuck in pack ice, was originally built for the Norwegian polar explorer Roald Amundsen, the first human to arrive at the South Pole.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/27426a8f8bf1e95f4593d1a7c72b046b/noop.jpg?input=https%3A%2F%2Fwww.scientificamerican.com%2Fsciam%2Fcache%2Ffile%2F2BF55ADC-41FB-4F6A-AFB97C29D7780C8E_agenda.jpg%3Fw%3D600%26h%3D335"></article>]]></description>
+            <link>https://www.scientificamerican.com/article/80-years-later-polar-explorer-s-sunken-ship-floats-again/</link>
+            <guid isPermaLink="false">9944ca3b-fbc8-455e-badd-7cb1d18ce915</guid>
+            <pubDate>Thu, 20 Oct 2016 11:01:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The IT Era and the Internet Revolution]]></title>
             <description><![CDATA[<article><h1>The IT Era and the Internet Revolution</h1><p>I like to say that I write about media generally and journalism specifically because the industry is a canary in the coal mine when it comes to the impact of the Internet: text shifted from newsprint to the web seamlessly, completely upending the industry's business model along the way.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/94001a75a5fbc95a8147b223dfdcf23f/noop.jpg?input=https%3A%2F%2Fstratechery.com%2Fwp-content%2Fuploads%2F2016%2F10%2Fnewspaper-copy-1024x669.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://aws.amazon.com/blogs/compute/going-serverless-migrating-an-express-application-to-amazon-api-gateway-and-aws-lambda/</link>
             <guid isPermaLink="false">633e6792-1b44-4e47-bfda-7a6ae1f36368</guid>
             <pubDate>Wed, 12 Oct 2016 09:38:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We Need to Save the Internet from the Internet of Things]]></title>
-            <description><![CDATA[<article><h1>We Need to Save the Internet from the Internet of Things</h1><p>Brian Krebs is a popular reporter on the cybersecurity beat. He regularly exposes cybercriminals and their tactics, and consequently is regularly a target of their ire. Last month, he wrote about an online attack-for-hire service that resulted in the arrest of the two proprietors.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/33fc270f6210db65796681a7ed6fb894/noop.jpg?input=http%3A%2F%2Fmotherboard-images.vice.com%2Fcontent-images%2Farticle%2F38245%2F1475782089285494.jpg"></article>]]></description>
-            <link>http://motherboard.vice.com/read/we-need-to-save-the-internet-from-the-internet-of-things</link>
-            <guid isPermaLink="false">367dd97f-0ba9-4946-a222-1d6f52efe5ae</guid>
-            <pubDate>Wed, 12 Oct 2016 08:40:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
