@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 21 Oct 2016 19:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Oct 2016 20:01:41 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Oct 2016 19:02:58 GMT</pubDate>
+        <pubDate>Fri, 21 Oct 2016 20:01:40 GMT</pubDate>
+        <item>
+            <title><![CDATA[NASA - Past and Present Dreams of the Future]]></title>
+            <description><![CDATA[<article><h1>NASA - Past and Present Dreams of the Future</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/03493a19bf48daa70f1dd4b98881634a/noop.jpg?input=http%3A%2F%2Fd1welqkpllnvag.cloudfront.net%2F2016%2F10%2F04170228%2F20160720_JSC_Robo_Rover_R2_Rev_A-1920x2400.jpg"></article>]]></description>
+            <link>http://benedictredgrove.com/nasa-past-and-present-dreams-of-the-future/</link>
+            <guid isPermaLink="false">31e682f3-9f85-4b16-bb35-67d9472f82bc</guid>
+            <pubDate>Fri, 21 Oct 2016 20:01:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DoS attack on major DNS provider brings Internet to morning crawl]]></title>
             <description><![CDATA[<article><h1>DoS attack on major DNS provider brings Internet to morning crawl</h1><p>A distributed denial of service attack against Dyn, the dynamic DNS service, affected the availability of dozens of major websites and Internet services this morning, including Twitter and Reddit. The attack, which began this morning at 7:10am Eastern Time, is apparently focused on Dyn's US East Coast name servers.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5330738c7a689d01b58b3d8bb02ebede/noop.jpg?input=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F05%2Fdns-ddos-640x215.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.theverge.com/2016/10/15/13293294/preorder-samsung-chromebook-pro-tech</link>
             <guid isPermaLink="false">efb9ec7f-3ad6-4e8e-8c9a-424a89e41421</guid>
             <pubDate>Mon, 17 Oct 2016 09:12:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All eyes on the red planet as ESA's lander prepares to hurtle towards Mars]]></title>
-            <description><![CDATA[<article><h1>All eyes on the red planet as ESA's lander prepares to hurtle towards Mars</h1><p>The moment has come. Having travelled half a billion kilometres across the solar system, a European spacecraft will release a robotic lander on Sunday and send it spinning towards Mars and a place in the history books. Mission controllers expect the Schiaparelli lander to separate from the ExoMars Trace Gas Orbiter, at 3.42pm UK time, one million kilometres from Mars.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/dc5bc1c661d64cf3757005d045241d47/noop.jpg?input=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F07bb660706bae5ef85e1cd01f451ef5b36b6d279%2F66_0_1877_1126%2Fmaster%2F1877.jpg%3Fw%3D1200%26h%3D630%26q%3D55%26auto%3Dformat%26usm%3D12%26fit%3Dcrop%26bm%3Dnormal%26ba%3Dbottom%252Cleft%26blend64%3DaHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n%26s%3Dd18cd811e3bf61303b99f1837574a20f"></article>]]></description>
-            <link>https://www.theguardian.com/science/2016/oct/14/all-eyes-on-the-red-planet-as-esas-lander-prepares-to-hurtle-towards-mars</link>
-            <guid isPermaLink="false">a8842e5b-3d75-49bf-b4d3-a2c498f59a63</guid>
-            <pubDate>Sun, 16 Oct 2016 19:38:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
