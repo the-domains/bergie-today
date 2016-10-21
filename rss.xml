@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 21 Oct 2016 20:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Oct 2016 20:41:54 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Oct 2016 20:13:15 GMT</pubDate>
+        <pubDate>Fri, 21 Oct 2016 20:41:53 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>global DNS ddos is the grownup version of a snow day. &#x2603;&#xFE0F;</blockquote>]]></description>
+            <link>https://twitter.com/bcrypt/status/789510213237895168</link>
+            <guid isPermaLink="false">9a64df27-2b5b-4686-8da7-ed0fbab599b9</guid>
+            <pubDate>Fri, 21 Oct 2016 20:41:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Internet Service Disrupted in Large Parts of Eastern U.S.]]></title>
             <description><![CDATA[<article><h1>Internet Service Disrupted in Large Parts of Eastern U.S.</h1><p>Internet service was disrupted for many people in the Eastern U.S. on Friday after a web-hosting service was attacked by hackers. Dyn Inc., a significant Domain Name Server, which facilitates the loading of web pages, said it was monitoring a DDoS, or distributed denial of service, attack.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/33a6ddfeb87ed9c3083c4c618375273e/noop.jpg?input=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiGgJ0b6rPRyE%2Fv0%2F-1x-1.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://arstechnica.com/science/2016/10/live-tonight-orbital-seeks-to-soar-two-years-after-a-dramatic-accident/</link>
             <guid isPermaLink="false">222e87ef-ed44-48da-a4b6-34c269fa1a1a</guid>
             <pubDate>Tue, 18 Oct 2016 14:29:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samsung has a new high-end Chromebook with touchscreen and stylus coming soon]]></title>
-            <description><![CDATA[<article><h1>Samsung has a new high-end Chromebook with touchscreen and stylus coming soon</h1><p>The new Chromebook comes with a variety of impressive features: a 12.3 inch 2400x1600 resolution touch screen that can rotate 360 degrees, minimal bezels, 32GB of storage, 4GB of RAM, a stylus, an all-metal 12.9 mm-thick body and 10 hours of battery time. The hardware seems to be designed with Android app support in mind.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/659aef77-c751-4436-ba6d-0e7ef5ee70df.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/10/15/13293294/preorder-samsung-chromebook-pro-tech</link>
-            <guid isPermaLink="false">efb9ec7f-3ad6-4e8e-8c9a-424a89e41421</guid>
-            <pubDate>Mon, 17 Oct 2016 09:12:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
