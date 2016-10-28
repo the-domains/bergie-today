@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 26 Oct 2016 16:54:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Oct 2016 13:14:09 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Oct 2016 16:52:54 GMT</pubDate>
+        <pubDate>Fri, 28 Oct 2016 13:14:04 GMT</pubDate>
+        <item>
+            <title><![CDATA[The future of PCs and Macs is expensive]]></title>
+            <description><![CDATA[<article><h1>The future of PCs and Macs is expensive</h1><p>The personal desktop computer used to once be an exclusive and expensive machine, though we now know it and its laptop counterpart as a mass-market commodity that most people can afford. This week,...</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/76c7c6b959a41b1d3d8ab26b2700aab9/noop.jpg?input=https%3A%2F%2Fcdn3.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F51553315%2Fv-DSC01042.0.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/10/28/13452084/microsoft-apple-new-pc-surface-macbook-prices-expensive-exclusive</link>
+            <guid isPermaLink="false">17b2ac2b-80b8-477c-9ce5-60a8c4cc03b6</guid>
+            <pubDate>Fri, 28 Oct 2016 13:14:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[West Antarctica Begins to Destabilize With 'Intense Unbalanced Melting']]></title>
             <description><![CDATA[<article><h1>West Antarctica Begins to Destabilize With 'Intense Unbalanced Melting'</h1><p>If you want to see the future of New York, Tokyo, or Mumbai, look no further than West Antarctica, where a warmer sea is turning ice into water that may be headed to your doorstep. The bottom of the world has drawn increased scrutiny from scientists over the last few years, as West Antarctic ice loss in some places shows signs of becoming " unstoppable."</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5f370fdeeb18a927659b954e0d88f06a/noop.jpg?input=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi_iibm4XEQiQ%2Fv0%2F-1x-1.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://medium.com/@writingben/four-great-african-empires-that-astonished-the-world-fd374a79f89b#.qib9b2xqo</link>
             <guid isPermaLink="false">8dbe63b5-91b8-43f7-b638-663355cf78d3</guid>
             <pubDate>Thu, 20 Oct 2016 15:08:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[80 Years Later, Polar Explorer's Sunken Ship Floats Again]]></title>
-            <description><![CDATA[<article><h1>80 Years Later, Polar Explorer's Sunken Ship Floats Again</h1><p>For the first time in more than 80 years, the Maud is floating above the sea surface. The sturdy oak ship, made to withstand Arctic winters stuck in pack ice, was originally built for the Norwegian polar explorer Roald Amundsen, the first human to arrive at the South Pole.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/27426a8f8bf1e95f4593d1a7c72b046b/noop.jpg?input=https%3A%2F%2Fwww.scientificamerican.com%2Fsciam%2Fcache%2Ffile%2F2BF55ADC-41FB-4F6A-AFB97C29D7780C8E_agenda.jpg%3Fw%3D600%26h%3D335"></article>]]></description>
-            <link>https://www.scientificamerican.com/article/80-years-later-polar-explorer-s-sunken-ship-floats-again/</link>
-            <guid isPermaLink="false">9944ca3b-fbc8-455e-badd-7cb1d18ce915</guid>
-            <pubDate>Thu, 20 Oct 2016 11:01:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
