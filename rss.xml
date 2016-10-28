@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 28 Oct 2016 13:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Oct 2016 13:21:39 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 28 Oct 2016 13:14:04 GMT</pubDate>
+        <pubDate>Fri, 28 Oct 2016 13:21:34 GMT</pubDate>
+        <item>
+            <title><![CDATA[Pizza, the unsung agent of the robot revolution]]></title>
+            <description><![CDATA[<article><h1>Pizza, the unsung agent of the robot revolution</h1><p>It wasn't so long ago that the idea of biped or quadruped robots delivering pizzas seemed like a real possibility. Such speculation was fuelled by Google's acquisition of Boston Dynamics-a company more associated with potential military applications, which earned notoriety for its scarily nimble Big Dog robots.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f25863e93beeaed44254aac6ed34b9be/noop.jpg?input=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F10%2Fcar-factory-robots-1-760x380.jpg"></article>]]></description>
+            <link>http://arstechnica.com/information-technology/2016/10/the-automation-revolution/</link>
+            <guid isPermaLink="false">ee81f5d7-26bd-4493-abbd-bbe881daf62e</guid>
+            <pubDate>Fri, 28 Oct 2016 13:21:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The future of PCs and Macs is expensive]]></title>
             <description><![CDATA[<article><h1>The future of PCs and Macs is expensive</h1><p>The personal desktop computer used to once be an exclusive and expensive machine, though we now know it and its laptop counterpart as a mass-market commodity that most people can afford. This week,...</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/76c7c6b959a41b1d3d8ab26b2700aab9/noop.jpg?input=https%3A%2F%2Fcdn3.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F51553315%2Fv-DSC01042.0.0.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.theverge.com/2016/10/20/13343828/tesla-fully-autonomous-test-video</link>
             <guid isPermaLink="false">eb6de9a9-317f-4d65-9e90-3c38ba35f187</guid>
             <pubDate>Thu, 20 Oct 2016 15:10:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four Great African Empires That Astonished the World]]></title>
-            <description><![CDATA[<article><h1>Four Great African Empires That Astonished the World</h1><p>A quick scan of online message boards will tell you that worldwide awareness of African history - aside from ancient Egypt - is seriously limited, to say the least. But this knowledge gap is a fairly new phenomenon. The Pharaohs of ancient Egypt actively exchanged goods and ideas with the southern kings of Kush, who were " proud of their black faces."</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/91475b7248ef0f4f94ffee11f06ad9fb/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*x5ASCTTeigGZK9sb0VleeA.jpeg"></article>]]></description>
-            <link>https://medium.com/@writingben/four-great-african-empires-that-astonished-the-world-fd374a79f89b#.qib9b2xqo</link>
-            <guid isPermaLink="false">8dbe63b5-91b8-43f7-b638-663355cf78d3</guid>
-            <pubDate>Thu, 20 Oct 2016 15:08:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
