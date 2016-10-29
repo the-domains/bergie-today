@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 28 Oct 2016 13:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Oct 2016 09:39:51 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 28 Oct 2016 13:21:34 GMT</pubDate>
+        <pubDate>Sat, 29 Oct 2016 09:39:37 GMT</pubDate>
+        <item>
+            <title><![CDATA[Eve: Programming designed for humans]]></title>
+            <description><![CDATA[<article><h1>Eve: Programming designed for humans</h1><p>Eve is a programming language and IDE based on years of research into building a human-first programming platform. From code embedded in documents to a language without order, it presents an alternative take on what programming could be - one that focuses on us instead of the machine.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b9d478ced7aad697458f4821176a617e/noop.png?input=http%3A%2F%2Fprogramming.witheve.com%2Fimages%2Feve.png"></article>]]></description>
+            <link>http://programming.witheve.com/</link>
+            <guid isPermaLink="false">9d896f1a-c5a5-4650-a2d8-ae308ec9b0da</guid>
+            <pubDate>Sat, 29 Oct 2016 09:39:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pizza, the unsung agent of the robot revolution]]></title>
             <description><![CDATA[<article><h1>Pizza, the unsung agent of the robot revolution</h1><p>It wasn't so long ago that the idea of biped or quadruped robots delivering pizzas seemed like a real possibility. Such speculation was fuelled by Google's acquisition of Boston Dynamics-a company more associated with potential military applications, which earned notoriety for its scarily nimble Big Dog robots.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f25863e93beeaed44254aac6ed34b9be/noop.jpg?input=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F10%2Fcar-factory-robots-1-760x380.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://benedictredgrove.com/nasa-past-and-present-dreams-of-the-future/</link>
             <guid isPermaLink="false">31e682f3-9f85-4b16-bb35-67d9472f82bc</guid>
             <pubDate>Fri, 21 Oct 2016 20:01:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch a fully-autonomous Tesla drive through the city and find a parking spot]]></title>
-            <description><![CDATA[<article><h1>Watch a fully-autonomous Tesla drive through the city and find a parking spot</h1><p>Fully-autonomous Teslas are getting closer to reality. Yesterday, the electric carmaker announced that all new vehicles will come with extra hardware to support "full self-driving capabilities,"...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a1c1dde-1cc4-482b-b547-6a87b33e7e00.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/10/20/13343828/tesla-fully-autonomous-test-video</link>
-            <guid isPermaLink="false">eb6de9a9-317f-4d65-9e90-3c38ba35f187</guid>
-            <pubDate>Thu, 20 Oct 2016 15:10:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
