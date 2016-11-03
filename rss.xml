@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Nov 2016 19:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Nov 2016 08:00:46 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 01 Nov 2016 19:18:00 GMT</pubDate>
+        <pubDate>Thu, 03 Nov 2016 08:00:44 GMT</pubDate>
+        <item>
+            <title><![CDATA[It's Time to Think About Living in Parking Garages]]></title>
+            <description><![CDATA[<article><h1>It's Time to Think About Living in Parking Garages</h1><p>The tower at 4 th and Columbia will be the tallest in Seattle, a 1,029-foot, $290 million monument to the city's recent, tech-flavored success. Residential units, a hotel, office space, retail, eight floors of underground parking. Standard, shiny city stuff.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/127a2bc9debeb9ac7316f7f24375d552/noop.jpg?input=https%3A%2F%2Fwww.wired.com%2Fwp-content%2Fuploads%2F2016%2F11%2FSection-Perspective4-1200x630-e1478033240809.jpg"></article>]]></description>
+            <link>https://www.wired.com/2016/11/time-think-living-old-parking-garages/</link>
+            <guid isPermaLink="false">6e3f64ab-bbd5-4c4c-8192-315d2aa32547</guid>
+            <pubDate>Thu, 03 Nov 2016 08:00:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Material Design Lite]]></title>
             <description><![CDATA[<article><h1>Material Design Lite</h1><p>A front-end template that helps you build fast, modern mobile web apps.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e44adb27-5900-41ca-875b-16fb070f6544.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.bloomberg.com/news/articles/2016-10-25/west-antarctica-begins-to-destabilize-with-intense-unbalanced-melting</link>
             <guid isPermaLink="false">291afbf4-f5c1-4ffc-99be-d3028747e16f</guid>
             <pubDate>Wed, 26 Oct 2016 16:52:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google: Our Assistant Will Trigger the Next Era of AI]]></title>
-            <description><![CDATA[<article><h1>Google: Our Assistant Will Trigger the Next Era of AI</h1><p>The company's scientists think its new AI-based factotum will be the biggest thing since search. Welcome to The Transition. It is the day after Google's big hardware event in San Francisco, when the company formally unveiled a new phone (a jab to the iPhone) and a voice-activated speaker (a gut punch to Amazon's Echo).</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d865feaceefc658136b126b01bf9a735/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Ffocal%2F1200%2F632%2F69%2F43%2F1*dPCB2PzSKgL-ZrHxUfymGw.jpeg"></article>]]></description>
-            <link>https://backchannel.com/google-our-assistant-will-trigger-the-next-era-of-ai-3c72a4d7bc75#.qg63f2njb</link>
-            <guid isPermaLink="false">294fcebc-9334-4584-98fe-5429daef294f</guid>
-            <pubDate>Tue, 25 Oct 2016 22:50:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
