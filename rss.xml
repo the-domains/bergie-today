@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Nov 2016 08:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Nov 2016 22:31:00 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Nov 2016 08:34:49 GMT</pubDate>
+        <pubDate>Fri, 04 Nov 2016 22:30:57 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mars: Inside the High-Risk, High-Stakes Race to the Red Planet]]></title>
+            <description><![CDATA[<article><h1>Mars: Inside the High-Risk, High-Stakes Race to the Red Planet</h1><p>They tweet a lot of pictures of their hometown. They take pictures of their college football stadiums. There's still a really strong tie back to the Earth. This story appears in the November 2016 issue ofNational Geographic magazine. Elon Musk wants to go to Mars.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6736c3b128f1cdb2a98eadd598442e4f/noop.jpg?input=http%3A%2F%2Fwww.nationalgeographic.com%2Fcontent%2Fdam%2Fmagazine%2Frights-exempt%2F2016%2F11%2FMars%2FMM8449_160306_01111.ngsversion.1476472805004.jpg"></article>]]></description>
+            <link>http://www.nationalgeographic.com/magazine/2016/11/spacex-elon-musk-exploring-mars-planets-space-science/</link>
+            <guid isPermaLink="false">55681b7d-e64d-49cf-aa70-7625ec2fdfe4</guid>
+            <pubDate>Fri, 04 Nov 2016 22:30:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Arch Linux: In a world of polish, DIY never felt so good]]></title>
             <description><![CDATA[<article><h1>Arch Linux: In a world of polish, DIY never felt so good</h1><p>Dig through the annals of Linux journalism and you'll find a surprising amount of coverage of some pretty obscure distros. Flashy new distros like Elementary OS and Solus garner attention for their slick interfaces, and anything shipping with a MATE desktop gets coverage by simple virtue of using MATE.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f152e04-ac0f-46ee-a60e-1d682055c9af.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://arstechnica.com/information-technology/2016/10/the-automation-revolution/</link>
             <guid isPermaLink="false">ee81f5d7-26bd-4493-abbd-bbe881daf62e</guid>
             <pubDate>Fri, 28 Oct 2016 13:21:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The future of PCs and Macs is expensive]]></title>
-            <description><![CDATA[<article><h1>The future of PCs and Macs is expensive</h1><p>The personal desktop computer used to once be an exclusive and expensive machine, though we now know it and its laptop counterpart as a mass-market commodity that most people can afford. This week,...</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/76c7c6b959a41b1d3d8ab26b2700aab9/noop.jpg?input=https%3A%2F%2Fcdn3.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F51553315%2Fv-DSC01042.0.0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/10/28/13452084/microsoft-apple-new-pc-surface-macbook-prices-expensive-exclusive</link>
-            <guid isPermaLink="false">17b2ac2b-80b8-477c-9ce5-60a8c4cc03b6</guid>
-            <pubDate>Fri, 28 Oct 2016 13:14:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
