@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Nov 2016 00:34:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2016 07:27:06 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 06 Nov 2016 00:34:36 GMT</pubDate>
+        <pubDate>Mon, 07 Nov 2016 07:27:05 GMT</pubDate>
+        <item>
+            <title><![CDATA[Redesigning Waxy, 2016 edition]]></title>
+            <description><![CDATA[<article><h1>Redesigning Waxy, 2016 edition</h1><p>"Redesigning your blog" in 2016 is an anachronism. Like tweaking your Gopher presence or upgrading your ham radio, even talking about blogging feels like a throwback - an exercise in nostalgia for an independent web whose time has passed. The death of blogging was foretold almost every year since its inception.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c0a8c787e08f1fb36e8f0c3ae9328d44/noop.png?input=http%3A%2F%2Fi1.wp.com%2Fwaxy.org%2Fwp-content%2Fuploads%2F2016%2F10%2Fsquare_logo.png%3Ffit%3D288%252C288"></article>]]></description>
+            <link>http://waxy.org/2016/11/redesigning-waxy-2016-edition/</link>
+            <guid isPermaLink="false">7c1a9b10-f7ae-4737-b1aa-f21fcf8b71d5</guid>
+            <pubDate>Mon, 07 Nov 2016 07:27:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5315771-a395-45b9-bba9-3a309b6d9651.jpg"><p>&ldquo;When wireless is perfectly applied the whole earth will be converted into a huge brain, which in fact it is, all things being particles of a real and rhythmic whole. We shall be able to communicate with one another instantly, irrespective of distance. Not only this, but through television and telephony we shall see and hear one another as perfectly as though we were face to face, despite intervening distances of thousands of miles; and the instruments through which we shall be able to do his will be amazingly simple compared with our present telephone. A man will be able to carry one in his vest pocket.&rdquo;</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://joeposnanski.com/my-mechanical-keyboard/</link>
             <guid isPermaLink="false">f7581774-9830-406a-8bc7-4998278f3549</guid>
             <pubDate>Sun, 30 Oct 2016 09:19:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eve: Programming designed for humans]]></title>
-            <description><![CDATA[<article><h1>Eve: Programming designed for humans</h1><p>Eve is a programming language and IDE based on years of research into building a human-first programming platform. From code embedded in documents to a language without order, it presents an alternative take on what programming could be - one that focuses on us instead of the machine.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b9d478ced7aad697458f4821176a617e/noop.png?input=http%3A%2F%2Fprogramming.witheve.com%2Fimages%2Feve.png"></article>]]></description>
-            <link>http://programming.witheve.com/</link>
-            <guid isPermaLink="false">9d896f1a-c5a5-4650-a2d8-ae308ec9b0da</guid>
-            <pubDate>Sat, 29 Oct 2016 09:39:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
