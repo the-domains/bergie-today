@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Nov 2016 20:44:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Nov 2016 21:50:54 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Nov 2016 20:44:01 GMT</pubDate>
+        <pubDate>Tue, 08 Nov 2016 21:50:53 GMT</pubDate>
+        <item>
+            <title><![CDATA[The complete guide to living a new-fangled USB-C (and Thunderbolt 3) lifestyle]]></title>
+            <description><![CDATA[<article><h1>The complete guide to living a new-fangled USB-C (and Thunderbolt 3) lifestyle</h1><p>If you put in an order for a new MacBook Pro, welcome! You're about to enter a brave new world, one where all your ports look the same as each other but remain totally different from every other port on whatever laptop you were using before.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/09b967b3b6c2e9248b01afdc3df6c781/noop.jpg?input=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F11%2FDSC05659-1-760x380.jpg"></article>]]></description>
+            <link>http://arstechnica.com/apple/2016/11/the-complete-guide-to-living-a-new-fangled-usb-c-and-thunderbolt-3-lifestyle/</link>
+            <guid isPermaLink="false">117f8e56-2bf7-454a-971e-da2c7a3305b4</guid>
+            <pubDate>Tue, 08 Nov 2016 21:50:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finite Domain Constraint Solving]]></title>
             <description><![CDATA[<article><h1>Finite Domain Constraint Solving</h1><p>"Alice, Bob, and Creo are splitting up candy. Alice is oldest so she should get the more than the others. Bob doesn't like to have 5 candies. Creo wants to have at least as much as Bob. There are 20 candies to divide, how do you split them?" This would be a classic example of a finite domain constraint problem</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.theatlantic.com/amp/article/481566/</link>
             <guid isPermaLink="false">bed0144a-c4a1-4001-b4f5-1706578fabfd</guid>
             <pubDate>Sun, 30 Oct 2016 10:05:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google AI invents its own cryptographic algorithm; no one knows how it works]]></title>
-            <description><![CDATA[<article><h1>Google AI invents its own cryptographic algorithm; no one knows how it works</h1><p>Google Brain has created two artificial intelligences that evolved their own cryptographic algorithm to protect their messages from a third AI, which was trying to evolve its own method to crack the AI-generated crypto. The study was a success: the first two AIs learnt how to communicate securely from scratch.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/759d42d97a54f8a546c3a4066fe237c0/noop.jpg?input=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2Fsites%2F3%2F2015%2F07%2FTerminator_28453_4db5a1135e73d67af40067b5_1303953272-640x215.jpg"></article>]]></description>
-            <link>http://arstechnica.co.uk/information-technology/2016/10/google-ai-neural-network-cryptography/</link>
-            <guid isPermaLink="false">53a9a28b-275d-48b6-81ca-239b7e647da2</guid>
-            <pubDate>Sun, 30 Oct 2016 09:54:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
