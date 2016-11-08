@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Nov 2016 07:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Nov 2016 20:44:05 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Nov 2016 07:27:05 GMT</pubDate>
+        <pubDate>Tue, 08 Nov 2016 20:44:01 GMT</pubDate>
+        <item>
+            <title><![CDATA[Finite Domain Constraint Solving]]></title>
+            <description><![CDATA[<article><h1>Finite Domain Constraint Solving</h1><p>"Alice, Bob, and Creo are splitting up candy. Alice is oldest so she should get the more than the others. Bob doesn't like to have 5 candies. Creo wants to have at least as much as Bob. There are 20 candies to divide, how do you split them?" This would be a classic example of a finite domain constraint problem</p></article>]]></description>
+            <link>http://qfox.nl/weblog/383</link>
+            <guid isPermaLink="false">7f4b9ac2-653b-44d3-ab45-887043fe67fc</guid>
+            <pubDate>Tue, 08 Nov 2016 20:44:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Redesigning Waxy, 2016 edition]]></title>
             <description><![CDATA[<article><h1>Redesigning Waxy, 2016 edition</h1><p>"Redesigning your blog" in 2016 is an anachronism. Like tweaking your Gopher presence or upgrading your ham radio, even talking about blogging feels like a throwback - an exercise in nostalgia for an independent web whose time has passed. The death of blogging was foretold almost every year since its inception.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c0a8c787e08f1fb36e8f0c3ae9328d44/noop.png?input=http%3A%2F%2Fi1.wp.com%2Fwaxy.org%2Fwp-content%2Fuploads%2F2016%2F10%2Fsquare_logo.png%3Ffit%3D288%252C288"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://arstechnica.co.uk/information-technology/2016/10/google-ai-neural-network-cryptography/</link>
             <guid isPermaLink="false">53a9a28b-275d-48b6-81ca-239b7e647da2</guid>
             <pubDate>Sun, 30 Oct 2016 09:54:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Mechanical Keyboard]]></title>
-            <description><![CDATA[<article><h1>My Mechanical Keyboard</h1><p>I’m in the middle of a slow breakup with Apple. It has been painful but, to be honest, the split has been in the works for a few years now. Some people here know that I have been a bit of an Apple obsessive for the last decade plus. I have purchased just about every iPhone, iPad, iPod, iMac and iDontknowwhat. Apple Watch. Apple chargers. Apple Apps. Our house is littered with old Apple products, something that drives my wife Margo absolutely insane.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/59a77b95db0224c1674a55f5a19239a6/croprotate.jpg?cropheight=1223&cropwidth=2582&degrees=0&input=http%3A%2F%2Fjoeposnanski.com%2Fwp-content%2Fuploads%2F2016%2F10%2FIMG_20161029_155330.jpg&x=0&y=0"></article>]]></description>
-            <link>http://joeposnanski.com/my-mechanical-keyboard/</link>
-            <guid isPermaLink="false">f7581774-9830-406a-8bc7-4998278f3549</guid>
-            <pubDate>Sun, 30 Oct 2016 09:19:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
