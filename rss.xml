@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Nov 2016 21:50:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Nov 2016 05:24:38 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Nov 2016 21:50:53 GMT</pubDate>
+        <pubDate>Wed, 09 Nov 2016 05:24:06 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>Exactly. Time for Europe to push the pedal to the metal and take lead. We are now the last hope of the free World. https://t.co/oUYs7yMXCB</blockquote>]]></description>
+            <link>https://twitter.com/pvesterbacka/status/796216482808102912</link>
+            <guid isPermaLink="false">b8eb8f83-e60a-442a-85c5-dd084819c027</guid>
+            <pubDate>Wed, 09 Nov 2016 05:24:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The complete guide to living a new-fangled USB-C (and Thunderbolt 3) lifestyle]]></title>
             <description><![CDATA[<article><h1>The complete guide to living a new-fangled USB-C (and Thunderbolt 3) lifestyle</h1><p>If you put in an order for a new MacBook Pro, welcome! You're about to enter a brave new world, one where all your ports look the same as each other but remain totally different from every other port on whatever laptop you were using before.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/09b967b3b6c2e9248b01afdc3df6c781/noop.jpg?input=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F11%2FDSC05659-1-760x380.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://blog.longreads.com/2016/10/26/what-sid-meiers-video-game-empire-got-right-and-wrong-about-civilization/?utm_source=digg&amp;utm_medium=email</link>
             <guid isPermaLink="false">979533a8-4d37-4ecd-a3ed-6a9034c9998f</guid>
             <pubDate>Mon, 31 Oct 2016 11:49:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Future of Writing Looks Like the Past]]></title>
-            <description><![CDATA[<article><h1>The Future of Writing Looks Like the Past</h1><p>The Freewrite, a "smart typewriter," wants to liberate writers from their computers.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7c94c35515e3b0dd9a5a963949898d0c/noop.jpg?input=https%3A%2F%2Fcdn.theatlantic.com%2Fassets%2Fmedia%2Fimg%2Fmt%2F2016%2F05%2FL1002238%2Ffacebook.jpg%3F1462491226"></article>]]></description>
-            <link>http://www.theatlantic.com/amp/article/481566/</link>
-            <guid isPermaLink="false">bed0144a-c4a1-4001-b4f5-1706578fabfd</guid>
-            <pubDate>Sun, 30 Oct 2016 10:05:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
