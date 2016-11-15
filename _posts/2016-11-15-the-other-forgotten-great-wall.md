@@ -14,8 +14,8 @@ keywords:
   - excavations
   - bilikuh
 title: 'The Other, Forgotten Great Wall'
-datePublished: '2016-11-15T22:48:12.449Z'
-dateModified: '2016-11-15T22:46:46.921Z'
+datePublished: '2016-11-15T22:53:36.358Z'
+dateModified: '2016-11-15T22:53:22.029Z'
 publisher:
   name: Atlas Obscura
   domain: www.atlasobscura.com
@@ -32,7 +32,9 @@ description: >-
   shores of the Caspian Sea to the mountains of Bilikuh in the east, lies the
   remains of the Great Wall of Gorgan-once the largest defensive structure ever
   built.
-via: {}
+via:
+  name: Hacker News
+  url: 'https://news.ycombinator.com/item?id=12951724'
 starred: false
 sourcePath: _posts/2016-11-15-the-other-forgotten-great-wall.md
 _type: MediaObject
