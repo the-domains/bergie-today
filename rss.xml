@@ -4,9 +4,37 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Nov 2016 14:01:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2016 21:34:49 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Nov 2016 14:01:39 GMT</pubDate>
+        <pubDate>Tue, 15 Nov 2016 21:34:25 GMT</pubDate>
+        <item>
+            <title><![CDATA[Google's PhotoScan lets you digitize old photos in a snap]]></title>
+            <description><![CDATA[<article><h1>Google's PhotoScan lets you digitize old photos in a snap</h1><p>Google is making it easy to digitize and share old photos with a new app called PhotoScan - just in time to embarrass you for the holidays. PhotoScan is an app that lets you take a picture of a physical, old photo. While the user interface is simple enough for anyone to use, there’s a great deal going on in the background. The app uses machine learning to remove glares, crop out the desk or wall behind the printed photo, and make sure the colors are accurate so that you get a perfect scan.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9f6e8042f192edcadffef3c613ae7d66/noop.jpg?input=http%3A%2F%2Ficdn3.digitaltrends.com%2Fimage%2Fphotoscan-1200x630-c.jpg"></article>]]></description>
+            <link>http://www.digitaltrends.com/mobile/google-photoscan/</link>
+            <guid isPermaLink="false">05c70649-4529-4400-bee1-42efaf9683ac</guid>
+            <pubDate>Tue, 15 Nov 2016 21:34:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Other, Forgotten Great Wall]]></title>
+            <description><![CDATA[<article><h1>The Other, Forgotten Great Wall</h1><p>In northwestern Iran, running for almost 200 kilometers from the southeastern shores of the Caspian Sea to the mountains of Bilikuh in the east, lies the remains of the Great Wall of Gorgan-once the largest defensive structure ever built.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8a82878dd7f43d6e39d117119257b395/noop.jpg?input=http%3A%2F%2Fassets.atlasobscura.com%2Farticle_images%2F36870%2Fimage.jpg"></article>]]></description>
+            <link>http://www.atlasobscura.com/articles/irans-great-wall-is-now-buried-and-forgotten</link>
+            <guid isPermaLink="false">dc84333f-c3db-414d-8ad5-d6835e574336</guid>
+            <pubDate>Tue, 15 Nov 2016 20:47:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Service Workers: an Introduction]]></title>
+            <description><![CDATA[<article><h1>Service Workers: an Introduction</h1><p>Rich offline experiences, periodic background syncs, push notifications--functionality that would normally require a native application--are coming to the web. Service workers provide the technical foundation that all these features rely on.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/184da9f8c7584eb11aaa8e44cd371a1e/noop.png?input=https%3A%2F%2Fdevelopers.google.com%2Fweb%2Ffundamentals%2Fgetting-started%2Fprimers%2Fimgs%2Fsw-chrome-inspect.png"></article>]]></description>
+            <link>https://developers.google.com/web/fundamentals/getting-started/primers/service-workers</link>
+            <guid isPermaLink="false">85a4748f-02bf-4ee8-992d-e489f91e71a3</guid>
+            <pubDate>Tue, 15 Nov 2016 15:32:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anime master Hayao Miyazaki is coming out of retirement to make one last film]]></title>
+            <description><![CDATA[<article><h1>Anime master Hayao Miyazaki is coming out of retirement to make one last film</h1><p>Back in 2013, legendary Japanese animator and director Hayao Miyazaki announced he would be retiring; making no more feature-length films in order to concentrate on smaller projects. Well, it turns out you can’t keep a good Oscar-winning artist down, and Miyazaki says he’s now coming out of retirement to make one last movie.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5317fb59-d484-4a6c-baf4-55ee2aaf7319.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/11/14/13621108/hayao-miyazaki-last-film-boro-the-caterpillar</link>
+            <guid isPermaLink="false">d333c964-9ba3-4899-a64d-6d6b9fa0a383</guid>
+            <pubDate>Mon, 14 Nov 2016 18:00:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google threatens Qualcomm Quick Charge with Android "incompatibility"]]></title>
             <description><![CDATA[<article><h1>Google threatens Qualcomm Quick Charge with Android "incompatibility"</h1><p>The proliferation of USB Type-C is making charging various devices easier than ever. Smartphones (other than the iPhone) and laptops are unifying under a single charging port, allowing any charger to plug into anything else. Today you can plug your Type-C phone into your Type-C laptop charger, and charging will happen.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c22fc7fe89012769a0b497995467c4f3/noop.jpg?input=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2015%2F05%2FUSB-Type-C-macro-image-640x215.jpg"></article>]]></description>
@@ -48,34 +76,6 @@
             <link>https://twitter.com/pvesterbacka/status/796216482808102912</link>
             <guid isPermaLink="false">b8eb8f83-e60a-442a-85c5-dd084819c027</guid>
             <pubDate>Wed, 09 Nov 2016 05:24:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The complete guide to living a new-fangled USB-C (and Thunderbolt 3) lifestyle]]></title>
-            <description><![CDATA[<article><h1>The complete guide to living a new-fangled USB-C (and Thunderbolt 3) lifestyle</h1><p>If you put in an order for a new MacBook Pro, welcome! You're about to enter a brave new world, one where all your ports look the same as each other but remain totally different from every other port on whatever laptop you were using before.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/09b967b3b6c2e9248b01afdc3df6c781/noop.jpg?input=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F11%2FDSC05659-1-760x380.jpg"></article>]]></description>
-            <link>http://arstechnica.com/apple/2016/11/the-complete-guide-to-living-a-new-fangled-usb-c-and-thunderbolt-3-lifestyle/</link>
-            <guid isPermaLink="false">117f8e56-2bf7-454a-971e-da2c7a3305b4</guid>
-            <pubDate>Tue, 08 Nov 2016 21:50:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finite Domain Constraint Solving]]></title>
-            <description><![CDATA[<article><h1>Finite Domain Constraint Solving</h1><p>"Alice, Bob, and Creo are splitting up candy. Alice is oldest so she should get the more than the others. Bob doesn't like to have 5 candies. Creo wants to have at least as much as Bob. There are 20 candies to divide, how do you split them?" This would be a classic example of a finite domain constraint problem</p></article>]]></description>
-            <link>http://qfox.nl/weblog/383</link>
-            <guid isPermaLink="false">7f4b9ac2-653b-44d3-ab45-887043fe67fc</guid>
-            <pubDate>Tue, 08 Nov 2016 20:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Redesigning Waxy, 2016 edition]]></title>
-            <description><![CDATA[<article><h1>Redesigning Waxy, 2016 edition</h1><p>"Redesigning your blog" in 2016 is an anachronism. Like tweaking your Gopher presence or upgrading your ham radio, even talking about blogging feels like a throwback - an exercise in nostalgia for an independent web whose time has passed. The death of blogging was foretold almost every year since its inception.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c0a8c787e08f1fb36e8f0c3ae9328d44/noop.png?input=http%3A%2F%2Fi1.wp.com%2Fwaxy.org%2Fwp-content%2Fuploads%2F2016%2F10%2Fsquare_logo.png%3Ffit%3D288%252C288"></article>]]></description>
-            <link>http://waxy.org/2016/11/redesigning-waxy-2016-edition/</link>
-            <guid isPermaLink="false">7c1a9b10-f7ae-4737-b1aa-f21fcf8b71d5</guid>
-            <pubDate>Mon, 07 Nov 2016 07:27:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5315771-a395-45b9-bba9-3a309b6d9651.jpg"><p>&ldquo;When wireless is perfectly applied the whole earth will be converted into a huge brain, which in fact it is, all things being particles of a real and rhythmic whole. We shall be able to communicate with one another instantly, irrespective of distance. Not only this, but through television and telephony we shall see and hear one another as perfectly as though we were face to face, despite intervening distances of thousands of miles; and the instruments through which we shall be able to do his will be amazingly simple compared with our present telephone. A man will be able to carry one in his vest pocket.&rdquo;</p></article>]]></description>
-            <link>http://parislemon.com/post/152773834882/peashooter85-when-wireless-is-perfectly</link>
-            <guid isPermaLink="false">cdd0a813-4f38-4971-8a67-9dbb0389f291</guid>
-            <pubDate>Sun, 06 Nov 2016 00:34:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
