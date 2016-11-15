@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Nov 2016 22:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2016 22:48:14 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Nov 2016 22:27:13 GMT</pubDate>
+        <pubDate>Tue, 15 Nov 2016 22:48:13 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Other, Forgotten Great Wall]]></title>
+            <description><![CDATA[<article><h1>The Other, Forgotten Great Wall</h1><p>In northwestern Iran, running for almost 200 kilometers from the southeastern shores of the Caspian Sea to the mountains of Bilikuh in the east, lies the remains of the Great Wall of Gorgan-once the largest defensive structure ever built.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aad34f89-95ae-4483-b726-8ba26aa0d572.png"></article>]]></description>
+            <link>http://www.atlasobscura.com/articles/irans-great-wall-is-now-buried-and-forgotten</link>
+            <guid isPermaLink="false">dc84333f-c3db-414d-8ad5-d6835e574336</guid>
+            <pubDate>Tue, 15 Nov 2016 22:48:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Office last week]]></title>
             <description><![CDATA[<article><h1>Office last week</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/767e8169a6a8731f914e2b050f674cfe/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F15035670_1728983097423095_1979157402859077632_n.jpg%3Fig_cache_key%3DMTM4NDM1NDU5Mzk4MzQwNDQ5MQ%253D%253D.2"></article>]]></description>
@@ -20,13 +27,6 @@
             <link>http://www.digitaltrends.com/mobile/google-photoscan/</link>
             <guid isPermaLink="false">05c70649-4529-4400-bee1-42efaf9683ac</guid>
             <pubDate>Tue, 15 Nov 2016 21:34:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Other, Forgotten Great Wall]]></title>
-            <description><![CDATA[<article><h1>The Other, Forgotten Great Wall</h1><p>In northwestern Iran, running for almost 200 kilometers from the southeastern shores of the Caspian Sea to the mountains of Bilikuh in the east, lies the remains of the Great Wall of Gorgan-once the largest defensive structure ever built.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8a82878dd7f43d6e39d117119257b395/noop.jpg?input=http%3A%2F%2Fassets.atlasobscura.com%2Farticle_images%2F36870%2Fimage.jpg"></article>]]></description>
-            <link>http://www.atlasobscura.com/articles/irans-great-wall-is-now-buried-and-forgotten</link>
-            <guid isPermaLink="false">dc84333f-c3db-414d-8ad5-d6835e574336</guid>
-            <pubDate>Tue, 15 Nov 2016 20:47:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Service Workers: an Introduction]]></title>
