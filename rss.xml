@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Nov 2016 21:34:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2016 22:27:14 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Nov 2016 21:34:25 GMT</pubDate>
+        <pubDate>Tue, 15 Nov 2016 22:27:13 GMT</pubDate>
+        <item>
+            <title><![CDATA[Office last week]]></title>
+            <description><![CDATA[<article><h1>Office last week</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/767e8169a6a8731f914e2b050f674cfe/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F15035670_1728983097423095_1979157402859077632_n.jpg%3Fig_cache_key%3DMTM4NDM1NDU5Mzk4MzQwNDQ5MQ%253D%253D.2"></article>]]></description>
+            <link>https://www.instagram.com/p/BM2Nyspj5nL/</link>
+            <guid isPermaLink="false">328b658e-648f-4e3b-8f63-5126928612de</guid>
+            <pubDate>Tue, 15 Nov 2016 22:27:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google's PhotoScan lets you digitize old photos in a snap]]></title>
             <description><![CDATA[<article><h1>Google's PhotoScan lets you digitize old photos in a snap</h1><p>Google is making it easy to digitize and share old photos with a new app called PhotoScan - just in time to embarrass you for the holidays. PhotoScan is an app that lets you take a picture of a physical, old photo. While the user interface is simple enough for anyone to use, there’s a great deal going on in the background. The app uses machine learning to remove glares, crop out the desk or wall behind the printed photo, and make sure the colors are accurate so that you get a perfect scan.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9f6e8042f192edcadffef3c613ae7d66/noop.jpg?input=http%3A%2F%2Ficdn3.digitaltrends.com%2Fimage%2Fphotoscan-1200x630-c.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://medium.com/@theonlytoby/history-tells-us-what-will-happen-next-with-brexit-trump-a3fefd154714#.w1qvbe60g</link>
             <guid isPermaLink="false">2f37141c-2873-4b96-9769-a32fbd46b0e1</guid>
             <pubDate>Wed, 09 Nov 2016 17:34:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>Exactly. Time for Europe to push the pedal to the metal and take lead. We are now the last hope of the free World. https://t.co/oUYs7yMXCB</blockquote>]]></description>
-            <link>https://twitter.com/pvesterbacka/status/796216482808102912</link>
-            <guid isPermaLink="false">b8eb8f83-e60a-442a-85c5-dd084819c027</guid>
-            <pubDate>Wed, 09 Nov 2016 05:24:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
