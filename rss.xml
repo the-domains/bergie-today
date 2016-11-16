@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Nov 2016 22:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2016 14:10:05 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Nov 2016 22:53:37 GMT</pubDate>
+        <pubDate>Wed, 16 Nov 2016 14:10:04 GMT</pubDate>
+        <item>
+            <title><![CDATA[Quick, Draw!]]></title>
+            <description><![CDATA[<article><h1>Quick, Draw!</h1><p>Can a neural network learn to recognize doodles? See how well it does with your drawings and help teach it, just by playing.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/35bd86bddc1eb7fb62f1892b03d7ba11/noop.png?input=https%3A%2F%2Fquickdraw.withgoogle.com%2Fstatic%2Fshareimg.png"></article>]]></description>
+            <link>https://quickdraw.withgoogle.com/</link>
+            <guid isPermaLink="false">0b5eca84-51ef-4664-9e1b-abd119c78430</guid>
+            <pubDate>Wed, 16 Nov 2016 14:10:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Other, Forgotten Great Wall]]></title>
             <description><![CDATA[<article><h1>The Other, Forgotten Great Wall</h1><p>In northwestern Iran, running for almost 200 kilometers from the southeastern shores of the Caspian Sea to the mountains of Bilikuh in the east, lies the remains of the Great Wall of Gorgan-once the largest defensive structure ever built.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aad34f89-95ae-4483-b726-8ba26aa0d572.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://m.nautil.us/issue/41/selection/the-martians-are-comingand-theyre-human</link>
             <guid isPermaLink="false">38b55c9f-0a40-430b-aea2-8f0505587d39</guid>
             <pubDate>Thu, 10 Nov 2016 00:05:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[History tells us what may happen next with Brexit & Trump]]></title>
-            <description><![CDATA[<article><h1>History tells us what may happen next with Brexit & Trump</h1><p>It seems we're entering another of those stupid seasons humans impose on themselves at fairly regular intervals. I am sketching out here opinions based on information, they may prove right, or may prove wrong, and they're intended just to challenge and be part of a wider dialogue.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/87db0272ade220cf28d8a6aa6b1130c2/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Ffocal%2F456%2F240%2F0%2F0%2F1*xsGEEfZxu6YbmHrPFd3gTg.jpeg"></article>]]></description>
-            <link>https://medium.com/@theonlytoby/history-tells-us-what-will-happen-next-with-brexit-trump-a3fefd154714#.w1qvbe60g</link>
-            <guid isPermaLink="false">2f37141c-2873-4b96-9769-a32fbd46b0e1</guid>
-            <pubDate>Wed, 09 Nov 2016 17:34:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
