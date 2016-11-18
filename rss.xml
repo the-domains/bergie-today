@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Nov 2016 14:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2016 18:12:04 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Nov 2016 14:11:00 GMT</pubDate>
+        <pubDate>Fri, 18 Nov 2016 18:07:07 GMT</pubDate>
+        <item>
+            <title><![CDATA[Collaboration: Website editing, together]]></title>
+            <description><![CDATA[<article><h1>Collaboration: Website editing, together</h1><p>Great things are rarely made in isolation. Only when we team up with others we can truly make our work shine. In the past, websites on the Grid could only be managed by one person - until today: We're excited to announce Collaboration, making it possible to open your website content to as many contributors as you like.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/649db307-7837-466b-838b-3344e94010d0.jpg"></article>]]></description>
+            <link>https://blog.thegrid.io/collaboration-website-editing-together</link>
+            <guid isPermaLink="false">ea6c721f-9d20-403c-b57b-d2accfcde532</guid>
+            <pubDate>Fri, 18 Nov 2016 18:06:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How To Reject The Belief On The Silver Bullet]]></title>
             <description><![CDATA[<article><h1>How To Reject The Belief On The Silver Bullet</h1><p>As developers, we tend to believe there is a perfect solution for every problem and that can drive us to make wrong conclusions In psychology there is a concept called Absolute Thinking. It represents a common tendency to think in "black and white" terms. It happens when someone provides two alternatives to a problem that doesn't have just two alternatives.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7b415b9933335ca39581bd19baceea7d/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*bCMInCS7a0y-Ybc1f1IWZg.jpeg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://arstechnica.com/gadgets/2016/11/google-threatens-qualcomm-quick-charge-with-android-incompatibility/</link>
             <guid isPermaLink="false">4267b227-1e23-4407-9bf9-046781d0937b</guid>
             <pubDate>Mon, 14 Nov 2016 14:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Benefits of using tmux - lessons from streamlining a development environment]]></title>
-            <description><![CDATA[<article><h1>Benefits of using tmux - lessons from streamlining a development environment</h1><p>Before I started using tmux, I’d hear it mentioned frequently. It always sounded cool, and while there’s no shortage of great information on the web about what tmux is, it was never entirely clear to me how it would dramatically improve my development workflow. After using tmux for a few years, I’ve come to rely on its ability to streamline several aspects of my development process. Thanks to tmux, my workflow is now more organized, more automated, and easier to customize. My hope is that by sharing a few concrete examples of how tmux has helped me, it may help others better understand what might be gained by taking tmux for a spin.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1ca94fc3932f38c4d9deed4824ff0d08/noop.png?input=https%3A%2F%2Fblog.bugsnag.com%2Fimg%2Fposts%2Fconsistent-dev-1.png"></article>]]></description>
-            <link>https://blog.bugsnag.com/benefits-of-using-tmux/</link>
-            <guid isPermaLink="false">9b860c6c-c4a9-414b-9ea9-28e2f6f8c890</guid>
-            <pubDate>Thu, 10 Nov 2016 21:17:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
