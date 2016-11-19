@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Nov 2016 13:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2016 17:08:12 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Nov 2016 13:17:47 GMT</pubDate>
+        <pubDate>Sat, 19 Nov 2016 17:08:11 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Rise and Fall of the Open Source Mobile]]></title>
+            <description><![CDATA[<article><h1>The Rise and Fall of the Open Source Mobile</h1><p>In the Year of the Open Source Mobile, partly driven by the 2013 Year of Snowden Surveillance Relevations, I guess it is worthwile to take a look at the Nokia N900 and its mobile operating system, the pioneering Maemo platform.</p></article>]]></description>
+            <link>https://relay70.metatron.ai/the-rise-and-fall-of-the-open-source-mobile/</link>
+            <guid isPermaLink="false">40d28d1b-d876-422b-8233-42246b2a61d3</guid>
+            <pubDate>Sat, 19 Nov 2016 17:08:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tribute to Hayao Miyazaki]]></title>
             <description><![CDATA[<article><h1>Tribute to Hayao Miyazaki</h1><p>Tribute to Hayao Miyazaki Music by Joe Hisaishi Made with Blender, Gimp, Octane and Natron. Thanks to Blackschmoll, Boby, Christophe, Clouclou, Cremuss, David, Félicia, Frenchman, Sozap, Stéphane, Virgil ! And Thanks to Ton Roosendaal, the Blender community, developers of Blender, Gimp and Natron !</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/687abb166076670f44b9ed17f7289541/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F528269250_1280x536.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://developers.google.com/web/fundamentals/getting-started/primers/service-workers</link>
             <guid isPermaLink="false">85a4748f-02bf-4ee8-992d-e489f91e71a3</guid>
             <pubDate>Tue, 15 Nov 2016 15:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anime master Hayao Miyazaki is coming out of retirement to make one last film]]></title>
-            <description><![CDATA[<article><h1>Anime master Hayao Miyazaki is coming out of retirement to make one last film</h1><p>Back in 2013, legendary Japanese animator and director Hayao Miyazaki announced he would be retiring; making no more feature-length films in order to concentrate on smaller projects. Well, it turns out you can’t keep a good Oscar-winning artist down, and Miyazaki says he’s now coming out of retirement to make one last movie.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5317fb59-d484-4a6c-baf4-55ee2aaf7319.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/11/14/13621108/hayao-miyazaki-last-film-boro-the-caterpillar</link>
-            <guid isPermaLink="false">d333c964-9ba3-4899-a64d-6d6b9fa0a383</guid>
-            <pubDate>Mon, 14 Nov 2016 18:00:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
