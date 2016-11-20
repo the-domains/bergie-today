@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Nov 2016 17:08:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2016 14:20:27 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Nov 2016 17:08:11 GMT</pubDate>
+        <pubDate>Sun, 20 Nov 2016 14:20:04 GMT</pubDate>
+        <item>
+            <title><![CDATA[At Sea]]></title>
+            <description><![CDATA[<article><h1>At Sea</h1><p>On the defunct language of nautical flags. There are forty flags in a complete set of international maritime signal flags—one for each letter of the English alphabet, one for each number, and four flags called substitutes, which perform special operations.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/58dac8239d037037870d622428f915a8/noop.png?input=http%3A%2F%2Fwww.theparisreview.org%2Fblog%2Fwp-content%2Fuploads%2F2016%2F11%2Fships.png"></article>]]></description>
+            <link>http://www.theparisreview.org/blog/2016/11/18/at-sea/</link>
+            <guid isPermaLink="false">ef37334c-ee82-4f1c-b8ba-fff70d41c06a</guid>
+            <pubDate>Sun, 20 Nov 2016 14:20:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Rise and Fall of the Open Source Mobile]]></title>
             <description><![CDATA[<article><h1>The Rise and Fall of the Open Source Mobile</h1><p>In the Year of the Open Source Mobile, partly driven by the 2013 Year of Snowden Surveillance Relevations, I guess it is worthwile to take a look at the Nokia N900 and its mobile operating system, the pioneering Maemo platform.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.digitaltrends.com/mobile/google-photoscan/</link>
             <guid isPermaLink="false">05c70649-4529-4400-bee1-42efaf9683ac</guid>
             <pubDate>Tue, 15 Nov 2016 21:34:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Service Workers: an Introduction]]></title>
-            <description><![CDATA[<article><h1>Service Workers: an Introduction</h1><p>Rich offline experiences, periodic background syncs, push notifications--functionality that would normally require a native application--are coming to the web. Service workers provide the technical foundation that all these features rely on.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/184da9f8c7584eb11aaa8e44cd371a1e/noop.png?input=https%3A%2F%2Fdevelopers.google.com%2Fweb%2Ffundamentals%2Fgetting-started%2Fprimers%2Fimgs%2Fsw-chrome-inspect.png"></article>]]></description>
-            <link>https://developers.google.com/web/fundamentals/getting-started/primers/service-workers</link>
-            <guid isPermaLink="false">85a4748f-02bf-4ee8-992d-e489f91e71a3</guid>
-            <pubDate>Tue, 15 Nov 2016 15:32:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
