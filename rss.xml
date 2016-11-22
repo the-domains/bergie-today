@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Nov 2016 11:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2016 15:11:19 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Nov 2016 11:27:32 GMT</pubDate>
+        <pubDate>Tue, 22 Nov 2016 15:11:17 GMT</pubDate>
+        <item>
+            <title><![CDATA[Tesla powers a whole island with solar to show off its energy chops]]></title>
+            <description><![CDATA[<article><h1>Tesla powers a whole island with solar to show off its energy chops</h1><p>Tesla completed its $2.6 billion acquisition of SolarCity this week, and, to celebrate, the company has announced a major solar energy project: wiring up the whole island of Ta'u in American Samoa....</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a4f8bc2-c874-4b29-83bd-187878e3f49f.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/11/22/13712750/tesla-microgrid-tau-samoa</link>
+            <guid isPermaLink="false">84bd9298-2180-4715-a107-1dd55c5cfdee</guid>
+            <pubDate>Tue, 22 Nov 2016 15:11:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[When traveling, my iPad is essential and my Mac is the add-on]]></title>
             <description><![CDATA[<article><h1>When traveling, my iPad is essential and my Mac is the add-on</h1><p>For the past year I've been traveling with a 12.9-inch iPad Pro and leaving my MacBook Air home whenever possible. Traveling with only an iPad can feel freeing and it can also feel confining, depending on what you need to accomplish.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/66ae1b1bdd0c3d08026169dcd297df0e/croprotate.jpg?cropheight=330&cropwidth=580&degrees=0&input=http%3A%2F%2Fcore0.staticworld.net%2Fimages%2Farticle%2F2016%2F04%2Fmacbook-ipad-iphone-apple-stock-100654731-large.jpg&x=0&y=26"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://quickdraw.withgoogle.com/</link>
             <guid isPermaLink="false">0b5eca84-51ef-4664-9e1b-abd119c78430</guid>
             <pubDate>Wed, 16 Nov 2016 14:10:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Other, Forgotten Great Wall]]></title>
-            <description><![CDATA[<article><h1>The Other, Forgotten Great Wall</h1><p>In northwestern Iran, running for almost 200 kilometers from the southeastern shores of the Caspian Sea to the mountains of Bilikuh in the east, lies the remains of the Great Wall of Gorgan-once the largest defensive structure ever built.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aad34f89-95ae-4483-b726-8ba26aa0d572.png"></article>]]></description>
-            <link>http://www.atlasobscura.com/articles/irans-great-wall-is-now-buried-and-forgotten</link>
-            <guid isPermaLink="false">dc84333f-c3db-414d-8ad5-d6835e574336</guid>
-            <pubDate>Tue, 15 Nov 2016 22:53:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
