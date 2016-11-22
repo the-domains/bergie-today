@@ -4,9 +4,23 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Nov 2016 14:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2016 11:27:33 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 20 Nov 2016 14:20:04 GMT</pubDate>
+        <pubDate>Tue, 22 Nov 2016 11:27:32 GMT</pubDate>
+        <item>
+            <title><![CDATA[When traveling, my iPad is essential and my Mac is the add-on]]></title>
+            <description><![CDATA[<article><h1>When traveling, my iPad is essential and my Mac is the add-on</h1><p>For the past year I've been traveling with a 12.9-inch iPad Pro and leaving my MacBook Air home whenever possible. Traveling with only an iPad can feel freeing and it can also feel confining, depending on what you need to accomplish.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/66ae1b1bdd0c3d08026169dcd297df0e/croprotate.jpg?cropheight=330&cropwidth=580&degrees=0&input=http%3A%2F%2Fcore0.staticworld.net%2Fimages%2Farticle%2F2016%2F04%2Fmacbook-ipad-iphone-apple-stock-100654731-large.jpg&x=0&y=26"></article>]]></description>
+            <link>http://www.macworld.com/article/3130710/ios/when-traveling-my-ipad-is-essential-and-my-mac-is-the-add-on.html</link>
+            <guid isPermaLink="false">63f5cb5d-c106-40f0-9fc9-2e2d5f5117dd</guid>
+            <pubDate>Tue, 22 Nov 2016 11:27:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The iPhone 7 Plus is my only computer]]></title>
+            <description><![CDATA[<article><h1>The iPhone 7 Plus is my only computer</h1><p>Yes, I'm being sardonic, but not entirely. I really don't use the MBP for much of anything these days, and frankly, I'm not sure I'll ever buy another "big" machine. (I've actually gone a couple months without so much as touching the MBP.)</p></article>]]></description>
+            <link>http://bergie.today/the-iphone-7-plus-is-my-only-computer/index.html</link>
+            <guid isPermaLink="false">34969fdc-7199-4422-9a49-34d4bb63b4af</guid>
+            <pubDate>Tue, 22 Nov 2016 11:02:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[At Sea]]></title>
             <description><![CDATA[<article><h1>At Sea</h1><p>On the defunct language of nautical flags. There are forty flags in a complete set of international maritime signal flags—one for each letter of the English alphabet, one for each number, and four flags called substitutes, which perform special operations.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/58dac8239d037037870d622428f915a8/noop.png?input=http%3A%2F%2Fwww.theparisreview.org%2Fblog%2Fwp-content%2Fuploads%2F2016%2F11%2Fships.png"></article>]]></description>
@@ -62,20 +76,6 @@
             <link>http://www.atlasobscura.com/articles/irans-great-wall-is-now-buried-and-forgotten</link>
             <guid isPermaLink="false">dc84333f-c3db-414d-8ad5-d6835e574336</guid>
             <pubDate>Tue, 15 Nov 2016 22:53:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Office last week]]></title>
-            <description><![CDATA[<article><h1>Office last week</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/767e8169a6a8731f914e2b050f674cfe/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F15035670_1728983097423095_1979157402859077632_n.jpg%3Fig_cache_key%3DMTM4NDM1NDU5Mzk4MzQwNDQ5MQ%253D%253D.2"></article>]]></description>
-            <link>https://www.instagram.com/p/BM2Nyspj5nL/</link>
-            <guid isPermaLink="false">328b658e-648f-4e3b-8f63-5126928612de</guid>
-            <pubDate>Tue, 15 Nov 2016 22:27:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google's PhotoScan lets you digitize old photos in a snap]]></title>
-            <description><![CDATA[<article><h1>Google's PhotoScan lets you digitize old photos in a snap</h1><p>Google is making it easy to digitize and share old photos with a new app called PhotoScan - just in time to embarrass you for the holidays. PhotoScan is an app that lets you take a picture of a physical, old photo. While the user interface is simple enough for anyone to use, there’s a great deal going on in the background. The app uses machine learning to remove glares, crop out the desk or wall behind the printed photo, and make sure the colors are accurate so that you get a perfect scan.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9f6e8042f192edcadffef3c613ae7d66/noop.jpg?input=http%3A%2F%2Ficdn3.digitaltrends.com%2Fimage%2Fphotoscan-1200x630-c.jpg"></article>]]></description>
-            <link>http://www.digitaltrends.com/mobile/google-photoscan/</link>
-            <guid isPermaLink="false">05c70649-4529-4400-bee1-42efaf9683ac</guid>
-            <pubDate>Tue, 15 Nov 2016 21:34:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
