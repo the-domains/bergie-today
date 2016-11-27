@@ -4,9 +4,23 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Nov 2016 17:00:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2016 17:51:29 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Nov 2016 17:00:06 GMT</pubDate>
+        <pubDate>Sun, 27 Nov 2016 17:51:28 GMT</pubDate>
+        <item>
+            <title><![CDATA[in which keyboard science goes further ]]></title>
+            <description><![CDATA[<article><h1>in which keyboard science goes further </h1><p>My last post documented my initial exposure to the wild world of custom keyboards and the numerous ways it's possible to improve on the conventional design. As I dug deeper into the topic, I was struck with the simplicity of the underlying concepts.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/be05bf5114e66a123f2cf1f8a58794fe/noop.jpg?input=http%3A%2F%2Ftechnomancy.us%2Fi%2Fatreus.jpg"></article>]]></description>
+            <link>http://technomancy.us/173</link>
+            <guid isPermaLink="false">e921256a-364c-449d-a701-6c5ac4256d78</guid>
+            <pubDate>Sun, 27 Nov 2016 17:51:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Webhooks do's and dont's: what we learned after integrating +100 APIs]]></title>
+            <description><![CDATA[<article><h1>Webhooks do's and dont's: what we learned after integrating +100 APIs</h1><p>As modern applications are becoming more and more a composite of APIs and the serverless architectures are getting more attention, API providers can't afford any longer to expose only traditional REST endpoints. Traditional REST API are designed for when you want to allow a programmatical retrieve or post content, far from being optimal when you just want your application to be told when something changed.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b0f22fe972ac11c9f13682a9ed68d801/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*dEmrcTajSG5A4Z_JjrGqfw.png"></article>]]></description>
+            <link>https://restful.io/webhooks-dos-and-dont-s-what-we-learned-after-integrating-100-apis-d567405a3671#.uyolnioq1</link>
+            <guid isPermaLink="false">1152c54f-74f9-4151-b632-72760b8478fb</guid>
+            <pubDate>Thu, 24 Nov 2016 22:33:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[When traveling, my iPad is essential and my Mac is the add-on]]></title>
             <description><![CDATA[<article><h1>When traveling, my iPad is essential and my Mac is the add-on</h1><p>For the past year I've been traveling with a 12.9-inch iPad Pro and leaving my MacBook Air home whenever possible. Traveling with only an iPad can feel freeing and it can also feel confining, depending on what you need to accomplish.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/66ae1b1bdd0c3d08026169dcd297df0e/croprotate.jpg?cropheight=330&cropwidth=580&degrees=0&input=http%3A%2F%2Fcore0.staticworld.net%2Fimages%2Farticle%2F2016%2F04%2Fmacbook-ipad-iphone-apple-stock-100654731-large.jpg&x=0&y=26"></article>]]></description>
@@ -62,20 +76,6 @@
             <link>https://medium.com/@fagnerbrack/how-to-reject-the-belief-on-the-silver-bullet-1d86b686acbb#.pqt6dmdu7</link>
             <guid isPermaLink="false">95fd2c51-9edd-42bc-8187-8db7d7c0f144</guid>
             <pubDate>Fri, 18 Nov 2016 14:10:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX plans worldwide satellite Internet with low latency, gigabit speed]]></title>
-            <description><![CDATA[<article><h1>SpaceX plans worldwide satellite Internet with low latency, gigabit speed</h1><p>SpaceX has detailed ambitious plans to bring fast Internet access to the entire world with a new satellite system that offers greater speeds and lower latency than existing satellite networks. The private spacecraft company founded by CEO Elon Musk filed an application Tuesday for satellite space station authorizations with the US Federal Communications Commission.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c3e826e830d77b0388e998df928b3993/noop.jpg?input=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F11%2Fgetty-global-network-760x380.jpg"></article>]]></description>
-            <link>http://arstechnica.com/information-technology/2016/11/spacex-plans-worldwide-satellite-internet-with-low-latency-gigabit-speed/</link>
-            <guid isPermaLink="false">5559b466-62c7-44d2-b954-24b8eb53954b</guid>
-            <pubDate>Thu, 17 Nov 2016 22:10:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quick, Draw!]]></title>
-            <description><![CDATA[<article><h1>Quick, Draw!</h1><p>Can a neural network learn to recognize doodles? See how well it does with your drawings and help teach it, just by playing.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/35bd86bddc1eb7fb62f1892b03d7ba11/noop.png?input=https%3A%2F%2Fquickdraw.withgoogle.com%2Fstatic%2Fshareimg.png"></article>]]></description>
-            <link>https://quickdraw.withgoogle.com/</link>
-            <guid isPermaLink="false">0b5eca84-51ef-4664-9e1b-abd119c78430</guid>
-            <pubDate>Wed, 16 Nov 2016 14:10:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
