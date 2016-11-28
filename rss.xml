@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Nov 2016 12:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2016 18:34:09 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 28 Nov 2016 12:09:47 GMT</pubDate>
+        <pubDate>Mon, 28 Nov 2016 18:34:07 GMT</pubDate>
+        <item>
+            <title><![CDATA[Program your Finances: Command-line Accounting]]></title>
+            <description><![CDATA[<article><h1>Program your Finances: Command-line Accounting</h1><p>All about my financial journey, from debt-ridden towards debt-free. More importantly, this is a very basic introduction to how to use ledger to keep track of your finances. This has been described as the best introduction to ledger out there.</p></article>]]></description>
+            <link>https://www.petekeen.net/keeping-finances-with-ledger</link>
+            <guid isPermaLink="false">7bad4b81-8d95-4850-af29-95d993e98e0c</guid>
+            <pubDate>Mon, 28 Nov 2016 18:34:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Edō Ergo Sum: Foodie Hipsterism in the Roman Empire]]></title>
             <description><![CDATA[<article><h1>Edō Ergo Sum: Foodie Hipsterism in the Roman Empire</h1><p>A few months ago, I threw a Roman-themed dinner party. I converted my entire living room into a triclinium, insisted that all my guests dress in togae and stolae, and served them peppered wine, fresh olives, and figs, while ancient Roman and Etruscan music wailed in the background.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7b350ca5d7ba61597acd46bedf807e56/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*groIuzMqkG3fdaky6DEGLQ.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://relay70.metatron.ai/the-rise-and-fall-of-the-open-source-mobile/</link>
             <guid isPermaLink="false">40d28d1b-d876-422b-8233-42246b2a61d3</guid>
             <pubDate>Sat, 19 Nov 2016 17:08:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tribute to Hayao Miyazaki]]></title>
-            <description><![CDATA[<article><h1>Tribute to Hayao Miyazaki</h1><p>Tribute to Hayao Miyazaki Music by Joe Hisaishi Made with Blender, Gimp, Octane and Natron. Thanks to Blackschmoll, Boby, Christophe, Clouclou, Cremuss, David, Félicia, Frenchman, Sozap, Stéphane, Virgil ! And Thanks to Ton Roosendaal, the Blender community, developers of Blender, Gimp and Natron !</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/687abb166076670f44b9ed17f7289541/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F528269250_1280x536.jpg"></article>]]></description>
-            <link>https://vimeo.com/134668506</link>
-            <guid isPermaLink="false">cfc38a9a-74ed-4dc1-8349-566a5200d6f8</guid>
-            <pubDate>Sat, 19 Nov 2016 13:17:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
