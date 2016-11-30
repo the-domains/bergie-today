@@ -4,9 +4,23 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Nov 2016 18:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2016 11:22:09 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 28 Nov 2016 18:34:07 GMT</pubDate>
+        <pubDate>Wed, 30 Nov 2016 11:22:07 GMT</pubDate>
+        <item>
+            <title><![CDATA[Rediscovering the iPad]]></title>
+            <description><![CDATA[<article><h1>Rediscovering the iPad</h1><p>It started with two unpleasant feelings: It’s not reliable anymore, and It needs too much babysitting. Harsh, but also fair. My beloved 2015 MacBook 12”, along with its complimentary 2016-model replacement, has been the source of conflicting emotions over the past year. A series of breakdowns on the controversy-stirring new keyboard, with week-long service times on each occasion. After more than two months, the 2016 replacement is behaving just fine, but still. My confidence in the machine has been damaged.</p></article>]]></description>
+            <link>http://mattgemmell.com/rediscovering-the-ipad/</link>
+            <guid isPermaLink="false">90c2b752-7050-49a4-8b32-41a72e133ab6</guid>
+            <pubDate>Wed, 30 Nov 2016 11:22:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Logojoy]]></title>
+            <description><![CDATA[<article><h1>Logojoy</h1><p>My name is Dawson Whitfield. I made Logojoy - an online logo maker that uses machine learning to make it feel like you're working with a real designer. Logojoy is for anyone trying to start a business, blog, non-profit, club, or anything that requires a logo.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/161fe5350b0efe34f20ebe730b52052f/noop.jpeg?input=https%3A%2F%2Fwww.indiehackers.com%2Fimages%2Fcontent%2Flogojoy-packaging.jpeg"></article>]]></description>
+            <link>https://www.indiehackers.com/businesses/logojoy</link>
+            <guid isPermaLink="false">6b84db2e-888f-41c9-8ab3-779079524cce</guid>
+            <pubDate>Tue, 29 Nov 2016 23:30:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Program your Finances: Command-line Accounting]]></title>
             <description><![CDATA[<article><h1>Program your Finances: Command-line Accounting</h1><p>All about my financial journey, from debt-ridden towards debt-free. More importantly, this is a very basic introduction to how to use ledger to keep track of your finances. This has been described as the best introduction to ledger out there.</p></article>]]></description>
@@ -62,20 +76,6 @@
             <link>http://www.theverge.com/2016/11/22/13712750/tesla-microgrid-tau-samoa</link>
             <guid isPermaLink="false">84bd9298-2180-4715-a107-1dd55c5cfdee</guid>
             <pubDate>Tue, 22 Nov 2016 15:11:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At Sea]]></title>
-            <description><![CDATA[<article><h1>At Sea</h1><p>On the defunct language of nautical flags. There are forty flags in a complete set of international maritime signal flags—one for each letter of the English alphabet, one for each number, and four flags called substitutes, which perform special operations.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/58dac8239d037037870d622428f915a8/noop.png?input=http%3A%2F%2Fwww.theparisreview.org%2Fblog%2Fwp-content%2Fuploads%2F2016%2F11%2Fships.png"></article>]]></description>
-            <link>http://www.theparisreview.org/blog/2016/11/18/at-sea/</link>
-            <guid isPermaLink="false">ef37334c-ee82-4f1c-b8ba-fff70d41c06a</guid>
-            <pubDate>Sun, 20 Nov 2016 14:20:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Rise and Fall of the Open Source Mobile]]></title>
-            <description><![CDATA[<article><h1>The Rise and Fall of the Open Source Mobile</h1><p>In the Year of the Open Source Mobile, partly driven by the 2013 Year of Snowden Surveillance Relevations, I guess it is worthwile to take a look at the Nokia N900 and its mobile operating system, the pioneering Maemo platform.</p></article>]]></description>
-            <link>https://relay70.metatron.ai/the-rise-and-fall-of-the-open-source-mobile/</link>
-            <guid isPermaLink="false">40d28d1b-d876-422b-8233-42246b2a61d3</guid>
-            <pubDate>Sat, 19 Nov 2016 17:08:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
