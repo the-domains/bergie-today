@@ -20,7 +20,10 @@ color:
   lightness: 0.724606388921914
   saturation: 0.4853832106186206
   rhythmicContrast: 0.05833878976680191
-purpose: []
+purpose:
+  - type: external
+    label: Subscribe RSS
+    url: 'https://bergie.today/rss.xml'
 title: Henri Bergius
 description: 'Daily Linklog. Technology, Space, History, Adventure.'
 author:
@@ -29,4 +32,5 @@ author:
   email: henri.bergius@iki.fi
 content_rating:
   adult: false
+content: []
 github: true
