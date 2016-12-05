@@ -4,16 +4,9 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 05 Dec 2016 18:32:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2016 18:34:26 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 Dec 2016 18:32:41 GMT</pubDate>
-        <item>
-            <title><![CDATA[Open-sourcing DeepMind Lab]]></title>
-            <description><![CDATA[<article><h1>Open-sourcing DeepMind Lab</h1><p>Sharing our flagship research platform, DeepMind Lab, with the research community.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2702dfb7259ae3ebcb896f5a66918e8d/noop.png?input=https%3A%2F%2Fstorage.googleapis.com%2Fdeepmind-live-cms%2Fimages%2FDMLab-Blog-Logo-FINAL-161202-r01%252520%2525281%252529%252520%2525281%252529%252520%2525281%252529.width-600.png"></article>]]></description>
-            <link>https://deepmind.com/blog/open-sourcing-deepmind-lab/</link>
-            <guid isPermaLink="false">cf5adb16-1afa-434d-83d6-161327f88900</guid>
-            <pubDate>Mon, 05 Dec 2016 18:32:24 GMT</pubDate>
-        </item>
+        <pubDate>Mon, 05 Dec 2016 18:34:24 GMT</pubDate>
         <item>
             <title><![CDATA[Service Worker, what are you? ]]></title>
             <description><![CDATA[<article><h1>Service Worker, what are you? </h1><p>In July 2015, I was sitting in a theater in Austin Texas attending JavaScript Conference. The person on the stage was Jake Archibald, who at the time I only knew as funny British chap who talk about bathroom matter 🚽 a lot. I later found out he is kind of big deal™ for designing Service Worker spec.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f460172d-7021-4bd3-b652-1ecc1ab37a61.png"></article>]]></description>
