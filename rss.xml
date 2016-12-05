@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 05 Dec 2016 10:49:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2016 11:35:34 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 Dec 2016 10:49:01 GMT</pubDate>
+        <pubDate>Mon, 05 Dec 2016 11:35:33 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>The platonic ideal of a 21st-century company is a CEO and a computer. The computer hires a cloud of transient workers and the CEO pitches slides to investors.</blockquote>]]></description>
+            <link>https://news.ycombinator.com/item?id=12504634</link>
+            <guid isPermaLink="false">90d6d0db-4c41-4f62-9b05-bb8314a01d70</guid>
+            <pubDate>Mon, 05 Dec 2016 11:35:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I got a Google Home and finally understand the future of computing]]></title>
             <description><![CDATA[<article><h1>I got a Google Home and finally understand the future of computing</h1><p>For decades the technology industry has been chasing the holy grail of computing: natural language conversation. Humans have always wanted to talk with computers like a real person, but for a long time, it's felt like a pipe dream. Research has stretched decades.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/737a496fd009ae313b9d3b6e1888af29/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*ZyW9BNkhUVXzvux2P1eYlw.jpeg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://medium.com/@ageitgey/the-new-macbook-pro-is-kind-of-great-for-hackers-64c1c577a4d2#.voalhik3n</link>
             <guid isPermaLink="false">6b360998-f2d4-4002-a3b2-5b6dfa9e3cfd</guid>
             <pubDate>Sun, 27 Nov 2016 17:51:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[in which keyboard science goes further ]]></title>
-            <description><![CDATA[<article><h1>in which keyboard science goes further </h1><p>My last post documented my initial exposure to the wild world of custom keyboards and the numerous ways it's possible to improve on the conventional design. As I dug deeper into the topic, I was struck with the simplicity of the underlying concepts.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/be05bf5114e66a123f2cf1f8a58794fe/noop.jpg?input=http%3A%2F%2Ftechnomancy.us%2Fi%2Fatreus.jpg"></article>]]></description>
-            <link>http://technomancy.us/173</link>
-            <guid isPermaLink="false">e921256a-364c-449d-a701-6c5ac4256d78</guid>
-            <pubDate>Sun, 27 Nov 2016 17:51:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
