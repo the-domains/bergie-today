@@ -1,14 +1,5 @@
-name: Bergie Today
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dc0c9fe-61bd-4213-bd6a-513b80e78904.png
-layout_spectrum: 0.4042803988925707
-typography_spectrum: 0.7246885599506705
-cta: {}
-analytics:
-  google: UA-75936-17
-opengraph:
-  type: ''
-  appId: ''
+layout_spectrum: 0.7039157181964394
+typography_spectrum: 0.6657644990231326
 color:
   brandColors:
     - '#080000'
@@ -16,10 +7,19 @@ color:
     - '#bf956d'
     - '#411d0d'
     - '#926b4a'
-  brandStrength: 0.13042216264006526
-  lightness: 0.724606388921914
-  saturation: 0.4853832106186206
-  rhythmicContrast: 0.05833878976680191
+  brandStrength: 0.13411104305767188
+  lightness: 0.725349122926058
+  saturation: 0.4867921603619499
+  rhythmicContrast: 0.07590533655745411
+name: Bergie Today
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dc0c9fe-61bd-4213-bd6a-513b80e78904.png
+cta: {}
+analytics:
+  google: UA-75936-17
+opengraph:
+  type: ''
+  appId: ''
 purpose:
   - type: external
     label: Subscribe RSS
