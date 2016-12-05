@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 04 Dec 2016 21:44:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2016 10:49:25 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 04 Dec 2016 21:44:07 GMT</pubDate>
+        <pubDate>Mon, 05 Dec 2016 10:49:01 GMT</pubDate>
+        <item>
+            <title><![CDATA[I got a Google Home and finally understand the future of computing]]></title>
+            <description><![CDATA[<article><h1>I got a Google Home and finally understand the future of computing</h1><p>For decades the technology industry has been chasing the holy grail of computing: natural language conversation. Humans have always wanted to talk with computers like a real person, but for a long time, it's felt like a pipe dream. Research has stretched decades.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/737a496fd009ae313b9d3b6e1888af29/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*ZyW9BNkhUVXzvux2P1eYlw.jpeg"></article>]]></description>
+            <link>https://medium.com/charged-tech/i-got-a-google-home-and-finally-understand-the-future-of-computing-e7de00487d7d#.fqwemhqc9</link>
+            <guid isPermaLink="false">e3fd5779-9a6d-46ab-a947-92812475fc43</guid>
+            <pubDate>Mon, 05 Dec 2016 10:49:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Soil Depletion Crisis]]></title>
             <description><![CDATA[<article><h1>The Soil Depletion Crisis</h1><p>The spectre of irreversible climate change looms large on the horizon. If warming exceeds 2°C, the world will begin to hit 'tipping points', such as the permanent thawing of the Arctic permafrost, which is currently trapping more than double the total carbon in the earth's atmosphere.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a42a6aafc668a7a64c9276d6525b5d92/noop.jpg?input=http%3A%2F%2Fwww.historytoday.com%2Fsites%2Fdefault%2Ffiles%2Fhistory-matters%2Fsoildepletion.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://technomancy.us/173</link>
             <guid isPermaLink="false">e921256a-364c-449d-a701-6c5ac4256d78</guid>
             <pubDate>Sun, 27 Nov 2016 17:51:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Webhooks do's and dont's: what we learned after integrating +100 APIs]]></title>
-            <description><![CDATA[<article><h1>Webhooks do's and dont's: what we learned after integrating +100 APIs</h1><p>As modern applications are becoming more and more a composite of APIs and the serverless architectures are getting more attention, API providers can't afford any longer to expose only traditional REST endpoints. Traditional REST API are designed for when you want to allow a programmatical retrieve or post content, far from being optimal when you just want your application to be told when something changed.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b0f22fe972ac11c9f13682a9ed68d801/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*dEmrcTajSG5A4Z_JjrGqfw.png"></article>]]></description>
-            <link>https://restful.io/webhooks-dos-and-dont-s-what-we-learned-after-integrating-100-apis-d567405a3671#.uyolnioq1</link>
-            <guid isPermaLink="false">1152c54f-74f9-4151-b632-72760b8478fb</guid>
-            <pubDate>Thu, 24 Nov 2016 22:33:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
