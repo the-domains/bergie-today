@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 05 Dec 2016 18:34:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2016 10:44:03 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 Dec 2016 18:34:24 GMT</pubDate>
+        <pubDate>Tue, 06 Dec 2016 10:43:59 GMT</pubDate>
+        <item>
+            <title><![CDATA[Amazon Moves to Cut Checkout Line, Promoting a Grab-and-Go Experience]]></title>
+            <description><![CDATA[<article><h1>Amazon Moves to Cut Checkout Line, Promoting a Grab-and-Go Experience</h1><p>There is almost no aspect of retail that Amazon has not upended with online shopping. Now, the company is trying to computerize the experience of buying sandwiches and soda from the corner convenience store.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bee1be8-95bc-4d96-bb5e-c6d9cf78b3d5.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2016/12/05/technology/amazon-moves-to-cut-checkout-line-promoting-a-grab-and-go-experience.html?_r=0</link>
+            <guid isPermaLink="false">979215aa-4e31-4813-a9bf-6f3afbbf7388</guid>
+            <pubDate>Tue, 06 Dec 2016 10:43:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Service Worker, what are you? ]]></title>
             <description><![CDATA[<article><h1>Service Worker, what are you? </h1><p>In July 2015, I was sitting in a theater in Austin Texas attending JavaScript Conference. The person on the stage was Jake Archibald, who at the time I only knew as funny British chap who talk about bathroom matter 🚽 a lot. I later found out he is kind of big deal™ for designing Service Worker spec.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f460172d-7021-4bd3-b652-1ecc1ab37a61.png"></article>]]></description>
