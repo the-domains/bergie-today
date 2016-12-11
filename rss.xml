@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Dec 2016 12:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2016 19:22:03 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Dec 2016 12:09:17 GMT</pubDate>
+        <pubDate>Sun, 11 Dec 2016 19:21:59 GMT</pubDate>
+        <item>
+            <title><![CDATA[How to encrypt your entire life in less than an hour]]></title>
+            <description><![CDATA[<article><h1>How to encrypt your entire life in less than an hour</h1><p>"Only the paranoid survive." - Andy Grove Andy Grove was a Hungarian refugee who escaped communism, studied engineering, and ultimately led the personal computer revolution as the CEO of Intel. He died earlier this year in Silicon Valley after a long fight with Parkinson's disease.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5ea2addc0d44782cd7011eb4e61c4f5a/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*heFbQfGHtoU_6vfRQSZkDg.jpeg"></article>]]></description>
+            <link>https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3#.t5inbqnuf</link>
+            <guid isPermaLink="false">5b5cf65c-6e09-4d16-abcf-2a58dbff7e82</guid>
+            <pubDate>Sun, 11 Dec 2016 19:21:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why I Believe Scratch Is The Future Of Programming]]></title>
             <description><![CDATA[<article><h1>Why I Believe Scratch Is The Future Of Programming</h1><p>Computer programming has undergone an incredible evolution in the past 20 years. Back when I was first learning computer programming, BASIC was the language I learned and I wrote my first program in DOS. There may be more than 100 different programming languages that have been invented since then.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e2d9729d889662001b9d707680d9651c/noop.jpg?input=https%3A%2F%2Felearningindustry.com%2Fwp-content%2Fuploads%2F2014%2F12%2FWhy-I-Believe-Scratch-Is-The-Future-Of-Programming.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://yannesposito.com/Scratch/fr/blog/Vim-as-IDE/</link>
             <guid isPermaLink="false">b88fdef1-f55a-407d-a734-c649c108fb31</guid>
             <pubDate>Sun, 04 Dec 2016 11:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX has a tentative return to flight date of December 16]]></title>
-            <description><![CDATA[<article><h1>SpaceX has a tentative return to flight date of December 16</h1><p>The satellite communications provider Iridium says it has a tentative launch date of December 16 for the first batch of its Iridium NEXT satellites, which would mark the return to flight for SpaceX's Falcon 9 rocket. The company made the announcement Thursday morning on its website.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5ed63cb44b492a9e8e44a6863700354e/noop.jpg?input=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F12%2F27661315686_555da92ecc_k-760x380.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/12/spacex-has-a-tentative-return-to-flight-date-of-december-16/</link>
-            <guid isPermaLink="false">16f876a5-6cd7-44fe-ada3-334330d752fa</guid>
-            <pubDate>Fri, 02 Dec 2016 12:04:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
