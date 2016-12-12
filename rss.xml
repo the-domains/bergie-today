@@ -4,9 +4,22 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 11 Dec 2016 19:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2016 15:24:43 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 11 Dec 2016 19:21:59 GMT</pubDate>
+        <pubDate>Mon, 12 Dec 2016 15:24:40 GMT</pubDate>
+        <item>
+            <title><![CDATA[Secure yourself, Part 1: Air-gapped computer, GPG and smartcards]]></title>
+            <description><![CDATA[<article><h1>Secure yourself, Part 1: Air-gapped computer, GPG and smartcards</h1><p>Logging into your laptop and decrypting it automatically
+Encrypting and decrypting any passwords or secure info you have
+Sending and receiving encrypted mails
+Providing 2-step authentication codes for your web logins
+Doing all of the above on your mobile phone
+Authenticating for sudo on your machine
+Managing your ssh keys seamlessly</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c3e49a7-c2b5-4a09-9705-1a2b1386d50d.jpg"></article>]]></description>
+            <link>http://viccuad.me/blog/secure-yourself-part-1-airgapped-computer-and-GPG-smartcards</link>
+            <guid isPermaLink="false">b52a614c-f768-4e3f-9bf9-d31e439dce56</guid>
+            <pubDate>Mon, 12 Dec 2016 15:24:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to encrypt your entire life in less than an hour]]></title>
             <description><![CDATA[<article><h1>How to encrypt your entire life in less than an hour</h1><p>"Only the paranoid survive." - Andy Grove Andy Grove was a Hungarian refugee who escaped communism, studied engineering, and ultimately led the personal computer revolution as the CEO of Intel. He died earlier this year in Silicon Valley after a long fight with Parkinson's disease.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5ea2addc0d44782cd7011eb4e61c4f5a/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*heFbQfGHtoU_6vfRQSZkDg.jpeg"></article>]]></description>
@@ -69,13 +82,6 @@
             <link>http://www.historytoday.com/alex-richardson-price/soil-depletion-crisis</link>
             <guid isPermaLink="false">5feb5ecc-72f3-4657-97d4-8020dcd7a3c7</guid>
             <pubDate>Sun, 04 Dec 2016 21:44:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vim as IDE]]></title>
-            <description><![CDATA[<article><h1>Vim as IDE</h1><p>In Learn Vim Progressively I've show how Vim is great for editing text, and navigating in the same file (buffer). In this short article you'll see how I use Vim as an IDE. Mainly by using some great plugins.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6ea9c8c57270a52833b99ee90e2992ea/noop.jpg?input=http%3A%2F%2Fyannesposito.com%2FScratch%2Fimg%2Fblog%2FVim-as-IDE%2Fvim_spock.jpg"></article>]]></description>
-            <link>http://yannesposito.com/Scratch/fr/blog/Vim-as-IDE/</link>
-            <guid isPermaLink="false">b88fdef1-f55a-407d-a734-c649c108fb31</guid>
-            <pubDate>Sun, 04 Dec 2016 11:03:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
