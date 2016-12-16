@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Dec 2016 12:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2016 23:38:15 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Dec 2016 12:28:43 GMT</pubDate>
+        <pubDate>Fri, 16 Dec 2016 23:38:13 GMT</pubDate>
+        <item>
+            <title><![CDATA[The 2017 Gear Post]]></title>
+            <description><![CDATA[<article><h1>The 2017 Gear Post</h1><p>And now it's time for the one post per year about which people bug me for months: the 2017 gear post.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7087a060-387f-4a10-a9a2-b15d8265287f.jpg"></article>]]></description>
+            <link>http://tynan.com/gear2017</link>
+            <guid isPermaLink="false">1a8452d7-25ee-49a0-931e-e454be427650</guid>
+            <pubDate>Fri, 16 Dec 2016 23:38:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[World Energy Hits a Turning Point: Solar That's Cheaper Than Wind]]></title>
             <description><![CDATA[<article><h1>World Energy Hits a Turning Point: Solar That's Cheaper Than Wind</h1><p>A transformation is happening in global energy markets that's worth noting as 2016 comes to an end: Solar power, for the first time, is becoming the cheapest form of new electricity. This has happened in isolated projects in the past: an especially competitive auction in the Middle East, for example, resulting in record-cheap solar costs.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/eeb5b6422ca76458db0dd6759db61ccb/noop.jpg?input=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi8u3qE2OiKts%2Fv0%2F-1x-1.jpg"></article>]]></description>
@@ -75,13 +82,6 @@ Managing your ssh keys seamlessly</p><img src="https://the-grid-user-content.s3-
             <link>http://kosamari.com/notes/Service-Worker-what-are-you</link>
             <guid isPermaLink="false">e502a85c-4f60-4059-b24e-dc17b0e2dd52</guid>
             <pubDate>Mon, 05 Dec 2016 18:12:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI Universe]]></title>
-            <description><![CDATA[<article><h1>OpenAI Universe</h1><p>Measurement and training for artificial intelligence.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e74fcd08a91977e39c5abdddc5aa398a/noop.jpg?input=http%3A%2F%2Fopenai-kubernetes-prod-scoreboard.s3.amazonaws.com%2Fv1%2Fevaluations%2Feval_MfJDUqPyQzeMDFLMrOVjPg%2Ftraining_episode_batch_video_poster.jpg"></article>]]></description>
-            <link>https://universe.openai.com/</link>
-            <guid isPermaLink="false">fab8a328-a362-469c-8c50-69ef63e10bda</guid>
-            <pubDate>Mon, 05 Dec 2016 14:18:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
