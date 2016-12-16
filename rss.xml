@@ -4,9 +4,30 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Dec 2016 15:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2016 12:28:47 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 Dec 2016 15:24:40 GMT</pubDate>
+        <pubDate>Fri, 16 Dec 2016 12:28:43 GMT</pubDate>
+        <item>
+            <title><![CDATA[World Energy Hits a Turning Point: Solar That's Cheaper Than Wind]]></title>
+            <description><![CDATA[<article><h1>World Energy Hits a Turning Point: Solar That's Cheaper Than Wind</h1><p>A transformation is happening in global energy markets that's worth noting as 2016 comes to an end: Solar power, for the first time, is becoming the cheapest form of new electricity. This has happened in isolated projects in the past: an especially competitive auction in the Middle East, for example, resulting in record-cheap solar costs.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/eeb5b6422ca76458db0dd6759db61ccb/noop.jpg?input=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi8u3qE2OiKts%2Fv0%2F-1x-1.jpg"></article>]]></description>
+            <link>https://www.bloomberg.com/news/articles/2016-12-15/world-energy-hits-a-turning-point-solar-that-s-cheaper-than-wind</link>
+            <guid isPermaLink="false">2c0f529d-ceda-4a23-9161-20e252a0e891</guid>
+            <pubDate>Fri, 16 Dec 2016 12:28:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Computer for Everything: One Year of iPad Pro]]></title>
+            <description><![CDATA[<article><h1>A Computer for Everything: One Year of iPad Pro</h1><p>I wasn't sure I needed a 12.9-inch iPad when Apple announced the iPad Pro in September 2015. And yet, over a year later, the iPad Pro is, by far, the best computer I've ever owned. I've never felt so satisfied with any other Apple device before - but the transition wasn't easy.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/271f319b92e974c9aba9339074abcada/noop.jpeg?input=https%3A%2F%2F2672686a4cf38e8c2458-2712e00ea34e3076747650c92426bbb5.ssl.cf1.rackcdn.com%2F2016-12-13-22-29-30.jpeg"></article>]]></description>
+            <link>https://www.macstories.net/stories/one-year-of-ipad-pro/</link>
+            <guid isPermaLink="false">86f1d7ac-6171-40c9-ae5b-a31d3b1dda76</guid>
+            <pubDate>Thu, 15 Dec 2016 08:22:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft is about to turn a phone into a real PC]]></title>
+            <description><![CDATA[<article><h1>Microsoft is about to turn a phone into a real PC</h1><p>Microsoft is bringing a full version of Windows 10, complete with desktop app support, to ARM chipsets. The software giant demonstrated Windows 10 running on a Qualcomm Snapdragon 820 chip today, complete with HD video playback, Adobe Photoshop support, and Microsoft Office. Microsoft expects ARM-based laptops to be the first to adopt this new version of Windows 10. Traditional x86 desktop apps will be emulated, making the experience seamless to the end user. Laptops might be the first, but it’s easy to see past that and realize that this means Microsoft is about to turn a phone into a real PC.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c409d0e1-f8e6-4313-a1b1-3f259e4370d2.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/12/8/13881930/microsoft-turn-a-phone-into-a-pc-arm-continuum</link>
+            <guid isPermaLink="false">3e338d5b-87b6-4aa2-b484-3dd61d8da92d</guid>
+            <pubDate>Tue, 13 Dec 2016 11:06:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Secure yourself, Part 1: Air-gapped computer, GPG and smartcards]]></title>
             <description><![CDATA[<article><h1>Secure yourself, Part 1: Air-gapped computer, GPG and smartcards</h1><p>Logging into your laptop and decrypting it automatically
@@ -61,27 +82,6 @@ Managing your ssh keys seamlessly</p><img src="https://the-grid-user-content.s3-
             <link>https://universe.openai.com/</link>
             <guid isPermaLink="false">fab8a328-a362-469c-8c50-69ef63e10bda</guid>
             <pubDate>Mon, 05 Dec 2016 14:18:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>The platonic ideal of a 21st-century company is a CEO and a computer. The computer hires a cloud of transient workers and the CEO pitches slides to investors.</blockquote>]]></description>
-            <link>https://news.ycombinator.com/item?id=12504634</link>
-            <guid isPermaLink="false">90d6d0db-4c41-4f62-9b05-bb8314a01d70</guid>
-            <pubDate>Mon, 05 Dec 2016 11:35:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I got a Google Home and finally understand the future of computing]]></title>
-            <description><![CDATA[<article><h1>I got a Google Home and finally understand the future of computing</h1><p>For decades the technology industry has been chasing the holy grail of computing: natural language conversation. Humans have always wanted to talk with computers like a real person, but for a long time, it's felt like a pipe dream. Research has stretched decades.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/737a496fd009ae313b9d3b6e1888af29/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*ZyW9BNkhUVXzvux2P1eYlw.jpeg"></article>]]></description>
-            <link>https://medium.com/charged-tech/i-got-a-google-home-and-finally-understand-the-future-of-computing-e7de00487d7d#.fqwemhqc9</link>
-            <guid isPermaLink="false">e3fd5779-9a6d-46ab-a947-92812475fc43</guid>
-            <pubDate>Mon, 05 Dec 2016 10:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Soil Depletion Crisis]]></title>
-            <description><![CDATA[<article><h1>The Soil Depletion Crisis</h1><p>The spectre of irreversible climate change looms large on the horizon. If warming exceeds 2°C, the world will begin to hit 'tipping points', such as the permanent thawing of the Arctic permafrost, which is currently trapping more than double the total carbon in the earth's atmosphere.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a42a6aafc668a7a64c9276d6525b5d92/noop.jpg?input=http%3A%2F%2Fwww.historytoday.com%2Fsites%2Fdefault%2Ffiles%2Fhistory-matters%2Fsoildepletion.jpg"></article>]]></description>
-            <link>http://www.historytoday.com/alex-richardson-price/soil-depletion-crisis</link>
-            <guid isPermaLink="false">5feb5ecc-72f3-4657-97d4-8020dcd7a3c7</guid>
-            <pubDate>Sun, 04 Dec 2016 21:44:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
