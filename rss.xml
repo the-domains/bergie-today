@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Dec 2016 23:38:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2016 13:21:07 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Dec 2016 23:38:13 GMT</pubDate>
+        <pubDate>Sun, 18 Dec 2016 13:20:32 GMT</pubDate>
+        <item>
+            <title><![CDATA[This Extra 330 is the fastest-climbing electric-powered airplane ever]]></title>
+            <description><![CDATA[<article><h1>This Extra 330 is the fastest-climbing electric-powered airplane ever</h1><p>While we've become accustomed to seeing electric cars demonstrate serious performance-Tesla's Model S P90D can accelerate to 60mph in 2.8 seconds-the mere idea of electric-powered airplanes is unfamiliar to most of us. But the development of electric powertrains for aircraft is starting to gain momentum.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/61f15a3d84dc0f2f8a26e92b46b4a05b/noop.jpg?input=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F12%2Fsiemens-electric-plane-1-760x380.jpg"></article>]]></description>
+            <link>http://arstechnica.com/cars/2016/12/this-extra-330-is-the-fastest-climbing-electric-powered-airplane-ever/</link>
+            <guid isPermaLink="false">982806ff-1fc9-4e0a-98ed-a3e2ef239fe3</guid>
+            <pubDate>Sun, 18 Dec 2016 13:20:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The 2017 Gear Post]]></title>
             <description><![CDATA[<article><h1>The 2017 Gear Post</h1><p>And now it's time for the one post per year about which people bug me for months: the 2017 gear post.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7087a060-387f-4a10-a9a2-b15d8265287f.jpg"></article>]]></description>
@@ -75,13 +82,6 @@ Managing your ssh keys seamlessly</p><img src="https://the-grid-user-content.s3-
             <link>http://www.nytimes.com/2016/12/05/technology/amazon-moves-to-cut-checkout-line-promoting-a-grab-and-go-experience.html?_r=0</link>
             <guid isPermaLink="false">979215aa-4e31-4813-a9bf-6f3afbbf7388</guid>
             <pubDate>Tue, 06 Dec 2016 10:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Service Worker, what are you? ]]></title>
-            <description><![CDATA[<article><h1>Service Worker, what are you? </h1><p>In July 2015, I was sitting in a theater in Austin Texas attending JavaScript Conference. The person on the stage was Jake Archibald, who at the time I only knew as funny British chap who talk about bathroom matter 🚽 a lot. I later found out he is kind of big deal™ for designing Service Worker spec.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f460172d-7021-4bd3-b652-1ecc1ab37a61.png"></article>]]></description>
-            <link>http://kosamari.com/notes/Service-Worker-what-are-you</link>
-            <guid isPermaLink="false">e502a85c-4f60-4059-b24e-dc17b0e2dd52</guid>
-            <pubDate>Mon, 05 Dec 2016 18:12:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
