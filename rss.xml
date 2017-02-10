@@ -4,84 +4,78 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Dec 2016 14:45:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2017 22:53:31 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 Dec 2016 14:45:19 GMT</pubDate>
+        <pubDate>Fri, 10 Feb 2017 22:53:30 GMT</pubDate>
         <item>
-            <title><![CDATA[How to Write 225 Words Per Minute With a Pen]]></title>
-            <description><![CDATA[<article><h1>How to Write 225 Words Per Minute With a Pen</h1><p>Here's "it will be" on the first line, with "I have been" below it: And there are literally thousands of these phrases in Gregg shorthand. Most importantly, unlike short forms, they don't require much memorization; they're the product of a few simple rules.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a13231361dbcc19f7c5d6d4a64305d8e/noop.jpg?input=https%3A%2F%2Fcdn.theatlantic.com%2Fassets%2Fmedia%2Fimg%2Fmt%2F2014%2F06%2F1903_ShorthandClass-1%2Flead_large.jpg"></article>]]></description>
-            <link>http://www.theatlantic.com/technology/archive/2014/06/yeah-i-still-use-shorthand-and-a-smartpen/373281/</link>
-            <guid isPermaLink="false">70cdbe69-6527-4c6f-84ed-c606295ed246</guid>
-            <pubDate>Tue, 20 Dec 2016 14:45:17 GMT</pubDate>
+            <title><![CDATA[Live programming IoT systems with MsgFlo+Flowhub]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5dc54ba9b3c8d4ab66118eb65360acc5/noop.png?input=http%3A%2F%2Fwww.jonnor.com%2Fwp%2Ffiles%2Fmsgflo-iot-antipipefreeze.png"><h1>Live programming IoT systems with MsgFlo+Flowhub</h1><p>Last weekend at FOSDEM I presented in the Internet of Things (IoT) devroom, showing how one can use MsgFlo with Flowhub to visually live-program devices that talk MQTT. Video recording of MsgFlo Internet of Things presentation at FOSDEM 2017.</p></article>]]></description>
+            <link>http://www.jonnor.com/2017/02/live-programming-iot-systems/</link>
+            <guid isPermaLink="false">92a411ff-6e22-46bb-b279-178542c08b4c</guid>
+            <pubDate>Fri, 10 Feb 2017 22:53:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[This Extra 330 is the fastest-climbing electric-powered airplane ever]]></title>
-            <description><![CDATA[<article><h1>This Extra 330 is the fastest-climbing electric-powered airplane ever</h1><p>While we've become accustomed to seeing electric cars demonstrate serious performance-Tesla's Model S P90D can accelerate to 60mph in 2.8 seconds-the mere idea of electric-powered airplanes is unfamiliar to most of us. But the development of electric powertrains for aircraft is starting to gain momentum.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/61f15a3d84dc0f2f8a26e92b46b4a05b/noop.jpg?input=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F12%2Fsiemens-electric-plane-1-760x380.jpg"></article>]]></description>
-            <link>http://arstechnica.com/cars/2016/12/this-extra-330-is-the-fastest-climbing-electric-powered-airplane-ever/</link>
-            <guid isPermaLink="false">982806ff-1fc9-4e0a-98ed-a3e2ef239fe3</guid>
-            <pubDate>Sun, 18 Dec 2016 13:20:31 GMT</pubDate>
+            <title><![CDATA[Working on an Android tablet, 2017 edition]]></title>
+            <description><![CDATA[<article><h1>Working on an Android tablet, 2017 edition</h1><p>Back in 2013 I was working exclusively on an Android tablet. Then with the NoFlo Kickstarter I needed a device with a desktop browser. What followed were brief periods working on a Chromebook, on a 12&quot; MacBook, and even an iPad Pro. But from April 2016 onwards I&apos;ve been again working with an Android device.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/android-tablet-2017/pixel_c_travelers_notebook_small.jpg"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/working-on-android-2017/</link>
+            <guid isPermaLink="false">84f92aa6-a4bb-447d-a9be-2eb80bf9e9ef</guid>
+            <pubDate>Fri, 10 Feb 2017 18:23:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The 2017 Gear Post]]></title>
-            <description><![CDATA[<article><h1>The 2017 Gear Post</h1><p>And now it's time for the one post per year about which people bug me for months: the 2017 gear post.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7087a060-387f-4a10-a9a2-b15d8265287f.jpg"></article>]]></description>
-            <link>http://tynan.com/gear2017</link>
-            <guid isPermaLink="false">1a8452d7-25ee-49a0-931e-e454be427650</guid>
-            <pubDate>Fri, 16 Dec 2016 23:38:12 GMT</pubDate>
+            <title><![CDATA[Google Pixel C Review Re-Do [2017]]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FVl6QwjaXuDo%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVl6QwjaXuDo&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FVl6QwjaXuDo%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/Vl6QwjaXuDo</link>
+            <guid isPermaLink="false">d6b95025-b3b5-4a03-b0be-4e426f557867</guid>
+            <pubDate>Thu, 09 Feb 2017 19:14:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[World Energy Hits a Turning Point: Solar That's Cheaper Than Wind]]></title>
-            <description><![CDATA[<article><h1>World Energy Hits a Turning Point: Solar That's Cheaper Than Wind</h1><p>A transformation is happening in global energy markets that's worth noting as 2016 comes to an end: Solar power, for the first time, is becoming the cheapest form of new electricity. This has happened in isolated projects in the past: an especially competitive auction in the Middle East, for example, resulting in record-cheap solar costs.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/eeb5b6422ca76458db0dd6759db61ccb/noop.jpg?input=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi8u3qE2OiKts%2Fv0%2F-1x-1.jpg"></article>]]></description>
-            <link>https://www.bloomberg.com/news/articles/2016-12-15/world-energy-hits-a-turning-point-solar-that-s-cheaper-than-wind</link>
-            <guid isPermaLink="false">2c0f529d-ceda-4a23-9161-20e252a0e891</guid>
-            <pubDate>Fri, 16 Dec 2016 12:28:42 GMT</pubDate>
+            <title><![CDATA[How travel tech evolved over three decades during my three trips to Russia]]></title>
+            <description><![CDATA[<article><h1>How travel tech evolved over three decades during my three trips to Russia</h1><p>From the Kodak DCS 420 to the iPhone 6 (and approximately 6,000 vodka shots): An excerpt from &quot;Bears in the Streets: Three Journeys Across a Changing Russia.&quot;</p><img src="https://cdn2.vox-cdn.com/uploads/chorus_asset/file/7891633/5___David_and_Lisa.jpg"></article>]]></description>
+            <link>http://www.recode.net/2017/1/31/14431178/russia-technology-travel-kara-swisher-internet</link>
+            <guid isPermaLink="false">17fd30af-c317-406b-8a58-c21b1092b43d</guid>
+            <pubDate>Sun, 05 Feb 2017 11:24:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Computer for Everything: One Year of iPad Pro]]></title>
-            <description><![CDATA[<article><h1>A Computer for Everything: One Year of iPad Pro</h1><p>I wasn't sure I needed a 12.9-inch iPad when Apple announced the iPad Pro in September 2015. And yet, over a year later, the iPad Pro is, by far, the best computer I've ever owned. I've never felt so satisfied with any other Apple device before - but the transition wasn't easy.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/271f319b92e974c9aba9339074abcada/noop.jpeg?input=https%3A%2F%2F2672686a4cf38e8c2458-2712e00ea34e3076747650c92426bbb5.ssl.cf1.rackcdn.com%2F2016-12-13-22-29-30.jpeg"></article>]]></description>
-            <link>https://www.macstories.net/stories/one-year-of-ipad-pro/</link>
-            <guid isPermaLink="false">86f1d7ac-6171-40c9-ae5b-a31d3b1dda76</guid>
-            <pubDate>Thu, 15 Dec 2016 08:22:07 GMT</pubDate>
+            <title><![CDATA[Integrating Progressive Web Apps deeply into Android]]></title>
+            <description><![CDATA[<article><h1>Integrating Progressive Web Apps deeply into Android</h1><p>In 2015, we added a new feature to Chrome for Android that allows developers to prompt users to add their site to the Home screen for fast and convenient access. That feature uses an Android shortcut , which means that web apps don&apos;t show up throughout Android in the same way as installed native apps.</p><img src="http://1.bp.blogspot.com/-vkF7AFJOwBk/VkQxeAGi1mI/AAAAAAAARYo/57denvsQ8zA/s1600-r/logo_chromium.png"></article>]]></description>
+            <link>https://blog.chromium.org/2017/02/integrating-progressive-web-apps-deeply.html?m=1</link>
+            <guid isPermaLink="false">fc6f385b-cdda-4778-a4a4-fdac26da7b50</guid>
+            <pubDate>Thu, 02 Feb 2017 21:18:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Microsoft is about to turn a phone into a real PC]]></title>
-            <description><![CDATA[<article><h1>Microsoft is about to turn a phone into a real PC</h1><p>Microsoft is bringing a full version of Windows 10, complete with desktop app support, to ARM chipsets. The software giant demonstrated Windows 10 running on a Qualcomm Snapdragon 820 chip today, complete with HD video playback, Adobe Photoshop support, and Microsoft Office. Microsoft expects ARM-based laptops to be the first to adopt this new version of Windows 10. Traditional x86 desktop apps will be emulated, making the experience seamless to the end user. Laptops might be the first, but it’s easy to see past that and realize that this means Microsoft is about to turn a phone into a real PC.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c409d0e1-f8e6-4313-a1b1-3f259e4370d2.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/12/8/13881930/microsoft-turn-a-phone-into-a-pc-arm-continuum</link>
-            <guid isPermaLink="false">3e338d5b-87b6-4aa2-b484-3dd61d8da92d</guid>
-            <pubDate>Tue, 13 Dec 2016 11:06:16 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>New website for MsgFlo, the distributed flow-based programming environment for message queues: https://MsgFlo.org</blockquote>]]></description>
+            <link>https://twitter.com/bergie/status/827224733695479808</link>
+            <guid isPermaLink="false">10b01d47-18c1-48b0-8649-e25bd8148666</guid>
+            <pubDate>Thu, 02 Feb 2017 19:27:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Secure yourself, Part 1: Air-gapped computer, GPG and smartcards]]></title>
-            <description><![CDATA[<article><h1>Secure yourself, Part 1: Air-gapped computer, GPG and smartcards</h1><p>Logging into your laptop and decrypting it automatically
-Encrypting and decrypting any passwords or secure info you have
-Sending and receiving encrypted mails
-Providing 2-step authentication codes for your web logins
-Doing all of the above on your mobile phone
-Authenticating for sudo on your machine
-Managing your ssh keys seamlessly</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c3e49a7-c2b5-4a09-9705-1a2b1386d50d.jpg"></article>]]></description>
-            <link>http://viccuad.me/blog/secure-yourself-part-1-airgapped-computer-and-GPG-smartcards</link>
-            <guid isPermaLink="false">b52a614c-f768-4e3f-9bf9-d31e439dce56</guid>
-            <pubDate>Mon, 12 Dec 2016 15:24:39 GMT</pubDate>
+            <title><![CDATA[CSS Grid - Table layout is back. Be there and be square.]]></title>
+            <description><![CDATA[<article><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae546542-7709-470b-a15a-a28c2d1a7e5e.png"><h1>CSS Grid - Table layout is back. Be there and be square.</h1><p>CSS Grid is a new layout system for the web.</p></article>]]></description>
+            <link>https://developers.google.com/web/updates/2017/01/css-grid</link>
+            <guid isPermaLink="false">6d31d156-5212-4d34-9251-35bd2a642685</guid>
+            <pubDate>Tue, 31 Jan 2017 17:14:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to encrypt your entire life in less than an hour]]></title>
-            <description><![CDATA[<article><h1>How to encrypt your entire life in less than an hour</h1><p>"Only the paranoid survive." - Andy Grove Andy Grove was a Hungarian refugee who escaped communism, studied engineering, and ultimately led the personal computer revolution as the CEO of Intel. He died earlier this year in Silicon Valley after a long fight with Parkinson's disease.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5ea2addc0d44782cd7011eb4e61c4f5a/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*heFbQfGHtoU_6vfRQSZkDg.jpeg"></article>]]></description>
-            <link>https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3#.t5inbqnuf</link>
-            <guid isPermaLink="false">5b5cf65c-6e09-4d16-abcf-2a58dbff7e82</guid>
-            <pubDate>Sun, 11 Dec 2016 19:21:58 GMT</pubDate>
+            <title><![CDATA[How to Build an Autocracy]]></title>
+            <description><![CDATA[<article><h1>How to Build an Autocracy</h1><p>The preconditions are present in the U.S. today. Here&apos;s the playbook Donald Trump could use to set the country down a path toward illiberalism. It&apos;s 2021, and President Donald Trump will shortly be sworn in for his second term. The 45th president has visibly aged over the past four years.</p><img src="https://cdn.theatlantic.com/assets/media/img/2017/01/30/WEL_Frum_Authortarianism_LeadAlternate4X3/1920.jpg?1485815794"></article>]]></description>
+            <link>https://www.theatlantic.com/magazine/archive/2017/03/how-to-build-an-autocracy/513872/</link>
+            <guid isPermaLink="false">585ab7e2-e814-4797-812e-ed29ffab0f77</guid>
+            <pubDate>Tue, 31 Jan 2017 10:22:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why I Believe Scratch Is The Future Of Programming]]></title>
-            <description><![CDATA[<article><h1>Why I Believe Scratch Is The Future Of Programming</h1><p>Computer programming has undergone an incredible evolution in the past 20 years. Back when I was first learning computer programming, BASIC was the language I learned and I wrote my first program in DOS. There may be more than 100 different programming languages that have been invented since then.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e2d9729d889662001b9d707680d9651c/noop.jpg?input=https%3A%2F%2Felearningindustry.com%2Fwp-content%2Fuploads%2F2014%2F12%2FWhy-I-Believe-Scratch-Is-The-Future-Of-Programming.jpg"></article>]]></description>
-            <link>https://elearningindustry.com/scratch-the-future-programming</link>
-            <guid isPermaLink="false">816e13be-cd1f-499b-9593-9ef86db53680</guid>
-            <pubDate>Fri, 09 Dec 2016 12:09:16 GMT</pubDate>
+            <title><![CDATA[Vanishing point: the rise of the invisible computer]]></title>
+            <description><![CDATA[<article><h1>Vanishing point: the rise of the invisible computer</h1><p>In 1971, Intel, then an obscure firm in what would only later come to be known as Silicon Valley, released a chip called the 4004. It was the world&apos;s first commercially available microprocessor, which meant it sported all the electronic circuits necessary for advanced number-crunching in a single, tiny package.</p><img src="https://i.guim.co.uk/img/media/d5743c9d379ca8d50d586826bbc421250f218060/0_0_5333_3200/master/5333.jpg?w=1200&h=630&q=55&auto=format&usm=12&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&s=219fbf533103b982c1a533b35e2fa86d"></article>]]></description>
+            <link>https://www.theguardian.com/technology/2017/jan/26/vanishing-point-rise-invisible-computer</link>
+            <guid isPermaLink="false">dcb53527-68a6-43da-a3f7-d3f2df8a3594</guid>
+            <pubDate>Sat, 28 Jan 2017 20:36:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[There’s Something Funny in the Air on Mars]]></title>
-            <description><![CDATA[<article><h1>There’s Something Funny in the Air on Mars</h1><p>If you want to detect life on another planet, look for biomarkers-spectroscopic signatures of chemicals that betray the activity of living things. And in fact we may have already found a biomarker. In 2003 Earth-based astronomers caught glimpses of methane in the Martian atmosphere.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e59287355377210ea5668bdc311a603a/croprotate.jpg?cropheight=746&cropwidth=992&degrees=0&input=https%3A%2F%2Fs3.amazonaws.com%2Fnautilus-vertical%2Fcosmos_23b56f641fc48450cb3ff0772bb3df7a.jpg&x=16&y=0"></article>]]></description>
-            <link>http://cosmos.nautil.us/short/67/theres-something-funny-in-the-air-on-mars</link>
-            <guid isPermaLink="false">6e425613-0dfc-4483-8deb-8c98c96ebb15</guid>
-            <pubDate>Thu, 08 Dec 2016 14:56:50 GMT</pubDate>
+            <title><![CDATA[Rescue at Sea - Mid-Atlantic Mayday]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fe8bfj2Mx65k%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3De8bfj2Mx65k&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe8bfj2Mx65k%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/e8bfj2Mx65k</link>
+            <guid isPermaLink="false">265d8355-ac7a-4a49-8053-aa1e5eb7166d</guid>
+            <pubDate>Tue, 24 Jan 2017 09:21:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
