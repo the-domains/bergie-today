@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Feb 2017 12:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2017 12:10:07 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Feb 2017 12:05:22 GMT</pubDate>
+        <pubDate>Fri, 17 Feb 2017 12:09:36 GMT</pubDate>
+        <item>
+            <title><![CDATA[Revisiting 'Gangs of New York']]></title>
+            <description><![CDATA[<article><h1>Revisiting &apos;Gangs of New York&apos;</h1><p>If you haven&apos;t watched Gangs of New York recently, try to find the time to see it. I think it&apos;s a film that puts our current U.S. political strife into much-needed historical perspective.</p><img src="https://cdn-images-1.medium.com/max/1200/1*8fjOehn2FKPDe-Qb-q8jCg.jpeg"></article>]]></description>
+            <link>https://medium.com/@Daniel_Suarez/revisiting-gangs-of-new-york-61110aab3044#.bvm5zyb6l</link>
+            <guid isPermaLink="false">36aef5fc-5114-4d63-aee3-97713d853783</guid>
+            <pubDate>Fri, 17 Feb 2017 12:09:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The future of solar power technology is bright]]></title>
             <description><![CDATA[<article><h1>The future of solar power technology is bright</h1><p>While our recent look at residential solar may lead you to believe harnessing that power is a newer initiative, humans have been exploiting solar energy for thousands of years to heat their homes, cook, and produce hot water. Some of the earliest written references to technology consciously designed to capture the Sun&apos;s rays comes from ancient Greece.</p><img src="https://cdn.arstechnica.net/wp-content/uploads/2015/07/solartower-640x215.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://developers.google.com/web/updates/2017/01/css-grid</link>
             <guid isPermaLink="false">6d31d156-5212-4d34-9251-35bd2a642685</guid>
             <pubDate>Tue, 31 Jan 2017 17:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Build an Autocracy]]></title>
-            <description><![CDATA[<article><h1>How to Build an Autocracy</h1><p>The preconditions are present in the U.S. today. Here&apos;s the playbook Donald Trump could use to set the country down a path toward illiberalism. It&apos;s 2021, and President Donald Trump will shortly be sworn in for his second term. The 45th president has visibly aged over the past four years.</p><img src="https://cdn.theatlantic.com/assets/media/img/2017/01/30/WEL_Frum_Authortarianism_LeadAlternate4X3/1920.jpg?1485815794"></article>]]></description>
-            <link>https://www.theatlantic.com/magazine/archive/2017/03/how-to-build-an-autocracy/513872/</link>
-            <guid isPermaLink="false">585ab7e2-e814-4797-812e-ed29ffab0f77</guid>
-            <pubDate>Tue, 31 Jan 2017 10:22:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
