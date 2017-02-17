@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Feb 2017 12:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2017 16:46:46 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Feb 2017 12:09:36 GMT</pubDate>
+        <pubDate>Fri, 17 Feb 2017 16:46:44 GMT</pubDate>
+        <item>
+            <title><![CDATA[Redux-style middleware with NoFlo]]></title>
+            <description><![CDATA[<article><h1>Redux-style middleware with NoFlo</h1><p>This post talks about some useful patterns for dataflow architecture in NoFlo web applications. We&apos;re using these concepts to build Flowhub, the flow-based programming IDE. Flux is an application architecture for web applications published by Facebook back in 2014.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/noflo_flux_example.png"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/redux-middleware-noflo/</link>
+            <guid isPermaLink="false">4e1d5d07-69ae-43c5-9075-3342274e2849</guid>
+            <pubDate>Fri, 17 Feb 2017 16:46:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Revisiting 'Gangs of New York']]></title>
             <description><![CDATA[<article><h1>Revisiting &apos;Gangs of New York&apos;</h1><p>If you haven&apos;t watched Gangs of New York recently, try to find the time to see it. I think it&apos;s a film that puts our current U.S. political strife into much-needed historical perspective.</p><img src="https://cdn-images-1.medium.com/max/1200/1*8fjOehn2FKPDe-Qb-q8jCg.jpeg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/bergie/status/827224733695479808</link>
             <guid isPermaLink="false">10b01d47-18c1-48b0-8649-e25bd8148666</guid>
             <pubDate>Thu, 02 Feb 2017 19:27:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS Grid - Table layout is back. Be there and be square.]]></title>
-            <description><![CDATA[<article><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae546542-7709-470b-a15a-a28c2d1a7e5e.png"><h1>CSS Grid - Table layout is back. Be there and be square.</h1><p>CSS Grid is a new layout system for the web.</p></article>]]></description>
-            <link>https://developers.google.com/web/updates/2017/01/css-grid</link>
-            <guid isPermaLink="false">6d31d156-5212-4d34-9251-35bd2a642685</guid>
-            <pubDate>Tue, 31 Jan 2017 17:14:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
