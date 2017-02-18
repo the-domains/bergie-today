@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Feb 2017 16:46:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2017 21:15:15 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Feb 2017 16:46:44 GMT</pubDate>
+        <pubDate>Sat, 18 Feb 2017 21:15:07 GMT</pubDate>
+        <item>
+            <title><![CDATA[I'll never bring my phone on an international flight again. Neither should you.]]></title>
+            <description><![CDATA[<article><h1>I&apos;ll never bring my phone on an international flight again. Neither should you.</h1><p>A few months ago I wrote about how you can encrypt your entire life in less than an hour. Well, all the security in the world can&apos;t save you if someone has physical possession of your phone or laptop, and can intimidate you into giving up your password.</p><img src="https://cdn-images-1.medium.com/max/2000/1*GpoQZN70keHTOdaFFdr9fg.jpeg"></article>]]></description>
+            <link>https://medium.freecodecamp.com/ill-never-bring-my-phone-on-an-international-flight-again-neither-should-you-e9289cde0e5f#.qxwt5adro</link>
+            <guid isPermaLink="false">2eb05f59-a8b1-4bb2-a722-427d784312f4</guid>
+            <pubDate>Sat, 18 Feb 2017 21:15:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Redux-style middleware with NoFlo]]></title>
             <description><![CDATA[<article><h1>Redux-style middleware with NoFlo</h1><p>This post talks about some useful patterns for dataflow architecture in NoFlo web applications. We&apos;re using these concepts to build Flowhub, the flow-based programming IDE. Flux is an application architecture for web applications published by Facebook back in 2014.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/noflo_flux_example.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://blog.chromium.org/2017/02/integrating-progressive-web-apps-deeply.html?m=1</link>
             <guid isPermaLink="false">fc6f385b-cdda-4778-a4a4-fdac26da7b50</guid>
             <pubDate>Thu, 02 Feb 2017 21:18:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>New website for MsgFlo, the distributed flow-based programming environment for message queues: https://MsgFlo.org</blockquote>]]></description>
-            <link>https://twitter.com/bergie/status/827224733695479808</link>
-            <guid isPermaLink="false">10b01d47-18c1-48b0-8649-e25bd8148666</guid>
-            <pubDate>Thu, 02 Feb 2017 19:27:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
