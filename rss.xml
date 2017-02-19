@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Feb 2017 21:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2017 19:15:23 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Feb 2017 21:15:07 GMT</pubDate>
+        <pubDate>Sun, 19 Feb 2017 19:14:04 GMT</pubDate>
+        <item>
+            <title><![CDATA[CRS-10 | Falcon 9 First Stage Landing]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FglEvogjdEVY%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DglEvogjdEVY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FglEvogjdEVY%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/glEvogjdEVY</link>
+            <guid isPermaLink="false">c0972433-9c05-4d63-b090-7395c7ba0f60</guid>
+            <pubDate>Sun, 19 Feb 2017 19:14:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I'll never bring my phone on an international flight again. Neither should you.]]></title>
             <description><![CDATA[<article><h1>I&apos;ll never bring my phone on an international flight again. Neither should you.</h1><p>A few months ago I wrote about how you can encrypt your entire life in less than an hour. Well, all the security in the world can&apos;t save you if someone has physical possession of your phone or laptop, and can intimidate you into giving up your password.</p><img src="https://cdn-images-1.medium.com/max/2000/1*GpoQZN70keHTOdaFFdr9fg.jpeg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.recode.net/2017/1/31/14431178/russia-technology-travel-kara-swisher-internet</link>
             <guid isPermaLink="false">17fd30af-c317-406b-8a58-c21b1092b43d</guid>
             <pubDate>Sun, 05 Feb 2017 11:24:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Integrating Progressive Web Apps deeply into Android]]></title>
-            <description><![CDATA[<article><h1>Integrating Progressive Web Apps deeply into Android</h1><p>In 2015, we added a new feature to Chrome for Android that allows developers to prompt users to add their site to the Home screen for fast and convenient access. That feature uses an Android shortcut , which means that web apps don&apos;t show up throughout Android in the same way as installed native apps.</p><img src="http://1.bp.blogspot.com/-vkF7AFJOwBk/VkQxeAGi1mI/AAAAAAAARYo/57denvsQ8zA/s1600-r/logo_chromium.png"></article>]]></description>
-            <link>https://blog.chromium.org/2017/02/integrating-progressive-web-apps-deeply.html?m=1</link>
-            <guid isPermaLink="false">fc6f385b-cdda-4778-a4a4-fdac26da7b50</guid>
-            <pubDate>Thu, 02 Feb 2017 21:18:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
