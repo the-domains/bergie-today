@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Feb 2017 16:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2017 09:20:08 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Feb 2017 16:27:06 GMT</pubDate>
+        <pubDate>Tue, 21 Feb 2017 09:20:04 GMT</pubDate>
+        <item>
+            <title><![CDATA[Data-driven testing with fbp-spec]]></title>
+            <description><![CDATA[<article><h1>Data-driven testing with fbp-spec</h1><p>Automated testing is a key part of software development toolkit and practice. fbp-spec is a testing framework especially designed for Flow-based Programming(FBP)/dataflow programming, which can be used with any FBP runtime. For imperative or object-oriented Read More ...</p><img src="http://www.jonnor.com/wp/files/fbpspec-fixture-imageprocessing.png"></article>]]></description>
+            <link>http://www.jonnor.com/2017/02/data-driven-testing-with-fbp-spec/</link>
+            <guid isPermaLink="false">231fc830-10f9-4fcb-b863-b2011e9225df</guid>
+            <pubDate>Tue, 21 Feb 2017 09:20:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hygge is so 2016. Meet kalsarikannit, the word for drinking at home without pants on]]></title>
             <description><![CDATA[<article><h1>Hygge is so 2016. Meet kalsarikannit, the word for drinking at home without pants on</h1><p>In case no one&apos;s told you yet, hygge is having a moment. Well, was having a moment. Because once you learn the word the Finns have in store for you, you&apos;ll be grabbing a wine bottle and leaving hygge behind. Let me explain.</p><img src="http://www.trbimg.com/img-58a49945/turbine/ct-hygge-is-so-2016-seven-wines-to-try"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://bergie.iki.fi/blog/working-on-android-2017/</link>
             <guid isPermaLink="false">84f92aa6-a4bb-447d-a9be-2eb80bf9e9ef</guid>
             <pubDate>Fri, 10 Feb 2017 18:23:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Pixel C Review Re-Do [2017]]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FVl6QwjaXuDo%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVl6QwjaXuDo&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FVl6QwjaXuDo%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/Vl6QwjaXuDo</link>
-            <guid isPermaLink="false">d6b95025-b3b5-4a03-b0be-4e426f557867</guid>
-            <pubDate>Thu, 09 Feb 2017 19:14:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
