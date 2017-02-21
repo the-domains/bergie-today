@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Feb 2017 09:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2017 20:18:31 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Feb 2017 09:20:04 GMT</pubDate>
+        <pubDate>Tue, 21 Feb 2017 20:18:28 GMT</pubDate>
+        <item>
+            <title><![CDATA[Escaping Dark Age Cybersecurity Thinking]]></title>
+            <description><![CDATA[<article><h1>Escaping Dark Age Cybersecurity Thinking</h1><p>Much of what&apos;s wrong today in the realm of security, especially &quot;cybersecurity&quot; comes from thinking that is rooted in the Dark Ages.</p><img src="https://cdn-images-1.medium.com/max/1200/1*ncTcgV_zBk_M_C2YMJJzng.jpeg"></article>]]></description>
+            <link>https://medium.com/@brons/escaping-dark-age-cybersecurity-thinking-3e7b0c74bda8#.9w6nbenb8</link>
+            <guid isPermaLink="false">eec2fa46-97c6-414b-8b31-e577d0a94b4a</guid>
+            <pubDate>Tue, 21 Feb 2017 20:18:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Data-driven testing with fbp-spec]]></title>
             <description><![CDATA[<article><h1>Data-driven testing with fbp-spec</h1><p>Automated testing is a key part of software development toolkit and practice. fbp-spec is a testing framework especially designed for Flow-based Programming(FBP)/dataflow programming, which can be used with any FBP runtime. For imperative or object-oriented Read More ...</p><img src="http://www.jonnor.com/wp/files/fbpspec-fixture-imageprocessing.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.jonnor.com/2017/02/live-programming-iot-systems/</link>
             <guid isPermaLink="false">92a411ff-6e22-46bb-b279-178542c08b4c</guid>
             <pubDate>Fri, 10 Feb 2017 22:53:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Working on an Android tablet, 2017 edition]]></title>
-            <description><![CDATA[<article><h1>Working on an Android tablet, 2017 edition</h1><p>Back in 2013 I was working exclusively on an Android tablet. Then with the NoFlo Kickstarter I needed a device with a desktop browser. What followed were brief periods working on a Chromebook, on a 12&quot; MacBook, and even an iPad Pro. But from April 2016 onwards I&apos;ve been again working with an Android device.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/android-tablet-2017/pixel_c_travelers_notebook_small.jpg"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/working-on-android-2017/</link>
-            <guid isPermaLink="false">84f92aa6-a4bb-447d-a9be-2eb80bf9e9ef</guid>
-            <pubDate>Fri, 10 Feb 2017 18:23:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
