@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Feb 2017 09:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2017 09:56:21 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Feb 2017 09:42:43 GMT</pubDate>
+        <pubDate>Wed, 22 Feb 2017 09:56:17 GMT</pubDate>
+        <item>
+            <title><![CDATA[SpaceX's self-landing rocket is a flying robot that's great at math]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1199455919a1806df25cde3e4983fa70/noop.jpg?input=https%3A%2F%2Fi1.wp.com%2Fqzprod.files.wordpress.com%2F2017%2F02%2Fspacex-falcon-9-landing-cape-canaveral-crs-10.jpg%3Ffit%3D440%252C330%26quality%3D80%26strip%3Dall%26ssl%3D1"><h1>SpaceX&apos;s self-landing rocket is a flying robot that&apos;s great at math</h1><p>What you&apos;re seeing is a 40 meter tall SpaceX rocket booster, weighing more than 20 tons, fly itself back to Earth from space and land precisely on a target at Cape Canaveral. What you may be wondering is, how did it do that?</p></article>]]></description>
+            <link>https://qz.com/915702/the-spacex-falcon-9-rocket-you-see-landing-on-earth-is-really-a-sophisticated-flying-robot/</link>
+            <guid isPermaLink="false">221121d5-a1b0-42d3-8590-789bb8aac6c1</guid>
+            <pubDate>Wed, 22 Feb 2017 09:56:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Computing in Concert]]></title>
             <description><![CDATA[<article><h1>Computing in Concert</h1><p>&quot;Voice will never be the interaction model,&quot; they say, out loud, to communicate their thoughts. Here&apos;s the thing. It&apos;s pretty obvious what&apos;s going to happen here. At least in my mind. And I&apos;m now communicating that to you in written form. But I&apos;m also thinking it in my head in verbal form.</p><img src="https://cdn-images-1.medium.com/max/1200/1*whQrFdYOdxbNAK4pHKrA1g.jpeg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://arstechnica.com/science/2017/02/for-a-brighter-future-science-looks-to-re-energize-the-common-solar-cell/</link>
             <guid isPermaLink="false">ac2c8972-38c5-45f5-9f3e-517e9788662c</guid>
             <pubDate>Fri, 17 Feb 2017 12:05:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Diehard Coders Just Saved All of NASA's Earth Science Data]]></title>
-            <description><![CDATA[<article><h1>Diehard Coders Just Saved All of NASA&apos;s Earth Science Data</h1><p>On Saturday morning, the white stone buildings on UC Berkeley&apos;s campus radiated with unfiltered sunshine. The sky was blue, the campanile was chiming. But instead of enjoying the beautiful day, 200 adults had willingly sardined themselves into a fluorescent-lit room in the bowels of Doe Library to rescue federal climate data.</p><img src="https://assets.wired.com/photos/w_2064/wp-content/uploads/2017/02/BerkeleyDataTA.jpg"></article>]]></description>
-            <link>https://www.wired.com/2017/02/diehard-coders-just-saved-nasas-earth-science-data/</link>
-            <guid isPermaLink="false">f2a8efa7-87d2-4e44-833e-60639ff43e91</guid>
-            <pubDate>Tue, 14 Feb 2017 11:43:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
