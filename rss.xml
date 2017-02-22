@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Feb 2017 09:56:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2017 20:05:53 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Feb 2017 09:56:17 GMT</pubDate>
+        <pubDate>Wed, 22 Feb 2017 20:04:49 GMT</pubDate>
+        <item>
+            <title><![CDATA[These seven alien worlds could help explain how planets form]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/78577f4484c642370c98e465350fc1ac/noop.jpg?input=http%3A%2F%2Fwww.nature.com%2Fpolopoly_fs%2F7.42496.1487776760!%2Fimage%2Fhubble-trappist_web.jpg_gen%2Fderivatives%2Flandscape_630%2Fhubble-trappist_web.jpg"><h1>These seven alien worlds could help explain how planets form</h1><p>Seven alien, Earth-sized worlds bask in the cool, red light of their parent star. The planetary menagerie exists around a star overlooked by other exoplanet hunters, although it is just 12 parsecs (39 light years) from Earth. Astronomers have found other seven-planet systems before, but this is the first to have so many Earth-sized worlds.</p></article>]]></description>
+            <link>http://www.nature.com/news/these-seven-alien-worlds-could-help-explain-how-planets-form-1.21512?WT.mc_id=TWT_NatureNews</link>
+            <guid isPermaLink="false">38a7ee98-11ae-413c-a7ca-e7ecf311d2e3</guid>
+            <pubDate>Wed, 22 Feb 2017 20:04:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SpaceX's self-landing rocket is a flying robot that's great at math]]></title>
             <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1199455919a1806df25cde3e4983fa70/noop.jpg?input=https%3A%2F%2Fi1.wp.com%2Fqzprod.files.wordpress.com%2F2017%2F02%2Fspacex-falcon-9-landing-cape-canaveral-crs-10.jpg%3Ffit%3D440%252C330%26quality%3D80%26strip%3Dall%26ssl%3D1"><h1>SpaceX&apos;s self-landing rocket is a flying robot that&apos;s great at math</h1><p>What you&apos;re seeing is a 40 meter tall SpaceX rocket booster, weighing more than 20 tons, fly itself back to Earth from space and land precisely on a target at Cape Canaveral. What you may be wondering is, how did it do that?</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://medium.com/@Daniel_Suarez/revisiting-gangs-of-new-york-61110aab3044#.bvm5zyb6l</link>
             <guid isPermaLink="false">36aef5fc-5114-4d63-aee3-97713d853783</guid>
             <pubDate>Fri, 17 Feb 2017 12:09:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The future of solar power technology is bright]]></title>
-            <description><![CDATA[<article><h1>The future of solar power technology is bright</h1><p>While our recent look at residential solar may lead you to believe harnessing that power is a newer initiative, humans have been exploiting solar energy for thousands of years to heat their homes, cook, and produce hot water. Some of the earliest written references to technology consciously designed to capture the Sun&apos;s rays comes from ancient Greece.</p><img src="https://cdn.arstechnica.net/wp-content/uploads/2015/07/solartower-640x215.jpg"></article>]]></description>
-            <link>https://arstechnica.com/science/2017/02/for-a-brighter-future-science-looks-to-re-energize-the-common-solar-cell/</link>
-            <guid isPermaLink="false">ac2c8972-38c5-45f5-9f3e-517e9788662c</guid>
-            <pubDate>Fri, 17 Feb 2017 12:05:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
