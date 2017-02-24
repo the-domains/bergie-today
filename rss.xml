@@ -4,9 +4,23 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Feb 2017 20:32:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2017 16:25:49 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Feb 2017 20:32:21 GMT</pubDate>
+        <pubDate>Fri, 24 Feb 2017 16:25:48 GMT</pubDate>
+        <item>
+            <title><![CDATA[Solving the mystery behind the OP1 processor in the Chromebook Plus]]></title>
+            <description><![CDATA[<article><h1>Solving the mystery behind the OP1 processor in the Chromebook Plus</h1><p>When I reviewed the Samsung Chromebook Plus earlier this month, the most surprising thing was how well it performed. It&apos;s based on an ARM System on a Chip (SoC) - and that&apos;s generally a recipe for...</p><img src="https://cdn0.vox-cdn.com/uploads/chorus_image/image/53343785/642594116.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2017/2/22/14691396/google-chromebook-arm-laptop-op1-processor-apptop</link>
+            <guid isPermaLink="false">ada74b5c-a9a6-4fda-8686-ca001b88d921</guid>
+            <pubDate>Fri, 24 Feb 2017 16:25:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Serious Cloudflare bug exposed a potpourri of secret customer data]]></title>
+            <description><![CDATA[<article><h1>Serious Cloudflare bug exposed a potpourri of secret customer data</h1><p>Cloudflare, a service that helps optimize the security and performance of more than 5.5 million websites, warned customers today that a recently fixed software bug exposed a range of sensitive information that could have included passwords, and cookies and tokens used to authenticate users. A combination of factors made the bug particularly severe.</p><img src="https://cdn.arstechnica.net/wp-content/uploads/2016/08/secret-640x360.jpg"></article>]]></description>
+            <link>https://arstechnica.com/security/2017/02/serious-cloudflare-bug-exposed-a-potpourri-of-secret-customer-data/</link>
+            <guid isPermaLink="false">b1b790c1-40e4-438d-bcb2-0215120f8edd</guid>
+            <pubDate>Fri, 24 Feb 2017 16:12:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Image-to-Image Demo]]></title>
             <description><![CDATA[<article><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/434f2a68-fbf7-4722-b2dd-748737bf95ae.png"><h1>Image-to-Image Demo</h1><p>Recently, I made a Tensorflow port of pix2pix by Isola et al., covered in the article Image-to-Image Translation in Tensorflow. I&apos;ve taken a few pre-trained models and made an interactive web thing for trying them out. Chrome is recommended.</p></article>]]></description>
@@ -62,20 +76,6 @@
             <link>https://youtu.be/glEvogjdEVY</link>
             <guid isPermaLink="false">c0972433-9c05-4d63-b090-7395c7ba0f60</guid>
             <pubDate>Sun, 19 Feb 2017 19:14:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'll never bring my phone on an international flight again. Neither should you.]]></title>
-            <description><![CDATA[<article><h1>I&apos;ll never bring my phone on an international flight again. Neither should you.</h1><p>A few months ago I wrote about how you can encrypt your entire life in less than an hour. Well, all the security in the world can&apos;t save you if someone has physical possession of your phone or laptop, and can intimidate you into giving up your password.</p><img src="https://cdn-images-1.medium.com/max/2000/1*GpoQZN70keHTOdaFFdr9fg.jpeg"></article>]]></description>
-            <link>https://medium.freecodecamp.com/ill-never-bring-my-phone-on-an-international-flight-again-neither-should-you-e9289cde0e5f#.qxwt5adro</link>
-            <guid isPermaLink="false">2eb05f59-a8b1-4bb2-a722-427d784312f4</guid>
-            <pubDate>Sat, 18 Feb 2017 21:15:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Redux-style middleware with NoFlo]]></title>
-            <description><![CDATA[<article><h1>Redux-style middleware with NoFlo</h1><p>This post talks about some useful patterns for dataflow architecture in NoFlo web applications. We&apos;re using these concepts to build Flowhub, the flow-based programming IDE. Flux is an application architecture for web applications published by Facebook back in 2014.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/noflo_flux_example.png"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/redux-middleware-noflo/</link>
-            <guid isPermaLink="false">4e1d5d07-69ae-43c5-9075-3342274e2849</guid>
-            <pubDate>Fri, 17 Feb 2017 16:46:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
