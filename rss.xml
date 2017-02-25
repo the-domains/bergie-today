@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Feb 2017 18:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2017 12:53:45 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Feb 2017 18:20:04 GMT</pubDate>
+        <pubDate>Sat, 25 Feb 2017 12:53:44 GMT</pubDate>
+        <item>
+            <title><![CDATA[Miyazaki Dreams of Flying]]></title>
+            <description><![CDATA[<article><h1>Miyazaki Dreams of Flying</h1><p>Hayao Miyazaki&apos;s love of flight and flying machines is no secret to even a casual admirer of his work. Nearly all of his feature films contain at least one breathtaking flight sequence, and viewers can see his reverence for the sky grow more fervent as they progress through his filmography.</p><img src="https://cdn-media.fandor.com/keyframe/wp-content/uploads/2017/02/Miyazaki.png"></article>]]></description>
+            <link>https://www.fandor.com/keyframe/miyazaki-dreams-flying</link>
+            <guid isPermaLink="false">41df685f-31e7-4198-a759-55ad334b79eb</guid>
+            <pubDate>Sat, 25 Feb 2017 12:53:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Building NoFlo browser applications with webpack]]></title>
             <description><![CDATA[<article><h1>Building NoFlo browser applications with webpack</h1><p>I was looking at some of the Stack Overflow noflo questions yesterday, and there were a few related to building NoFlo for the browser. This made me realize we haven&apos;t really talked about the major change we made to browser builds recently: webpack.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/noflo-browser-app-webrtc.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.jonnor.com/2017/02/data-driven-testing-with-fbp-spec/</link>
             <guid isPermaLink="false">231fc830-10f9-4fcb-b863-b2011e9225df</guid>
             <pubDate>Tue, 21 Feb 2017 09:20:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hygge is so 2016. Meet kalsarikannit, the word for drinking at home without pants on]]></title>
-            <description><![CDATA[<article><h1>Hygge is so 2016. Meet kalsarikannit, the word for drinking at home without pants on</h1><p>In case no one&apos;s told you yet, hygge is having a moment. Well, was having a moment. Because once you learn the word the Finns have in store for you, you&apos;ll be grabbing a wine bottle and leaving hygge behind. Let me explain.</p><img src="http://www.trbimg.com/img-58a49945/turbine/ct-hygge-is-so-2016-seven-wines-to-try"></article>]]></description>
-            <link>http://www.chicagotribune.com/dining/drink/wine/ct-hygge-is-so-2016-seven-wines-to-try-story.html</link>
-            <guid isPermaLink="false">f0b87d6e-c968-4a6f-ac40-b2ef356672c9</guid>
-            <pubDate>Mon, 20 Feb 2017 16:27:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
