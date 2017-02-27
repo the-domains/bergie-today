@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Feb 2017 12:53:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2017 22:16:07 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Feb 2017 12:53:44 GMT</pubDate>
+        <pubDate>Mon, 27 Feb 2017 22:15:06 GMT</pubDate>
+        <item>
+            <title><![CDATA[SpaceX says it will send two people around the Moon in late 2018]]></title>
+            <description><![CDATA[<article><h1>SpaceX says it will send two people around the Moon in late 2018</h1><p>SpaceX announced Monday that it plans to send two private individuals around the Moon by the end of 2018, a highly ambitious flight that would mark the first human return to deep space in nearly 50 years.</p><img src="https://cdn.arstechnica.net/wp-content/uploads/2016/12/26405462060_81f8289687_k-1-760x380.jpg"></article>]]></description>
+            <link>https://arstechnica.com/science/2017/02/spacex-says-it-will-send-two-people-around-the-moon-in-late-2018/</link>
+            <guid isPermaLink="false">4f48959e-a239-4239-bdff-37cc3b198dc8</guid>
+            <pubDate>Mon, 27 Feb 2017 22:12:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Miyazaki Dreams of Flying]]></title>
             <description><![CDATA[<article><h1>Miyazaki Dreams of Flying</h1><p>Hayao Miyazaki&apos;s love of flight and flying machines is no secret to even a casual admirer of his work. Nearly all of his feature films contain at least one breathtaking flight sequence, and viewers can see his reverence for the sky grow more fervent as they progress through his filmography.</p><img src="https://cdn-media.fandor.com/keyframe/wp-content/uploads/2017/02/Miyazaki.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://medium.com/@brons/escaping-dark-age-cybersecurity-thinking-3e7b0c74bda8#.9w6nbenb8</link>
             <guid isPermaLink="false">eec2fa46-97c6-414b-8b31-e577d0a94b4a</guid>
             <pubDate>Tue, 21 Feb 2017 20:18:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Data-driven testing with fbp-spec]]></title>
-            <description><![CDATA[<article><h1>Data-driven testing with fbp-spec</h1><p>Automated testing is a key part of software development toolkit and practice. fbp-spec is a testing framework especially designed for Flow-based Programming(FBP)/dataflow programming, which can be used with any FBP runtime. For imperative or object-oriented Read More ...</p><img src="http://www.jonnor.com/wp/files/fbpspec-fixture-imageprocessing.png"></article>]]></description>
-            <link>http://www.jonnor.com/2017/02/data-driven-testing-with-fbp-spec/</link>
-            <guid isPermaLink="false">231fc830-10f9-4fcb-b863-b2011e9225df</guid>
-            <pubDate>Tue, 21 Feb 2017 09:20:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
