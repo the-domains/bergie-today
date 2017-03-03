@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Mar 2017 08:51:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2017 09:25:49 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Mar 2017 08:51:33 GMT</pubDate>
+        <pubDate>Fri, 03 Mar 2017 09:23:50 GMT</pubDate>
+        <item>
+            <title><![CDATA[NoFlo 0.8 is out now]]></title>
+            <description><![CDATA[<article><h1>NoFlo 0.8 is out now</h1><p>After several months of work, NoFlo 0.8 is finally out as a stable release. This release is important in that it brings the Process API for NoFlo components to general availability, paving way for the 1.x series. We introduced Process API in the 0.7 series last summer, but at that stage it wasn&apos;t deemed good enough for production use.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/a17b8582-fc33-11e5-9826-a722b90913ce.png"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/noflo-0-8/</link>
+            <guid isPermaLink="false">bc55c1a1-0cc0-4cd0-b813-01699e5d0c4c</guid>
+            <pubDate>Fri, 03 Mar 2017 09:23:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Amazon cloud sputters for hours, and a boatload of websites go offline]]></title>
             <description><![CDATA[<article><h1>Amazon cloud sputters for hours, and a boatload of websites go offline</h1><p>When the Amazon infrastructure-as-a-service cloud goes down, Internet users are going to notice. Amazon Web Services, which powers a whole bunch of websites and online services, has been struggling today and numerous sites that rely on Amazon infrastructure have gone offline as a result.</p><img src="https://cdn.arstechnica.net/wp-content/uploads/2017/02/AWS-logo-760x380.jpg"></article>]]></description>
