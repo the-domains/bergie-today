@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Mar 2017 23:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2017 18:30:11 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Mar 2017 23:04:00 GMT</pubDate>
+        <pubDate>Tue, 07 Mar 2017 18:30:09 GMT</pubDate>
+        <item>
+            <title><![CDATA[What it feels like to be an open-source maintainer]]></title>
+            <description><![CDATA[<article><h1>What it feels like to be an open-source maintainer</h1><p>Outside your door stands a line of a few hundred people. They are patiently waiting for you to answer their questions, complaints, pull requests, and feature requests. You want to help all of them, but for now you&apos;re putting it off. Maybe you had a hard day at work, or you&apos;re tired, or you&apos;re just...</p><img src="https://i1.wp.com/nolanwlawson.files.wordpress.com/2017/03/out.png?fit=440%2C330&ssl=1"></article>]]></description>
+            <link>https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/</link>
+            <guid isPermaLink="false">b12bfba3-3736-46d0-a4b2-b0dc982b4b18</guid>
+            <pubDate>Tue, 07 Mar 2017 18:30:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The plane so good it's still in production after 60 years]]></title>
             <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d103365f972d1000f5fa28cbd95c43d3/noop.jpg?input=http%3A%2F%2Fichef.bbci.co.uk%2Fwwfeatures%2Flive%2F624_351%2Fimages%2Flive%2Fp0%2F4v%2Fk5%2Fp04vk573.jpg"><h1>The plane so good it&apos;s still in production after 60 years</h1><p>It can seat four people, in a squeeze, and weighs a little under 800kg without fuel or its passengers. It has a maximum speed of 140mph (226km/h), though you could push this up to 185mph at a pinch - but the manufacturer would rather you didn&apos;t.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://arstechnica.com/security/2017/02/serious-cloudflare-bug-exposed-a-potpourri-of-secret-customer-data/</link>
             <guid isPermaLink="false">b1b790c1-40e4-438d-bcb2-0215120f8edd</guid>
             <pubDate>Fri, 24 Feb 2017 16:12:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Image-to-Image Demo]]></title>
-            <description><![CDATA[<article><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/434f2a68-fbf7-4722-b2dd-748737bf95ae.png"><h1>Image-to-Image Demo</h1><p>Recently, I made a Tensorflow port of pix2pix by Isola et al., covered in the article Image-to-Image Translation in Tensorflow. I&apos;ve taken a few pre-trained models and made an interactive web thing for trying them out. Chrome is recommended.</p></article>]]></description>
-            <link>http://affinelayer.com/pixsrv/index.html</link>
-            <guid isPermaLink="false">44f75ee1-956c-419e-b2c8-f3926529e4de</guid>
-            <pubDate>Wed, 22 Feb 2017 20:32:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
