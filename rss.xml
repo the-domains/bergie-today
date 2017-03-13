@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Mar 2017 21:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2017 21:26:07 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Mar 2017 21:25:29 GMT</pubDate>
+        <pubDate>Mon, 13 Mar 2017 21:26:05 GMT</pubDate>
+        <item>
+            <title><![CDATA[xkcd: Chat Systems]]></title>
+            <description><![CDATA[<article><h1>xkcd: Chat Systems</h1><p>xkcd.com is best viewed with Netscape Navigator 4.0 or below on a Pentium 3&pm;1 emulated in Javascript on an Apple IIGS at a screen resolution of 1024x1. Please enable your ad blockers, disable high-heat drying, and remove your device from Airplane Mode and set it to Boat Mode.</p><img src="https://imgs.xkcd.com/comics/chat_systems.png"></article>]]></description>
+            <link>https://xkcd.com/1810/</link>
+            <guid isPermaLink="false">02791178-8bfd-40f8-b74b-306f55fd66bd</guid>
+            <pubDate>Mon, 13 Mar 2017 21:26:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Forcing a specific NoFlo version for all dependencies]]></title>
             <description><![CDATA[<article><h1>Forcing a specific NoFlo version for all dependencies</h1><p>Using NPM Shrinkwrap to enforce the same version of NoFlo for all dependencies to fix backwards compatibility issues</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://arstechnica.com/information-technology/2017/02/amazon-cloud-sputters-for-hours-and-a-boatload-of-websites-go-offline/</link>
             <guid isPermaLink="false">a050cfe9-b31c-4003-b651-c40f06af3d11</guid>
             <pubDate>Wed, 01 Mar 2017 11:31:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX says it will send two people around the Moon in late 2018]]></title>
-            <description><![CDATA[<article><h1>SpaceX says it will send two people around the Moon in late 2018</h1><p>SpaceX announced Monday that it plans to send two private individuals around the Moon by the end of 2018, a highly ambitious flight that would mark the first human return to deep space in nearly 50 years.</p><img src="https://cdn.arstechnica.net/wp-content/uploads/2016/12/26405462060_81f8289687_k-1-760x380.jpg"></article>]]></description>
-            <link>https://arstechnica.com/science/2017/02/spacex-says-it-will-send-two-people-around-the-moon-in-late-2018/</link>
-            <guid isPermaLink="false">4f48959e-a239-4239-bdff-37cc3b198dc8</guid>
-            <pubDate>Mon, 27 Feb 2017 22:12:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
