@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Mar 2017 00:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2017 21:25:31 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Mar 2017 00:17:12 GMT</pubDate>
+        <pubDate>Mon, 13 Mar 2017 21:25:29 GMT</pubDate>
+        <item>
+            <title><![CDATA[Forcing a specific NoFlo version for all dependencies]]></title>
+            <description><![CDATA[<article><h1>Forcing a specific NoFlo version for all dependencies</h1><p>Using NPM Shrinkwrap to enforce the same version of NoFlo for all dependencies to fix backwards compatibility issues</p></article>]]></description>
+            <link>http://blog.kodigy.com/post/noflo_08_npm_shrinkwrap/</link>
+            <guid isPermaLink="false">17816eaf-f205-463c-93f3-4517d7486853</guid>
+            <pubDate>Mon, 13 Mar 2017 21:25:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In the Future, We'll All Wear Spider Silk]]></title>
             <description><![CDATA[<article><h1>In the Future, We&apos;ll All Wear Spider Silk</h1><p>In 1709, Fran&ccedil;ois Xavier Bon de Saint Hilaire, the president of the Court of Accounts, Aides, and Finances in Montpellier, France, presented the Sun King, Louis XIV, with a pair of silvery spider-silk stockings, woven from hundreds of painstakingly collected egg sacs.</p><img src="http://www.newyorker.com/wp-content/uploads/2017/03/Twilley-IntheFutureWellAllWearSpiderSilk_01-1200x630-1489183427.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://arstechnica.com/science/2017/02/spacex-says-it-will-send-two-people-around-the-moon-in-late-2018/</link>
             <guid isPermaLink="false">4f48959e-a239-4239-bdff-37cc3b198dc8</guid>
             <pubDate>Mon, 27 Feb 2017 22:12:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Miyazaki Dreams of Flying]]></title>
-            <description><![CDATA[<article><h1>Miyazaki Dreams of Flying</h1><p>Hayao Miyazaki&apos;s love of flight and flying machines is no secret to even a casual admirer of his work. Nearly all of his feature films contain at least one breathtaking flight sequence, and viewers can see his reverence for the sky grow more fervent as they progress through his filmography.</p><img src="https://cdn-media.fandor.com/keyframe/wp-content/uploads/2017/02/Miyazaki.png"></article>]]></description>
-            <link>https://www.fandor.com/keyframe/miyazaki-dreams-flying</link>
-            <guid isPermaLink="false">41df685f-31e7-4198-a759-55ad334b79eb</guid>
-            <pubDate>Sat, 25 Feb 2017 12:53:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
