@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Mar 2017 21:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2017 12:13:17 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Mar 2017 21:26:05 GMT</pubDate>
+        <pubDate>Thu, 16 Mar 2017 12:13:07 GMT</pubDate>
+        <item>
+            <title><![CDATA[Bosch Connected Experience: Eclipse Hono and MsgFlo]]></title>
+            <description><![CDATA[<article><h1>Bosch Connected Experience: Eclipse Hono and MsgFlo</h1><p>I&apos;ve been attending the Bosch Connected Experience IoT hackathon this week at Station Berlin. Bosch brought a lot of different devices to the event, all connected to send telemetry to Eclipse Hono. To make them more discoverable, and enable rapid prototyping I decided to expose them all to Flowhub via the MsgFlo distributed FBP runtime.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/bcx17-open-hack.jpg"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/bosch-iot-msgflo/</link>
+            <guid isPermaLink="false">8e475c66-3c92-42e6-9a03-a32ed2ef5505</guid>
+            <pubDate>Thu, 16 Mar 2017 12:13:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[xkcd: Chat Systems]]></title>
             <description><![CDATA[<article><h1>xkcd: Chat Systems</h1><p>xkcd.com is best viewed with Netscape Navigator 4.0 or below on a Pentium 3&pm;1 emulated in Javascript on an Apple IIGS at a screen resolution of 1024x1. Please enable your ad blockers, disable high-heat drying, and remove your device from Airplane Mode and set it to Boat Mode.</p><img src="https://imgs.xkcd.com/comics/chat_systems.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://bergie.iki.fi/blog/noflo-0-8/</link>
             <guid isPermaLink="false">bc55c1a1-0cc0-4cd0-b813-01699e5d0c4c</guid>
             <pubDate>Fri, 03 Mar 2017 09:23:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amazon cloud sputters for hours, and a boatload of websites go offline]]></title>
-            <description><![CDATA[<article><h1>Amazon cloud sputters for hours, and a boatload of websites go offline</h1><p>When the Amazon infrastructure-as-a-service cloud goes down, Internet users are going to notice. Amazon Web Services, which powers a whole bunch of websites and online services, has been struggling today and numerous sites that rely on Amazon infrastructure have gone offline as a result.</p><img src="https://cdn.arstechnica.net/wp-content/uploads/2017/02/AWS-logo-760x380.jpg"></article>]]></description>
-            <link>https://arstechnica.com/information-technology/2017/02/amazon-cloud-sputters-for-hours-and-a-boatload-of-websites-go-offline/</link>
-            <guid isPermaLink="false">a050cfe9-b31c-4003-b651-c40f06af3d11</guid>
-            <pubDate>Wed, 01 Mar 2017 11:31:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
