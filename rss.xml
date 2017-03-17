@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Mar 2017 12:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2017 15:54:34 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Mar 2017 12:13:07 GMT</pubDate>
+        <pubDate>Fri, 17 Mar 2017 15:54:28 GMT</pubDate>
+        <item>
+            <title><![CDATA[Eclipse Hono and Flowhub at BCX17]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FziQmFjXYE3c%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DziQmFjXYE3c&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FziQmFjXYE3c%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/ziQmFjXYE3c</link>
+            <guid isPermaLink="false">97abe7cc-f035-4b09-8b33-f97c015f4794</guid>
+            <pubDate>Fri, 17 Mar 2017 15:54:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bosch Connected Experience: Eclipse Hono and MsgFlo]]></title>
             <description><![CDATA[<article><h1>Bosch Connected Experience: Eclipse Hono and MsgFlo</h1><p>I&apos;ve been attending the Bosch Connected Experience IoT hackathon this week at Station Berlin. Bosch brought a lot of different devices to the event, all connected to send telemetry to Eclipse Hono. To make them more discoverable, and enable rapid prototyping I decided to expose them all to Flowhub via the MsgFlo distributed FBP runtime.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/bcx17-open-hack.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.jonnor.com/2017/03/host-based-simulation-for-embedded-systems/</link>
             <guid isPermaLink="false">fceadc0a-c173-40e0-8181-3fd1440013e1</guid>
             <pubDate>Fri, 03 Mar 2017 09:24:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NoFlo 0.8 is out now]]></title>
-            <description><![CDATA[<article><h1>NoFlo 0.8 is out now</h1><p>After several months of work, NoFlo 0.8 is finally out as a stable release. This release is important in that it brings the Process API for NoFlo components to general availability, paving way for the 1.x series. We introduced Process API in the 0.7 series last summer, but at that stage it wasn&apos;t deemed good enough for production use.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/a17b8582-fc33-11e5-9826-a722b90913ce.png"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/noflo-0-8/</link>
-            <guid isPermaLink="false">bc55c1a1-0cc0-4cd0-b813-01699e5d0c4c</guid>
-            <pubDate>Fri, 03 Mar 2017 09:23:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
