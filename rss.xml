@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Mar 2017 16:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2017 09:41:31 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Mar 2017 16:24:04 GMT</pubDate>
+        <pubDate>Tue, 21 Mar 2017 09:39:42 GMT</pubDate>
+        <item>
+            <title><![CDATA[N26 Review - Why Every Traveler Should Bank With N26]]></title>
+            <description><![CDATA[<article><h1>N26 Review - Why Every Traveler Should Bank With N26</h1><p>As I started writing this N26 review, I wanted to give as clear and honest of a display of the N26 product collection as I could. After all, it&apos;s one of just a handful of services that I very strongly support, and it&apos;s fundamentally changed the way I do just about everything related to banking.</p><img src="http://www.howitravel.co/wp-content/img/N26-Review.jpg"></article>]]></description>
+            <link>http://www.howitravel.co/n26-review/</link>
+            <guid isPermaLink="false">b888d285-5d4d-40fa-adc2-687ceab38947</guid>
+            <pubDate>Tue, 21 Mar 2017 09:39:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GuvScale - Autoscaling for Heroku worker dynos]]></title>
             <description><![CDATA[<article><h1>GuvScale - Autoscaling for Heroku worker dynos</h1><p>I&apos;m happy to announce that GuvScale - our service for autoscaling Heroku background worker dynos - is now available in a public beta. If you&apos;re using RabbitMQ for distributing work to background dynos hosted by Heroku, GuvScale can monitor the queues for you and scale the number of workers up and down automatically.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/guvscale-graph.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/</link>
             <guid isPermaLink="false">b12bfba3-3736-46d0-a4b2-b0dc982b4b18</guid>
             <pubDate>Tue, 07 Mar 2017 18:30:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The plane so good it's still in production after 60 years]]></title>
-            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d103365f972d1000f5fa28cbd95c43d3/noop.jpg?input=http%3A%2F%2Fichef.bbci.co.uk%2Fwwfeatures%2Flive%2F624_351%2Fimages%2Flive%2Fp0%2F4v%2Fk5%2Fp04vk573.jpg"><h1>The plane so good it&apos;s still in production after 60 years</h1><p>It can seat four people, in a squeeze, and weighs a little under 800kg without fuel or its passengers. It has a maximum speed of 140mph (226km/h), though you could push this up to 185mph at a pinch - but the manufacturer would rather you didn&apos;t.</p></article>]]></description>
-            <link>http://www.bbc.com/future/story/20170302-the-plane-so-good-its-still-in-production-after-60-years</link>
-            <guid isPermaLink="false">942dfdee-b10b-4cc7-97ff-7cb3a7948ab5</guid>
-            <pubDate>Sat, 04 Mar 2017 23:03:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
