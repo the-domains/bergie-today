@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Mar 2017 09:41:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2017 14:05:43 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Mar 2017 09:39:42 GMT</pubDate>
+        <pubDate>Tue, 21 Mar 2017 14:05:41 GMT</pubDate>
+        <item>
+            <title><![CDATA[There and back again: SpaceX to make history by re-flying orbital rocket]]></title>
+            <description><![CDATA[<article><h1>There and back again: SpaceX to make history by re-flying orbital rocket</h1><p>We don&apos;t have an official launch date yet for SpaceX&apos;s historic rocket re-launch just yet, but it could come as soon as March 29th. During this flight, which will deliver the SES-10 satellite to geostationary orbit, the company plans to reuse the Falcon 9 first stage booster it successfully landed on a drone ship last April.</p><img src="https://cdn.arstechnica.net/wp-content/uploads/2017/03/25728664603_4f5c4cc5ee_k-1-760x380.jpg"></article>]]></description>
+            <link>https://arstechnica.com/science/2017/03/there-and-back-again-spacex-to-make-history-by-re-flying-orbital-rocket/</link>
+            <guid isPermaLink="false">7bd9e8ff-7be8-4330-8c46-f7986bfa3ce4</guid>
+            <pubDate>Tue, 21 Mar 2017 14:05:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[N26 Review - Why Every Traveler Should Bank With N26]]></title>
             <description><![CDATA[<article><h1>N26 Review - Why Every Traveler Should Bank With N26</h1><p>As I started writing this N26 review, I wanted to give as clear and honest of a display of the N26 product collection as I could. After all, it&apos;s one of just a handful of services that I very strongly support, and it&apos;s fundamentally changed the way I do just about everything related to banking.</p><img src="http://www.howitravel.co/wp-content/img/N26-Review.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.pcworld.com/article/3170184/laptop-accessories/universal-usb-c-charging-how-the-dream-is-coming-true.html</link>
             <guid isPermaLink="false">5b28e8db-9822-4d9c-8f39-71cf06d45b56</guid>
             <pubDate>Tue, 07 Mar 2017 20:39:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What it feels like to be an open-source maintainer]]></title>
-            <description><![CDATA[<article><h1>What it feels like to be an open-source maintainer</h1><p>Outside your door stands a line of a few hundred people. They are patiently waiting for you to answer their questions, complaints, pull requests, and feature requests. You want to help all of them, but for now you&apos;re putting it off. Maybe you had a hard day at work, or you&apos;re tired, or you&apos;re just...</p><img src="https://i1.wp.com/nolanwlawson.files.wordpress.com/2017/03/out.png?fit=440%2C330&ssl=1"></article>]]></description>
-            <link>https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/</link>
-            <guid isPermaLink="false">b12bfba3-3736-46d0-a4b2-b0dc982b4b18</guid>
-            <pubDate>Tue, 07 Mar 2017 18:30:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
