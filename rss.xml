@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Mar 2017 13:50:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2017 16:11:39 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Mar 2017 13:49:44 GMT</pubDate>
+        <pubDate>Fri, 24 Mar 2017 16:11:36 GMT</pubDate>
+        <item>
+            <title><![CDATA[The web is swallowing the desktop whole and nobody noticed]]></title>
+            <description><![CDATA[<article><h1>The web is swallowing the desktop whole and nobody noticed</h1><p>While we weren&apos;t watching, over the last two years the web has quickly begun swallowing the desktop environment whole. If you&apos;re an average user, you probably have a few desktop apps that you use daily without even realizing they&apos;re built using web technology.</p><img src="http://char.gd/assets/images/nylas.png"></article>]]></description>
+            <link>http://char.gd/web/the-web-is-swallowing-the-desktop/#</link>
+            <guid isPermaLink="false">6e67e916-14c4-4e04-9a3e-940acea950fe</guid>
+            <pubDate>Fri, 24 Mar 2017 16:11:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Eclipse Hono enables device-related communication for the IoT]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FU0Drr9465vg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DU0Drr9465vg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FU0Drr9465vg%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>http://blog.kodigy.com/post/noflo_08_npm_shrinkwrap/</link>
             <guid isPermaLink="false">17816eaf-f205-463c-93f3-4517d7486853</guid>
             <pubDate>Mon, 13 Mar 2017 21:25:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In the Future, We'll All Wear Spider Silk]]></title>
-            <description><![CDATA[<article><h1>In the Future, We&apos;ll All Wear Spider Silk</h1><p>In 1709, Fran&ccedil;ois Xavier Bon de Saint Hilaire, the president of the Court of Accounts, Aides, and Finances in Montpellier, France, presented the Sun King, Louis XIV, with a pair of silvery spider-silk stockings, woven from hundreds of painstakingly collected egg sacs.</p><img src="http://www.newyorker.com/wp-content/uploads/2017/03/Twilley-IntheFutureWellAllWearSpiderSilk_01-1200x630-1489183427.jpg"></article>]]></description>
-            <link>http://www.newyorker.com/tech/elements/in-the-future-well-all-wear-spider-silk</link>
-            <guid isPermaLink="false">558eacb0-1378-40fc-bb63-b0584fde98d4</guid>
-            <pubDate>Mon, 13 Mar 2017 00:17:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
