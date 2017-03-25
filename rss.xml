@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Mar 2017 16:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2017 23:35:56 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Mar 2017 16:11:36 GMT</pubDate>
+        <pubDate>Sat, 25 Mar 2017 23:35:47 GMT</pubDate>
+        <item>
+            <title><![CDATA[Could we reboot a modern civilisation without fossil fuels?]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c74634f2d5cd4e0da3fd8458a0df02d1/noop.jpg?input=https%3A%2F%2Fomicron.aeon.co%2Fimages%2Ff85ccbcc-4d7e-4726-b06d-be9e01f3da69%2Fheader_essay-dartnell-out-of-the-ashes-148309699.jpg"><h1>Could we reboot a modern civilisation without fossil fuels?</h1><p>Imagine that the world as we know it ends tomorrow. There&apos;s a global catastrophe: a pandemic virus, an asteroid strike, or perhaps a nuclear holocaust. The vast majority of the human race perishes. Our civilisation collapses. The post-apocalyptic survivors find themselves in a devastated world of decaying, deserted cities and roving gangs of bandits looting and taking by force.</p></article>]]></description>
+            <link>https://aeon.co/essays/could-we-reboot-a-modern-civilisation-without-fossil-fuels</link>
+            <guid isPermaLink="false">2fbd29c8-9090-4852-b5f9-d7770368b19d</guid>
+            <pubDate>Sat, 25 Mar 2017 23:35:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The web is swallowing the desktop whole and nobody noticed]]></title>
             <description><![CDATA[<article><h1>The web is swallowing the desktop whole and nobody noticed</h1><p>While we weren&apos;t watching, over the last two years the web has quickly begun swallowing the desktop environment whole. If you&apos;re an average user, you probably have a few desktop apps that you use daily without even realizing they&apos;re built using web technology.</p><img src="http://char.gd/assets/images/nylas.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://xkcd.com/1810/</link>
             <guid isPermaLink="false">02791178-8bfd-40f8-b74b-306f55fd66bd</guid>
             <pubDate>Mon, 13 Mar 2017 21:26:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forcing a specific NoFlo version for all dependencies]]></title>
-            <description><![CDATA[<article><h1>Forcing a specific NoFlo version for all dependencies</h1><p>Using NPM Shrinkwrap to enforce the same version of NoFlo for all dependencies to fix backwards compatibility issues</p></article>]]></description>
-            <link>http://blog.kodigy.com/post/noflo_08_npm_shrinkwrap/</link>
-            <guid isPermaLink="false">17816eaf-f205-463c-93f3-4517d7486853</guid>
-            <pubDate>Mon, 13 Mar 2017 21:25:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
