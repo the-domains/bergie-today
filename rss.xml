@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Mar 2017 08:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2017 11:43:26 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Mar 2017 08:28:39 GMT</pubDate>
+        <pubDate>Mon, 27 Mar 2017 11:43:25 GMT</pubDate>
+        <item>
+            <title><![CDATA[Why I'm Learning To Type All Over Again]]></title>
+            <description><![CDATA[<article><h1>Why I&apos;m Learning To Type All Over Again</h1><p>Colemak boasts many of the same benefits of Dvorak-like having the most common letters concentrated on the home row to minimize the need to move your fingers from key to key-but without the terrifying prospect of changing &#xFF25;&#xFF36;&#xFF25;&#xFF32;&#xFF39;&#xFF34;&#xFF28;&#xFF29;&#xFF2E;&#xFF27;.</p><img src="http://pop.h-cdn.co/assets/16/16/placeholder_1461545509-typinterp.gif"></article>]]></description>
+            <link>http://www.popularmechanics.com/technology/a20524/learning-to-type-again-colemak/</link>
+            <guid isPermaLink="false">b20cd585-5e4a-4998-a285-09a4a7429bf6</guid>
+            <pubDate>Mon, 27 Mar 2017 11:42:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Turkey's Ancient Sanctuary]]></title>
             <description><![CDATA[<article><h1>Turkey&apos;s Ancient Sanctuary</h1><p>Late one October evening, I flew into Urfa, the city believed by Turkish Muslims to be the Ur of the Chaldeans, the birthplace of the prophet Abraham. My hotel had clearly been designed for pilgrims. A door in the lobby led to a men-only steam bath. There was no women&apos;s bath.</p><img src="http://www.newyorker.com/wp-content/uploads/2011/12/111219_r21682_g2048-1200-630.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/ziQmFjXYE3c</link>
             <guid isPermaLink="false">97abe7cc-f035-4b09-8b33-f97c015f4794</guid>
             <pubDate>Fri, 17 Mar 2017 15:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bosch Connected Experience: Eclipse Hono and MsgFlo]]></title>
-            <description><![CDATA[<article><h1>Bosch Connected Experience: Eclipse Hono and MsgFlo</h1><p>I&apos;ve been attending the Bosch Connected Experience IoT hackathon this week at Station Berlin. Bosch brought a lot of different devices to the event, all connected to send telemetry to Eclipse Hono. To make them more discoverable, and enable rapid prototyping I decided to expose them all to Flowhub via the MsgFlo distributed FBP runtime.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/bcx17-open-hack.jpg"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/bosch-iot-msgflo/</link>
-            <guid isPermaLink="false">8e475c66-3c92-42e6-9a03-a32ed2ef5505</guid>
-            <pubDate>Thu, 16 Mar 2017 12:13:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
