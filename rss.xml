@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Mar 2017 23:35:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2017 08:28:42 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Mar 2017 23:35:47 GMT</pubDate>
+        <pubDate>Mon, 27 Mar 2017 08:28:39 GMT</pubDate>
+        <item>
+            <title><![CDATA[Turkey's Ancient Sanctuary]]></title>
+            <description><![CDATA[<article><h1>Turkey&apos;s Ancient Sanctuary</h1><p>Late one October evening, I flew into Urfa, the city believed by Turkish Muslims to be the Ur of the Chaldeans, the birthplace of the prophet Abraham. My hotel had clearly been designed for pilgrims. A door in the lobby led to a men-only steam bath. There was no women&apos;s bath.</p><img src="http://www.newyorker.com/wp-content/uploads/2011/12/111219_r21682_g2048-1200-630.jpg"></article>]]></description>
+            <link>http://www.newyorker.com/magazine/2011/12/19/the-sanctuary</link>
+            <guid isPermaLink="false">66f7403a-e9dd-4088-a2ec-b498cbeeaf9c</guid>
+            <pubDate>Mon, 27 Mar 2017 08:28:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Could we reboot a modern civilisation without fossil fuels?]]></title>
             <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c74634f2d5cd4e0da3fd8458a0df02d1/noop.jpg?input=https%3A%2F%2Fomicron.aeon.co%2Fimages%2Ff85ccbcc-4d7e-4726-b06d-be9e01f3da69%2Fheader_essay-dartnell-out-of-the-ashes-148309699.jpg"><h1>Could we reboot a modern civilisation without fossil fuels?</h1><p>Imagine that the world as we know it ends tomorrow. There&apos;s a global catastrophe: a pandemic virus, an asteroid strike, or perhaps a nuclear holocaust. The vast majority of the human race perishes. Our civilisation collapses. The post-apocalyptic survivors find themselves in a devastated world of decaying, deserted cities and roving gangs of bandits looting and taking by force.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://bergie.iki.fi/blog/bosch-iot-msgflo/</link>
             <guid isPermaLink="false">8e475c66-3c92-42e6-9a03-a32ed2ef5505</guid>
             <pubDate>Thu, 16 Mar 2017 12:13:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[xkcd: Chat Systems]]></title>
-            <description><![CDATA[<article><h1>xkcd: Chat Systems</h1><p>xkcd.com is best viewed with Netscape Navigator 4.0 or below on a Pentium 3&pm;1 emulated in Javascript on an Apple IIGS at a screen resolution of 1024x1. Please enable your ad blockers, disable high-heat drying, and remove your device from Airplane Mode and set it to Boat Mode.</p><img src="https://imgs.xkcd.com/comics/chat_systems.png"></article>]]></description>
-            <link>https://xkcd.com/1810/</link>
-            <guid isPermaLink="false">02791178-8bfd-40f8-b74b-306f55fd66bd</guid>
-            <pubDate>Mon, 13 Mar 2017 21:26:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
