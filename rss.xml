@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Mar 2017 11:43:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2017 10:26:03 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Mar 2017 11:43:40 GMT</pubDate>
+        <pubDate>Tue, 28 Mar 2017 10:25:52 GMT</pubDate>
+        <item>
+            <title><![CDATA[A.I. Versus M.D.]]></title>
+            <description><![CDATA[<article><h1>A.I. Versus M.D.</h1><p>One evening last November, a fifty-four-year-old woman from the Bronx arrived at the emergency room at Columbia University&apos;s medical center with a grinding headache. Her vision had become blurry, she told the E.R. doctors, and her left hand felt numb and weak. The doctors examined her and ordered a CT scan of her head.</p><img src="http://www.newyorker.com/wp-content/uploads/2017/04/170403_r29646-1200x630-1490293692.jpg"></article>]]></description>
+            <link>https://www.google.com/amp/www.newyorker.com/magazine/2017/04/03/ai-versus-md/amp</link>
+            <guid isPermaLink="false">b27e78a6-665b-4725-8b95-b8c7af4e517e</guid>
+            <pubDate>Tue, 28 Mar 2017 10:25:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who Killed the Iceman? Clues Emerge in a Very Cold Case]]></title>
             <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/54f5383cb80b0fb1136269a248674225/noop.jpg?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2017%2F03%2F21%2Fworld%2F21Iceman1%2F21Iceman1-facebookJumbo.jpg"><h1>Who Killed the Iceman? Clues Emerge in a Very Cold Case</h1><p>There are a few mummies in the world as old as &Ouml;tzi, but none so well preserved. Most were ritually prepared, which usually meant removal of internal organs; preservation with chemicals; or exposure to destructive desert conditions. The glacier not only froze &Ouml;tzi where he had died, but the high humidity of the ice also kept his organs and skin largely intact.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.howitravel.co/n26-review/</link>
             <guid isPermaLink="false">b888d285-5d4d-40fa-adc2-687ceab38947</guid>
             <pubDate>Tue, 21 Mar 2017 09:39:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GuvScale - Autoscaling for Heroku worker dynos]]></title>
-            <description><![CDATA[<article><h1>GuvScale - Autoscaling for Heroku worker dynos</h1><p>I&apos;m happy to announce that GuvScale - our service for autoscaling Heroku background worker dynos - is now available in a public beta. If you&apos;re using RabbitMQ for distributing work to background dynos hosted by Heroku, GuvScale can monitor the queues for you and scale the number of workers up and down automatically.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/guvscale-graph.jpg"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/guvscale-heroku-autoscaling/</link>
-            <guid isPermaLink="false">9f25f73e-d493-42d4-825f-4e3ca3e0e843</guid>
-            <pubDate>Mon, 20 Mar 2017 16:23:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
