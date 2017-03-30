@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Mar 2017 10:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2017 15:00:19 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Mar 2017 10:25:52 GMT</pubDate>
+        <pubDate>Thu, 30 Mar 2017 15:00:16 GMT</pubDate>
+        <item>
+            <title><![CDATA[How Aristotle Created the Computer]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b98c2d122bd1ecab84eeb18ca443c0ba/noop.jpg?input=https%3A%2F%2Fcdn.theatlantic.com%2Fassets%2Fmedia%2Fimg%2F2017%2F03%2F08%2FAristotle1_1%2F1920.jpg%3F1488979034"><h1>How Aristotle Created the Computer</h1><p>The philosophers he influenced set the stage for the technological revolution that remade our world. The history of computers is often told as a history of objects, from the abacus to the Babbage engine up through the code-breaking machines of World War II.</p></article>]]></description>
+            <link>https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/</link>
+            <guid isPermaLink="false">a085d534-0ad0-419e-a378-6765fd08131d</guid>
+            <pubDate>Thu, 30 Mar 2017 15:00:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A.I. Versus M.D.]]></title>
             <description><![CDATA[<article><h1>A.I. Versus M.D.</h1><p>One evening last November, a fifty-four-year-old woman from the Bronx arrived at the emergency room at Columbia University&apos;s medical center with a grinding headache. Her vision had become blurry, she told the E.R. doctors, and her left hand felt numb and weak. The doctors examined her and ordered a CT scan of her head.</p><img src="http://www.newyorker.com/wp-content/uploads/2017/04/170403_r29646-1200x630-1490293692.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://arstechnica.com/science/2017/03/there-and-back-again-spacex-to-make-history-by-re-flying-orbital-rocket/</link>
             <guid isPermaLink="false">7bd9e8ff-7be8-4330-8c46-f7986bfa3ce4</guid>
             <pubDate>Tue, 21 Mar 2017 14:05:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[N26 Review - Why Every Traveler Should Bank With N26]]></title>
-            <description><![CDATA[<article><h1>N26 Review - Why Every Traveler Should Bank With N26</h1><p>As I started writing this N26 review, I wanted to give as clear and honest of a display of the N26 product collection as I could. After all, it&apos;s one of just a handful of services that I very strongly support, and it&apos;s fundamentally changed the way I do just about everything related to banking.</p><img src="http://www.howitravel.co/wp-content/img/N26-Review.jpg"></article>]]></description>
-            <link>http://www.howitravel.co/n26-review/</link>
-            <guid isPermaLink="false">b888d285-5d4d-40fa-adc2-687ceab38947</guid>
-            <pubDate>Tue, 21 Mar 2017 09:39:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
