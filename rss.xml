@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 11 Apr 2017 09:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2017 16:03:29 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Apr 2017 09:27:52 GMT</pubDate>
+        <pubDate>Tue, 11 Apr 2017 16:03:27 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Midori Traveler's Notebook Review]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f5df4025c67fbddde1f63490fb694f52/noop.jpg?input=http%3A%2F%2Ftoolsandtoys.net%2Fwp-content%2Fuploads%2F2017%2F04%2FMidori-Travelers-Notebook-23.jpg"><h1>The Midori Traveler&apos;s Notebook Review</h1><p>The Midori Traveler&apos;s Notebook is not for the feint of heart. Perhaps that takes things to the extreme. It&apos;s rare to find a tool that flies so directly in the face of all-encompassing digitalism and efficiency, especially one with such popularity. The Midori Traveler&apos;s Notebook is, by and large, a notebook.</p></article>]]></description>
+            <link>http://toolsandtoys.net/reviews/the-midori-travelers-notebook-review/</link>
+            <guid isPermaLink="false">49e2b9cf-f134-48ae-9c42-c4ac9a57e37c</guid>
+            <pubDate>Tue, 11 Apr 2017 16:03:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bulgaria Web Summit 2017 Recap]]></title>
             <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b4851b2e17df94f3491fec915341b120/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*sUKcg6_ywYZbY40USDtLkw.jpeg"><h1>Bulgaria Web Summit 2017 Recap</h1><p>Like every year in the last 3-4 years I got very excited when I saw that there will be another edition of Bulgaria Web Summit (I&apos;ll call it BWS from now on). After I saw some of the speakers I got even more excited. The lineup this year was really top notch.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/U0Drr9465vg</link>
             <guid isPermaLink="false">963fde58-9cd1-4ef3-9445-9c6c5a0399ca</guid>
             <pubDate>Thu, 23 Mar 2017 13:49:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Flowhub UG - the Flow-Based Programming company]]></title>
-            <description><![CDATA[<article><h1>Introducing Flowhub UG - the Flow-Based Programming company</h1><p>Flowhub - the product made possible by our successful NoFlo Kickstarter - has now its own company dedicated to supporting and improving the visual programming environment.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/flowhub-plans-2017-03.png"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/flowhub-ug/</link>
-            <guid isPermaLink="false">0e3f80b2-ef82-4eab-bb1a-1232582105f3</guid>
-            <pubDate>Wed, 22 Mar 2017 12:04:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
