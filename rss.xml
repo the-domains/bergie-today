@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 11 Apr 2017 16:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2017 16:55:12 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Apr 2017 16:03:27 GMT</pubDate>
+        <pubDate>Tue, 11 Apr 2017 16:54:50 GMT</pubDate>
+        <item>
+            <title><![CDATA[The iPad Turnaround Is Coming]]></title>
+            <description><![CDATA[<article><h1>The iPad Turnaround Is Coming</h1><p>On the one hand, we have iPad plummeting sales, dropping 50% in three years. On the other, we have Apple&apos;s professed high optimism, without much proof besides some new&hairsp;-&hairsp;and clever&hairsp;-&hairsp;ads, and the recent discreet release of evolutionary and slightly less expensive hardware. Is that all? The iPad is a strange animal, confounding explanations and expectations.</p><img src="https://cdn-images-1.medium.com/max/1200/1*ENlXsIt5MYY0FbFzc8oGYg.jpeg"></article>]]></description>
+            <link>https://mondaynote.com/the-ipad-turnaround-is-coming-6d04747b215b</link>
+            <guid isPermaLink="false">05d6b28d-06ad-44c6-b5a0-d21202e73b58</guid>
+            <pubDate>Tue, 11 Apr 2017 16:54:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Midori Traveler's Notebook Review]]></title>
             <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f5df4025c67fbddde1f63490fb694f52/noop.jpg?input=http%3A%2F%2Ftoolsandtoys.net%2Fwp-content%2Fuploads%2F2017%2F04%2FMidori-Travelers-Notebook-23.jpg"><h1>The Midori Traveler&apos;s Notebook Review</h1><p>The Midori Traveler&apos;s Notebook is not for the feint of heart. Perhaps that takes things to the extreme. It&apos;s rare to find a tool that flies so directly in the face of all-encompassing digitalism and efficiency, especially one with such popularity. The Midori Traveler&apos;s Notebook is, by and large, a notebook.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://char.gd/web/the-web-is-swallowing-the-desktop/#</link>
             <guid isPermaLink="false">6e67e916-14c4-4e04-9a3e-940acea950fe</guid>
             <pubDate>Fri, 24 Mar 2017 16:11:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Eclipse Hono enables device-related communication for the IoT]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FU0Drr9465vg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DU0Drr9465vg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FU0Drr9465vg%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/U0Drr9465vg</link>
-            <guid isPermaLink="false">963fde58-9cd1-4ef3-9445-9c6c5a0399ca</guid>
-            <pubDate>Thu, 23 Mar 2017 13:49:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
