@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 11 Apr 2017 16:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2017 15:43:10 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Apr 2017 16:54:50 GMT</pubDate>
+        <pubDate>Thu, 13 Apr 2017 15:42:12 GMT</pubDate>
+        <item>
+            <title><![CDATA[Forget about HTTP when building microservices]]></title>
+            <description><![CDATA[<article><h1>Forget about HTTP when building microservices</h1><p>Microservices - an architectural pattern we recommended in our 2012 International PHP Conference keynote - is pretty popular these days.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/guvscale-graph.jpg"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/forget-http-microservices/</link>
+            <guid isPermaLink="false">40dfdf57-dd94-433b-8f87-b7a1b4a20950</guid>
+            <pubDate>Thu, 13 Apr 2017 15:42:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The iPad Turnaround Is Coming]]></title>
             <description><![CDATA[<article><h1>The iPad Turnaround Is Coming</h1><p>On the one hand, we have iPad plummeting sales, dropping 50% in three years. On the other, we have Apple&apos;s professed high optimism, without much proof besides some new&hairsp;-&hairsp;and clever&hairsp;-&hairsp;ads, and the recent discreet release of evolutionary and slightly less expensive hardware. Is that all? The iPad is a strange animal, confounding explanations and expectations.</p><img src="https://cdn-images-1.medium.com/max/1200/1*ENlXsIt5MYY0FbFzc8oGYg.jpeg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://aeon.co/essays/could-we-reboot-a-modern-civilisation-without-fossil-fuels</link>
             <guid isPermaLink="false">2fbd29c8-9090-4852-b5f9-d7770368b19d</guid>
             <pubDate>Sat, 25 Mar 2017 23:35:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The web is swallowing the desktop whole and nobody noticed]]></title>
-            <description><![CDATA[<article><h1>The web is swallowing the desktop whole and nobody noticed</h1><p>While we weren&apos;t watching, over the last two years the web has quickly begun swallowing the desktop environment whole. If you&apos;re an average user, you probably have a few desktop apps that you use daily without even realizing they&apos;re built using web technology.</p><img src="http://char.gd/assets/images/nylas.png"></article>]]></description>
-            <link>http://char.gd/web/the-web-is-swallowing-the-desktop/#</link>
-            <guid isPermaLink="false">6e67e916-14c4-4e04-9a3e-940acea950fe</guid>
-            <pubDate>Fri, 24 Mar 2017 16:11:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
