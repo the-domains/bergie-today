@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 13 Apr 2017 15:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2017 12:30:38 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Apr 2017 15:42:12 GMT</pubDate>
+        <pubDate>Mon, 17 Apr 2017 12:30:03 GMT</pubDate>
+        <item>
+            <title><![CDATA[Is software development really a dead-end job after 35-40?]]></title>
+            <description><![CDATA[<article><h1>Is software development really a dead-end job after 35-40?</h1><p>Is software development really a dead-end job after 35-40? Is it true that software development has no future once you get to a certain age such as 40, and one should pursue to steer his development career towards management?</p><img src="http://brianknapp.me/img/brian-knapp.jpg"></article>]]></description>
+            <link>http://brianknapp.me/software-development-dead-end-job/</link>
+            <guid isPermaLink="false">46789d91-78c0-4f87-8f2d-b8d4b28434a0</guid>
+            <pubDate>Mon, 17 Apr 2017 12:30:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Forget about HTTP when building microservices]]></title>
             <description><![CDATA[<article><h1>Forget about HTTP when building microservices</h1><p>Microservices - an architectural pattern we recommended in our 2012 International PHP Conference keynote - is pretty popular these days.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/guvscale-graph.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.newyorker.com/magazine/2011/12/19/the-sanctuary</link>
             <guid isPermaLink="false">66f7403a-e9dd-4088-a2ec-b498cbeeaf9c</guid>
             <pubDate>Mon, 27 Mar 2017 08:28:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Could we reboot a modern civilisation without fossil fuels?]]></title>
-            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c74634f2d5cd4e0da3fd8458a0df02d1/noop.jpg?input=https%3A%2F%2Fomicron.aeon.co%2Fimages%2Ff85ccbcc-4d7e-4726-b06d-be9e01f3da69%2Fheader_essay-dartnell-out-of-the-ashes-148309699.jpg"><h1>Could we reboot a modern civilisation without fossil fuels?</h1><p>Imagine that the world as we know it ends tomorrow. There&apos;s a global catastrophe: a pandemic virus, an asteroid strike, or perhaps a nuclear holocaust. The vast majority of the human race perishes. Our civilisation collapses. The post-apocalyptic survivors find themselves in a devastated world of decaying, deserted cities and roving gangs of bandits looting and taking by force.</p></article>]]></description>
-            <link>https://aeon.co/essays/could-we-reboot-a-modern-civilisation-without-fossil-fuels</link>
-            <guid isPermaLink="false">2fbd29c8-9090-4852-b5f9-d7770368b19d</guid>
-            <pubDate>Sat, 25 Mar 2017 23:35:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
