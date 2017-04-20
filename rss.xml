@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 20 Apr 2017 20:31:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2017 22:01:57 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Apr 2017 20:31:28 GMT</pubDate>
+        <pubDate>Thu, 20 Apr 2017 22:01:55 GMT</pubDate>
+        <item>
+            <title><![CDATA[Neuralink and the Brain's Magical Future]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7dbf49bfc874f44e882af978b50e2de2/noop.png?input=http%3A%2F%2Fwaitbutwhy.com%2Fwp-content%2Fuploads%2F2018%2F04%2FFB-1.png"><h1>Neuralink and the Brain&apos;s Magical Future</h1><p>Last month, I got a phone call. Okay maybe that&apos;s not exactly how it happened, and maybe those weren&apos;t his exact words. But after learning about the new company Elon Musk was starting, I&apos;ve come to realize that that&apos;s exactly what he&apos;s trying to do.</p></article>]]></description>
+            <link>http://waitbutwhy.com/2017/04/neuralink.html</link>
+            <guid isPermaLink="false">604d58c8-4f47-4d6b-a71b-7215e68d3802</guid>
+            <pubDate>Thu, 20 Apr 2017 22:01:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Atreus: Building a custom ergonomic keyboard]]></title>
             <description><![CDATA[<article><h1>Atreus: Building a custom ergonomic keyboard</h1><p>As mentioned in my Working on Android post, I&apos;ve been using a mechanical keyboard for a couple of years now. Now that I work on Flowhub from home, it was a good time to re-evaluate the whole work setup. As far as regular keyboards go, the MiniLa was nice, but I wanted something more compact and ergonomic.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/atreus-build/ready-2-small.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.google.com/amp/www.newyorker.com/magazine/2017/04/03/ai-versus-md/amp</link>
             <guid isPermaLink="false">b27e78a6-665b-4725-8b95-b8c7af4e517e</guid>
             <pubDate>Tue, 28 Mar 2017 10:25:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who Killed the Iceman? Clues Emerge in a Very Cold Case]]></title>
-            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/54f5383cb80b0fb1136269a248674225/noop.jpg?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2017%2F03%2F21%2Fworld%2F21Iceman1%2F21Iceman1-facebookJumbo.jpg"><h1>Who Killed the Iceman? Clues Emerge in a Very Cold Case</h1><p>There are a few mummies in the world as old as &Ouml;tzi, but none so well preserved. Most were ritually prepared, which usually meant removal of internal organs; preservation with chemicals; or exposure to destructive desert conditions. The glacier not only froze &Ouml;tzi where he had died, but the high humidity of the ice also kept his organs and skin largely intact.</p></article>]]></description>
-            <link>https://www.nytimes.com/2017/03/26/world/europe/bolzano-italy-iceman-south-tyrol-museum-of-archaeology.html</link>
-            <guid isPermaLink="false">66d927d5-91b9-408a-977c-a42825ded3d0</guid>
-            <pubDate>Mon, 27 Mar 2017 11:43:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
