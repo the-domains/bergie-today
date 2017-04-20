@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 19 Apr 2017 09:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2017 20:31:29 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Apr 2017 09:38:29 GMT</pubDate>
+        <pubDate>Thu, 20 Apr 2017 20:31:28 GMT</pubDate>
+        <item>
+            <title><![CDATA[Atreus: Building a custom ergonomic keyboard]]></title>
+            <description><![CDATA[<article><h1>Atreus: Building a custom ergonomic keyboard</h1><p>As mentioned in my Working on Android post, I&apos;ve been using a mechanical keyboard for a couple of years now. Now that I work on Flowhub from home, it was a good time to re-evaluate the whole work setup. As far as regular keyboards go, the MiniLa was nice, but I wanted something more compact and ergonomic.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/atreus-build/ready-2-small.jpg"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/atreus-build-log/</link>
+            <guid isPermaLink="false">18837854-7d9d-4552-9741-e793bb45246c</guid>
+            <pubDate>Thu, 20 Apr 2017 20:31:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Flow-Based Programming for JavaScript - Henri Berguis @ BWS'17]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJ4cMx1uBFu0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJ4cMx1uBFu0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJ4cMx1uBFu0%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.nytimes.com/2017/03/26/world/europe/bolzano-italy-iceman-south-tyrol-museum-of-archaeology.html</link>
             <guid isPermaLink="false">66d927d5-91b9-408a-977c-a42825ded3d0</guid>
             <pubDate>Mon, 27 Mar 2017 11:43:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why I'm Learning To Type All Over Again]]></title>
-            <description><![CDATA[<article><h1>Why I&apos;m Learning To Type All Over Again</h1><p>Colemak boasts many of the same benefits of Dvorak-like having the most common letters concentrated on the home row to minimize the need to move your fingers from key to key-but without the terrifying prospect of changing &#xFF25;&#xFF36;&#xFF25;&#xFF32;&#xFF39;&#xFF34;&#xFF28;&#xFF29;&#xFF2E;&#xFF27;.</p><img src="http://pop.h-cdn.co/assets/16/16/placeholder_1461545509-typinterp.gif"></article>]]></description>
-            <link>http://www.popularmechanics.com/technology/a20524/learning-to-type-again-colemak/</link>
-            <guid isPermaLink="false">b20cd585-5e4a-4998-a285-09a4a7429bf6</guid>
-            <pubDate>Mon, 27 Mar 2017 11:42:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
