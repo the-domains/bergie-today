@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 20 Apr 2017 22:01:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2017 15:53:08 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Apr 2017 22:01:55 GMT</pubDate>
+        <pubDate>Mon, 08 May 2017 15:52:33 GMT</pubDate>
+        <item>
+            <title><![CDATA[Edit as project and Flowhub live mode]]></title>
+            <description><![CDATA[<article><h1>Edit as project and Flowhub live mode</h1><p>In Flowhub you can create and edit full flow-based programming projects. The live mode enables introspecting running FBP systems. This weekend we rolled out Flowhub 0.19 which makes it easy to move between these modes. Flowhub&apos;s live mode is designed for making software introspectable - flow-based systems provide access to the graph and network state information, and tools like Flowhub then visualize it.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/cflo-edit-as-project.png"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/edit-as-project/</link>
+            <guid isPermaLink="false">499834d6-5bbf-443d-970e-de56f18c3da1</guid>
+            <pubDate>Mon, 08 May 2017 15:52:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Neuralink and the Brain's Magical Future]]></title>
             <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7dbf49bfc874f44e882af978b50e2de2/noop.png?input=http%3A%2F%2Fwaitbutwhy.com%2Fwp-content%2Fuploads%2F2018%2F04%2FFB-1.png"><h1>Neuralink and the Brain&apos;s Magical Future</h1><p>Last month, I got a phone call. Okay maybe that&apos;s not exactly how it happened, and maybe those weren&apos;t his exact words. But after learning about the new company Elon Musk was starting, I&apos;ve come to realize that that&apos;s exactly what he&apos;s trying to do.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/</link>
             <guid isPermaLink="false">a085d534-0ad0-419e-a378-6765fd08131d</guid>
             <pubDate>Thu, 30 Mar 2017 15:00:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A.I. Versus M.D.]]></title>
-            <description><![CDATA[<article><h1>A.I. Versus M.D.</h1><p>One evening last November, a fifty-four-year-old woman from the Bronx arrived at the emergency room at Columbia University&apos;s medical center with a grinding headache. Her vision had become blurry, she told the E.R. doctors, and her left hand felt numb and weak. The doctors examined her and ordered a CT scan of her head.</p><img src="http://www.newyorker.com/wp-content/uploads/2017/04/170403_r29646-1200x630-1490293692.jpg"></article>]]></description>
-            <link>https://www.google.com/amp/www.newyorker.com/magazine/2017/04/03/ai-versus-md/amp</link>
-            <guid isPermaLink="false">b27e78a6-665b-4725-8b95-b8c7af4e517e</guid>
-            <pubDate>Tue, 28 Mar 2017 10:25:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
