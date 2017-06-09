@@ -4,78 +4,78 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 May 2017 15:53:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2017 15:19:59 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 08 May 2017 15:52:33 GMT</pubDate>
+        <pubDate>Fri, 09 Jun 2017 15:19:55 GMT</pubDate>
         <item>
-            <title><![CDATA[Edit as project and Flowhub live mode]]></title>
-            <description><![CDATA[<article><h1>Edit as project and Flowhub live mode</h1><p>In Flowhub you can create and edit full flow-based programming projects. The live mode enables introspecting running FBP systems. This weekend we rolled out Flowhub 0.19 which makes it easy to move between these modes. Flowhub&apos;s live mode is designed for making software introspectable - flow-based systems provide access to the graph and network state information, and tools like Flowhub then visualize it.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/cflo-edit-as-project.png"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/edit-as-project/</link>
-            <guid isPermaLink="false">499834d6-5bbf-443d-970e-de56f18c3da1</guid>
-            <pubDate>Mon, 08 May 2017 15:52:28 GMT</pubDate>
+            <title><![CDATA[The Second Coming Of iPad]]></title>
+            <description><![CDATA[<article><h1>The Second Coming Of iPad</h1><p>Apple CEO Steve Jobs had a favorite analogy for the post-PC era: Computers were trucks, and tablets were cars. He liked to compare the segue from PCs to tablets with the segue from trucks to cars that accompanied the urbanization of America.</p><img src="https://img.buzzfeed.com/buzzfeed-static/static/2017-06/6/17/campaign_images/buzzfeed-prod-fastlane-02/the-second-coming-of-ipad-2-5557-1496784187-3_dblbig.jpg"></article>]]></description>
+            <link>https://www.buzzfeed.com/johnpaczkowski/the-second-coming-of-ipad?utm_term=.tuvn2k3qB#.livMzNpOa</link>
+            <guid isPermaLink="false">f62191f3-8f45-4038-9f28-3ac9ad34d9cd</guid>
+            <pubDate>Fri, 09 Jun 2017 15:19:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Neuralink and the Brain's Magical Future]]></title>
-            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7dbf49bfc874f44e882af978b50e2de2/noop.png?input=http%3A%2F%2Fwaitbutwhy.com%2Fwp-content%2Fuploads%2F2018%2F04%2FFB-1.png"><h1>Neuralink and the Brain&apos;s Magical Future</h1><p>Last month, I got a phone call. Okay maybe that&apos;s not exactly how it happened, and maybe those weren&apos;t his exact words. But after learning about the new company Elon Musk was starting, I&apos;ve come to realize that that&apos;s exactly what he&apos;s trying to do.</p></article>]]></description>
-            <link>http://waitbutwhy.com/2017/04/neuralink.html</link>
-            <guid isPermaLink="false">604d58c8-4f47-4d6b-a71b-7215e68d3802</guid>
-            <pubDate>Thu, 20 Apr 2017 22:01:53 GMT</pubDate>
+            <title><![CDATA[Reprogramming the hackerspace: MsgFlo IoT workshops at c-base and Bitraf]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/42c7c94cb0d0a2e824ffb6172f26466c/noop.png?input=https%3A%2F%2Fs3.eu-central-1.amazonaws.com%2Fbergie-iki-fi%2Fdetect-abba.png"><h1>Reprogramming the hackerspace: MsgFlo IoT workshops at c-base and Bitraf</h1><p>This July we&apos;re organizing two hack weekends around MsgFlo and Flowhub. Both of these will focus on reprogramming the Internet of Things setup of the hackerspace. The aim is to connect more devices at the spaces to the MsgFlo environment, and come up with new connections between systems, and ways to visualize them.</p></article>]]></description>
+            <link>http://bergie.iki.fi/blog/msgflo-workshops-cbase-bitraf/</link>
+            <guid isPermaLink="false">40d0877e-463a-4e10-a7dd-9b406e60d167</guid>
+            <pubDate>Wed, 07 Jun 2017 17:02:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Atreus: Building a custom ergonomic keyboard]]></title>
-            <description><![CDATA[<article><h1>Atreus: Building a custom ergonomic keyboard</h1><p>As mentioned in my Working on Android post, I&apos;ve been using a mechanical keyboard for a couple of years now. Now that I work on Flowhub from home, it was a good time to re-evaluate the whole work setup. As far as regular keyboards go, the MiniLa was nice, but I wanted something more compact and ergonomic.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/atreus-build/ready-2-small.jpg"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/atreus-build-log/</link>
-            <guid isPermaLink="false">18837854-7d9d-4552-9741-e793bb45246c</guid>
-            <pubDate>Thu, 20 Apr 2017 20:31:27 GMT</pubDate>
+            <title><![CDATA[As Google Neglects Tablets, Microsoft and Apple Push the Envelope]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7966f4abc514a959a087e1b8ac0331d8/noop.png?input=https%3A%2F%2Fwww1-lw.xda-cdn.com%2Ffiles%2F2017%2F06%2Fipadprofeature.png"><h1>As Google Neglects Tablets, Microsoft and Apple Push the Envelope</h1><p>A little over one year ago, Google did what many of us expected them to do: announce Android app support in Chrome OS. As is the case with every Google announcement, this was in early beta stages and would not release to consumers for a few months.</p></article>]]></description>
+            <link>https://www.xda-developers.com/as-google-neglects-tablets-apple-and-microsoft-keep-advancing-the-convergence-of-mobile-and-desktop-computing/</link>
+            <guid isPermaLink="false">fbaeaa61-a2d1-427e-87d2-b9cd4985054d</guid>
+            <pubDate>Wed, 07 Jun 2017 09:29:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Flow-Based Programming for JavaScript - Henri Berguis @ BWS'17]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJ4cMx1uBFu0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJ4cMx1uBFu0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJ4cMx1uBFu0%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/J4cMx1uBFu0</link>
-            <guid isPermaLink="false">4ed58000-e316-4883-a55c-3573aad78761</guid>
-            <pubDate>Wed, 19 Apr 2017 09:38:23 GMT</pubDate>
+            <title><![CDATA[NoFlo and Flow-Based Programming by Henri Bergius (Node.js Meetup Berlin)]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fx_nhh3yg-Cs%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dx_nhh3yg-Cs&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fx_nhh3yg-Cs%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/x_nhh3yg-Cs</link>
+            <guid isPermaLink="false">5c117bb7-d935-4dd4-b7bd-163fc6bedbe0</guid>
+            <pubDate>Mon, 05 Jun 2017 11:29:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is software development really a dead-end job after 35-40?]]></title>
-            <description><![CDATA[<article><h1>Is software development really a dead-end job after 35-40?</h1><p>Is software development really a dead-end job after 35-40? Is it true that software development has no future once you get to a certain age such as 40, and one should pursue to steer his development career towards management?</p><img src="http://brianknapp.me/img/brian-knapp.jpg"></article>]]></description>
-            <link>http://brianknapp.me/software-development-dead-end-job/</link>
-            <guid isPermaLink="false">46789d91-78c0-4f87-8f2d-b8d4b28434a0</guid>
-            <pubDate>Mon, 17 Apr 2017 12:30:00 GMT</pubDate>
+            <title><![CDATA[NoFlo: six years of JavaScript dataflow]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/aee2f024f3d7c0835dc1cd00c6cb47fe/noop.png?input=https%3A%2F%2Fs3.eu-central-1.amazonaws.com%2Fbergie-iki-fi%2Fstation-announcer.png"><h1>NoFlo: six years of JavaScript dataflow</h1><p>Quite a bit of time has passed since my two years of NoFlo post, and it is time to take another look at the state of the NoFlo ecosystem. To start with the basics, NoFlo is a JavaScript implementation of Flow-Based Programming.</p></article>]]></description>
+            <link>http://bergie.iki.fi/blog/noflo-six-years/</link>
+            <guid isPermaLink="false">da422e7e-c7fe-4c65-bd45-e67a5ce55f97</guid>
+            <pubDate>Mon, 05 Jun 2017 10:58:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Forget about HTTP when building microservices]]></title>
-            <description><![CDATA[<article><h1>Forget about HTTP when building microservices</h1><p>Microservices - an architectural pattern we recommended in our 2012 International PHP Conference keynote - is pretty popular these days.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/guvscale-graph.jpg"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/forget-http-microservices/</link>
-            <guid isPermaLink="false">40dfdf57-dd94-433b-8f87-b7a1b4a20950</guid>
-            <pubDate>Thu, 13 Apr 2017 15:42:07 GMT</pubDate>
+            <title><![CDATA[Handling resource-intensive tasks with work queues in RabbitMQ]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7e0758a01658f065624ed2a933ca09dd/noop.jpg?input=https%3A%2F%2Fwww.cloudamqp.com%2Fimg%2Fblog%2Fsm-work-queue.jpg"><h1>Handling resource-intensive tasks with work queues in RabbitMQ</h1><p>All computationally intensive work at The Grid; such as image analysing, and image processing are off-loaded as jobs in RabbitMQ. Instead of having a web server waiting for a result immediately, it is free to keep processing other requests. All jobs that are added to the queue are consumed by Heroku workers running with MsgFlo.</p></article>]]></description>
+            <link>https://www.cloudamqp.com/blog/2017-05-31-work-queues-in-rabbitmq-for-resource-intensive-tasks.html</link>
+            <guid isPermaLink="false">7388f2f6-b454-46a6-946b-f30469d30278</guid>
+            <pubDate>Thu, 01 Jun 2017 07:08:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The iPad Turnaround Is Coming]]></title>
-            <description><![CDATA[<article><h1>The iPad Turnaround Is Coming</h1><p>On the one hand, we have iPad plummeting sales, dropping 50% in three years. On the other, we have Apple&apos;s professed high optimism, without much proof besides some new&hairsp;-&hairsp;and clever&hairsp;-&hairsp;ads, and the recent discreet release of evolutionary and slightly less expensive hardware. Is that all? The iPad is a strange animal, confounding explanations and expectations.</p><img src="https://cdn-images-1.medium.com/max/1200/1*ENlXsIt5MYY0FbFzc8oGYg.jpeg"></article>]]></description>
-            <link>https://mondaynote.com/the-ipad-turnaround-is-coming-6d04747b215b</link>
-            <guid isPermaLink="false">05d6b28d-06ad-44c6-b5a0-d21202e73b58</guid>
-            <pubDate>Tue, 11 Apr 2017 16:54:42 GMT</pubDate>
+            <title><![CDATA[Trickle-down workaholism in startups]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/056f1a57b3f851c957d3ff21f01a30e3/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*euPCTH1jYS6U8Gf-xwZQbg.png"><h1>Trickle-down workaholism in startups</h1><p>If you want to understand why so many startups become infected with unhealthy work habits, or outright workaholism, a good place to start your examination is in the attitudes of their venture capital investors. Consider this Twitter thread involving two famous VCs, Keith Rabois and Mark Suster: These sentiments are hardly aberrations.</p></article>]]></description>
+            <link>https://m.signalvnoise.com/trickle-down-workaholism-in-startups-a90ceac76426</link>
+            <guid isPermaLink="false">b8855077-2e8b-4f19-a7ee-6deb52222e6c</guid>
+            <pubDate>Wed, 31 May 2017 19:43:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Midori Traveler's Notebook Review]]></title>
-            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f5df4025c67fbddde1f63490fb694f52/noop.jpg?input=http%3A%2F%2Ftoolsandtoys.net%2Fwp-content%2Fuploads%2F2017%2F04%2FMidori-Travelers-Notebook-23.jpg"><h1>The Midori Traveler&apos;s Notebook Review</h1><p>The Midori Traveler&apos;s Notebook is not for the feint of heart. Perhaps that takes things to the extreme. It&apos;s rare to find a tool that flies so directly in the face of all-encompassing digitalism and efficiency, especially one with such popularity. The Midori Traveler&apos;s Notebook is, by and large, a notebook.</p></article>]]></description>
-            <link>http://toolsandtoys.net/reviews/the-midori-travelers-notebook-review/</link>
-            <guid isPermaLink="false">49e2b9cf-f134-48ae-9c42-c4ac9a57e37c</guid>
-            <pubDate>Tue, 11 Apr 2017 16:03:23 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>Demoed the @cbase @Flowhub_io IoT setup at @BerlinHacknTell https://t.co/jnOBa79iLN (photo by @c_v_e_n)</blockquote>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebffadf5-1947-45a8-8e38-c150afc19fe3.jpg">]]></description>
+            <link>https://twitter.com/bergie/status/869614270761381889</link>
+            <guid isPermaLink="false">910bc435-8fb0-48a5-be32-c8bc52483ac3</guid>
+            <pubDate>Tue, 30 May 2017 18:28:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bulgaria Web Summit 2017 Recap]]></title>
-            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b4851b2e17df94f3491fec915341b120/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*sUKcg6_ywYZbY40USDtLkw.jpeg"><h1>Bulgaria Web Summit 2017 Recap</h1><p>Like every year in the last 3-4 years I got very excited when I saw that there will be another edition of Bulgaria Web Summit (I&apos;ll call it BWS from now on). After I saw some of the speakers I got even more excited. The lineup this year was really top notch.</p></article>]]></description>
-            <link>https://medium.com/@boyanyordanov/bulgaria-web-summit-2017-recap-edf5cda7bbb5</link>
-            <guid isPermaLink="false">ab622d30-20a7-421b-9b74-9ca0b8a90273</guid>
-            <pubDate>Tue, 11 Apr 2017 09:27:48 GMT</pubDate>
+            <title><![CDATA[Writing software using a phone!]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/47d1650e2e8c97818c97db3def573638/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*hQq2mLQKYvGBuGVY_DZnkQ.png"><h1>Writing software using a phone!</h1><p>I was sat on my (long) train to work, just reached the halfway point, getting comfy, checking twitter on my phone. It was too late to turn back, but I had an idea: the last few days I had been...</p></article>]]></description>
+            <link>https://medium.com/samsung-internet-dev/writing-software-using-a-phone-e71976f1f18d</link>
+            <guid isPermaLink="false">53b2c536-96ac-41a5-b0cf-ad41d5f18d00</guid>
+            <pubDate>Tue, 30 May 2017 08:46:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How Aristotle Created the Computer]]></title>
-            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b98c2d122bd1ecab84eeb18ca443c0ba/noop.jpg?input=https%3A%2F%2Fcdn.theatlantic.com%2Fassets%2Fmedia%2Fimg%2F2017%2F03%2F08%2FAristotle1_1%2F1920.jpg%3F1488979034"><h1>How Aristotle Created the Computer</h1><p>The philosophers he influenced set the stage for the technological revolution that remade our world. The history of computers is often told as a history of objects, from the abacus to the Babbage engine up through the code-breaking machines of World War II.</p></article>]]></description>
-            <link>https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/</link>
-            <guid isPermaLink="false">a085d534-0ad0-419e-a378-6765fd08131d</guid>
-            <pubDate>Thu, 30 Mar 2017 15:00:15 GMT</pubDate>
+            <title><![CDATA[Virtual and Augmented Realities: Asking the right questions and traveling the path ahead]]></title>
+            <description><![CDATA[<article><h1>Virtual and Augmented Realities: Asking the right questions and traveling the path ahead</h1><p>The past year has been big for virtual and augmented reality: new VR hardware for consumers came to market, from smartphone-powered options to desktop-powered systems. Developers started exploring AR in earnest as the first devices to build on became available. And, our team at Google was focused on getting some major products out the door.</p><img src="https://cdn-images-1.medium.com/max/800/0*lzR4mG786kklDhSp."></article>]]></description>
+            <link>https://medium.com/@claybavor/virtual-and-augmented-realities-asking-the-right-questions-and-traveling-the-path-ahead-2428b9d13c01</link>
+            <guid isPermaLink="false">fcd2a21d-0611-4f06-bff4-6a8e00bc9ccd</guid>
+            <pubDate>Sun, 21 May 2017 00:46:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
