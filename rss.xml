@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Jun 2017 15:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2017 15:41:34 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Jun 2017 15:19:55 GMT</pubDate>
+        <pubDate>Mon, 19 Jun 2017 15:41:25 GMT</pubDate>
+        <item>
+            <title><![CDATA[Two hackathons in a week: thoughts on NoFlo and MsgFlo]]></title>
+            <description><![CDATA[<article><h1>Two hackathons in a week: thoughts on NoFlo and MsgFlo</h1><p>Last week I participated in two hackathons, events where a group of strangers would form a team for two or three days and build a product prototype. In the end all teams pitch their prototypes, and the best ones would be given some prizes.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/recoding_aviation_winners.jpg"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/msgflo-noflo-in-hackathons/</link>
+            <guid isPermaLink="false">fbd05aba-cabd-4ddc-af2a-1fbb6cf19933</guid>
+            <pubDate>Mon, 19 Jun 2017 15:41:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Second Coming Of iPad]]></title>
             <description><![CDATA[<article><h1>The Second Coming Of iPad</h1><p>Apple CEO Steve Jobs had a favorite analogy for the post-PC era: Computers were trucks, and tablets were cars. He liked to compare the segue from PCs to tablets with the segue from trucks to cars that accompanied the urbanization of America.</p><img src="https://img.buzzfeed.com/buzzfeed-static/static/2017-06/6/17/campaign_images/buzzfeed-prod-fastlane-02/the-second-coming-of-ipad-2-5557-1496784187-3_dblbig.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://medium.com/samsung-internet-dev/writing-software-using-a-phone-e71976f1f18d</link>
             <guid isPermaLink="false">53b2c536-96ac-41a5-b0cf-ad41d5f18d00</guid>
             <pubDate>Tue, 30 May 2017 08:46:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Virtual and Augmented Realities: Asking the right questions and traveling the path ahead]]></title>
-            <description><![CDATA[<article><h1>Virtual and Augmented Realities: Asking the right questions and traveling the path ahead</h1><p>The past year has been big for virtual and augmented reality: new VR hardware for consumers came to market, from smartphone-powered options to desktop-powered systems. Developers started exploring AR in earnest as the first devices to build on became available. And, our team at Google was focused on getting some major products out the door.</p><img src="https://cdn-images-1.medium.com/max/800/0*lzR4mG786kklDhSp."></article>]]></description>
-            <link>https://medium.com/@claybavor/virtual-and-augmented-realities-asking-the-right-questions-and-traveling-the-path-ahead-2428b9d13c01</link>
-            <guid isPermaLink="false">fcd2a21d-0611-4f06-bff4-6a8e00bc9ccd</guid>
-            <pubDate>Sun, 21 May 2017 00:46:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
