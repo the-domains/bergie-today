@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 04 Jul 2017 15:01:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2017 11:34:26 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Jul 2017 15:01:13 GMT</pubDate>
+        <pubDate>Tue, 11 Jul 2017 11:34:01 GMT</pubDate>
+        <item>
+            <title><![CDATA[Flowhub IoT hack weekend at c-base: buttons, sensors, the Big Switch]]></title>
+            <description><![CDATA[<article><h1>Flowhub IoT hack weekend at c-base: buttons, sensors, the Big Switch</h1><p>Last weekend we held the c-base IoT hack weekend, focused on the Flowhub IoT platform. This was continuation from the workshop we organized at the Bitraf makerspace a week earlier. Same tools and technologies, but slightly different focus areas. c-base is one of the world&apos;s oldest hackerspaces and a crashed space station under Berlin.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/c-base-iot-tablet.jpg"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/flowhub-iot-workshop-c-base/</link>
+            <guid isPermaLink="false">ae22caf1-705f-4b5a-9ff8-f36f049554c9</guid>
+            <pubDate>Tue, 11 Jul 2017 11:33:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Flowhub IoT workshop at Bitraf: sensors, access control, and more]]></title>
             <description><![CDATA[<article><h1>Flowhub IoT workshop at Bitraf: sensors, access control, and more</h1><p>I just got back to Berlin from the Bitraf IoT hackathon we organized in Oslo, Norway. This hackathon was the first of two IoT workshops around MsgFlo and Flowhub IoT. The second will be held at c-base in Berlin this coming weekend.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/bitraf-button.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://m.signalvnoise.com/trickle-down-workaholism-in-startups-a90ceac76426</link>
             <guid isPermaLink="false">b8855077-2e8b-4f19-a7ee-6deb52222e6c</guid>
             <pubDate>Wed, 31 May 2017 19:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>Demoed the @cbase @Flowhub_io IoT setup at @BerlinHacknTell https://t.co/jnOBa79iLN (photo by @c_v_e_n)</blockquote>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebffadf5-1947-45a8-8e38-c150afc19fe3.jpg">]]></description>
-            <link>https://twitter.com/bergie/status/869614270761381889</link>
-            <guid isPermaLink="false">910bc435-8fb0-48a5-be32-c8bc52483ac3</guid>
-            <pubDate>Tue, 30 May 2017 18:28:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
