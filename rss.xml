@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 11 Jul 2017 11:34:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2017 10:51:05 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Jul 2017 11:34:01 GMT</pubDate>
+        <pubDate>Sat, 16 Sep 2017 10:50:00 GMT</pubDate>
+        <item>
+            <title><![CDATA[Interview with visual programming tool Flowhub - Open Call Winner BIG IoT]]></title>
+            <description><![CDATA[<article><h1>Interview with visual programming tool Flowhub - Open Call Winner BIG IoT</h1><p>How can collaboration between startups, research and innovation units be enabled? The IoT European Platforms Initiative is an umbrella organization to seven leading research and innovation projects, which offer technology and funding for startups and SMEs. Our goal is to build a vibrant and sustaina</p><img src="http://iot-epi.eu/wp-content/uploads/2017/08/Bildschirmfoto-2017-08-24-um-14.02.27.png"></article>]]></description>
+            <link>http://iot-epi.eu/2017/08/24/interview-with-visual-programming-tool-flowhub-open-call-winner-big-iot/</link>
+            <guid isPermaLink="false">14827bf5-f84d-4012-a755-999d25aac8eb</guid>
+            <pubDate>Sat, 16 Sep 2017 10:49:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Flowhub IoT hack weekend at c-base: buttons, sensors, the Big Switch]]></title>
             <description><![CDATA[<article><h1>Flowhub IoT hack weekend at c-base: buttons, sensors, the Big Switch</h1><p>Last weekend we held the c-base IoT hack weekend, focused on the Flowhub IoT platform. This was continuation from the workshop we organized at the Bitraf makerspace a week earlier. Same tools and technologies, but slightly different focus areas. c-base is one of the world&apos;s oldest hackerspaces and a crashed space station under Berlin.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/c-base-iot-tablet.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.cloudamqp.com/blog/2017-05-31-work-queues-in-rabbitmq-for-resource-intensive-tasks.html</link>
             <guid isPermaLink="false">7388f2f6-b454-46a6-946b-f30469d30278</guid>
             <pubDate>Thu, 01 Jun 2017 07:08:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trickle-down workaholism in startups]]></title>
-            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/056f1a57b3f851c957d3ff21f01a30e3/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*euPCTH1jYS6U8Gf-xwZQbg.png"><h1>Trickle-down workaholism in startups</h1><p>If you want to understand why so many startups become infected with unhealthy work habits, or outright workaholism, a good place to start your examination is in the attitudes of their venture capital investors. Consider this Twitter thread involving two famous VCs, Keith Rabois and Mark Suster: These sentiments are hardly aberrations.</p></article>]]></description>
-            <link>https://m.signalvnoise.com/trickle-down-workaholism-in-startups-a90ceac76426</link>
-            <guid isPermaLink="false">b8855077-2e8b-4f19-a7ee-6deb52222e6c</guid>
-            <pubDate>Wed, 31 May 2017 19:43:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
