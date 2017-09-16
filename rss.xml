@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Sep 2017 10:51:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2017 10:51:40 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 Sep 2017 10:50:00 GMT</pubDate>
+        <pubDate>Sat, 16 Sep 2017 10:50:49 GMT</pubDate>
+        <item>
+            <title><![CDATA[2017 Flow-Based Programming for JavaScript]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fpf6SytVR2KU%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dpf6SytVR2KU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fpf6SytVR2KU%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/pf6SytVR2KU</link>
+            <guid isPermaLink="false">d96fae37-5e45-406b-9db2-3b87896e446f</guid>
+            <pubDate>Sat, 16 Sep 2017 10:50:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Interview with visual programming tool Flowhub - Open Call Winner BIG IoT]]></title>
             <description><![CDATA[<article><h1>Interview with visual programming tool Flowhub - Open Call Winner BIG IoT</h1><p>How can collaboration between startups, research and innovation units be enabled? The IoT European Platforms Initiative is an umbrella organization to seven leading research and innovation projects, which offer technology and funding for startups and SMEs. Our goal is to build a vibrant and sustaina</p><img src="http://iot-epi.eu/wp-content/uploads/2017/08/Bildschirmfoto-2017-08-24-um-14.02.27.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://bergie.iki.fi/blog/noflo-six-years/</link>
             <guid isPermaLink="false">da422e7e-c7fe-4c65-bd45-e67a5ce55f97</guid>
             <pubDate>Mon, 05 Jun 2017 10:58:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Handling resource-intensive tasks with work queues in RabbitMQ]]></title>
-            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7e0758a01658f065624ed2a933ca09dd/noop.jpg?input=https%3A%2F%2Fwww.cloudamqp.com%2Fimg%2Fblog%2Fsm-work-queue.jpg"><h1>Handling resource-intensive tasks with work queues in RabbitMQ</h1><p>All computationally intensive work at The Grid; such as image analysing, and image processing are off-loaded as jobs in RabbitMQ. Instead of having a web server waiting for a result immediately, it is free to keep processing other requests. All jobs that are added to the queue are consumed by Heroku workers running with MsgFlo.</p></article>]]></description>
-            <link>https://www.cloudamqp.com/blog/2017-05-31-work-queues-in-rabbitmq-for-resource-intensive-tasks.html</link>
-            <guid isPermaLink="false">7388f2f6-b454-46a6-946b-f30469d30278</guid>
-            <pubDate>Thu, 01 Jun 2017 07:08:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
