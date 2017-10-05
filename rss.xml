@@ -4,9 +4,16 @@
         <description><![CDATA[Henri Bergius]]></description>
         <link>http://bergie.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Sep 2017 10:51:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2017 08:56:10 GMT</lastBuildDate>
         <atom:link href="http://bergie.today/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 Sep 2017 10:50:49 GMT</pubDate>
+        <pubDate>Thu, 05 Oct 2017 08:56:07 GMT</pubDate>
+        <item>
+            <title><![CDATA[Building an IoT dashboard with NASA Open MCT]]></title>
+            <description><![CDATA[<article><h1>Building an IoT dashboard with NASA Open MCT</h1><p>One important aspect of any Internet of Things setup is being able to collect and visualize data for analysis. Seeing trends in sensor readings over time can be useful for identifying problems, and for coming up with new ways to use the data.</p><img src="https://d2vqpl3tx84ay5.cloudfront.net/c-base-iot-openmct.png"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/nasa-openmct-iot-dashboard/</link>
+            <guid isPermaLink="false">f184e585-b3d0-468c-807c-55776aa9f353</guid>
+            <pubDate>Thu, 05 Oct 2017 08:56:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2017 Flow-Based Programming for JavaScript]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fpf6SytVR2KU%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dpf6SytVR2KU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fpf6SytVR2KU%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/x_nhh3yg-Cs</link>
             <guid isPermaLink="false">5c117bb7-d935-4dd4-b7bd-163fc6bedbe0</guid>
             <pubDate>Mon, 05 Jun 2017 11:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NoFlo: six years of JavaScript dataflow]]></title>
-            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/aee2f024f3d7c0835dc1cd00c6cb47fe/noop.png?input=https%3A%2F%2Fs3.eu-central-1.amazonaws.com%2Fbergie-iki-fi%2Fstation-announcer.png"><h1>NoFlo: six years of JavaScript dataflow</h1><p>Quite a bit of time has passed since my two years of NoFlo post, and it is time to take another look at the state of the NoFlo ecosystem. To start with the basics, NoFlo is a JavaScript implementation of Flow-Based Programming.</p></article>]]></description>
-            <link>http://bergie.iki.fi/blog/noflo-six-years/</link>
-            <guid isPermaLink="false">da422e7e-c7fe-4c65-bd45-e67a5ce55f97</guid>
-            <pubDate>Mon, 05 Jun 2017 10:58:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
